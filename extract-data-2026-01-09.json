@@ -1,0 +1,1341 @@
+{
+  "companies": [
+    {
+      "company_name": "Auvidea",
+      "company_name_citation": "https://auvidea.eu",
+      "description": "Auvidea is a specialized hardware manufacturer and NVIDIA Elite Partner headquartered in the Bavarian countryside near Munich, Germany. The company has established itself as a leading provider of embedded computing solutions, focusing on carrier boards, embedded systems, and camera solutions for AI and edge computing applications.\n\nAs an official NVIDIA Elite Partner, Auvidea stocks NVIDIA Jetson compute modules and provides complete integration kits with custom carrier boards and turnkey systems. Their product portfolio spans the entire NVIDIA Jetson family, from entry-level Nano modules to high-performance AGX Thor platforms. The company's flagship products include the X242 AGX Thor Carrier Board, JNX120X Drone Carrier Board, and a wide range of specialized carrier boards designed for different Jetson module families.\n\nAuvidea distinguishes itself through in-house development capabilities and SMD production facilities, offering great flexibility in creating custom products from small prototypes to large-scale production runs. Their embedded systems feature passively cooled designs based on thermally enhanced custom aluminum extrusions, ensuring reliable operation in demanding industrial environments. The company also manufactures advanced camera solutions, including the Hailo-15H AI Camera, USB thermal cameras (UV640-9 and UV256-4), and cameras with various interfaces including CSI-2, FPD-Link III, GMSL2, and GbE.\n\nThe company's technology stack encompasses cutting-edge interfaces and standards including 10GbE, USB3, M.2 expansion (supporting WiFi, LoraWAN, GNSS/RTK), and PoE Ethernet switches. Auvidea also develops drone-specific solutions featuring the Pixhawk Auto Pilot Bus (PAB) for UAV applications. Their products target diverse use cases including robotics, smart city infrastructure, agricultural automation, smart sensors, low-energy data centers, and industrial applications.\n\nAuvidea emphasizes environmental responsibility in their manufacturing processes, focusing on CO2 reduction to produce products in an environmentally friendly manner. The company serves customers globally through their online shop while also working with catalog resellers and distribution partners. Their custom projects capability allows them to address specific customer requirements across varying production quantities, from prototype development to volume manufacturing.",
+      "description_citation": "https://auvidea.eu",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": "Bavarian countryside near Munich, Germany",
+      "location_citation": "https://auvidea.eu",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies_used": [
+        {
+          "value": "NVIDIA Jetson (AGX Thor, Orin, Xavier, Nano)",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "Hailo-15H AI accelerator",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "Pixhawk Auto Pilot Bus (PAB)",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "10GbE, CSI-2, FPD-Link III, GMSL2",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "M.2 (WiFi, LoraWAN, GNSS/RTK)",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "PoE Ethernet",
+          "value_citation": "https://auvidea.eu"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Carrier Boards for NVIDIA Jetson modules",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "Embedded Systems with passive cooling",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "AI Cameras (Hailo-15H, USB Thermal)",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "Drone Carrier Boards (JNX120X)",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "M.2 expansion cards and PoE switches",
+          "value_citation": "https://auvidea.eu"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Robotics applications",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "Smart city infrastructure",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "Agricultural automation",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "Drone and UAV systems",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "Industrial edge computing",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "Low-energy data centers",
+          "value_citation": "https://auvidea.eu"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Robotics",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "Agriculture",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "Smart City/Infrastructure",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "Industrial Manufacturing",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "Drone/UAV",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "Data Centers",
+          "value_citation": "https://auvidea.eu"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Edge AI & IoT",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://auvidea.eu"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://auvidea.eu"
+        }
+      ],
+      "auvidea_eu": {}
+    },
+    {
+      "company_name": "ABBYY",
+      "company_name_citation": "https://automationtoday.net",
+      "description": "ABBYY is a global leader in intelligent document processing and AI-powered automation solutions, with a rich history spanning over three decades of innovation in document recognition and data extraction technologies. Led by CEO Ulf Persson, the company has evolved from its origins in optical character recognition (OCR) to become a comprehensive provider of enterprise automation platforms that leverage cutting-edge artificial intelligence capabilities.\n\nThe company's transformation journey reflects the broader evolution of the automation industry itself, progressing from traditional OCR technology through robotic process automation (RPA) to today's advanced agentic AI systems. This evolution demonstrates ABBYY's commitment to building upon a \"recognizable kernel of the past\" while continuously advancing to meet the demands of modern enterprise automation requirements. The company positions itself at the forefront of the transition from legacy RPA systems to AI-driven intelligent automation platforms.\n\nABBYY's core technology platform focuses on Intelligent Document Processing (IDP), enabling organizations to automatically extract, classify, and process information from documents at scale. Their AI-powered solutions transform unstructured and semi-structured documents into actionable business data, significantly reducing manual data entry and processing time while improving accuracy. The company has been recognized by IDC market assessments as a leader in the IDP market, validating their technological capabilities and market position.\n\nThe company's solutions address critical business challenges across document-intensive industries, helping organizations modernize their document workflows and accelerate digital transformation initiatives. ABBYY's platform enables businesses to automate complex document processing tasks that previously required significant human intervention, from invoice processing and contract analysis to regulatory compliance documentation and customer onboarding workflows.\n\nABBYY serves a diverse range of enterprise customers seeking to optimize their document processing operations and transition from manual or legacy automation systems to AI-powered intelligent platforms. Their technology supports the development of AI-driven commerce infrastructure and enables organizations to implement agentic AI systems that can autonomously handle document-centric business processes. The company's focus on continuous innovation and adaptation to emerging AI technologies positions them as a strategic partner for enterprises navigating the ongoing digital transformation landscape.",
+      "description_citation": "https://automationtoday.net",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies_used": [
+        {
+          "value": "OCR (Optical Character Recognition)",
+          "value_citation": "https://automationtoday.net"
+        },
+        {
+          "value": "RPA (Robotic Process Automation)",
+          "value_citation": "https://automationtoday.net"
+        },
+        {
+          "value": "Agentic AI",
+          "value_citation": "https://automationtoday.net"
+        },
+        {
+          "value": "IDP (Intelligent Document Processing)",
+          "value_citation": "https://automationtoday.net"
+        },
+        {
+          "value": "AI Document Processing",
+          "value_citation": "https://automationtoday.net"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Intelligent Document Processing (IDP)",
+          "value_citation": "https://automationtoday.net"
+        },
+        {
+          "value": "AI Document Processing Platform",
+          "value_citation": "https://automationtoday.net"
+        },
+        {
+          "value": "Document automation solutions",
+          "value_citation": "https://automationtoday.net"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Document processing automation",
+          "value_citation": "https://automationtoday.net"
+        },
+        {
+          "value": "Legacy RPA to AI-driven system migration",
+          "value_citation": "https://automationtoday.net"
+        },
+        {
+          "value": "AI-driven commerce infrastructure",
+          "value_citation": "https://automationtoday.net"
+        },
+        {
+          "value": "Enterprise document workflow optimization",
+          "value_citation": "https://automationtoday.net"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Enterprise",
+          "value_citation": "https://automationtoday.net"
+        },
+        {
+          "value": "Intelligent Document Processing market",
+          "value_citation": "https://automationtoday.net"
+        },
+        {
+          "value": "Automation-focused organizations",
+          "value_citation": "https://automationtoday.net"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Document AI",
+          "value_citation": "https://automationtoday.net"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://automationtoday.net"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://automationtoday.net"
+        }
+      ],
+      "automationtoday_net": {}
+    },
+    {
+      "company_name": "AvaSure",
+      "company_name_citation": "https://avasure.com",
+      "description": "AvaSure is a leading provider of intelligent virtual care platforms for healthcare organizations, revolutionizing patient monitoring and clinical workflows through AI-powered remote care solutions. With over 1,200 hospitals trusting their platform and more than 5,000 deployments worldwide, AvaSure has established itself as the premier virtual care technology partner for healthcare systems seeking to enhance patient safety, optimize clinical workflows, and improve care delivery efficiency.\n\nThe company's intelligent virtual care platform seamlessly integrates virtual and in-person touchpoints across diverse care settings, enabling healthcare providers to scale and optimize everyday care workflows while maintaining high-quality patient experiences. AvaSure's technology addresses critical challenges in modern healthcare delivery, including staffing shortages, patient safety monitoring, and the need for specialized clinical expertise across multiple locations. Their platform enables flexible patient monitoring from any location, exemplified by capabilities such as monitoring patients in California from Connecticut.\n\nAvaSure's flagship solutions include virtual sitter technology and virtual deterioration programs that have demonstrated remarkable clinical outcomes. Healthcare facilities using their platform have reported a 73% reduction in 1:1 sitters in some units, while their deterioration program has helped save the lives of 786 patients through real-time monitoring and early intervention capabilities. The platform achieves significant reductions in falls, self-harm incidents, and other adverse events while decreasing the cost of care compared to traditional bedside sitters.\n\nThe company's technology portfolio encompasses AI-powered virtual care solutions integrated with major healthcare IT systems, including Epic Toolbox designation for inpatient virtual care. Their platform supports multiple use cases including specialty consultations, virtual nursing, patient safety observation, and workforce optimization. AvaSure provides comprehensive clinical expertise services through dedicated success managers, onboarding teams, and certified registered nurses who support healthcare organizations throughout their virtual care journey.\n\nAvaSure distinguishes itself through its commitment to 24/7/365 US-based technical, educational, and general support, ensuring healthcare providers have continuous access to expert assistance. The company offers flexible devices and powerful integrations with partner ecosystems including Suki and Ascom, enabling seamless incorporation into existing clinical workflows. Their interactive learning plans and ongoing support infrastructure help healthcare organizations maximize the value of their virtual care investments while consistently delivering ROI within months of implementation.",
+      "description_citation": "https://avasure.com",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": "United States (24/7/365 US-based support)",
+      "location_citation": "https://avasure.com",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies_used": [
+        {
+          "value": "AI-powered virtual care platform",
+          "value_citation": "https://avasure.com"
+        },
+        {
+          "value": "Epic Toolbox integration",
+          "value_citation": "https://avasure.com"
+        },
+        {
+          "value": "Video monitoring systems",
+          "value_citation": "https://avasure.com"
+        },
+        {
+          "value": "Real-time deterioration monitoring",
+          "value_citation": "https://avasure.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Virtual sitter technology",
+          "value_citation": "https://avasure.com"
+        },
+        {
+          "value": "Virtual deterioration program",
+          "value_citation": "https://avasure.com"
+        },
+        {
+          "value": "Intelligent virtual care platform",
+          "value_citation": "https://avasure.com"
+        },
+        {
+          "value": "Virtual nursing solutions",
+          "value_citation": "https://avasure.com"
+        },
+        {
+          "value": "Patient safety observation",
+          "value_citation": "https://avasure.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Specialty consultations",
+          "value_citation": "https://avasure.com"
+        },
+        {
+          "value": "Virtual nursing",
+          "value_citation": "https://avasure.com"
+        },
+        {
+          "value": "Patient safety observation",
+          "value_citation": "https://avasure.com"
+        },
+        {
+          "value": "Workforce optimization",
+          "value_citation": "https://avasure.com"
+        },
+        {
+          "value": "Falls and self-harm prevention",
+          "value_citation": "https://avasure.com"
+        },
+        {
+          "value": "Real-time patient deterioration monitoring",
+          "value_citation": "https://avasure.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare",
+          "value_citation": "https://avasure.com"
+        },
+        {
+          "value": "Hospital systems",
+          "value_citation": "https://avasure.com"
+        },
+        {
+          "value": "Inpatient care facilities",
+          "value_citation": "https://avasure.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://avasure.com"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://avasure.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://avasure.com"
+        }
+      ],
+      "avasure_com": {}
+    },
+    {
+      "company_name": "Union Square Ventures (USV)",
+      "company_name_citation": "https://avc.xyz",
+      "description": "Union Square Ventures (USV) is a prominent venture capital firm based in New York City that has established itself as one of the most forward-thinking investment firms in the technology sector. The firm specializes in early-stage investments in technology startups, with a particular focus on transformative business models, blockchain/Web3 technologies, and artificial intelligence applications. USV takes a hands-on approach to venture capital, working closely with portfolio companies through the entire investment lifecycle from initial term sheet negotiation through legal due diligence and closing.\n\nThe firm's investment philosophy emphasizes exploring and validating innovative business models that have the potential to reshape industries. USV has been particularly active in investigating Web3 and blockchain technologies, including experimental projects like the \"$AVC writer coin\" which explores \"minting as the native business model for Web3.\" This demonstrates the firm's commitment to not just investing in emerging technologies but actively participating in their development and evolution.\n\nUSV's operational approach to venture capital includes rigorous legal due diligence processes, reviewing contracts, stock issuances, corporate charters, and other legal documentation for potential investments. The firm leverages cutting-edge AI tools including Google NotebookLM, ChatGPT, and Gemini to streamline traditional VC operations, particularly in document review and analysis. The firm has been pioneering the use of AI agents for automated legal review, comparing draft documents against historical closing binders and conducting due diligence on startup data rooms.\n\nThe firm publishes insights and thought leadership through the AVC blog, which has garnered over 37,000 subscribers and 1,012 supporters. Through this platform, firm members share perspectives on emerging trends including prediction markets, onchain sports betting, renewable energy adoption (solar and EVs), and the integration of AI into venture capital operations. USV's leadership predicts significant industry transformation, suggesting that by 2026, a majority of venture capital deals will close without lawyers on either side due to standardized documents and AI tools.\n\nUSV's investment focus spans multiple high-growth sectors including technology startups developing AI solutions, Web3 and blockchain infrastructure, renewable energy technologies, and innovative software platforms. The firm works with companies using Google Workspace, blockchain platforms, and modern development tools. Their team includes partners like Albert and software engineers such as Spencer, demonstrating a blend of investment expertise and technical capability that enables them to support portfolio companies effectively throughout their growth journey.",
+      "description_citation": "https://avc.xyz",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": "New York City, USA",
+      "location_citation": "https://avc.xyz",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies_used": [
+        {
+          "value": "Google NotebookLM",
+          "value_citation": "https://avc.xyz"
+        },
+        {
+          "value": "ChatGPT",
+          "value_citation": "https://avc.xyz"
+        },
+        {
+          "value": "Gemini",
+          "value_citation": "https://avc.xyz"
+        },
+        {
+          "value": "Blockchain platforms",
+          "value_citation": "https://avc.xyz"
+        },
+        {
+          "value": "Paragraph (Web3 publishing)",
+          "value_citation": "https://avc.xyz"
+        },
+        {
+          "value": "Google Workspace",
+          "value_citation": "https://avc.xyz"
+        },
+        {
+          "value": "AI coding agents",
+          "value_citation": "https://avc.xyz"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Venture capital financing",
+          "value_citation": "https://avc.xyz"
+        },
+        {
+          "value": "Investment due diligence",
+          "value_citation": "https://avc.xyz"
+        },
+        {
+          "value": "AI-powered legal document review",
+          "value_citation": "https://avc.xyz"
+        },
+        {
+          "value": "Startup advisory services",
+          "value_citation": "https://avc.xyz"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automated legal review of venture documents",
+          "value_citation": "https://avc.xyz"
+        },
+        {
+          "value": "AI-assisted due diligence on startup data rooms",
+          "value_citation": "https://avc.xyz"
+        },
+        {
+          "value": "Web3 publishing and tokenization",
+          "value_citation": "https://avc.xyz"
+        },
+        {
+          "value": "Prediction markets and onchain betting",
+          "value_citation": "https://avc.xyz"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Technology Startups",
+          "value_citation": "https://avc.xyz"
+        },
+        {
+          "value": "Venture Capital",
+          "value_citation": "https://avc.xyz"
+        },
+        {
+          "value": "Web3/Blockchain",
+          "value_citation": "https://avc.xyz"
+        },
+        {
+          "value": "Artificial Intelligence",
+          "value_citation": "https://avc.xyz"
+        },
+        {
+          "value": "Renewable Energy",
+          "value_citation": "https://avc.xyz"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://avc.xyz"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://avc.xyz"
+        },
+        {
+          "value": "Document AI",
+          "value_citation": "https://avc.xyz"
+        }
+      ],
+      "avc_xyz": {}
+    },
+    {
+      "company_name": "Aza",
+      "company_name_citation": "https://aza.cx",
+      "description": "Aza is the world's leading AI Voice Conversation Platform, revolutionizing customer interactions through advanced artificial intelligence technology designed to transform how businesses communicate with their customers. The company's mission centers on providing fast, accurate, and personalized customer service around the clock, enabling organizations to enhance operational efficiency, boost customer satisfaction, and drive sustainable business growth through intelligent voice automation.\n\nThe platform's core capabilities include sophisticated voice recognition technology, predictive call routing, automated responses, and instant lead conversion functionality. Aza's AI-powered system is designed to handle high volumes of routine customer inquiries efficiently, including account balance checks, order status updates, and general information requests, without compromising service quality. The platform operates with 365-day availability and offers scalability that allows businesses to manage increasing call volumes seamlessly during peak periods.\n\nAza's technology stack encompasses advanced voice recognition, predictive call routing algorithms, and AI automation systems that enable intelligent conversation management. The platform integrates tailored live chat and video chat options alongside voice capabilities, providing multi-channel customer engagement solutions. Real-time feedback analysis capabilities enable businesses to gather and act on customer insights immediately, while automated follow-up call functionality ensures consistent customer engagement after initial interactions.\n\nThe platform serves diverse industries with specialized applications tailored to each sector's unique requirements. In technical support, Aza handles troubleshooting and routine inquiries autonomously. Real estate professionals use the platform for scheduling property viewings and qualifying leads. E-commerce and retail businesses leverage Aza to streamline return and exchange processes while managing customer inquiries at scale. Healthcare organizations utilize the platform for patient engagement, appointment scheduling, and routine medical inquiries, while emergency services benefit from intelligent call routing capabilities.\n\nAza's instant lead conversion feature transforms potential customers into qualified opportunities through intelligent conversation flows and automated qualification processes. The platform's personalized interaction capabilities enable businesses to maintain human-like engagement quality while operating at machine efficiency levels. Market research and survey distribution functionalities provide organizations with tools to gather customer insights systematically. The platform's architecture supports business communication needs for both external customer interactions and internal team collaboration, making it a comprehensive solution for modern organizational communication requirements.",
+      "description_citation": "https://aza.cx",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies_used": [
+        {
+          "value": "Advanced AI technology",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Voice Recognition",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Predictive Call Routing",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "AI Voice Conversation Platform",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Live chat and video chat integration",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Real-Time Feedback Analysis",
+          "value_citation": "https://aza.cx"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI Voice Conversation Platform",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Instant Lead Conversion",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "24/7 Call Answering",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Personalized Interactions (chat and video)",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Automated Follow-Up Calls",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Personalized Survey Distribution",
+          "value_citation": "https://aza.cx"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Handling routine customer inquiries",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Instant lead conversion",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Follow-up and feedback collection",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Customer support troubleshooting",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Real estate scheduling and viewings",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "E-commerce returns and exchanges",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Healthcare patient engagement",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Emergency response routing",
+          "value_citation": "https://aza.cx"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Technical Support",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Real Estate",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "E-commerce/Retail",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Healthcare",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Emergency Services",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Market Research",
+          "value_citation": "https://aza.cx"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Voice AI",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://aza.cx"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://aza.cx"
+        }
+      ],
+      "aza_cx": {}
+    },
+    {
+      "company_name": "BAOBAB Inc.",
+      "company_name_citation": "https://baobab-trees.com",
+      "description": "BAOBAB Inc. is a specialized provider of high-quality AI training data and annotation services, dedicated to creating a more inclusive society where everyone is accepted as they are and life choices remain open. The company has established itself as a trusted partner for organizations developing artificial intelligence systems, large language models, and multimodal AI applications requiring premium training datasets. BAOBAB's mission extends beyond business success to creating an environment where individuals possess a high sense of self-utility and receive appropriate compensation, training people to face projects as professionals regardless of their background.\n\nThe company's comprehensive service portfolio spans multiple domains of AI training data creation. In large language model (LLM) development, BAOBAB provides fine-tuning dataset construction, Reinforcement Learning from Human Feedback (RLHF) implementation, and model evaluation services. Their image annotation capabilities include bounding box labeling, polygon annotation, semantic segmentation, keypoint detection, video annotation, and image captioning. For audio services, they offer transcription, tagging, and multilingual voice and noise collection. Text annotation services encompass tagging, classification, and company_named entity extraction, while machine translation services focus on parallel corpora construction for learning data.\n\nBAOBAB has developed proprietary tools to enhance their service delivery, including \"moringa,\" a mobile app designed for efficient image and audio data collection. They utilize ELAN for sophisticated audio transcription and tagging tasks, and offer the \"Baobab AutoML Vision Report,\" an evaluation report service that helps clients assess and improve their AI model performance. The company manages annotators individually to handle highly confidential data with appropriate security measures.\n\nThe company serves prestigious clients across academia and industry, including Preferred Networks and Carnegie Mellon University's Language Technologies Institute. BAOBAB has been featured in Fortune Asia and on the United Nations Industrial Development Organization (UNIDO) website, and participates in initiatives like the \"Enable AI Foundry\" alliance. Their multilingual scenario creation services include native voice recording, simulated conversations, and dialogue script development, supporting global AI development projects.\n\nBAOBAB's target market includes AI development companies requiring high-quality training data, research institutions and universities conducting machine learning research, organizations developing multilingual and translation systems, and global technology firms requiring multimodal data annotation. The company emphasizes quality standards through meticulous annotator management and maintains a commitment to social impact by creating opportunities for individuals with diverse backgrounds and work constraints, fostering a culture of mutual assistance and professional development.",
+      "description_citation": "https://baobab-trees.com",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies_used": [
+        {
+          "value": "moringa (proprietary mobile app)",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "ELAN (audio transcription tool)",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "Baobab AutoML Vision Report",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "Proprietary annotation tools",
+          "value_citation": "https://baobab-trees.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI Learning Data Provision",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "LLM Development Support",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "Image Annotation (Bounding Box, Polygon, Segmentation)",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "Audio Transcription and Tagging",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "Text Annotation and Classification",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "Machine Translation Dataset Construction",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "Multilingual Scenario Creation",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "Data Collection via mobile app",
+          "value_citation": "https://baobab-trees.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "AI model training and development",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "LLM fine-tuning and RLHF",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "Research data creation for academic studies",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "Machine translation research",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "AI model performance evaluation",
+          "value_citation": "https://baobab-trees.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "AI Development",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "Research Institutions and Universities",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "Multilingual and Translation Services",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "Global Technology Firms",
+          "value_citation": "https://baobab-trees.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://baobab-trees.com"
+        },
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://baobab-trees.com"
+        }
+      ],
+      "baobab_trees_com": {}
+    },
+    {
+      "company_name": "BCloud Solutions",
+      "company_name_citation": "https://bcloud.consulting",
+      "description": "BCloud Solutions is a specialized cloud and AI consultancy focused on designing and implementing production-ready Generative AI and Retrieval-Augmented Generation (RAG) architectures for organizations seeking to scale their AI applications from pilot projects to enterprise-level deployments. Led by Abdessamad Ammi, an AWS Machine Learning Specialist, DevOps Professional, and Azure AI Engineer with over 10 years of experience, the company bridges the critical gap for businesses without internal machine learning teams, enabling them to move from model development to production deployment in weeks rather than months.\n\nThe company's core expertise lies in four key service areas: RAG and Generative AI systems ready for production deployment, MLOps and model deployment with training automation and monitoring, cloud cost optimization and FinOps specializing in GPU resource management, and AI autonomous agents with multi-agent orchestration capabilities. BCloud Solutions guarantees 99.95% uptime for deployed systems and claims to achieve 60-80% reduction in cloud and GPU costs through strategic optimization. Typical project implementations are completed within 6-8 weeks, delivering rapid time-to-value for clients.\n\nThe company's technology stack encompasses major cloud platforms including AWS (SageMaker, Bedrock), Azure (ML Studio), and their associated AI services. They leverage modern AI frameworks such as LangChain and LangGraph for building sophisticated language model applications, working with advanced models like Claude 3.7. Their infrastructure expertise includes vector databases (Pinecone, Weaviate, ChromaDB, PostgreSQL pgvector), Infrastructure as Code tools like Terraform, container orchestration with Kubernetes, and ML experiment tracking with MLflow. The company implements comprehensive CI/CD pipelines to ensure reliable and repeatable deployment processes.\n\nBCloud Solutions has demonstrated particular expertise in the Spanish market, having developed specialized solutions for administrative agencies (gestorías) and tax authorities (AEAT), creating production-ready RAG chatbots with anti-hallucination features and multi-agent systems that automate complex administrative processes. Case studies show dramatic efficiency improvements, such as reducing repetitive administrative tasks from 4.5 hours to 45 minutes per day. The company serves SaaS startups, scale-ups, regulated sectors, and companies lacking internal ML/AI infrastructure teams.\n\nThe consultancy's service delivery model emphasizes personal involvement, with Abdessamad Ammi working directly on each project to ensure quality and effectiveness. Their pricing structure ranges from $12,000-$25,000 for RAG systems, $5,000 base plus 15% of savings for cost optimization, $12,000-$22,000 for MLOps infrastructure, and $8,000-$18,000 for autonomous agent systems. This transparent pricing model combined with guaranteed outcomes makes BCloud Solutions an attractive partner for organizations seeking to implement enterprise-grade AI solutions without building extensive internal capabilities.",
+      "description_citation": "https://bcloud.consulting",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": "Spain",
+      "location_citation": "https://bcloud.consulting",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies_used": [
+        {
+          "value": "AWS (SageMaker, Bedrock)",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "Azure (ML Studio)",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "LangChain",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "LangGraph",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "Claude 3.7",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "Vector DBs (Pinecone, Weaviate, ChromaDB, PostgreSQL pgvector)",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "Terraform",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "Kubernetes",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "MLflow",
+          "value_citation": "https://bcloud.consulting"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "RAG & Generative AI Systems",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "MLOps & Model Deployment",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "Cloud Cost Optimization & FinOps",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "AI Autonomous Agents",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "Technical Audits and Infrastructure Design",
+          "value_citation": "https://bcloud.consulting"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Production-ready RAG chatbots with anti-hallucination",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "Multi-agent systems for administrative agencies",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "Automated customer service",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "Compliance verification automation",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "GPU cost optimization (60-80% reduction)",
+          "value_citation": "https://bcloud.consulting"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Administrative/Tax Agencies",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "SaaS Startups and Scale-ups",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "Regulated sectors",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "Companies lacking internal ML/AI teams",
+          "value_citation": "https://bcloud.consulting"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://bcloud.consulting"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://bcloud.consulting"
+        }
+      ],
+      "bcloud_consulting": {}
+    },
+    {
+      "company_name": "AxeGenAI",
+      "company_name_citation": "https://axegen.ai",
+      "description": "AxeGenAI positions itself as \"The Evolution of Strategy\" and a full-stack AI transformation partner that bridges the critical gap between executive strategy and technical execution. The company operates on a distinctive \"Strategy-First, Build-Fast\" approach, serving as the thinking partner, builder, and implementer for organizations seeking to transform their operations through artificial intelligence rather than merely adopting new tools. AxeGenAI's core value proposition centers on validating new value streams in days rather than months, fundamentally de-risking AI initiatives by building functional prototypes in days instead of quarters.\n\nThe company's service model revolves around rapid innovation cycles, featuring a signature 72-hour proof cycle that moves organizations from \"What if\" to \"What works\" in just three days. This accelerated validation approach includes AI strategy and roadmapping with comprehensive capability mapping and ROI modeling, rapid solution validation through functional prototypes, and scaled deployment with production systems and enterprise integration. AxeGenAI emphasizes founder-level partnerships with senior AI architects, ensuring that client engagements receive the attention and expertise typically reserved for the most critical strategic initiatives.\n\nAxeGenAI's technology expertise spans all major cloud platforms including Amazon Web Services (focused on machine learning and data analytics), Microsoft Azure (AI services and cloud infrastructure), and Google Cloud (AI/ML solutions and data platforms). Their technical capabilities include building intelligent agents, end-to-end AI systems, digital twins, and predictive logistics solutions. The company has developed specific engines for predictive supply chain latency, customer churn visualization, and dynamic pricing, demonstrating practical applications of their platform capabilities with performance metrics including 14ms latency and references to \"Core v2.1\" technology.\n\nA distinctive offering is \"Sovereign Shield,\" which provides secure, on-premise AI deployments specifically designed for government and defense applications that are FedRAMP aligned and mission-ready. This addresses the critical needs of public sector organizations requiring AI capabilities while maintaining strict security and compliance requirements. AxeGenAI serves diverse verticals including healthcare (with HIPAA compliance, patient intake automation, and clinical workflow optimization), financial services (algorithmic decision engines, fraud detection, and automated reporting), public sector (secure on-premise deployments), and manufacturing (digital twins and predictive logistics to anticipate disruption and optimize production lines).\n\nThe company's quality philosophy emphasizes \"No hallucinations allowed in the critical path\" and delivers \"Enterprise Quality at Startup Speed.\" This positioning appeals to organizations seeking the reliability and rigor of established enterprise solutions combined with the agility and innovation of startup culture. AxeGenAI's approach transforms AI from a technology experiment into a strategic business capability, helping organizations move beyond tooling to achieve genuine transformation in how work gets done.",
+      "description_citation": "https://axegen.ai",
+      "business_email": "Info@axegen.ai",
+      "business_email_citation": "https://axegen.ai",
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies_used": [
+        {
+          "value": "Amazon Web Services (Machine Learning, Data Analytics)",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Microsoft Azure (AI Services, Cloud Infrastructure)",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Google Cloud (AI/ML Solutions, Data Platform)",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Intelligent agents",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Digital twins",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Predictive logistics systems",
+          "value_citation": "https://axegen.ai"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI Strategy & Roadmapping",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "72-Hour Proof Cycles",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Rapid Solution Validation",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Scaled Deployment & Enterprise Integration",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Sovereign Shield (secure on-premise AI)",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Predictive Supply Chain Latency Engine",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Customer Churn Visualization",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Dynamic Pricing Engine",
+          "value_citation": "https://axegen.ai"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "HIPAA-compliant patient intake automation",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Clinical workflow optimization",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Algorithmic decision engines",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Fraud detection",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Automated financial reporting",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "FedRAMP-aligned government AI deployments",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Digital twins for manufacturing",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Predictive logistics optimization",
+          "value_citation": "https://axegen.ai"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare (Clinical Operations)",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Financial Services",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Public Sector (Government and Defense)",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Manufacturing",
+          "value_citation": "https://axegen.ai"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://axegen.ai"
+        },
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://axegen.ai"
+        }
+      ],
+      "axegen_ai": {}
+    },
+    {
+      "company_name": "Axiado Corporation",
+      "company_name_citation": "https://axiado.com",
+      "description": "Axiado Corporation is a pioneering cybersecurity company delivering AI-driven, hardware-anchored platform cybersecurity solutions designed to secure end-to-end digital infrastructure while revolutionizing the energy efficiency of AI datacenters. With offices in San Jose, USA, India, and Taiwan, Axiado has established itself as an innovator in system-on-chip (SoC) security, having recently raised over $100 million in Series C+ funding and winning the 2025 Fierce Network Innovation Awards in AI Innovation.\n\nThe company's flagship innovation is the Trusted Control/Compute Unit (TCU), a single-chip platform security solution that integrates infrastructure security and management into a comprehensive system-on-chip design. This revolutionary approach stops cyberattacks through preemptive threat detection, AI-based real-time threat mitigation, and hardware-anchored security rooted in real-time and preemptive artificial intelligence. The TCU combines multiple critical security functions including Root of Trust (RoT), Baseboard Management Controller (BMC), Trusted Platform Module (TPM), Hardware Security Module (HSM), SecureNIC, and firewall capabilities into a unified solution.\n\nAxiado's product portfolio includes the AX3080 SoC, SCM3080-MT, and Smart-SCM security modules compliant with the Open Compute Project (OCP) DC-SCM standard. The AI-Driven Secure Management Card features a Secure Vault for root-of-trust and cryptographic operations, along with a Secure AI engine for preemptive threat detection. These solutions incorporate advanced power management technologies including Dynamic Voltage & Frequency Scaling (DVFS) and Dynamic Thermal Management (DTM), contributing to improved energy efficiency in AI datacenter environments.\n\nThe company addresses critical cybersecurity challenges including protection against ransomware, network-based attacks, peripheral-based threats, and physical side-channel attacks. Axiado's solutions enable platform authentication and attestation with forensic-enabled hardware fingerprints, providing unprecedented visibility into system security status. Their technology serves cloud markets, 5G and edge computing deployments, AI datacenters, network switches, and power management controllers.\n\nWith leadership including Gopi Sirineni, Axiado provides comprehensive developer support through their Developer Hub, offering APIs and documentation for integration. The company's focus on combining AI-driven security with hardware-anchored protection positions them uniquely in the cybersecurity market, addressing both the security and efficiency challenges facing modern digital infrastructure. Their compliance with OCP standards and recognition through industry awards validates their technological approach and market impact.",
+      "description_citation": "https://axiado.com",
+      "business_email": "sales@axiado.com",
+      "business_email_citation": "https://axiado.com",
+      "location": "San Jose, USA; India; Taiwan",
+      "location_citation": "https://axiado.com",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies_used": [
+        {
+          "value": "System-on-chip (SoC)",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "AI/ML (Artificial Intelligence/Machine Learning)",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "Root of Trust (RoT)",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "Baseboard Management Controller (BMC)",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "Trusted Platform Module (TPM)",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "Hardware Security Module (HSM)",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "SecureNIC",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "Dynamic Voltage & Frequency Scaling (DVFS)",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "Dynamic Thermal Management (DTM)",
+          "value_citation": "https://axiado.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Trusted Control/Compute Unit (TCU)",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "AX3080 SoC",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "SCM3080-MT",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "Smart-SCM (OCP DC-SCM compliant)",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "AI-Driven Secure Management Card",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "Secure Vault (cryptography core)",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "Secure AI (preemptive threat detection)",
+          "value_citation": "https://axiado.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Ransomware protection",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "Network attack prevention",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "Peripheral-based attack mitigation",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "Physical side-channel attack prevention",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "Platform authentication and attestation",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "Forensic hardware fingerprinting",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "AI datacenter energy efficiency",
+          "value_citation": "https://axiado.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Cloud Computing",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "5G/Edge Computing",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "AI Datacenters",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "Network Infrastructure",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "Power Management Systems",
+          "value_citation": "https://axiado.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Edge AI & IoT",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://axiado.com"
+        },
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://axiado.com"
+        }
+      ],
+      "axiado_com": {}
+    },
+    {
+      "company_name": "BEAT LLC",
+      "company_name_citation": "https://beatllc.com",
+      "description": "BEAT LLC is a minority-owned small business headquartered in San Antonio, Texas, operating as a global provider of business, healthcare, and information technology solutions. The company has established a strong track record supporting the Department of Defense, Federal agencies, commercial industry, and nonprofit organizations with innovative IT solutions tailored to complex operational requirements. BEAT LLC's mission centers on delivering comprehensive technology services that enhance organizational efficiency and effectiveness across diverse sectors.\n\nThe company's service portfolio encompasses critical IT capabilities including program and portfolio management, systems engineering and architecture, network engineering and operations, data center optimization and operations, and desktop/server and application virtualization. These services address fundamental infrastructure and operational needs for government and commercial clients requiring reliable, scalable technology solutions. BEAT LLC positions itself as a provider of innovative solutions specifically designed for federal and commercial information technology communities.\n\nBEAT LLC holds multiple prestigious contract vehicles that demonstrate their capability and trustworthiness within the federal contracting ecosystem. These include GSA 8(a) STARS III GWAC (47QTCB-21-D-0301), SeaPort-NxG (N00178-19-D-7239), GSA Schedule MAS (GS-35F-052CA), IMCS IV (W91RUS-23-D-0001), and DLA JETS 2.0 (SP4709-D-0019). These contract vehicles provide streamlined procurement pathways for federal agencies to access BEAT LLC's services while ensuring compliance with government contracting requirements.\n\nThe company maintains rigorous quality certifications including CMMI Development Level 3, ISO 2103, and ISO 2108, demonstrating their commitment to process excellence and continuous improvement. BEAT LLC has received multiple industry recognitions including HOH Fellowship 2025, AMSUS Award, Most Wired designation, Stevie Awards, and Mercury Awards, validating their performance and innovation in the IT services sector.\n\nBeyond business operations, BEAT LLC demonstrates strong commitment to community outreach and social responsibility through partnerships with organizations including St. Vincent, YMCA, Meals on Wheels, American Red Cross, and Hiring Our Heroes (HOH). This community engagement reflects the company's values and commitment to contributing positively to the communities they serve. As a minority-owned business, BEAT LLC brings diverse perspectives and capabilities to government and commercial clients while supporting broader supplier diversity objectives within the federal procurement ecosystem.",
+      "description_citation": "https://beatllc.com",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": "San Antonio, Texas, USA",
+      "location_citation": "https://beatllc.com",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies_used": [
+        {
+          "value": "Desktop/Server Virtualization",
+          "value_citation": "https://beatllc.com"
+        },
+        {
+          "value": "Application Virtualization",
+          "value_citation": "https://beatllc.com"
+        },
+        {
+          "value": "Systems Engineering tools",
+          "value_citation": "https://beatllc.com"
+        },
+        {
+          "value": "Network Engineering platforms",
+          "value_citation": "https://beatllc.com"
+        },
+        {
+          "value": "Data Center infrastructure",
+          "value_citation": "https://beatllc.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Program and Portfolio Management",
+          "value_citation": "https://beatllc.com"
+        },
+        {
+          "value": "Systems Engineering and Architecture",
+          "value_citation": "https://beatllc.com"
+        },
+        {
+          "value": "Network Engineering and Operations",
+          "value_citation": "https://beatllc.com"
+        },
+        {
+          "value": "Data Center Optimization and Operations",
+          "value_citation": "https://beatllc.com"
+        },
+        {
+          "value": "Desktop/Server and Application Virtualization",
+          "value_citation": "https://beatllc.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Federal IT infrastructure support",
+          "value_citation": "https://beatllc.com"
+        },
+        {
+          "value": "Department of Defense systems support",
+          "value_citation": "https://beatllc.com"
+        },
+        {
+          "value": "Healthcare IT solutions",
+          "value_citation": "https://beatllc.com"
+        },
+        {
+          "value": "Commercial industry IT operations",
+          "value_citation": "https://beatllc.com"
+        },
+        {
+          "value": "Nonprofit technology support",
+          "value_citation": "https://beatllc.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Federal Government",
+          "value_citation": "https://beatllc.com"
+        },
+        {
+          "value": "Department of Defense (DoD)",
+          "value_citation": "https://beatllc.com"
+        },
+        {
+          "value": "Healthcare",
+          "value_citation": "https://beatllc.com"
+        },
+        {
+          "value": "Commercial Industry",
+          "value_citation": "https://beatllc.com"
+        },
+        {
+          "value": "Nonprofit Organizations",
+          "value_citation": "https://beatllc.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://beatllc.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://beatllc.com"
+        }
+      ],
+      "beatllc_com": {}
+    },
+    {
+      "company_name": "Belle Strategies",
+      "company_name_citation": "https://bellestrategies.com",
+      "description": "Belle Strategies is a business growth and AI consulting firm led by Rachel Creveling, a recognized expert in AI ethics and technology trends who maintains an active presence in the tech community through her @racheltalkstech social media channels on YouTube and TikTok. The company's mission focuses on optimizing workflows and integrating technology, automation, and artificial intelligence to help businesses run more efficiently while empowering teams to work smarter. Belle Strategies provides strategic guidance and innovative use of technology to support business growth and system implementation across diverse industries.\n\nRachel Creveling brings specialized expertise in AI ethics and corporate technology adoption, positioning Belle Strategies uniquely to address both the technical and ethical dimensions of artificial intelligence implementation. The company's service offerings include AI workshops, AI training for employees, corporate AI ethics consulting, and small business AI ethics consulting. These services help organizations navigate the complex landscape of AI adoption while ensuring responsible and ethical implementation that aligns with business values and regulatory requirements.\n\nBelle Strategies' consulting approach emphasizes practical business outcomes, focusing on workflow optimization and strategic business growth through thoughtful technology integration. The company helps clients implement new systems and software that exponentially improve business operations, with client testimonials describing significant improvements in production and event management capabilities. Rachel Creveling is characterized by clients as an \"ace in the hole\" and \"the best strategist,\" reflecting her ability to deliver tangible business value through technology consulting.\n\nThe firm maintains an educational presence through resources on AI ethics and training tools, helping broader audiences understand and effectively utilize AI technologies. The \"How to Train an AI Tool\" resources and ongoing content through social media channels demonstrate Belle Strategies' commitment to democratizing AI knowledge and helping businesses of all sizes benefit from technological advances. This educational component complements their consulting services by building awareness and capability within client organizations.\n\nBelle Strategies serves a diverse client portfolio spanning hospitality (Four Seasons Resort, Courtyard Marriott), food and beverage (Señor Frog's, South Beach Seafood Festival, Tampa Bay Wine & Food Festival), fitness (Planet Fitness), and professional services (Miniter Group, RS Consulting). This cross-industry experience provides Belle Strategies with broad perspective on technology implementation challenges and opportunities across different business contexts. The company's geographic reach includes South Beach, Tampa Bay, and Hilton Head Island markets, demonstrating successful engagement with businesses in multiple regions.",
+      "description_citation": "https://bellestrategies.com",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies_used": [
+        {
+          "value": "Artificial Intelligence (AI)",
+          "value_citation": "https://bellestrategies.com"
+        },
+        {
+          "value": "Automation systems",
+          "value_citation": "https://bellestrategies.com"
+        },
+        {
+          "value": "Business systems and software",
+          "value_citation": "https://bellestrategies.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI Workshops",
+          "value_citation": "https://bellestrategies.com"
+        },
+        {
+          "value": "AI Training for Employees",
+          "value_citation": "https://bellestrategies.com"
+        },
+        {
+          "value": "Corporate AI Ethics consulting",
+          "value_citation": "https://bellestrategies.com"
+        },
+        {
+          "value": "Small Business AI Ethics consulting",
+          "value_citation": "https://bellestrategies.com"
+        },
+        {
+          "value": "Business Growth strategic consulting",
+          "value_citation": "https://bellestrategies.com"
+        },
+        {
+          "value": "AI tool training resources",
+          "value_citation": "https://bellestrategies.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Workflow optimization",
+          "value_citation": "https://bellestrategies.com"
+        },
+        {
+          "value": "Strategic business growth planning",
+          "value_citation": "https://bellestrategies.com"
+        },
+        {
+          "value": "System and software implementation",
+          "value_citation": "https://bellestrategies.com"
+        },
+        {
+          "value": "Production and event management improvement",
+          "value_citation": "https://bellestrategies.com"
+        },
+        {
+          "value": "Corporate AI ethics assessment",
+          "value_citation": "https://bellestrategies.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Hospitality",
+          "value_citation": "https://bellestrategies.com"
+        },
+        {
+          "value": "Food & Beverage",
+          "value_citation": "https://bellestrategies.com"
+        },
+        {
+          "value": "Fitness",
+          "value_citation": "https://bellestrategies.com"
+        },
+        {
+          "value": "Professional Services/Consulting",
+          "value_citation": "https://bellestrategies.com"
+        },
+        {
+          "value": "Events and Entertainment",
+          "value_citation": "https://bellestrategies.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://bellestrategies.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://bellestrategies.com"
+        }
+      ],
+      "bellestrategies_com": {}
+    }
+  ]
+}

@@ -1,0 +1,3561 @@
+{
+  "companies": [
+    {
+      "company_name": "Sahaj",
+      "company_name_citation": "https://www.sahaj.ai/",
+      "description": "Sahaj is an artisanal software engineering firm that focuses on transforming businesses and delivering impact by combining software engineering, AI & ML, platform & data engineering. The company's core philosophy is that bold outcomes stem from simplicity, and they pursue crafting purpose-built solutions to drive data-led transformation for organizations. Their name is derived from Sanskrit, meaning natural, original, innate, and spontaneous. They operate using first principles thinking and lean cohesive teams to provide simple, elegant solutions while ensuring full knowledge transfer so that there is no dependency on Sahaj. The company has set up and grown a presence in Hyderabad and works with clients globally to deliver transformational outcomes. They emphasize craftsmanship in software engineering, combining deep technical expertise with a focus on business value. Their approach involves no roles or hierarchy in teams, fostering a collaborative environment where expertise flows naturally. Sahaj's services span across multiple domains including platform engineering, data engineering, and artificial intelligence and machine learning implementation. They also provide advisory services for tech due diligence and tech assessment, helping organizations evaluate technology risks and opportunities. Through their purpose-built solutions, they help organizations navigate complex technical challenges and drive meaningful business transformation.",
+      "description_citation": "https://www.sahaj.ai/",
+      "business_email": "contact@sahaj.ai",
+      "business_email_citation": "https://www.sahaj.ai/",
+      "location": "Austin, TX (8911 N Capital of Texas Hwy, Suite 4200, Austin, TX 78759) and Hyderabad",
+      "location_citation": "https://www.sahaj.ai/",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "Python"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Platform Engineering"
+        },
+        {
+          "value": "Data Engineering"
+        },
+        {
+          "value": "AI & ML"
+        },
+        {
+          "value": "Advisory (Tech Due Diligence and Tech Assessment)"
+        },
+        {
+          "value": "Purpose Built Solution"
+        },
+        {
+          "value": "Sahaj Impact"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Data-led transformation"
+        },
+        {
+          "value": "Technology risk management through Tech Due Diligence"
+        },
+        {
+          "value": "Software engineering craftsmanship for organizational goals"
+        }
+      ],
+      "targeted_industries": [],
+      "ai_categories": [
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "Saab",
+      "company_name_citation": "https://www.saab.com/",
+      "description": "Saab is a global defense and security company founded in 1937. The company's mission is centered on the belief that it's a human right to feel safe and helping to protect people. They provide a state-of-the-art product portfolio for air, land, naval, and security domains. The company describes itself as being at the forefront of technology, in a challenging and ever-changing environment. Their operations are fueled by conscious choices, increased presence in strategic markets together with international partnerships and a strong focus on innovation. With 26,100 employees worldwide, Saab operates globally, delivering advanced defense systems and security solutions. The company's portfolio includes early warning and control aircraft like the GlobalEye, signals intelligence ships equipped with cutting-edge SIGINT capabilities, remote weapon stations such as the Trackfire RWS, and advanced missile defense systems including the RBS 70 Bolide. Saab also develops submarines, fighter jets, and next-generation radar detector systems that incorporate machine learning and AI technologies. Their cyber security solutions protect critical infrastructure and national security interests. The company combines decades of aerospace and defense expertise with modern technologies including radar, machine learning, and artificial intelligence to create comprehensive security solutions for nations worldwide.",
+      "description_citation": "https://www.saab.com/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "Bröderna Ugglas gata, SE-581 88 Linköping, Sweden",
+      "location_citation": "https://www.saab.com/",
+      "team_size": "26,100",
+      "team_size_citation": "https://www.saab.com/",
+      "technologies_used": [
+        {
+          "value": "Radar technology"
+        },
+        {
+          "value": "Machine learning"
+        },
+        {
+          "value": "AI"
+        },
+        {
+          "value": "Signals Intelligence (SIGINT)"
+        },
+        {
+          "value": "Cyber security solutions"
+        },
+        {
+          "value": "Next-generation radar detector systems"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "GlobalEye Early Warning and Control (AEW&C) aircraft"
+        },
+        {
+          "value": "SIGINT ships"
+        },
+        {
+          "value": "Trackfire Remote Weapon Station (RWS)"
+        },
+        {
+          "value": "RBS 70 Bolide missiles"
+        },
+        {
+          "value": "Submarines"
+        },
+        {
+          "value": "Fighter jets"
+        },
+        {
+          "value": "Radar detectors"
+        },
+        {
+          "value": "Cyber security solutions"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Early warning and control for air defense"
+        },
+        {
+          "value": "Naval signals intelligence"
+        },
+        {
+          "value": "Remote weapon station operations for defense materiel administration"
+        },
+        {
+          "value": "Missile defense systems"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Defense"
+        },
+        {
+          "value": "Security"
+        },
+        {
+          "value": "Aerospace"
+        },
+        {
+          "value": "Naval"
+        },
+        {
+          "value": "Land warfare sectors"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "ScribePT",
+      "company_name_citation": "https://www.scribept.com/",
+      "description": "ScribePT provides an AI Scribe Tool for therapy-focused clinical documentation. Its primary mission is unburdening the clinicians by reducing documentation time and allowing more time for patient-centered care. The service is purpose-built for physical therapy (PT), occupational therapy (OT), and speech-language pathology (SLP) but is customizable and configurable to meet the needs of a wide range of healthcare disciplines. It aims to elevate the quality of documentation from an administrative burden to documentation that supports the goal of simultaneously respecting the patient's clinical narrative and optimally informing other medical professionals and insurance companies. The company highlights its 25 years of experience building SaaS solutions for some of the largest companies in the world. ScribePT is used in clinics coast to coast across more than 40 states. The platform integrates with over 50 EMRs (Electronic Medical Records systems), making it highly adaptable to existing clinical workflows. It enables therapists to be present in session without being tethered to their computer, using voice-activated technology to capture clinical interactions. The AI scribe can generate narratives for evaluations, progress notes, and comprehensive documentation for 1-on-1, full 60-minute sessions. Users report that ScribePT reduces documentation burden by 95%, allowing clinicians to focus on delivering high-quality patient care rather than administrative tasks.",
+      "description_citation": "https://www.scribept.com/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "",
+      "location_citation": "",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "AI Scribe"
+        },
+        {
+          "value": "SaaS solutions"
+        },
+        {
+          "value": "Integration with 50+ EMRs"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "ScribePT Solutions for Clinicians"
+        },
+        {
+          "value": "Organizations"
+        },
+        {
+          "value": "EMR Partners/Resellers"
+        },
+        {
+          "value": "AI Scribe Tool For Therapy-Focused Clinical Documentation"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Physical therapy documentation"
+        },
+        {
+          "value": "Occupational therapy"
+        },
+        {
+          "value": "Speech-language pathology"
+        },
+        {
+          "value": "Home health physical therapy documentation"
+        },
+        {
+          "value": "Initial evaluations"
+        },
+        {
+          "value": "Progress notes"
+        },
+        {
+          "value": "Narrative for evals"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Rehabilitation Therapy (Physical Therapy, Occupational Therapy, and Speech-Language Pathology)"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "SmartSpotter",
+      "company_name_citation": "https://www.smartspotter.com/",
+      "description": "SmartSpotter provides retail intelligence and store presentation solutions to help companies make smarter decisions and maximize their sales. The company uses a crowdsourced network of thousands of Spotters who act as the eyes and ears on the shop floor to measure whether agreements between retailers and suppliers are being fulfilled. Their mission is to help clients know structurally what is going on at the retail level, allowing them to take action via a real-time dashboard to optimize product presentation, improve mutual cooperation, and guarantee higher turnover. SmartSpotter operates internationally across various countries including the Netherlands, Australia, Belgium, Colombia, Croatia, Czech Republic, France, Germany, Ireland, New Zealand, Portugal, Slovenia, Spain, and the United Kingdom. The platform provides comprehensive retail audit solutions including shelf monitoring for stock availability and planogram compliance, promotion tracking for main bay and second placement monitoring, retail media verification for POS materials and digital advertising, price trend analysis and comparison of offline prices with receipts, mystery visits to assess total visit experience and staff compliance, and merchandising services for placing POS material and corrective actions. The company leverages photo, video, and audio evidence gathering tools combined with real-time dashboards to provide actionable insights that help retailers and suppliers optimize their in-store execution and competitive positioning.",
+      "description_citation": "https://www.smartspotter.com/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "Ijsselmeerweg 100k, Naarden, North Holland, Netherlands",
+      "location_citation": "https://www.smartspotter.com/",
+      "team_size": "Thousands of Spotters",
+      "team_size_citation": "https://www.smartspotter.com/",
+      "technologies_used": [
+        {
+          "value": "Real-time dashboard"
+        },
+        {
+          "value": "Photo, video, and audio evidence gathering tools"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Shelf: Stock availability and Planogram compliance"
+        },
+        {
+          "value": "Promotions: Main bay and Second placement monitoring"
+        },
+        {
+          "value": "Retail media: POS materials and Digital advertising verification"
+        },
+        {
+          "value": "Price: Price trends and comparison of offline price with receipts"
+        },
+        {
+          "value": "Mystery visits: Total visit experience and staff compliance"
+        },
+        {
+          "value": "Merchandising: Placing POS material and corrective actions"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Verifying if promotional materials are correctly displayed"
+        },
+        {
+          "value": "Identifying empty shelves or missing products"
+        },
+        {
+          "value": "Checking for incorrect prices"
+        },
+        {
+          "value": "Ensuring agreements regarding product range are structurally fulfilled"
+        },
+        {
+          "value": "Monitoring competitor activity on the shop floor"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Retailers"
+        },
+        {
+          "value": "Suppliers (FMCG/Consumer Goods)"
+        },
+        {
+          "value": "Out of Home (OOH) sectors"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "Sparkling Logic",
+      "company_name_citation": "https://www.sparklinglogic.com/",
+      "description": "Sparkling Logic provides SMARTS™, a data-powered decision management platform that empowers data-minded organizations of all sizes worldwide. The company's mission is to help organizations intuitively automate, manage, and continuously improve key decisions in daily business operations and customer interactions. The platform is designed to leverage existing data to author and manage business rules and decision flows without heavy lifting from IT and translate complicated data, workflows, and decision logic into visualizations and user interfaces that non-technical users can configure, audit, and modify without code. SMARTS™ enables organizations to automate key decisions through a comprehensive suite of capabilities including rules authoring, low-code/no-code interfaces, AI & ModelOps, and decision analytics. The platform supports hybrid AI decision automation, allowing organizations to interconnect decision management with predictive models and machine learning tasks. It provides decision analytics through dashboards, simulations, and alerts to derive actionable intelligence from AI. Sparkling Logic serves industries such as healthcare and financial services, with notable clients including Equifax. The platform's lifecycle management capabilities ensure that decision logic can be continuously monitored and optimized, while its technical architecture supports scalability and integration with existing enterprise systems.",
+      "description_citation": "https://www.sparklinglogic.com/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "Sunnyvale, California (640 W California Ave Ste 210 Sunnyvale, CA, 94086-3624)",
+      "location_citation": "https://www.sparklinglogic.com/",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "SMARTS™ platform"
+        },
+        {
+          "value": "Rules engine"
+        },
+        {
+          "value": "Low-code/No-code visualizations"
+        },
+        {
+          "value": "AI & ModelOps"
+        },
+        {
+          "value": "Predictive models"
+        },
+        {
+          "value": "Machine learning"
+        },
+        {
+          "value": "Decision Analytics"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Rules Authoring"
+        },
+        {
+          "value": "Low-Code/No-Code interfaces"
+        },
+        {
+          "value": "AI & ModelOps"
+        },
+        {
+          "value": "Decision Analytics"
+        },
+        {
+          "value": "Lifecycle Management"
+        },
+        {
+          "value": "Technical Architecture"
+        },
+        {
+          "value": "SMARTS™ Decision Management Platform"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automating key decisions in daily business operations and customer interactions"
+        },
+        {
+          "value": "Interconnect decision management platform"
+        },
+        {
+          "value": "Deriving actionable intelligence from AI"
+        },
+        {
+          "value": "Hybrid AI decision automation"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Financial Services/Data"
+        },
+        {
+          "value": "Data-minded organizations"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        }
+      ]
+    },
+    {
+      "company_name": "SIS International Research",
+      "company_name_citation": "https://www.sisinternational.com/",
+      "description": "SIS International Research is a full-service Global Market Research and Strategy Consulting firm with over 40 years of industry experience. The company aims to help Fortune 500 and fast-growing companies get real answers that drive revenue decisions and turn market uncertainty into your competitive advantage. They offer a combination of traditional market intelligence and AI-driven platforms to provide in-depth insight into the global marketplace, delving deep into consumer patterns, preferences, and motivations to provide actionable insights that drive growth and innovation. Their mission involves providing data-driven strategic guidance and utilizing cutting-edge methodologies and advanced analytics to uncover trends, behaviors, and opportunities. Headquartered in New York City with on-the-ground offices worldwide, SIS International offers comprehensive services including consumer and B2B market research, healthcare market research, strategy consulting, financial technology (FinTech) strategy consulting, and artificial intelligence business solutions. They provide in-person and online focus groups, branding and advertising services including digital advertising, content curation, event marketing, and influencer marketing. Their AI capabilities include real-time competitive tracking, predictive forecasting, market dynamics and trend studies, assessment of customer needs, AI opportunity reality checks, custom AI roadmaps, and ROI projections for AI investments. SIS International serves diverse industries including food and beverage, hospitality, personal care, travel and tourism, retail, automotive, B2B services, non-profit, legal services, healthcare, construction, engineering, industrial, technology, and financial institutions.",
+      "description_citation": "https://www.sisinternational.com/",
+      "business_email": "research@sisinternational.com",
+      "business_email_citation": "https://www.sisinternational.com/",
+      "location": "Headquartered in New York City and with on-the-ground offices worldwide",
+      "location_citation": "https://www.sisinternational.com/",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "SIS AI platform"
+        },
+        {
+          "value": "Advanced analytics tools"
+        },
+        {
+          "value": "Blockchain technology"
+        },
+        {
+          "value": "FinTech systems"
+        },
+        {
+          "value": "Cutting-edge methodologies"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Consumer Market Research"
+        },
+        {
+          "value": "B2B Market Research"
+        },
+        {
+          "value": "Healthcare Market Research"
+        },
+        {
+          "value": "Strategy Consulting"
+        },
+        {
+          "value": "Financial Technology (FinTech) Strategy Consulting"
+        },
+        {
+          "value": "Artificial Intelligence Business Solutions"
+        },
+        {
+          "value": "In-person and Online Focus Groups"
+        },
+        {
+          "value": "Branding & Advertising"
+        },
+        {
+          "value": "Go-to-Market Strategies"
+        },
+        {
+          "value": "CX Consulting"
+        },
+        {
+          "value": "Data Analytics"
+        },
+        {
+          "value": "Blockchain Solutions"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Real-time competitive tracking"
+        },
+        {
+          "value": "Predictive forecasting"
+        },
+        {
+          "value": "Market dynamics and trend studies"
+        },
+        {
+          "value": "Assessment of customer needs"
+        },
+        {
+          "value": "AI opportunity reality checks"
+        },
+        {
+          "value": "Custom AI roadmaps"
+        },
+        {
+          "value": "ROI projections for AI investments"
+        },
+        {
+          "value": "Car Clinics for the automotive industry"
+        },
+        {
+          "value": "Optimizing construction and industrial operations"
+        },
+        {
+          "value": "Understanding consumer behavior for retail"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Fortune 500 companies"
+        },
+        {
+          "value": "Food & Beverage"
+        },
+        {
+          "value": "Hospitality"
+        },
+        {
+          "value": "Personal Care"
+        },
+        {
+          "value": "Travel & Tourism"
+        },
+        {
+          "value": "Retail"
+        },
+        {
+          "value": "Automotive"
+        },
+        {
+          "value": "B2B Services"
+        },
+        {
+          "value": "Non-Profit"
+        },
+        {
+          "value": "Legal Services"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Construction"
+        },
+        {
+          "value": "Engineering"
+        },
+        {
+          "value": "Industrial"
+        },
+        {
+          "value": "Technology (IT)"
+        },
+        {
+          "value": "Financial Institutions"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "AI Ethics & Governance"
+        }
+      ]
+    },
+    {
+      "company_name": "Sparkout Tech Solutions, Inc.",
+      "company_name_citation": "https://www.sparkouttech.com/",
+      "description": "Sparkout Tech Solutions is an enterprise software development company founded in 2017 by four passionate founders. The company describes itself as a top AI agent development company that focuses on automation that fuels real results. Their mission is to empower businesses around the world with the right tech and help businesses of all sizes digitally transform their operations. They offer a wide range of services including custom software development, AI and machine learning solutions, blockchain technology, and digital product design. They aim to eliminate repetitive tasks, boost productivity by 35%, reduce manual work, and effortlessly scale your business with confidence. The company is a team of 100+ happy professionals with experts in multiple tech stacks and industry use cases, operating with offices in the United States and India. Sparkout Tech provides comprehensive AI services including AI strategy and consulting, AI chatbots and virtual assistants, custom AI and ML model development, generative AI and LLM integration, predictive analytics and forecasting, computer vision and NLP, smart contract development, custom blockchain solutions, dAPP development, token development, custom software development, app modernization, UI/UX development, team augmentation, MVP development, quality engineering, web and mobile solutions, DevOps, and spatial computing (AR/VR). They have developed innovative products like Eatzilla for order and delivery management, Rentalslew for rental management, TransGenie for AI traceability, intelligent document understanding AI, enterprise chat applications, and HRMS development.",
+      "description_citation": "https://www.sparkouttech.com/",
+      "business_email": "sales@sparkouttech.com",
+      "business_email_citation": "https://www.sparkouttech.com/",
+      "location": "United States and India",
+      "location_citation": "https://www.sparkouttech.com/",
+      "team_size": "100+ experts",
+      "team_size_citation": "https://www.sparkouttech.com/",
+      "technologies_used": [
+        {
+          "value": "OpenAI"
+        },
+        {
+          "value": "LLMs (ChatGPT)"
+        },
+        {
+          "value": "BotPress"
+        },
+        {
+          "value": "Blockchain"
+        },
+        {
+          "value": "Smart Contracts"
+        },
+        {
+          "value": "DeFi protocols"
+        },
+        {
+          "value": "IoT"
+        },
+        {
+          "value": "Flutter"
+        },
+        {
+          "value": "AR"
+        },
+        {
+          "value": "VR"
+        },
+        {
+          "value": "AWS"
+        },
+        {
+          "value": "Hyperledger"
+        },
+        {
+          "value": "Google"
+        },
+        {
+          "value": "Microsoft"
+        },
+        {
+          "value": "Adobe"
+        },
+        {
+          "value": "BEP token standards"
+        },
+        {
+          "value": "Web and Mobile platforms"
+        },
+        {
+          "value": "CVI (Conversational Video Interface)"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "AI Strategy & Consulting"
+        },
+        {
+          "value": "AI Chatbots & Virtual Assistants"
+        },
+        {
+          "value": "Custom AI & ML Model Development"
+        },
+        {
+          "value": "Generative AI & LLM Integration"
+        },
+        {
+          "value": "Predictive Analytics & Forecasting"
+        },
+        {
+          "value": "Computer Vision & NLP"
+        },
+        {
+          "value": "Smart Contract Development"
+        },
+        {
+          "value": "Custom Blockchain Solutions"
+        },
+        {
+          "value": "dAPP Development"
+        },
+        {
+          "value": "Token Development"
+        },
+        {
+          "value": "Custom Software Development"
+        },
+        {
+          "value": "App Modernization"
+        },
+        {
+          "value": "UI/UX Development"
+        },
+        {
+          "value": "Team Augmentation"
+        },
+        {
+          "value": "MVP Development"
+        },
+        {
+          "value": "Quality Engineering"
+        },
+        {
+          "value": "Web and Mobile Solutions"
+        },
+        {
+          "value": "DevOps"
+        },
+        {
+          "value": "Spatial Computing (AR/VR)"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "AI Travel Chatbots for booking and recommendations"
+        },
+        {
+          "value": "Digital Twin Recruiters for talent acquisition"
+        },
+        {
+          "value": "Blockchain platforms for farmer-centric production and fair trade"
+        },
+        {
+          "value": "Smart parking apps for real-time reservations"
+        },
+        {
+          "value": "NFT-collateralized lending for luxury goods"
+        },
+        {
+          "value": "Podcast platforms for professionals"
+        },
+        {
+          "value": "Industrial process tracking for manufacturing operations"
+        },
+        {
+          "value": "B2B marketplaces for buyer-seller trade"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Financial Services (Fintech)"
+        },
+        {
+          "value": "Supply Chain"
+        },
+        {
+          "value": "Governments"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Food & Beverages"
+        },
+        {
+          "value": "Travel"
+        },
+        {
+          "value": "Media & Entertainment"
+        },
+        {
+          "value": "Mining"
+        },
+        {
+          "value": "Real Estate"
+        },
+        {
+          "value": "Gaming"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Computer Vision"
+        }
+      ]
+    },
+    {
+      "company_name": "SunTec.AI",
+      "company_name_citation": "https://www.suntec.ai/",
+      "description": "SunTec.AI describes itself as The Only AI Team You'll Ever Need, providing tailored AI solutions designed to solve real-world problems and drive growth. The company focuses on building smarter, resilient AI systems designed for tomorrow's enterprises, end-to-end. Their core mission involves unifying your data foundation and operationalizing AI with integrity, compliance, and business alignment. They offer a full lifecycle of services from strategic AI consultation and custom development to seamless integration and MLOps for continuous monitoring, optimization, and scalability. The company highlights its commitment to quality and security as an ISO 27001:2022 certified company and CMMI Certified Company that is HIPAA Compliant. With a team of 850+ data and AI specialists, SunTec.AI provides comprehensive solutions across generative AI for content creation and intelligent enterprise workflows, AI and machine learning with end-to-end consulting, development, and MLOps, data and AI operationalization with compliance and business alignment, data analytics with predictive analytics, dashboards, and AI-powered business intelligence, and data annotation with human-in-the-loop labeling for text, image, audio, video, and 3D sensor data. The company serves multiple industries including finance, eCommerce, IT & Tech, healthcare, manufacturing, media, marketing, real estate, and automotive with use cases ranging from automating repetitive tasks and AI-driven qualitative survey response mapping to intelligent legal document processing using OCR and predictive maintenance with visual inspection in manufacturing.",
+      "description_citation": "https://www.suntec.ai/",
+      "business_email": "info@suntec.ai",
+      "business_email_citation": "https://www.suntec.ai/",
+      "location": "",
+      "location_citation": "",
+      "team_size": "850+ Data & AI Specialists",
+      "team_size_citation": "https://www.suntec.ai/",
+      "technologies_used": [
+        {
+          "value": "Generative AI"
+        },
+        {
+          "value": "Machine Learning (ML)"
+        },
+        {
+          "value": "MLOps"
+        },
+        {
+          "value": "Natural Language Processing (NLP)"
+        },
+        {
+          "value": "OCR (Optical Character Recognition)"
+        },
+        {
+          "value": "AI-powered imaging"
+        },
+        {
+          "value": "3D sensor data"
+        },
+        {
+          "value": "Predictive analytics"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Generative AI: Custom solutions for content creation and intelligent enterprise workflows"
+        },
+        {
+          "value": "AI & Machine Learning: End-to-end consulting, development, and MLOps"
+        },
+        {
+          "value": "Data & AI: Operationalizing AI with compliance and business alignment"
+        },
+        {
+          "value": "Data Analytics: Predictive analytics, dashboards, and AI-powered business intelligence"
+        },
+        {
+          "value": "Data Annotation: Human-in-the-loop labeling for text, image, audio, video, and 3D sensor data"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automate Repetitive Tasks"
+        },
+        {
+          "value": "AI-driven Qualitative Survey Response Mapping"
+        },
+        {
+          "value": "AI & NLP-Powered Digital Diary App Development"
+        },
+        {
+          "value": "Intelligent Legal Document Processing using OCR"
+        },
+        {
+          "value": "Fraud detection and risk management in finance"
+        },
+        {
+          "value": "Demand forecasting and personalized recommendations for eCommerce"
+        },
+        {
+          "value": "Predictive maintenance and visual inspection in manufacturing"
+        },
+        {
+          "value": "Property valuation and market analysis in real estate"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Finance"
+        },
+        {
+          "value": "eCommerce"
+        },
+        {
+          "value": "IT & Tech"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Media"
+        },
+        {
+          "value": "Marketing"
+        },
+        {
+          "value": "Real Estate"
+        },
+        {
+          "value": "Automotive"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Voice AI"
+        }
+      ]
+    },
+    {
+      "company_name": "Simbo",
+      "company_name_citation": "https://www.simbo.ai/",
+      "description": "Simbo is an Enterprise Gen AI platform for autonomous applications designed for business processes automation without human intervention. It is described as a perfect combination of LLM and symbolic knowledge bases for hallucination free Gen AI platform for enterprise applications. The platform emphasizes security, controllability, and auditability, using a symbolic knowledge base which can be audited and modified by humans unlike opaque vector databases. Its mission is to provide a reliable and hallucination-free Gen AI platform by balancing creativity versus hallucinations and ensuring responses are not random. The platform utilizes proprietary Lossless NLU (Natural Language Understanding), symbolic RAG (Retrieval Augmented Generation), vector databases, exact search, and similarity search to create a robust enterprise-grade AI solution. Simbo's primary focus is on medical practice automation to reduce physician and staff burnout while improving patient care. The platform enables business processes automation without human intervention through fact checking to ensure that hallucinations can be detected and corrected. By combining symbolic knowledge bases with LLM capabilities, Simbo provides enterprises with a Gen AI platform that maintains high accuracy, transparency, and reliability while delivering autonomous application capabilities for healthcare and other enterprise use cases.",
+      "description_citation": "https://www.simbo.ai/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "",
+      "location_citation": "",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "LLM (Large Language Models)"
+        },
+        {
+          "value": "Symbolic knowledge bases"
+        },
+        {
+          "value": "Symbolic RAG (Retrieval Augmented Generation)"
+        },
+        {
+          "value": "Proprietary Lossless NLU"
+        },
+        {
+          "value": "Vector database"
+        },
+        {
+          "value": "Exact search"
+        },
+        {
+          "value": "Similarity search"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Enterprise Gen AI platform"
+        },
+        {
+          "value": "Medical Practice Automation"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Business processes automation without human intervention"
+        },
+        {
+          "value": "Medical Practice Automation to reduce physician and staff burnout while improving patient care"
+        },
+        {
+          "value": "Fact checking to ensure that hallucinations can be detected and corrected"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Enterprise"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Conversational AI"
+        }
+      ]
+    },
+    {
+      "company_name": "Sekuen",
+      "company_name_citation": "https://www.sekuen.com/",
+      "description": "Sekuen is described as a boutique AI agency dedicated to delivering cutting-edge technology services and products. The company specializes in building AI IP, scientific R&D, particularly in Biotech, and providing Go-To-Market (GTM) strategies with video AI. Their mission involves creating a long-term collaboration with our clients to explore new areas and build new products and delivering practical, high-impact AI solutions that solve real-world problems. They offer end-to-end tech delivery, from ideation and strategy to implementation and support. The company operates with fully remote managed teams and offers products and operations in Italy, USA, UAE, and KSA. Sekuen provides a comprehensive range of AI services including AI consulting, Biotech AI R&D, AI video marketing, staffing with fully remote managed teams, fundraising with strategic support for pre-seed, seed, and series A, and AdTech & MarTech for customer acquisition, appointment setting, and lead generation. Their product portfolio includes machine learning solutions for automated trading, license plate info extractors, smoke, fire, and bullying detection systems, conversational database querying, AI-driven video marketing, and music generation from prompts. The company's expertise spans machine learning, computer vision, conversational AI, video generation from text, music generation from prompts, data science, and full stack development including frontend, backend, database, and integration capabilities.",
+      "description_citation": "https://www.sekuen.com/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "Italy, USA, UAE, KSA",
+      "location_citation": "https://www.sekuen.com/",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "Machine Learning"
+        },
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Video generation from text"
+        },
+        {
+          "value": "Music generation from prompts"
+        },
+        {
+          "value": "Data science"
+        },
+        {
+          "value": "Frontend"
+        },
+        {
+          "value": "Backend"
+        },
+        {
+          "value": "Database"
+        },
+        {
+          "value": "Integration"
+        },
+        {
+          "value": "Full Stack"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "AI Consulting"
+        },
+        {
+          "value": "Biotech AI R&D"
+        },
+        {
+          "value": "AI Video Marketing"
+        },
+        {
+          "value": "Staffing (fully remote managed teams)"
+        },
+        {
+          "value": "Fundraising (strategic support for pre-seed, seed, and series A)"
+        },
+        {
+          "value": "AdTech & MarTech"
+        },
+        {
+          "value": "Machine Learning Solution for Automated Trading"
+        },
+        {
+          "value": "License Plate Info Extractor"
+        },
+        {
+          "value": "Smoke, Fire & Bullying Detection system"
+        },
+        {
+          "value": "Conversational Database Querying"
+        },
+        {
+          "value": "AI-Driven Video Marketing"
+        },
+        {
+          "value": "Music Generation from Prompts"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automated trading"
+        },
+        {
+          "value": "Extract license plate information from images"
+        },
+        {
+          "value": "Detecting smoke, fire, voice signatures, and bullying in real-time"
+        },
+        {
+          "value": "Retrieving items from tabular data or databases using speech"
+        },
+        {
+          "value": "AI-driven video marketing and general video generation from text for campaigns"
+        },
+        {
+          "value": "Generates music from text prompts for ambiance and sales environments"
+        },
+        {
+          "value": "Scientific research and development in biotech, including drug discovery, formulation, and data analysis"
+        },
+        {
+          "value": "Customer acquisition, appointment setting, lead generation"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Biotech"
+        },
+        {
+          "value": "Biopharma"
+        },
+        {
+          "value": "AdTech"
+        },
+        {
+          "value": "MarTech"
+        },
+        {
+          "value": "Finance/Trading"
+        },
+        {
+          "value": "Security/Safety"
+        },
+        {
+          "value": "Digital Health"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "Skool",
+      "company_name_citation": "https://www.skool.com/",
+      "description": "Skool is a platform designed for creators to host communities, online courses, and membership groups. It allows users to create your own community and provides skool owners a space to build communities together. The platform facilitates monetization through monthly subscriptions and one-time fees, serving as an all-in-one hub for educational creators to get paid to change the world by integrating Skool, YouTube, and the Synthesizer Roadmap. Skool enables professional skill development through communities like The Acting Lab, sports coaching through That Pickleball School, health and wellness programs through The Lady Change, financial education through Trading For Women, and business mentorship through School of Mentors. The platform uses Stripe for payment processing and supports creators across multiple industries including e-learning, coaching, fitness, finance, entertainment, hobbies, self-improvement, and entrepreneurship. One notable community on Skool is the AI Automation Society, which focuses on no-code AI automations to build the systems that will shape the future of work. This demonstrates Skool's role in hosting and facilitating AI-related education and community building, particularly around workflow automation and no-code AI implementation. The platform provides discovery marketplace for communities, affiliate programs, and comprehensive support services to help creators build and scale their online educational businesses and membership communities.",
+      "description_citation": "https://www.skool.com/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "",
+      "location_citation": "",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "Stripe"
+        },
+        {
+          "value": "No-code frameworks"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Community hosting"
+        },
+        {
+          "value": "Online course creation tools"
+        },
+        {
+          "value": "Subscription management"
+        },
+        {
+          "value": "Discovery marketplace for communities"
+        },
+        {
+          "value": "Affiliate program"
+        },
+        {
+          "value": "Support"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Professional skill development"
+        },
+        {
+          "value": "Sports coaching"
+        },
+        {
+          "value": "Health and wellness programs"
+        },
+        {
+          "value": "Financial education"
+        },
+        {
+          "value": "Business mentorship"
+        },
+        {
+          "value": "AI automation education"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "E-learning"
+        },
+        {
+          "value": "Coaching"
+        },
+        {
+          "value": "Fitness"
+        },
+        {
+          "value": "Finance"
+        },
+        {
+          "value": "Entertainment"
+        },
+        {
+          "value": "Hobbies"
+        },
+        {
+          "value": "Self-improvement"
+        },
+        {
+          "value": "Entrepreneurship"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "Sundog Education",
+      "company_name_citation": "https://www.sundog-education.com/",
+      "description": "Sundog Education is an online training provider that aims to help students update your tech skills and turbocharge your career with Frank Kane. The company provides hands-on technical training to over one million students around the world. Their mission is focused on helping learners learn AI Engineering, Machine Learning, Data Engineering, Interview Prep, and more. They offer a variety of learning resources including hands-on activities, quizzes and practice exams, certificates of completion, and exclusive community forums with a focus on preparing students for professional certifications and real-world technical roles. The platform offers comprehensive online technical courses, the Sundog Mega Bundle, AWS certification preparation materials, practice exams, study guides, and career transition resources such as Mastering the System Design Interview and From Engineer to Technical Manager: A Survival Guide. Students can prepare for AWS certifications including AI Practitioner, Generative AI Developer, Machine Learning Engineer Associate, and Data Engineer Associate. The company's course offerings cover a wide range of technologies including AWS, Claude Code, GPT, Elasticsearch, Logstash, Beats, Kibana, Hadoop, MapReduce, HDFS, Spark, Pig, Hive, HBase, MongoDB, Cassandra, Flume, Redis, Python, TensorFlow, Scala, Amazon Bedrock, SageMaker, Redshift, Glue, Athena, OpenAI SDK, AgentBuilder, Keras, and OpenCV. Use cases include career advancement and retraining, building Big Data platforms, developing agentic AI solutions, creating recommender systems, and building computer vision applications for autonomous cars.",
+      "description_citation": "https://www.sundog-education.com/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "",
+      "location_citation": "",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "AWS"
+        },
+        {
+          "value": "Claude Code"
+        },
+        {
+          "value": "GPT"
+        },
+        {
+          "value": "Elasticsearch"
+        },
+        {
+          "value": "Logstash"
+        },
+        {
+          "value": "Beats"
+        },
+        {
+          "value": "Kibana"
+        },
+        {
+          "value": "Hadoop"
+        },
+        {
+          "value": "MapReduce"
+        },
+        {
+          "value": "HDFS"
+        },
+        {
+          "value": "Spark"
+        },
+        {
+          "value": "Pig"
+        },
+        {
+          "value": "Hive"
+        },
+        {
+          "value": "HBase"
+        },
+        {
+          "value": "MongoDB"
+        },
+        {
+          "value": "Cassandra"
+        },
+        {
+          "value": "Flume"
+        },
+        {
+          "value": "Redis"
+        },
+        {
+          "value": "Python"
+        },
+        {
+          "value": "TensorFlow"
+        },
+        {
+          "value": "Scala"
+        },
+        {
+          "value": "Amazon Bedrock"
+        },
+        {
+          "value": "SageMaker"
+        },
+        {
+          "value": "Redshift"
+        },
+        {
+          "value": "Glue"
+        },
+        {
+          "value": "Athena"
+        },
+        {
+          "value": "OpenAI SDK"
+        },
+        {
+          "value": "AgentBuilder"
+        },
+        {
+          "value": "Keras"
+        },
+        {
+          "value": "OpenCV"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Online technical courses"
+        },
+        {
+          "value": "Sundog Mega Bundle"
+        },
+        {
+          "value": "AWS certification preparation materials"
+        },
+        {
+          "value": "Practice exams"
+        },
+        {
+          "value": "Study guides"
+        },
+        {
+          "value": "Career transition resources"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Career advancement and retraining"
+        },
+        {
+          "value": "Preparing for AWS certifications"
+        },
+        {
+          "value": "Preparing for System Design interviews"
+        },
+        {
+          "value": "Building Big Data platforms"
+        },
+        {
+          "value": "Developing agentic AI solutions"
+        },
+        {
+          "value": "Creating recommender systems"
+        },
+        {
+          "value": "Building computer vision applications for autonomous cars"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Online Education"
+        },
+        {
+          "value": "Information Technology"
+        },
+        {
+          "value": "Big Data"
+        },
+        {
+          "value": "Artificial Intelligence"
+        },
+        {
+          "value": "Professional Development"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Recommendation Systems"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        }
+      ]
+    },
+    {
+      "company_name": "Semantic Scholar",
+      "company_name_citation": "https://www.semanticscholar.org/",
+      "description": "Semantic Scholar is described as a free, AI-powered research tool for scientific literature that allows users to search 232,120,258 papers from all fields of science. The project aims to make scientific reading more accessible and richly contextual and advocates for Green AI, stating that creating efficiency in AI research will decrease its carbon footprint and increase its inclusivity as deep learning study should not require the deepest pockets. Semantic Scholar provides a comprehensive search engine for scientific papers, a new and improved API for developers which includes paper search and documentation, and Semantic Reader, an augmented reader in beta. The platform serves the scientific research community by enabling efficient literature search and discovery across disciplines including neuroblastoma research, means of production studies, and countless other scientific domains. The API allows developers to build their scholarly apps with programmatic access to the vast database of scientific papers. The Semantic Reader provides an augmented reading experience that offers contextual information to make scientific reading more effective and comprehensible. By advocating for Green AI and efficiency in AI research, Semantic Scholar demonstrates commitment to sustainable and inclusive artificial intelligence development while serving academia and the broader scientific community with powerful natural language processing and document AI capabilities.",
+      "description_citation": "https://www.semanticscholar.org/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "",
+      "location_citation": "",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "API"
+        },
+        {
+          "value": "Deep learning"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Semantic Scholar search engine"
+        },
+        {
+          "value": "New & Improved API for Developers"
+        },
+        {
+          "value": "Semantic Reader (augmented reader in beta)"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Searching for scientific papers"
+        },
+        {
+          "value": "Building scholarly apps via API"
+        },
+        {
+          "value": "Scientific reading using an augmented reader for contextual information"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Scientific research"
+        },
+        {
+          "value": "Academia"
+        },
+        {
+          "value": "Software development"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "AI Ethics & Governance"
+        }
+      ]
+    },
+    {
+      "company_name": "SDG Group",
+      "company_name_citation": "https://www.sdggroup.com/en/",
+      "description": "SDG Group is a global consulting firm specializing in Data, Analytics, and AI. With a 30-year legacy, they describe themselves as pioneers in the realm of Data, Analytics & AI consulting who craft visionary solutions that transcend conventional problem-solving. Their mission is to empower your organization to discover Insights Beyond Analytics and guide businesses to lead the future through AI-enabled innovation. They position themselves as a technology-agnostic authority that combines technical expertise with business acumen to deliver tailor-made solutions, frameworks, and solution accelerators. The company operates with teams around the world and serves multiple industries including aerospace, insurance, automotive, pharmaceutical, fashion & optical retail, utilities, government & public sector, financial services, and consumer goods. SDG Group's technology partnerships include Orbitae (their proprietary AI platform), Google Cloud, AWS platform, Snowflake, Matillion, Dataiku, and Tableau Pulse. Their comprehensive solutions encompass artificial intelligence consulting, data strategy & governance, data & analytics, business insights & performance management, cloud migration services, frameworks and solution accelerators, advanced training & enablement, Data Dialogue (Conversational AI), and Planning Hub. Use cases span accelerated planning and control for aerospace research, transformation of management control, building new data architecture on Google Cloud, AI-powered insurance selection via virtual assistants (ASSAI), conversational AI for exploring complex data, reinventing forecasting and planning processes, cloud-based business analytics transformation, fraud detection and compliance, and optimizing utility networks and asset reliability.",
+      "description_citation": "https://www.sdggroup.com/en/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "",
+      "location_citation": "",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "Orbitae (AI platform)"
+        },
+        {
+          "value": "Google Cloud"
+        },
+        {
+          "value": "AWS platform"
+        },
+        {
+          "value": "Snowflake"
+        },
+        {
+          "value": "Matillion"
+        },
+        {
+          "value": "Dataiku"
+        },
+        {
+          "value": "Tableau Pulse"
+        },
+        {
+          "value": "reCAPTCHA"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Orbitae - AI By SDG Group"
+        },
+        {
+          "value": "Artificial Intelligence consulting"
+        },
+        {
+          "value": "Data Strategy & Governance"
+        },
+        {
+          "value": "Data & Analytics"
+        },
+        {
+          "value": "Business Insights & Performance Management"
+        },
+        {
+          "value": "Cloud Migration services"
+        },
+        {
+          "value": "Frameworks and Solution Accelerators"
+        },
+        {
+          "value": "Advanced Training & Enablement"
+        },
+        {
+          "value": "Data Dialogue (Conversational AI)"
+        },
+        {
+          "value": "Planning Hub"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Accelerated planning and control for aerospace research"
+        },
+        {
+          "value": "Transformation of management control"
+        },
+        {
+          "value": "Building new data architecture on Google Cloud"
+        },
+        {
+          "value": "AI-powered insurance selection via virtual assistants"
+        },
+        {
+          "value": "Conversational AI for exploring complex data"
+        },
+        {
+          "value": "Reinventing forecasting and planning processes"
+        },
+        {
+          "value": "Cloud-based business analytics transformation"
+        },
+        {
+          "value": "Fraud detection and compliance"
+        },
+        {
+          "value": "Optimizing utility networks and asset reliability"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Aerospace"
+        },
+        {
+          "value": "Insurance"
+        },
+        {
+          "value": "Automotive"
+        },
+        {
+          "value": "Pharmaceutical"
+        },
+        {
+          "value": "Fashion & Optical Retail"
+        },
+        {
+          "value": "Utilities"
+        },
+        {
+          "value": "Government & Public Sector"
+        },
+        {
+          "value": "Financial Services"
+        },
+        {
+          "value": "Consumer Goods"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "SiliconFlow",
+      "company_name_citation": "https://www.siliconflow.com/",
+      "description": "SiliconFlow provides One Platform All Your AI Inference Needs designed to run powerful AI models faster, smarter, at any scale, with predictable costs. Their mission is focused on turning AI ambition into action by providing a high-speed inference engine for text, image, video, and multimodal models. They offer developers the ability to build, explore, to create with a focus on speed, flexibility, efficiency, privacy, and simplicity through an OpenAI-compatible API. The platform utilizes cutting-edge hardware including NVIDIA H100/H200, AMD MI300, and RTX 4090 GPUs, and features a self-developed modal inference engine that is fully OpenAI-compatible. Supported models include MiniMax-M2.1, GLM-4.7, DeepSeek-V3.2, DeepSeek-R1, Qwen3-VL-32B-Instruct, and FLUX.2. SiliconFlow offers multiple deployment options including Serverless for running models instantly via API, Fine-tuning for customizing models with one-click deployment, Reserved GPUs for guaranteed GPU capacity and stable performance, Elastic GPUs for flexible FaaS deployment, AI Gateway for unified access with smart routing and cost control, Inference & Deployment for optimized end-to-end inference, and Train & Fine-Tune for data processing and performance tuning. Use cases span coding with code understanding, code generation, inline fixes, real-time autocomplete, structured edits and syntax-safe suggestions; agent systems with multi-step reasoning, planning, tool-using and executing workflows to handle complex tasks; RAG for retrieving relevant information from knowledge bases enabling accurate, real-time responses; content generation for text, image and video generation, social media content creation, analytical report generation; AI assistants for workflows, multi-agent, customer support bots, document review, data analysis; and search with query understanding, long-context summarization, real-time answers, personalized recommendations, and actionable insights delivery.",
+      "description_citation": "https://www.siliconflow.com/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "",
+      "location_citation": "",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "NVIDIA H100 / H200"
+        },
+        {
+          "value": "AMD MI300"
+        },
+        {
+          "value": "RTX 4090 GPUs"
+        },
+        {
+          "value": "Self-developed modal inference engine"
+        },
+        {
+          "value": "OpenAI-compatible API"
+        },
+        {
+          "value": "MiniMax-M2.1"
+        },
+        {
+          "value": "GLM-4.7"
+        },
+        {
+          "value": "DeepSeek-V3.2"
+        },
+        {
+          "value": "DeepSeek-R1"
+        },
+        {
+          "value": "Qwen3-VL-32B-Instruct"
+        },
+        {
+          "value": "FLUX.2"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Serverless"
+        },
+        {
+          "value": "Fine-tuning"
+        },
+        {
+          "value": "Reserved GPUs"
+        },
+        {
+          "value": "Elastic GPUs"
+        },
+        {
+          "value": "AI Gateway"
+        },
+        {
+          "value": "Inference & Deployment"
+        },
+        {
+          "value": "Train & Fine-Tune"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Code understanding, code generation, inline fixes, real-time autocomplete"
+        },
+        {
+          "value": "Multi-step reasoning, planning, tool-using and executing workflows"
+        },
+        {
+          "value": "Retrieving relevant information from knowledge bases"
+        },
+        {
+          "value": "Text, Image and Video generation, social media content creation"
+        },
+        {
+          "value": "Workflows, multi-agent, customer support bots, document review, data analysis"
+        },
+        {
+          "value": "Query understanding, long-context summarization, real-time answers, personalized recommendations"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Software Development"
+        },
+        {
+          "value": "Content Creation"
+        },
+        {
+          "value": "Customer Support"
+        },
+        {
+          "value": "Enterprise AI"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Recommendation Systems"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        }
+      ]
+    },
+    {
+      "company_name": "SoftServe",
+      "company_name_citation": "https://www.softserveinc.com/en-us",
+      "description": "SoftServe describes itself as advisors, engineers, and designers solving business challenges with innovative technology solutions. The company drives innovation and digital transformation with industry-specific engineering services where top-tier software solutions guide your business through every project phase, adding value at each step. They help businesses (re)identify their strengths, accelerate solution development, and stay competitive, handling everything from strategic planning and design to launch and beyond. SoftServe partners with major technology providers including Nvidia, Amazon Web Services (AWS), Google Cloud, Microsoft, and Salesforce. The company offers comprehensive services across software development, software testing, solution architecture, business analysis, operations support, product management, technical communication, cloud & DevOps, big data & analytics, AI/ML, generative AI, internet of things, experience design, cybersecurity and compliance services, experience platforms, XR and spatial computing, research & development, robotics & advanced automation, and quantum computing. Their AI-related capabilities include wireless BCI and interactive AI, generative AI solutions, agentic AI for real-world enterprise impact, secure multi-agent systems at scale, physical AI and high-fidelity virtual gyms for robotics, and bridging simulation and reality in robot training. SoftServe serves diverse industries including healthcare & life sciences, financial services, retail, manufacturing, high tech, energy sector, agriculture, and automotive, delivering solutions that range from healthcare IT and operations to cybersecurity, XR experiences, and advanced automation systems.",
+      "description_citation": "https://www.softserveinc.com/en-us",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "",
+      "location_citation": "",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "Nvidia"
+        },
+        {
+          "value": "Amazon Web Services (AWS)"
+        },
+        {
+          "value": "Google Cloud"
+        },
+        {
+          "value": "Microsoft"
+        },
+        {
+          "value": "Salesforce"
+        },
+        {
+          "value": "Wireless BCI"
+        },
+        {
+          "value": "Interactive AI"
+        },
+        {
+          "value": "Generative AI"
+        },
+        {
+          "value": "Big Data & Analytics"
+        },
+        {
+          "value": "Cloud & DevOps"
+        },
+        {
+          "value": "XR and Spatial Computing"
+        },
+        {
+          "value": "Quantum Computing"
+        },
+        {
+          "value": "Robotics & Advanced Automation"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Software Development"
+        },
+        {
+          "value": "Software Testing"
+        },
+        {
+          "value": "Solution Architecture"
+        },
+        {
+          "value": "Business Analysis"
+        },
+        {
+          "value": "Operations Support"
+        },
+        {
+          "value": "Product Management"
+        },
+        {
+          "value": "Technical Communication"
+        },
+        {
+          "value": "Cloud & DevOps"
+        },
+        {
+          "value": "Big Data & Analytics"
+        },
+        {
+          "value": "AI/ML"
+        },
+        {
+          "value": "Generative AI"
+        },
+        {
+          "value": "Internet of Things"
+        },
+        {
+          "value": "Experience Design"
+        },
+        {
+          "value": "Cybersecurity and Compliance Services"
+        },
+        {
+          "value": "Experience Platforms"
+        },
+        {
+          "value": "XR and Spatial Computing"
+        },
+        {
+          "value": "Research & Development"
+        },
+        {
+          "value": "Robotics & Advanced Automation"
+        },
+        {
+          "value": "Quantum Computing"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Wireless BCI and Interactive AI"
+        },
+        {
+          "value": "Healthcare IT, operations, and regulatory compliance"
+        },
+        {
+          "value": "Bridging Simulation and Reality in Robot Training"
+        },
+        {
+          "value": "Secure Multi-Agent Systems at Scale"
+        },
+        {
+          "value": "Agentic AI for RealWorld Enterprise Impact"
+        },
+        {
+          "value": "Physical AI and high-fidelity virtual gyms for robotics"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare & Life Sciences"
+        },
+        {
+          "value": "Financial Services"
+        },
+        {
+          "value": "Retail"
+        },
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "High Tech"
+        },
+        {
+          "value": "The Energy Sector"
+        },
+        {
+          "value": "Agriculture"
+        },
+        {
+          "value": "Automotive"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "AI Ethics & Governance"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Edge AI & IoT"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "SAY IT Labs",
+      "company_name_citation": "https://www.sayitlabs.com/",
+      "description": "SAY IT Labs provides game-based interventions for speech and reading by harnessing artificial intelligence to listen, interact, and adapt to the user. The company aims to transform how students learn by blending the immersive power of video games with the rigor of pedagogy and AI. Their mission is to provide a tech-forward approach to foundational skills that allows kids to learn through play not pressure, effectively redefining what education and speech therapy looks like in the 21st century. The company was developed by graduates of the world-renowned Digital Arts and Entertainment school in Belgium. SAY IT Labs' flagship product is Stutter Stars, the first voice-controlled video game designed specifically for children who stutter. They also offer an all-in-one platform for personalized speech practice, speech games for articulation and literacy, and automatic reports to offer immediate insight into a user's strengths and challenges. The platform utilizes artificial intelligence, speech recognition technology, voice-activated tools, and procedural randomness to create engaging learning experiences. Use cases include personalized speech practice for every student, early literacy lessons, phonemic awareness activities, speech and sound practice for articulation disorders and apraxia of speech, and voice-controlled intervention for children who stutter. SAY IT Labs serves both education sectors with classrooms and teachers, and healthcare with speech therapy practices, providing innovative solutions that reduce the pressure on students while improving outcomes in speech development and literacy acquisition.",
+      "description_citation": "https://www.sayitlabs.com/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "Belgium",
+      "location_citation": "https://www.sayitlabs.com/",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "Artificial intelligence"
+        },
+        {
+          "value": "Speech recognition technology"
+        },
+        {
+          "value": "Voice-activated tools"
+        },
+        {
+          "value": "Procedural randomness"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Stutter Stars"
+        },
+        {
+          "value": "All-in-One Platform for personalized speech practice"
+        },
+        {
+          "value": "Speech games for articulation and literacy"
+        },
+        {
+          "value": "Automatic reports"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Personalized Speech Practice for Every Student"
+        },
+        {
+          "value": "Early Literacy lessons"
+        },
+        {
+          "value": "Phonemic Awareness activities"
+        },
+        {
+          "value": "Speech & Sound Practice for articulation disorders and apraxia of speech"
+        },
+        {
+          "value": "Voice-controlled intervention for children who stutter"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Education (classrooms and teachers)"
+        },
+        {
+          "value": "Healthcare (Speech Therapy)"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "Doxis",
+      "company_name_citation": "https://www.doxis.com/en/",
+      "description": "Doxis, branded as The Document Intelligence Company, provides an enterprise content management (ECM) platform that turns your content chaos into insight. Their mission is to automate processes and empower your organization to work intelligently, efficiently and securely on a single, trusted platform. The company focuses on digital transformation by helping organizations work better, faster and more securely through the digitization, understanding, and automation of documents and business workflows. They offer tailored solutions for your digital transformation and were named a Leader in the Gartner Magic Quadrant. The platform is powered by the latest AI and includes capabilities for Doxis Intelligent Content Automation, Enterprise Content Management (ECM) system, Intelligent Document Processing (IDP), and SAP document automation expertise. Doxis solutions encompass document management, team collaboration, intelligent archiving, process automation, content understanding, connecting business apps through connectors, consulting and implementation, managed services, and Doxis Academy training. Use cases span digitizing, understanding and working on documents, automating business processes and tasks, extracting information and creating/generating insights, purchase-to-pay process automation, procurement processes, production planning, transparent project management, documented QM processes, loan processing, compliance automation, underwriting and claims processes, 360° view of policy holders, real-time delivery updates for customers, and audit-proof archiving of billions of shipping documents. Doxis serves industries including manufacturing, bank & financial services, insurance, and logistics, providing comprehensive document intelligence and workflow automation solutions.",
+      "description_citation": "https://www.doxis.com/en/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "",
+      "location_citation": "",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "AI"
+        },
+        {
+          "value": "Doxis Intelligent Content Automation"
+        },
+        {
+          "value": "Enterprise Content Management (ECM)"
+        },
+        {
+          "value": "Intelligent Document Processing (IDP)"
+        },
+        {
+          "value": "SAP document automation"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Document management"
+        },
+        {
+          "value": "Team collaboration"
+        },
+        {
+          "value": "Intelligent archiving"
+        },
+        {
+          "value": "Process automation"
+        },
+        {
+          "value": "Content understanding"
+        },
+        {
+          "value": "Connecting business apps"
+        },
+        {
+          "value": "Consulting and implementation"
+        },
+        {
+          "value": "Managed services"
+        },
+        {
+          "value": "Doxis Academy training"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Digitize, understand and work on documents"
+        },
+        {
+          "value": "Automate business processes and tasks"
+        },
+        {
+          "value": "Extract information and create/generate insights"
+        },
+        {
+          "value": "Purchase-to-pay process automation"
+        },
+        {
+          "value": "Procurement processes"
+        },
+        {
+          "value": "Production planning"
+        },
+        {
+          "value": "Transparent project management"
+        },
+        {
+          "value": "Documented QM processes"
+        },
+        {
+          "value": "Loan processing"
+        },
+        {
+          "value": "Compliance automation"
+        },
+        {
+          "value": "Underwriting and claims processes"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Bank & Financial Services"
+        },
+        {
+          "value": "Insurance"
+        },
+        {
+          "value": "Logistics"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "TeamLogic IT",
+      "company_name_citation": "https://www.teamlogicit.com/",
+      "description": "TeamLogic IT is a managed IT services provider that has been operating for more than 18 years. Their mission is to help businesses stay safe, productive and profitable through the smart use of technology. They follow a People First. Tech Next philosophy, providing a complete spectrum of IT solutions ranging from strategic guidance and 24/7 proactive monitoring to help desk support. The company operates as a national network of local offices, offering both fully managed IT and co-managed services to businesses of all sizes to address technology challenges and reduce IT overhead. Corporate headquarters is located in Southern California with local offices including Oklahoma City, OK and Kansas City, MO. TeamLogic IT is one of the fastest growing Managed IT Services organizations in the nation with a national network of highly diversified and friendly technicians. The company offers managed AI services with secure, smart AI solutions designed for real business outcomes, co-managed IT services, cybersecurity & compliance services, business continuity, managed IT services, data backup & recovery services, cloud services, data/voice/connectivity, strategic guidance, and full service help desk. They partner with leading technology providers including Kaseya, Bitdefender, Sophos, Ring Central, Acronis, Todyl, Pax8, NinjaOne, SentinelOne, Goto, Connect Secure, Breach Secure Now, Axcient, Ingram, Cytracom, Liongard, Huntress, Proofpoint, Blackpoint, Rewst, Augmentt, Bvoip, Inforcer, Nodeware, CyberQP, Scalepad, Dropsuite, Cyrisma, DNS Filter, Invarasoft, Keeper, Seedpod, Secure Data Recovery, MSPBots, Threatlocker, Telarus, Viirtue, ACS Cloud Partners, Gradient MSP, Cisco, Lenovo, US Signal, Nuso, and Bigleaf Networks.",
+      "description_citation": "https://www.teamlogicit.com/",
+      "business_email": "support@teamlogicit.com",
+      "business_email_citation": "https://www.teamlogicit.com/",
+      "location": "Corporate headquarters in Southern California. Local offices in Oklahoma City, OK and Kansas City, MO",
+      "location_citation": "https://www.teamlogicit.com/",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "Kaseya"
+        },
+        {
+          "value": "Bitdefender"
+        },
+        {
+          "value": "Sophos"
+        },
+        {
+          "value": "Ring Central"
+        },
+        {
+          "value": "Acronis"
+        },
+        {
+          "value": "Todyl"
+        },
+        {
+          "value": "Pax8"
+        },
+        {
+          "value": "NinjaOne"
+        },
+        {
+          "value": "SentinelOne"
+        },
+        {
+          "value": "Goto"
+        },
+        {
+          "value": "Connect Secure"
+        },
+        {
+          "value": "Breach Secure Now"
+        },
+        {
+          "value": "Axcient"
+        },
+        {
+          "value": "Ingram"
+        },
+        {
+          "value": "Cytracom"
+        },
+        {
+          "value": "Liongard"
+        },
+        {
+          "value": "Huntress"
+        },
+        {
+          "value": "Proofpoint"
+        },
+        {
+          "value": "Blackpoint"
+        },
+        {
+          "value": "Rewst"
+        },
+        {
+          "value": "Augmentt"
+        },
+        {
+          "value": "Bvoip"
+        },
+        {
+          "value": "Inforcer"
+        },
+        {
+          "value": "Nodeware"
+        },
+        {
+          "value": "CyberQP"
+        },
+        {
+          "value": "Scalepad"
+        },
+        {
+          "value": "Dropsuite"
+        },
+        {
+          "value": "Cyrisma"
+        },
+        {
+          "value": "DNS Filter"
+        },
+        {
+          "value": "Invarasoft"
+        },
+        {
+          "value": "Keeper"
+        },
+        {
+          "value": "Seedpod"
+        },
+        {
+          "value": "Secure Data Recovery"
+        },
+        {
+          "value": "MSPBots"
+        },
+        {
+          "value": "Threatlocker"
+        },
+        {
+          "value": "Telarus"
+        },
+        {
+          "value": "Viirtue"
+        },
+        {
+          "value": "ACS Cloud Partners"
+        },
+        {
+          "value": "Gradient MSP"
+        },
+        {
+          "value": "Cisco"
+        },
+        {
+          "value": "Lenovo"
+        },
+        {
+          "value": "US Signal"
+        },
+        {
+          "value": "Nuso"
+        },
+        {
+          "value": "Bigleaf Networks"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Managed AI Services"
+        },
+        {
+          "value": "Co-Managed IT Services"
+        },
+        {
+          "value": "Cybersecurity & Compliance Services"
+        },
+        {
+          "value": "Business Continuity"
+        },
+        {
+          "value": "Managed IT Services"
+        },
+        {
+          "value": "Data Backup & Recovery Services"
+        },
+        {
+          "value": "Cloud Services"
+        },
+        {
+          "value": "Data / Voice / Connectivity"
+        },
+        {
+          "value": "Strategic Guidance"
+        },
+        {
+          "value": "Full Service Help Desk"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Rebounding and recovering from service disruptions"
+        },
+        {
+          "value": "Working anytime, anywhere from multiple devices"
+        },
+        {
+          "value": "Expanding existing IT workforce skills"
+        },
+        {
+          "value": "Meeting compliance governance"
+        },
+        {
+          "value": "Reducing IT overhead"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Companies of all sizes"
+        },
+        {
+          "value": "Business"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "AI Ethics & Governance"
+        }
+      ]
+    },
+    {
+      "company_name": "Google",
+      "company_name_citation": "https://www.skills.google/",
+      "description": "Google Skills is a technical learning platform designed to help users build AI skills for tomorrow, today and future proof your skills on Google's new learning platform built for you. The platform provides training, credentials, and community resources focused on artificial intelligence and cloud computing. Its mission is to be a trusted partner in navigating the new reality of AI innovation. It offers hands-on learning through paths such as Learn AI, Become an innovator, Train your team, and Get credentialed. Whether you're all-in on AI, just want to brush up on the latest, or you're here to skill up your team — get ready for the latest innovations with the technical experts behind Google Skills. The platform utilizes Google Cloud, Vertex AI, Gemini (Google's advanced language model), Vertex AI Studio, AutoML, BigQuery ML, Streamlit, TensorFlow, Imagen, Cloud Run, Cloud Shell, Docker, and Python SDK. Google Skills offers learning paths, courses, skill badges, career certificates, and Google Cloud certifications. Specific programs include AI Boost Bites and the Google Cloud Innovators program, which provides 35 monthly credits for hands-on learning. Use cases include integrating Generative AI into data workflows, deploying and managing generative AI models, building and modernizing applications with generative AI, detecting manufacturing defects using visual inspection AI, inspecting rich documents with Gemini multimodality and multimodal RAG, image recognition, natural language processing, image generation, code generation and execution, and synthetic data creation. The platform serves industries including healthcare with Generative AI for Healthcare, manufacturing with defect detection, marketing with Gemini models for real-world scenarios, and general technology/data science sectors.",
+      "description_citation": "https://www.skills.google/",
+      "business_email": "support-skills@google.com",
+      "business_email_citation": "https://www.skills.google/",
+      "location": "",
+      "location_citation": "",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "Google Cloud"
+        },
+        {
+          "value": "Vertex AI"
+        },
+        {
+          "value": "Gemini"
+        },
+        {
+          "value": "Vertex AI Studio"
+        },
+        {
+          "value": "AutoML"
+        },
+        {
+          "value": "BigQuery ML"
+        },
+        {
+          "value": "Streamlit"
+        },
+        {
+          "value": "TensorFlow"
+        },
+        {
+          "value": "Imagen"
+        },
+        {
+          "value": "Cloud Run"
+        },
+        {
+          "value": "Cloud Shell"
+        },
+        {
+          "value": "Docker"
+        },
+        {
+          "value": "Python SDK"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Learning Paths"
+        },
+        {
+          "value": "Courses"
+        },
+        {
+          "value": "Skill Badges"
+        },
+        {
+          "value": "Career Certificates"
+        },
+        {
+          "value": "Google Cloud certifications"
+        },
+        {
+          "value": "AI Boost Bites"
+        },
+        {
+          "value": "Google Cloud Innovators program"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Integrate Generative AI Into Your Data Workflow"
+        },
+        {
+          "value": "Deploy and Manage Generative AI Models"
+        },
+        {
+          "value": "Build and Modernize Applications With Generative AI"
+        },
+        {
+          "value": "Detect Manufacturing Defects Using Visual Inspection AI"
+        },
+        {
+          "value": "Inspect Rich Documents with Gemini Multimodality and Multimodal RAG"
+        },
+        {
+          "value": "Image recognition"
+        },
+        {
+          "value": "Natural language processing"
+        },
+        {
+          "value": "Image generation"
+        },
+        {
+          "value": "Code generation and execution"
+        },
+        {
+          "value": "Synthetic data creation"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Marketing"
+        },
+        {
+          "value": "Technology/Data Science"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Conversational AI"
+        }
+      ]
+    },
+    {
+      "company_name": "Spiceworks",
+      "company_name_citation": "https://www.spiceworks.com/",
+      "description": "Spiceworks is a professional network and resource hub for the IT industry, described as being for everyone and everything IT. The company provides a multi-faceted platform that includes a professional community, technical news and insights, market research, and free IT management software. Their mission is to provide a space where millions of IT pros connect to share expertise, evaluate vendors, and tackle tech challenges together. They offer tech news, insights, and resources to stay informed and prepared and provide fact-based reports on tech trends to make confident business decisions. Spiceworks offers multiple solutions including Cloud Help Desk (ticketing software), Connectivity Dashboard (network troubleshooting tool), Contracts Tracker (vendor contract management), Inventory Online (PC and network inventory software), Remote Support, Spiceworks Community (professional networking and Q&A), Aberdeen Research (tech trend reports and insights), and News & Insights (industry journalism and resources). Use cases include asking technical questions and getting recommendations from peers, evaluating IT vendors and making purchases, tracking IT support tickets, managing devices and infrastructure, monitoring application availability, staying on top of vendor contracts, troubleshooting network connectivity, and researching IT spend and workplace technology trends. The platform covers AI-related topics including AI Ethics & Governance with mentions of governance gaps in AI orchestration, Automation & Workflow through smart automation and AI orchestration platforms, Conversational AI referenced through collaboration tools and AI orchestration, LLM Agents & RAG implicitly referenced in discussions of AI orchestration platforms, Natural Language Processing in general AI insights and certification topics, and Predictive Analytics mentioned in the context of The 2026 State of IT insights and IT spend research.",
+      "description_citation": "https://www.spiceworks.com/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "",
+      "location_citation": "",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "Cloud"
+        },
+        {
+          "value": "AI (Artificial Intelligence)"
+        },
+        {
+          "value": "reCAPTCHA"
+        },
+        {
+          "value": "YouTube"
+        },
+        {
+          "value": "Twitter Widget"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Cloud Help Desk"
+        },
+        {
+          "value": "Connectivity Dashboard"
+        },
+        {
+          "value": "Contracts Tracker"
+        },
+        {
+          "value": "Inventory Online"
+        },
+        {
+          "value": "Remote Support"
+        },
+        {
+          "value": "Spiceworks Community"
+        },
+        {
+          "value": "Aberdeen Research"
+        },
+        {
+          "value": "News & Insights"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Asking technical questions and getting recommendations from peers"
+        },
+        {
+          "value": "Evaluating IT vendors and making purchases"
+        },
+        {
+          "value": "Tracking IT support tickets"
+        },
+        {
+          "value": "Managing devices and infrastructure"
+        },
+        {
+          "value": "Monitoring application availability"
+        },
+        {
+          "value": "Staying on top of vendor contracts"
+        },
+        {
+          "value": "Troubleshooting network connectivity"
+        },
+        {
+          "value": "Researching IT spend and workplace technology trends"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Information Technology (IT)"
+        },
+        {
+          "value": "IT professionals"
+        },
+        {
+          "value": "Consultants"
+        },
+        {
+          "value": "Tech vendors"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "AI Ethics & Governance"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "Soren Kaplan",
+      "company_name_citation": "https://www.sorenkaplan.com/",
+      "description": "The company focuses on guiding innovative leaders through the disruptive transitions of our time and moving from inspiration to impact. It provides expertise in strategy, innovation, and leadership development through keynote speaking, consulting, and master classes. The mission involves empowering leaders across business, nonprofit, or government with innovative mindsets, actionable strategies, and transformative tools to drive the future of their organizations, communities, and society. The work is grounded in Dr. Kaplan's Wall Street Journal bestsellers, award-winning expertise, and decades of cross-sector experience. The company offers keynote speaking, strategy & innovation consulting, leadership development programs, master classes covering consulting, change management, innovation, and strategy, and books including Experiential Intelligence, The Invisible Advantage, and Leapfrogging. Services incorporate AI-powered future tools, AI for idea generation, AI-powered culture transformation, and digital tools & templates for strategy and innovation. Use cases include corporate meetings & events to conferences and trade shows, achieving breakthroughs in even the most complex challenges, fostering cross-functional and cross-sector collaboration, managing transformational change, and embedding innovation into culture. The company serves corporate, nonprofit, public sector (government), healthcare, and education sectors with specific clients including technology companies like 3M and Amazon Web Services, healthcare organizations like HCA Healthcare, Cigna, and American Nurses Association, consumer goods companies like Colgate-Palmolive, Hershey's, and Gatorade, and media companies like NBCUniversal and PBS.",
+      "description_citation": "https://www.sorenkaplan.com/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "",
+      "location_citation": "",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "AI-powered future tools"
+        },
+        {
+          "value": "AI for idea generation"
+        },
+        {
+          "value": "AI-powered culture transformation"
+        },
+        {
+          "value": "Digital tools & templates"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Keynote Speaking"
+        },
+        {
+          "value": "Strategy & Innovation Consulting"
+        },
+        {
+          "value": "Leadership Development Programs"
+        },
+        {
+          "value": "Master Classes (Consulting, Change Management, Innovation, Strategy)"
+        },
+        {
+          "value": "Books"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Corporate meetings & events to conferences and trade shows"
+        },
+        {
+          "value": "Achieve breakthroughs in complex challenges"
+        },
+        {
+          "value": "Fostering cross-functional and cross-sector collaboration"
+        },
+        {
+          "value": "Managing transformational change"
+        },
+        {
+          "value": "Embedding innovation into culture"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Corporate"
+        },
+        {
+          "value": "Nonprofit"
+        },
+        {
+          "value": "Public sector (government)"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Education"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "Scorebuddy",
+      "company_name_citation": "https://www.scorebuddyqa.com/",
+      "description": "Scorebuddy provides AI-Powered Call Center Quality Assurance Software designed to provide 100% QA coverage at half the cost using a human-in-the-loop approach. The platform allows users to use configurable AI to auto-score 100% of conversations, speed up QA workflows, and surface insights. Their mission is to drive cost-efficiency, engage agents, and deliver loyalty-building CX every time by augmenting human QA processes with GenAI to analyze every interaction, identify skill gaps, and provide targeted coaching. Serving 300+ contact centers and scaling for teams of less than 50 agents or 5,000+, Scorebuddy is ISO27001 certified and provides comprehensive quality assurance solutions. The platform utilizes GenAI Auto Scoring, Business Intelligence (BI) tools, Learning Management System (LMS), and integrations with major platforms including Genesys, Intercom, Amazon Connect, Nice CXone, Zendesk, and Salesforce. Solutions offered include GenAI Auto Scoring, customizable scorecards, automated workflows, integrated coaching, built-in LMS, personalized dashboards, embedded AI, business intelligence, and compliance & security. Use cases include auto-scoring human and AI agents across multiple channels, automatically analyzing 100% of customer conversations, reducing human evaluation times with AI assistance, analyzing customer sentiment and finding reasons to call, identifying skill gaps, and delivering training courses. Scorebuddy serves contact centers and call centers across various sectors including Fintech (Tide, ID.me), Logistics (DHL), Insurance (Allianz), Retail (Teleflora), and Gaming (Sky Betting & Gaming), providing AI-powered conversation analytics with sentiment analysis capabilities.",
+      "description_citation": "https://www.scorebuddyqa.com/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "",
+      "location_citation": "",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "GenAI Auto Scoring"
+        },
+        {
+          "value": "Business Intelligence (BI) tools"
+        },
+        {
+          "value": "Learning Management System (LMS)"
+        },
+        {
+          "value": "Integrations with Genesys, Intercom, Amazon Connect, Nice CXone, Zendesk, and Salesforce"
+        },
+        {
+          "value": "ISO27001 certified"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "GenAI Auto Scoring"
+        },
+        {
+          "value": "Customizable Scorecards"
+        },
+        {
+          "value": "Automated Workflows"
+        },
+        {
+          "value": "Integrated Coaching"
+        },
+        {
+          "value": "Built-In LMS"
+        },
+        {
+          "value": "Personalized Dashboards"
+        },
+        {
+          "value": "Embedded AI"
+        },
+        {
+          "value": "Business Intelligence"
+        },
+        {
+          "value": "Compliance & Security"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Auto-score human and AI agents across multiple channels"
+        },
+        {
+          "value": "Automatically analyze 100% of customer conversations"
+        },
+        {
+          "value": "Reduce human evaluation times with AI assistance"
+        },
+        {
+          "value": "Analyze customer sentiment and find reasons to call"
+        },
+        {
+          "value": "Identify skill gaps"
+        },
+        {
+          "value": "Deliver training courses"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Contact Centers/Call Centers"
+        },
+        {
+          "value": "Fintech"
+        },
+        {
+          "value": "Logistics"
+        },
+        {
+          "value": "Insurance"
+        },
+        {
+          "value": "Retail"
+        },
+        {
+          "value": "Gaming"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "Technical Leaders",
+      "company_name_citation": "https://www.technical-leaders.com/",
+      "description": "Technical Leaders is a coaching and training program designed to help technology professionals and leaders integrate AI into their business operations and transition from technical roles to business leadership or consultancy. The company aims to help members go beyond ChatGPT with AI workflows and bridge the gap between a technical, critical mindset and the mindset, skills, and confidence needed to finally get going. They offer a structured program with three weekly tracks: Launch for tactical and strategic support, Mental Fitness for tackling self-doubt and imposter syndrome, and Leadership & Scale for strategic thinking and scaling. The community has joined 6500+ tech leaders and provides comprehensive support including AI Maturity Level Assessment (L1-L5), AI Skills Operating System™ Guide, personalized AI roadmaps, weekly live workshops, mastermind sessions, Fractional CTO playbooks, and three coaching tracks. Specific technologies mentioned include MCPs, Agents, RAG, AI Workflows, ChatGPT, and LinkedIn for growth systems. Use cases include building MVPs in days, not months, systematizing workflows first for maximum leverage, building a Fractional CTO offer, starting a software consultancy, and reducing the time spent on repetitive tasks. Technical Leaders serves the technology, startups, SMBs, non-profits, and venture-backed teams industries. The program focuses on AI-related capabilities including LLM Agents & RAG (MCPs, Agents, RAG), Automation & Workflow (AI Workflows, top 3 workflows to systematize), and Conversational AI (referenced via ChatGPT workflows).",
+      "description_citation": "https://www.technical-leaders.com/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "",
+      "location_citation": "",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "MCPs, Agents, RAG"
+        },
+        {
+          "value": "AI Workflows"
+        },
+        {
+          "value": "ChatGPT"
+        },
+        {
+          "value": "LinkedIn"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "AI Maturity Level Assessment (L1-L5)"
+        },
+        {
+          "value": "AI Skills Operating System™ Guide"
+        },
+        {
+          "value": "Personalized AI roadmaps"
+        },
+        {
+          "value": "Weekly live workshops"
+        },
+        {
+          "value": "Mastermind sessions"
+        },
+        {
+          "value": "Fractional CTO playbooks"
+        },
+        {
+          "value": "Launch track"
+        },
+        {
+          "value": "Mental Fitness track"
+        },
+        {
+          "value": "Leadership & Scale track"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Building MVPs in days, not months"
+        },
+        {
+          "value": "Systematize workflows first for maximum leverage"
+        },
+        {
+          "value": "Building a Fractional CTO offer"
+        },
+        {
+          "value": "Starting a software consultancy"
+        },
+        {
+          "value": "Reducing the time spent on repetitive tasks"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Technology"
+        },
+        {
+          "value": "Startups"
+        },
+        {
+          "value": "SMBs"
+        },
+        {
+          "value": "Non-profits"
+        },
+        {
+          "value": "Venture-backed teams"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Conversational AI"
+        }
+      ]
+    },
+    {
+      "company_name": "SAS",
+      "company_name_citation": "https://www.sas.com/en_us/home.html",
+      "description": "SAS is a provider of Data and AI Solutions and is described as the most trusted data and AI partner. The company provides domain-driven, purpose-built AI designed to grow top-line revenue, improve operational performance and reduce risks. Their primary platform, SAS Viya, is designed to provide unmatched speed and productivity and fulfills the promise of trusted AI. The company focuses on delivering clear and transparent insights through packaged, IP-rich solutions that accelerate and sustain value. SAS Viya includes SAS Viya Copilot, SAS Viya Workbench, and integration with Microsoft Azure, Google Cloud, Amazon Web Services (AWS), and Red Hat OpenShift. The platform supports machine learning, real-time decisioning, and edge-to-enterprise platforms. Solutions offered include SAS Viya, SAS Viya Copilot, Fraud Solutions, IoT Solutions, Marketing Solutions, Risk Solutions, SAS Models, and data integration software platforms. Use cases span detecting and preventing fraud across channels, transforming IoT data into actionable insights, delivering hyper-personalized experiences in marketing, optimizing risk management across financial institutions, strategic capital optimization, streamlined regulatory reporting, and AI-powered predictions for connected devices. SAS serves industries including financial institutions for risk and fraud management, retail for marketing/MarTech, manufacturing and consumer goods (Barilla, Georgia Pacific), non-profits (World Wildlife Fund), and FinTech (Treezor), stating it serves small businesses to large enterprises. AI-related capabilities include LLM Agents & RAG (SAS Viya Copilot), Automation & Workflow (domain-driven workflows), AI Ethics & Governance (Responsible AI and trustworthy AI), Conversational AI (SAS Viya Copilot), Edge AI & IoT (Edge-to-enterprise analytics), Natural Language Processing (GenAI), Predictive Analytics (AI-powered predictions), and Recommendation Systems (hyper-personalized marketing experiences).",
+      "description_citation": "https://www.sas.com/en_us/home.html",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "",
+      "location_citation": "",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "SAS Viya"
+        },
+        {
+          "value": "SAS Viya Copilot"
+        },
+        {
+          "value": "SAS Viya Workbench"
+        },
+        {
+          "value": "Microsoft Azure"
+        },
+        {
+          "value": "Google Cloud"
+        },
+        {
+          "value": "Amazon Web Services (AWS)"
+        },
+        {
+          "value": "Red Hat OpenShift"
+        },
+        {
+          "value": "Machine Learning"
+        },
+        {
+          "value": "Real-time decisioning"
+        },
+        {
+          "value": "Edge-to-enterprise platforms"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "SAS Viya"
+        },
+        {
+          "value": "SAS Viya Copilot"
+        },
+        {
+          "value": "Fraud Solutions"
+        },
+        {
+          "value": "IoT Solutions"
+        },
+        {
+          "value": "Marketing Solutions"
+        },
+        {
+          "value": "Risk Solutions"
+        },
+        {
+          "value": "SAS Models"
+        },
+        {
+          "value": "Data integration software platforms"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Detect and prevent fraud across channels"
+        },
+        {
+          "value": "Transform IoT data into actionable insights"
+        },
+        {
+          "value": "Deliver hyper-personalized experiences in marketing"
+        },
+        {
+          "value": "Optimize risk management across financial institutions"
+        },
+        {
+          "value": "Strategic capital optimization"
+        },
+        {
+          "value": "Streamlined regulatory reporting"
+        },
+        {
+          "value": "AI-powered predictions for connected devices"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Financial institutions"
+        },
+        {
+          "value": "Retail"
+        },
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Consumer Goods"
+        },
+        {
+          "value": "Non-profits"
+        },
+        {
+          "value": "FinTech"
+        },
+        {
+          "value": "Small businesses to large enterprises"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "AI Ethics & Governance"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Edge AI & IoT"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Recommendation Systems"
+        }
+      ]
+    },
+    {
+      "company_name": "Simplex Inc.",
+      "company_name_citation": "https://www.simplex.inc/",
+      "description": "Simplex Inc. describes itself as a professional group well-versed in business and technology and a true technology partner that leads business to success. The company provides end-to-end solutions by taking responsibility for strategy to design, development, and operation/maintenance. Their approach, referred to as the Simplex Way, involves a team of professionals acting as players to support Digital Transformation (DX). They leverage extensive expertise in mission-critical system construction supporting core operations of financial institutions and financial service development that brings new user experiences. Simplex utilizes technologies including Cloud, AI, web3, Blockchain, NFT, Metaverse, Crypto assets, Flutter, DevOps, Agile development, Microservices, API infrastructure, and RPA. Solutions offered include financial services development, UI/UX design, cloud, consulting, AI/data utilization (Artificial Intelligence), and web3 covering crypto assets, metaverse, and NFT. Use cases span mission-critical system construction for financial institutions, DX promotion for public and private sectors, business strategy formulation, and rapid launch of financial services. Specific application tags include remote work monitoring, revenue analysis, personal asset management, risk management, regulatory compliance, paperless transition, DAOs, DeFi, GameFi, Stablecoins, Wallets, STO, and CFD. Simplex serves industries including entertainment, banking, securities, insurance, FX, crypto assets, construction, public, and manufacturing. AI-related capabilities include Artificial Intelligence, AI/Data Utilization, and Automation & Workflow (RPA). The company provides AI solutions that respond to all needs as an immediate force, from strategy formulation to business implementation.",
+      "description_citation": "https://www.simplex.inc/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "",
+      "location_citation": "",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "Cloud"
+        },
+        {
+          "value": "AI"
+        },
+        {
+          "value": "web3"
+        },
+        {
+          "value": "Blockchain"
+        },
+        {
+          "value": "NFT"
+        },
+        {
+          "value": "Metaverse"
+        },
+        {
+          "value": "Crypto assets"
+        },
+        {
+          "value": "Flutter"
+        },
+        {
+          "value": "DevOps"
+        },
+        {
+          "value": "Agile development"
+        },
+        {
+          "value": "Microservices"
+        },
+        {
+          "value": "API infrastructure"
+        },
+        {
+          "value": "RPA"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Financial Services Development"
+        },
+        {
+          "value": "UI/UX Design"
+        },
+        {
+          "value": "Cloud"
+        },
+        {
+          "value": "Consulting"
+        },
+        {
+          "value": "AI/Data Utilization"
+        },
+        {
+          "value": "web3"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Mission-critical system construction for financial institutions"
+        },
+        {
+          "value": "DX promotion for public and private sectors"
+        },
+        {
+          "value": "Business strategy formulation"
+        },
+        {
+          "value": "Rapid launch of financial services"
+        },
+        {
+          "value": "Remote work monitoring"
+        },
+        {
+          "value": "Revenue analysis"
+        },
+        {
+          "value": "Personal asset management"
+        },
+        {
+          "value": "Risk management"
+        },
+        {
+          "value": "Regulatory compliance"
+        },
+        {
+          "value": "Paperless transition"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Entertainment"
+        },
+        {
+          "value": "Banking"
+        },
+        {
+          "value": "Securities"
+        },
+        {
+          "value": "Insurance"
+        },
+        {
+          "value": "FX"
+        },
+        {
+          "value": "Crypto assets"
+        },
+        {
+          "value": "Construction"
+        },
+        {
+          "value": "Public"
+        },
+        {
+          "value": "Manufacturing"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "Softchoice",
+      "company_name_citation": "https://www.softchoice.com/",
+      "description": "As part of World Wide Technology, we are a software and cloud-focused IT solutions provider that equips people to be engaged, connected and creative at work, and organizations to be agile, innovative, and secure by delivering AI-powered cloud and digital workplace solutions. Through our mission, we unleash the potential in people and technology to unlock value for our customers as we guide them through their transformation journey with comprehensive end-to-end solutions. Softchoice partners with major technology providers including Microsoft, Cisco, Google Cloud, VMware by Broadcom, Lenovo, and Amazon Web Services (AWS). The company offers AI-powered cloud and digital workplace solutions, Softchoice SAM+ Hub (self-serve subscription software management tool), AI & Data consulting framework, Public Cloud and Modern Infrastructure, Software Asset Management (SAM+ service suite), Modern Workplace solutions, Security platformization, and Zero Trust Modular Implementation Service. Use cases include data center modernization where customers partner with Softchoice to modernize their environment, reduce inefficiencies, and build a scalable foundation for future AI innovation; application & data modernization where Softchoice utilized AI tools to craft a customer's new chatbot including mapping and formatting data domains and crafting an easy-to-use dashboard that allowed agents to better engage with customers; and security consolidation where partnering with Softchoice enabled a customer to consolidate, strengthen security, cut costs, and modernize workflows for future AI adoption. The company focuses on AI-related capabilities including Conversational AI (chatbots), Automation & Workflow (modernizing workflows for AI adoption), MLOps & Infrastructure (AI-powered cloud and infrastructure for AI innovation), and Generative AI (Microsoft 365 Copilot experts).",
+      "description_citation": "https://www.softchoice.com/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "",
+      "location_citation": "",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "Microsoft 365 Copilot"
+        },
+        {
+          "value": "Microsoft E5"
+        },
+        {
+          "value": "Cisco"
+        },
+        {
+          "value": "Google Cloud"
+        },
+        {
+          "value": "VMware by Broadcom"
+        },
+        {
+          "value": "Lenovo"
+        },
+        {
+          "value": "Amazon Web Services (AWS)"
+        },
+        {
+          "value": "Softchoice SAM+ Hub"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "AI-powered cloud and digital workplace solutions"
+        },
+        {
+          "value": "Softchoice SAM+ Hub"
+        },
+        {
+          "value": "AI & Data consulting framework"
+        },
+        {
+          "value": "Public Cloud and Modern Infrastructure"
+        },
+        {
+          "value": "Software Asset Management"
+        },
+        {
+          "value": "Modern Workplace solutions"
+        },
+        {
+          "value": "Security platformization"
+        },
+        {
+          "value": "Zero Trust Modular Implementation Service"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Data Center Modernization"
+        },
+        {
+          "value": "Application & Data Modernization"
+        },
+        {
+          "value": "Security Consolidation"
+        },
+        {
+          "value": "AI chatbot development"
+        },
+        {
+          "value": "Modernizing workflows for AI adoption"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Organizations"
+        },
+        {
+          "value": "Business"
+        },
+        {
+          "value": "IT leaders"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        }
+      ]
+    },
+    {
+      "company_name": "SCITEPRESS",
+      "company_name_citation": "https://www.scitepress.org/HomePage.aspx",
+      "description": "SCITEPRESS is a publisher dedicated to the dissemination of scientific and technical research. They specialize in publishing conference proceedings and academic papers across various fields of science and technology. The platform hosts a digital library containing thousands of papers and hundreds of proceedings, facilitating access to research for authors and affiliations worldwide. SCITEPRESS publishes 1,200 proceedings with 64,700 papers from 152,200 authors and 121,200 affiliations. The platform covers multiple fields including cloud computing, web information systems, sensor networks, telecommunications, software engineering, and data engineering. Solutions offered include proceedings publication, research papers digital library, Insticc Ontology, and paper/proceeding indexing services. Use cases span academic research dissemination, conference publication management, scientific citation/indexing, and research affiliation tracking. SCITEPRESS serves industries including academia, scientific research, engineering, biomedical engineering, information technology, and higher education. The platform covers AI-related fields including Artificial Intelligence (8064 papers), Computer Vision, Visualization and Computer Graphics (4939 papers), Pattern Recognition (3999 papers), and Knowledge-Based Systems (4384 papers).",
+      "description_citation": "https://www.scitepress.org/HomePage.aspx",
+      "business_email": "info@scitepress.org",
+      "business_email_citation": "https://www.scitepress.org/HomePage.aspx",
+      "location": "Avenida de S. Francisco Xavier, Lote 7 Cv. C, 2900-616 Setúbal, Portugal",
+      "location_citation": "https://www.scitepress.org/HomePage.aspx",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "Cloud Computing"
+        },
+        {
+          "value": "Web Information Systems"
+        },
+        {
+          "value": "Sensor Networks"
+        },
+        {
+          "value": "Telecommunications"
+        },
+        {
+          "value": "Software Engineering"
+        },
+        {
+          "value": "Data Engineering"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Proceedings publication"
+        },
+        {
+          "value": "Research Papers digital library"
+        },
+        {
+          "value": "Insticc Ontology"
+        },
+        {
+          "value": "Paper/Proceeding indexing services"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Academic research dissemination"
+        },
+        {
+          "value": "Conference publication management"
+        },
+        {
+          "value": "Scientific citation/indexing"
+        },
+        {
+          "value": "Research affiliation tracking"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Academia"
+        },
+        {
+          "value": "Scientific Research"
+        },
+        {
+          "value": "Engineering"
+        },
+        {
+          "value": "Biomedical Engineering"
+        },
+        {
+          "value": "Information Technology"
+        },
+        {
+          "value": "Higher Education"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "sarmap",
+      "company_name_citation": "https://www.sarmap.ch/",
+      "description": "sarmap is a Swiss company founded in 1998. The company's mission is to develop and provide innovative, sophisticated yet simple customized Earth Observation solutions, dedicated to the generation of digital information of Earth system, ensuring technical advantages and economical benefits. It describes itself as being at the forefront of technology while building on values of reliability and long-term collaboration partnerships based on mutual trust and respect. Its core activities involve the development of specialized software for processing remote sensing data to generate standard and customized products. sarmap utilizes technologies including SARscape, Opticalscape, Earth Observation (EO) data, Open Source Intelligence (OSINT) data, and remote sensing data processing algorithms. Solutions offered include SARscape software, Opticalscape software, Topography solutions, Land Displacement monitoring, RIICE, EPM, TRANSPARENTFOREST, Flooding Map Tool, and Velocity Estimation tools. Use cases include generating digital information of the Earth system, providing legal evidence in investigations and proceedings related to international law (EVIDERI project), generating flood maps with ease, and determining the speed of objects or displacements via velocity estimation. sarmap serves industries including remote sensing and geospatial analysis, environmental monitoring, legal and international investigations, agriculture (RIICE), and forestry (TRANSPARENTFOREST). AI-related capabilities include Computer Vision (processing and analyzing Earth Observation and remote sensing imagery) and Predictive Analytics (velocity estimation and land displacement monitoring).",
+      "description_citation": "https://www.sarmap.ch/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "Switzerland",
+      "location_citation": "https://www.sarmap.ch/",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "SARscape"
+        },
+        {
+          "value": "Opticalscape"
+        },
+        {
+          "value": "Earth Observation (EO) data"
+        },
+        {
+          "value": "Open Source Intelligence (OSINT) data"
+        },
+        {
+          "value": "Remote sensing data processing algorithms"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "SARscape software"
+        },
+        {
+          "value": "Opticalscape software"
+        },
+        {
+          "value": "Topography solutions"
+        },
+        {
+          "value": "Land Displacement monitoring"
+        },
+        {
+          "value": "RIICE"
+        },
+        {
+          "value": "EPM"
+        },
+        {
+          "value": "TRANSPARENTFOREST"
+        },
+        {
+          "value": "Flooding Map Tool"
+        },
+        {
+          "value": "Velocity Estimation tools"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Generating digital information of the Earth system"
+        },
+        {
+          "value": "Providing legal evidence in investigations and proceedings"
+        },
+        {
+          "value": "Generate flood maps with ease"
+        },
+        {
+          "value": "Determine the speed of objects or displacements via velocity estimation"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Remote Sensing and Geospatial Analysis"
+        },
+        {
+          "value": "Environmental Monitoring"
+        },
+        {
+          "value": "Legal and International Investigations"
+        },
+        {
+          "value": "Agriculture"
+        },
+        {
+          "value": "Forestry"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "SoftFile",
+      "company_name_citation": "https://www.softfile.com/",
+      "description": "SoftFile is a document management company that has been providing services to corporate and government clients since 1988. They specialize in document imaging, data entry, and business process outsourcing (BPO). The company describes itself as one of the leading document management companies in the Western United States and focuses on a mission of trust, quality, and value. They offer a unique blend of technology and highly trained labor to assist you with your day-to-day business operations as well as special projects. Their production facility in Sacramento converts millions of documents, maps and microfilm to digital images for viewing on networks, intranets and the web. SoftFile utilizes automated data capture methods, manual dual-blind-key process, custom data validation queries, look up tables, data formatting, and custom queries. Solutions offered include document imaging, document scanning, data entry services, business process outsourcing (BPO), and document management. Use cases include converting documents, maps, and microfilm to digital images, capturing data from forms and business documents, creating digital images for viewing on networks, intranets, and the web, and custom data validation to ensure 99.9% accuracy. SoftFile serves industries including corporate, government agencies (specifically State of CA agencies), Fortune 500 companies, and local businesses. AI-related capabilities include Document AI (document imaging and automated data capture) and Automation & Workflow (automated methods for capturing data and custom validation queries).",
+      "description_citation": "https://www.softfile.com/",
+      "business_email": "",
+      "business_email_citation": "",
+      "location": "Sacramento, California",
+      "location_citation": "https://www.softfile.com/",
+      "team_size": "",
+      "team_size_citation": "",
+      "technologies_used": [
+        {
+          "value": "Automated data capture methods"
+        },
+        {
+          "value": "Manual dual-blind-key process"
+        },
+        {
+          "value": "Custom data validation queries"
+        },
+        {
+          "value": "Look up tables"
+        },
+        {
+          "value": "Data formatting"
+        },
+        {
+          "value": "Custom queries"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Document imaging"
+        },
+        {
+          "value": "Document scanning"
+        },
+        {
+          "value": "Data entry services"
+        },
+        {
+          "value": "Business process outsourcing (BPO)"
+        },
+        {
+          "value": "Document management"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Converting documents, maps, and microfilm to digital images"
+        },
+        {
+          "value": "Capturing data from forms and business documents"
+        },
+        {
+          "value": "Creating digital images for viewing on networks, intranets, and the web"
+        },
+        {
+          "value": "Custom data validation to ensure 99.9% accuracy"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Corporate"
+        },
+        {
+          "value": "Government agencies"
+        },
+        {
+          "value": "Fortune 500 companies"
+        },
+        {
+          "value": "Local businesses"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    }
+  ]
+}

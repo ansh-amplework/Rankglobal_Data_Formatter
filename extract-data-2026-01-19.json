@@ -1,0 +1,2575 @@
+{
+  "companies": [
+    {
+      "company_name": "Reconice",
+      "description": "Reconice is an Italian technology company entirely focused on the development of vocal reporting systems, applying signal processing, pattern recognition, and artificial intelligence to professional speech recognition solutions. Founded in 2013, the company leverages a team with over 25 years of experience to provide advanced medical reporting technology designed for a modern healthcare environment. Their solutions are engineered to optimize clinical workflows by allowing doctors to dictate, review, and sign reports in real-time, which significantly reduces turnaround times and improves the quality of patient care. The company emphasizes a security by design approach and maintains rigorous certifications, including ISO 9001:2015 and ISO/IEC 27001. Their multilingual platforms support real-time language switching and are integrated with high-quality audio acquisition hardware to ensure maximum transcription accuracy. By automating the transition from voice to electronic documentation, Reconice helps healthcare facilities reduce administrative costs, minimize errors, and enhance overall clinical productivity while ensuring data security and stability.",
+      "business_email": "info@reconice.it",
+      "location": "Via Palmanova 24, 20132 Milano, Italy",
+      "team_size": "25+ years of experience team",
+      "technologies_used": [
+        {
+          "value": "Signal processing"
+        },
+        {
+          "value": "Pattern recognition"
+        },
+        {
+          "value": "AI"
+        },
+        {
+          "value": "Machine learning"
+        },
+        {
+          "value": "Speech recognition"
+        },
+        {
+          "value": "Cloud-based architectures"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Suite recomed"
+        },
+        {
+          "value": "Suite dycendo"
+        },
+        {
+          "value": "Atlas"
+        },
+        {
+          "value": "Audio acquisition devices"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Vocal medical reporting"
+        },
+        {
+          "value": "Real-time clinical dictation"
+        },
+        {
+          "value": "Healthcare document workflow management"
+        },
+        {
+          "value": "Diagnostic reports delivery"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Medicine"
+        },
+        {
+          "value": "Radiology"
+        },
+        {
+          "value": "Neuroradiology"
+        },
+        {
+          "value": "Nuclear Medicine"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Document AI"
+        }
+      ]
+    },
+    {
+      "company_name": "Proto AI",
+      "description": "Proto AI provides a suite of next-generation artificial intelligence solutions designed to empower businesses of all sizes to accelerate performance and drive efficiency. The company aims to make big data accessible to more than just large corporations, offering tools that deliver personalized customer journeys and increase customer lifetime value through tailored recommendations. Their technology is built to drive upsells and repeat purchase behavior without requiring manual upkeep or specialized expertise. By automating repetitive, data-driven tasks, Proto AI helps businesses reduce costs, increase revenue, and accelerate sales cycles. Their solutions focus on delivering measurable business results, such as higher conversion rates and lower cart abandonment, often within days of implementation. Founded with a mission to democratize AI access, the company serves various industries including e-commerce and retail, providing scalable AI tools that adapt to different business sizes and needs.",
+      "business_email": "contact@proto.ai",
+      "location": "Baltimore, Maryland, United States",
+      "team_size": "4",
+      "technologies_used": [
+        {
+          "value": "Next-generation AI"
+        },
+        {
+          "value": "Big data"
+        },
+        {
+          "value": "Kubernetes"
+        },
+        {
+          "value": "Microsoft Azure"
+        },
+        {
+          "value": "MongoDB"
+        },
+        {
+          "value": "Neural Networks"
+        },
+        {
+          "value": "Reinforcement Learning"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI-powered discovery tools"
+        },
+        {
+          "value": "Decision making tools"
+        },
+        {
+          "value": "Personalization engine"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Personalized customer journeys"
+        },
+        {
+          "value": "Upsell recommendations"
+        },
+        {
+          "value": "Sales pipeline generation"
+        },
+        {
+          "value": "Cart abandonment reduction"
+        },
+        {
+          "value": "Average order value increase"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "E-commerce"
+        },
+        {
+          "value": "Retail"
+        },
+        {
+          "value": "B2B Sales"
+        },
+        {
+          "value": "B2C Sales"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Recommendation Systems"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "John Snow Labs",
+      "description": "John Snow Labs is a leading AI and natural language processing company focused on the healthcare, life sciences, legal, and finance sectors. The company provides advanced software, models, data, and platforms to assist organizations in building and deploying AI projects. Founded in 2015 and headquartered in Lewes, Delaware, John Snow Labs operates as a global virtual team across multiple countries and languages. The company is known for its flagship product, Spark NLP, which is the most widely used enterprise NLP library, particularly in healthcare and life sciences. John Snow Labs also offers award-winning clinical NLP software, medical large language models, and high-compliance AI platforms. Beyond software development, the company hosts the world's largest applied NLP community, offering virtual conferences that showcase AI best practices, real-world case studies, and workshops. They provide beginner to advanced live training and professional certifications to help organizations in highly regulated sectors put AI to productive use while addressing challenges like de-identification and ethical governance. With a commitment to security and regulatory compliance, the company supports data philanthropy and has achieved significant growth, including a 325% revenue increase in 2024. John Snow Labs serves over 500 enterprise customers, including major pharmaceutical companies and healthcare systems.",
+      "business_email": "nlpsummit@johnsnowlabs.com",
+      "location": "16192 Coastal Highway, Lewes, Delaware 19958, US",
+      "team_size": "110",
+      "technologies_used": [
+        {
+          "value": "NLP"
+        },
+        {
+          "value": "Large Language Models"
+        },
+        {
+          "value": "Generative AI"
+        },
+        {
+          "value": "RAG"
+        },
+        {
+          "value": "Knowledge Graphs"
+        },
+        {
+          "value": "Open-source libraries"
+        },
+        {
+          "value": "Multi-modal AI"
+        },
+        {
+          "value": "Speech-to-text"
+        },
+        {
+          "value": "MLOps"
+        },
+        {
+          "value": "DataOps"
+        },
+        {
+          "value": "LLMOps"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Spark NLP"
+        },
+        {
+          "value": "Open-source AI libraries"
+        },
+        {
+          "value": "AI models"
+        },
+        {
+          "value": "Training workshops"
+        },
+        {
+          "value": "Professional certifications"
+        },
+        {
+          "value": "Healthcare-specific NLP solutions"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Information extraction from documents"
+        },
+        {
+          "value": "Clinical NLP"
+        },
+        {
+          "value": "Knowledge graph building"
+        },
+        {
+          "value": "De-identification of sensitive data"
+        },
+        {
+          "value": "Synthetic data generation"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Life Sciences"
+        },
+        {
+          "value": "Legal"
+        },
+        {
+          "value": "Finance"
+        },
+        {
+          "value": "Pharmaceuticals"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "AI Ethics & Governance"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "Pento",
+      "description": "Pento is an AI consulting and enterprise AI development company that helps organizations design, build, and scale intelligent systems intended to turn data into business value. Founded in 2016 and based in Montevideo, Uruguay, the company combines technical expertise with strategic vision to ensure AI projects align with specific business objectives. As an experienced enterprise AI partner, they focus on delivering measurable outcomes such as efficiency gains, automation, and improved decision-making. Their core services include the development of generative AI applications, computer vision solutions, and predictive modeling. Pento also provides AI business strategy consulting to help companies identify opportunities and create roadmaps, alongside team augmentation services to help organizations scale their internal capabilities with vetted engineers. With a global team of over 40 professionals, Pento has successfully delivered more than 40 projects since 2019, serving clients across the U.S., Latin America, and the U.K. Their expertise spans multiple industries, including retail, hospitality, health tech, manufacturing, materials, and entertainment, with solutions ranging from AI-powered semantic search to automated medical legal document processing.",
+      "business_email": "contact@pento.ai",
+      "location": "Rotonda Zona Franca Montevideo, Montevideo, Uruguay",
+      "team_size": "29",
+      "technologies_used": [
+        {
+          "value": "AI"
+        },
+        {
+          "value": "Machine Learning"
+        },
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "NLP"
+        },
+        {
+          "value": "PyTorch"
+        },
+        {
+          "value": "OpenAI"
+        },
+        {
+          "value": "AWS"
+        },
+        {
+          "value": "Bedrock"
+        },
+        {
+          "value": "Claude"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI Consulting"
+        },
+        {
+          "value": "Enterprise AI Development"
+        },
+        {
+          "value": "Generative AI applications"
+        },
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Predictive Modeling"
+        },
+        {
+          "value": "AI Team Augmentation"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Semantic search"
+        },
+        {
+          "value": "Medical legal document processing"
+        },
+        {
+          "value": "Healthcare contract management"
+        },
+        {
+          "value": "Demand forecasting"
+        },
+        {
+          "value": "Taste-based discovery"
+        },
+        {
+          "value": "Retail automation"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "E-commerce"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Retail"
+        },
+        {
+          "value": "Hospitality"
+        },
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Entertainment"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Recommendation Systems"
+        }
+      ]
+    },
+    {
+      "company_name": "Powder",
+      "description": "Powder is an AI-driven technology company providing a 99%+ accurate Document AI Agent specifically designed for the wealth management and financial services sector. Founded in 2023 and based in Los Altos, California, the platform enables firms to transform unorganized information into high-quality, actionable data, significantly reducing the time spent on manual data entry and extraction by up to 95%. By automating the processing of various documents—including brokerage statements, tax returns, estate plans, insurance documents, and private fund decks—Powder allows advisors and analysts to focus on higher-value tasks such as proactive client engagement and strategic investment analysis. The solution helps eliminate costly manual errors, ensures compliance with SEC/FINRA standards through built-in features, and supports firm scalability by using AI agents instead of increasing headcount. Built with enterprise security in mind, the platform is SOC2 Type 1 and Type 2 compliant, featuring data encryption and a policy of not training models on user data. The company has raised $5.1 million in funding and serves around 20 mid-sized Registered Investment Advisor firms managing between $1 billion and $100 billion in assets.",
+      "business_email": "contact@powderfi.com",
+      "location": "110 Pasa Robles Ave, Los Altos, California 94022, United States",
+      "team_size": "21",
+      "technologies_used": [
+        {
+          "value": "Document AI Agent"
+        },
+        {
+          "value": "API"
+        },
+        {
+          "value": "Excel"
+        },
+        {
+          "value": "SOC2"
+        },
+        {
+          "value": "Encryption protocols"
+        },
+        {
+          "value": "Generative AI"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Document AI Agent"
+        },
+        {
+          "value": "Data Extraction API"
+        },
+        {
+          "value": "Portfolio Review automation"
+        },
+        {
+          "value": "Proposal automation"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Financial document data extraction"
+        },
+        {
+          "value": "Prospect proposal building"
+        },
+        {
+          "value": "External asset aggregation"
+        },
+        {
+          "value": "Portfolio statement parsing"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Wealth Management"
+        },
+        {
+          "value": "RIAs"
+        },
+        {
+          "value": "Family Offices"
+        },
+        {
+          "value": "Financial Services"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "QuantumPilot.ai",
+      "description": "QuantumPilot.ai is an enterprise AI solutions provider that specializes in bridging the gap between artificial intelligence technology and practical business outcomes. The company offers a wide range of services including strategic AI consulting, custom AI agent development, and intelligent process automation. They help organizations of all sizes—from small businesses to large enterprises—harness AI to drive growth, optimize operations, and create sustainable competitive advantages. Their approach combines technical expertise with business acumen to deliver measurable results, such as significant cost reductions and efficiency gains. Key offerings include AI readiness assessments, implementation roadmaps, custom chatbot development, and data analytics. By focusing on quantifiable ROI, QuantumPilot.ai assists companies in automating complex tasks, enhancing decision-making, and integrating AI tools like Microsoft Copilot into existing workflows to transform overall business operations. The company serves various industries including manufacturing, finance, SaaS platforms, and both small-to-medium businesses and large enterprises, providing solutions for workflow automation, document processing, data entry, custom chatbots for customer support, predictive modeling, business intelligence, and productivity enhancement.",
+      "business_email": "contact@quantumpilot.ai",
+      "location": "Not specified",
+      "team_size": "Not specified",
+      "technologies_used": [
+        {
+          "value": "Microsoft Copilot"
+        },
+        {
+          "value": "Microsoft 365"
+        },
+        {
+          "value": "Generative AI"
+        },
+        {
+          "value": "Machine Learning"
+        },
+        {
+          "value": "TensorFlow"
+        },
+        {
+          "value": "PyTorch"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI Strategy & Consulting"
+        },
+        {
+          "value": "Custom AI Agent Development"
+        },
+        {
+          "value": "Intelligent Process Automation"
+        },
+        {
+          "value": "Data Analytics"
+        },
+        {
+          "value": "Copilot Integration"
+        },
+        {
+          "value": "AI Education & Training"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Workflow automation"
+        },
+        {
+          "value": "Document processing"
+        },
+        {
+          "value": "Data entry"
+        },
+        {
+          "value": "Customer support chatbots"
+        },
+        {
+          "value": "Predictive modeling"
+        },
+        {
+          "value": "Business intelligence"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Finance"
+        },
+        {
+          "value": "SaaS"
+        },
+        {
+          "value": "SMB"
+        },
+        {
+          "value": "Enterprise"
+        }
+      ],
+      "categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "OnviSource",
+      "description": "OnviSource is a technology company with over 20 years of experience providing progressive innovations for the contact center industry. Founded in 2004 and based in Dallas, Texas, the company focuses on transforming contact centers through its Super Agent, Super CX, and Super Ops initiatives. Their solutions are powered by an empathetic balance of Agentic AI and human expertise, designed to augment human performance rather than replace it. Their Agentic AI is capable of understanding goals, taking autonomous actions, making decisions, and delivering specific end-goals. OnviSource offers the OmVista suite, which unifies data and provides multimodal analytics, automation, and agent assistance. The company operates an AI Academy to support continuous innovation and offers a Business Analytics Service (BAS) that incorporates a human-in-the-loop approach. Their mission is to help enterprises exceed customer expectations, increase operational efficiency, and improve agent retention by providing real-time visibility, security, and automated workflows. The company has over 1,100 installations and serves more than 300 active customers across various industries including contact centers, telephone answering services, and BPO operations.",
+      "business_email": "info@onvisource.com",
+      "location": "5220 Spring Valley Rd, Suite 615, Dallas, Texas 75254, US",
+      "team_size": "56",
+      "technologies_used": [
+        {
+          "value": "Agentic AI"
+        },
+        {
+          "value": "OmVista AI"
+        },
+        {
+          "value": "ChatOrchestra"
+        },
+        {
+          "value": "EngageHub"
+        },
+        {
+          "value": "AgentAssist"
+        },
+        {
+          "value": "Multimodal Analytics"
+        },
+        {
+          "value": "AI-Native Architecture"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "OmVista Agentic AI Solutions"
+        },
+        {
+          "value": "ChatOrchestra"
+        },
+        {
+          "value": "EngageHub"
+        },
+        {
+          "value": "AgentAssist"
+        },
+        {
+          "value": "AgentEngage"
+        },
+        {
+          "value": "Business Analytics Service"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automated QA scoring"
+        },
+        {
+          "value": "Call summaries generation"
+        },
+        {
+          "value": "Wrap-up workflow automation"
+        },
+        {
+          "value": "Real-time agent assistance"
+        },
+        {
+          "value": "Customer sentiment analysis"
+        },
+        {
+          "value": "Churn prevention"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Contact Centers"
+        },
+        {
+          "value": "Telephone Answering Service"
+        },
+        {
+          "value": "Teleservices"
+        },
+        {
+          "value": "BPO"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "Pecan",
+      "description": "Pecan is an automated, conversational predictive AI platform designed to transform raw data into actionable business predictions without the need for specialized data science teams. Founded in 2018 and based in Ramat Gan, Israel, the company offers a no-code solution that targets data leaders, BI analysts, and marketers who can leverage SQL or existing BI skills to deploy production-ready machine learning models in hours rather than months. The platform features an LLM-powered Predictive Co-Pilot that guides users through defining use cases, preparing training sets, and generating models. Pecan automates complex tasks such as data preparation and feature engineering by connecting directly to popular cloud data warehouses like Snowflake, BigQuery, and Databricks. Its primary goal is to democratize predictive modeling, allowing organizations to optimize business outcomes like customer retention, lifetime value, and demand forecasting with high accuracy, speed, and transparency while integrating directly into existing CRM and marketing workflows. The company employs 78 people, generates $8.2 million in revenue, and has raised $120 million in funding. Notable clients include Johnson & Johnson, SciPlay, and Kenvue.",
+      "business_email": "contact@pecan.ai",
+      "location": "Tuval 40 St, Sapir Tower, 24th Flr, Ramat Gan, Israel 5252247",
+      "team_size": "78",
+      "technologies_used": [
+        {
+          "value": "LLM"
+        },
+        {
+          "value": "SQL"
+        },
+        {
+          "value": "Snowflake"
+        },
+        {
+          "value": "BigQuery"
+        },
+        {
+          "value": "Databricks"
+        },
+        {
+          "value": "Generative AI"
+        },
+        {
+          "value": "AutoML"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Conversational Predictive AI platform"
+        },
+        {
+          "value": "Predictive Co-Pilot"
+        },
+        {
+          "value": "No-code predictive analytics"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Customer Churn Prediction"
+        },
+        {
+          "value": "Customer LTV Modeling"
+        },
+        {
+          "value": "Lead Scoring"
+        },
+        {
+          "value": "Demand Forecasting"
+        },
+        {
+          "value": "Campaign ROAS"
+        },
+        {
+          "value": "Fraud Prevention"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Marketing"
+        },
+        {
+          "value": "Retail"
+        },
+        {
+          "value": "E-commerce"
+        },
+        {
+          "value": "Finance"
+        },
+        {
+          "value": "Telecommunications"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "Parloa",
+      "description": "Parloa is an enterprise-grade artificial intelligence company dedicated to transforming the customer experience by closing the communication gap between businesses and their clients. Founded in 2018 and based in Berlin, Germany, the company provides a robust platform that enables the creation and management of sophisticated AI agents capable of handling millions of conversations with unparalleled speed and precision. By orchestrating the entire AI agent lifecycle—including design, testing, scaling, and optimization—Parloa helps organizations move from reactive support to proactive, personalized interactions that foster long-term loyalty. The platform is specifically engineered for reliability in high-volume, high-stakes environments, offering solutions for complex tasks such as scheduling, refunds, and recommendations. Parloa emphasizes security and compliance, maintaining rigorous standards including ISO 27001, SOC 2, HIPAA, and PCI DSS to ensure data privacy across all customer interactions. With over 380 employees and $76.8 million in revenue, the company has raised $214.3 million in funding and serves major industries including insurance, travel and hospitality, and automotive sectors.",
+      "business_email": "contact@parloa.com",
+      "location": "Schoenhauser Allee 9, Berlin, BE 10119, Germany",
+      "team_size": "380",
+      "technologies_used": [
+        {
+          "value": "AI Agent orchestration"
+        },
+        {
+          "value": "Real-time translation"
+        },
+        {
+          "value": "SAP"
+        },
+        {
+          "value": "ISO 27001"
+        },
+        {
+          "value": "SOC 2"
+        },
+        {
+          "value": "HIPAA"
+        },
+        {
+          "value": "PCI DSS"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Parloa Platform"
+        },
+        {
+          "value": "AI Agent lifecycle management"
+        },
+        {
+          "value": "AI Agents for customer service"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automated call routing"
+        },
+        {
+          "value": "Switchboard workload reduction"
+        },
+        {
+          "value": "Real-time translation"
+        },
+        {
+          "value": "Customer scheduling"
+        },
+        {
+          "value": "Refunds processing"
+        },
+        {
+          "value": "Personalized recommendations"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Insurance"
+        },
+        {
+          "value": "Travel and Hospitality"
+        },
+        {
+          "value": "Automotive"
+        },
+        {
+          "value": "Enterprise"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "Overjet",
+      "description": "Overjet provides an advanced AI platform for the dental industry designed to automate administrative tasks and enhance clinical decision-making. Founded in 2018 by MIT computer scientists and Harvard dentists and based in Boston, Massachusetts, the company's mission is to improve oral health outcomes by creating a clinically precise, efficient, and patient-centric ecosystem. Their technology suite includes FDA-cleared AI for x-ray analysis, which helps detect diseases and anatomical structures, improving diagnostic consistency across teams. Overjet's solutions also include AI-native imaging software, automated insurance verification, and a Voice AI suite for documentation. By integrating these tools, the company helps dental practices increase case acceptance through visual aids, reduce administrative burdens like manual charting, and streamline the reimbursement process between providers and insurers. The company employs 310 people, generates $29.9 million in revenue, and has raised $130.6 million in funding. Overjet serves dental service organizations, individual dentists, dental educators, and insurance companies.",
+      "business_email": "contact@overjet.com",
+      "location": "560 Harrison Ave, Suite 403, Boston, Massachusetts 02118, US",
+      "team_size": "310",
+      "technologies_used": [
+        {
+          "value": "FDA-cleared dental AI"
+        },
+        {
+          "value": "IRIS AI-Native Imaging Software"
+        },
+        {
+          "value": "Voice AI Suite"
+        },
+        {
+          "value": "Cloud-based software"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Dental AI Assist"
+        },
+        {
+          "value": "IRIS AI-Native Imaging"
+        },
+        {
+          "value": "Dental Insurance Verification"
+        },
+        {
+          "value": "Voice AI Suite"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Dental x-ray analysis"
+        },
+        {
+          "value": "Disease detection"
+        },
+        {
+          "value": "Patient communication"
+        },
+        {
+          "value": "Automated dental charting"
+        },
+        {
+          "value": "Insurance coverage verification"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Dentistry"
+        },
+        {
+          "value": "Dental Support Organizations"
+        },
+        {
+          "value": "Dental Education"
+        },
+        {
+          "value": "Dental Insurance"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "OPX Ai",
+      "description": "OPX Ai provides an interoperable ecosystem designed to digitize operations, decarbonize industry, and democratize AI for industrial producers, specifically within the oil and gas sector. Founded in 2018 and based in Carrollton, Texas, their platform unifies Operations AI, carbon removal technology, and a workforce training engine to help producers increase production, cut lease operating expenses, and reduce methane and CO2 emissions. By integrating field sensors and SCADA data, the system uses its \"Buddy AI\" to detect exceptions and suggest actions, which are then communicated to field operators via the FieldIQ app. This creates a closed-loop system where field feedback retrains the AI, while their Integrated Operating Center as a Service (IOCaaS) standardizes playbooks and KPIs. The company also offers modular Direct Air Capture technology and a training program to produce AI-fluent field talent, helping teams transition from reactive firefighting to proactive, automated operational workflows. OPX Ai employs 20 people and serves operators in major oil and gas basins including the Montney, Duvernay, and Permian.",
+      "business_email": "OPXAi@opxai.com",
+      "location": "2610 N Josey Ln, Carrollton, Texas 75007, US",
+      "team_size": "20",
+      "technologies_used": [
+        {
+          "value": "Buddy AI"
+        },
+        {
+          "value": "FieldIQ"
+        },
+        {
+          "value": "IOCaaS"
+        },
+        {
+          "value": "CARBiN"
+        },
+        {
+          "value": "SCADA"
+        },
+        {
+          "value": "Edge telemetry"
+        },
+        {
+          "value": "AWS"
+        },
+        {
+          "value": "Azure"
+        },
+        {
+          "value": "Google Cloud"
+        },
+        {
+          "value": "Snowflake"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Buddy AI"
+        },
+        {
+          "value": "FieldIQ"
+        },
+        {
+          "value": "IOCaaS"
+        },
+        {
+          "value": "CARBiN Direct Air Capture"
+        },
+        {
+          "value": "Operators of the Future training"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Anomaly detection"
+        },
+        {
+          "value": "Production optimization"
+        },
+        {
+          "value": "Methane reduction"
+        },
+        {
+          "value": "Artificial lift optimization"
+        },
+        {
+          "value": "Operational automation"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Oil and Gas"
+        },
+        {
+          "value": "Energy Production"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Edge AI & IoT"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "Qventus",
+      "description": "Qventus provides an AI-driven platform designed to automate hospital operations and improve clinical and financial outcomes for healthcare systems. Founded in 2012 and based in Mountain View, California, the company offers AI teammates that take action on administrative tasks, allowing frontline staff and providers to focus on delivering high-quality patient care. Their solutions address critical operational challenges such as operating room utilization, surgical growth, and inpatient capacity management. By integrating directly into Electronic Health Records (EHR), Qventus provides real-time interventions and predictive insights to reduce length of stay, minimize surgery cancellations, and streamline discharge planning. The platform is used by major health systems to orchestrate ancillary resources and reduce the administrative burden that leads to staff burnout. The company employs 280 people, generates $21.8 million in revenue, and has raised $196.1 million in funding. Qventus serves public, academic, and community hospitals across the United States.",
+      "business_email": "contact@qventus.com",
+      "location": "295 Bernardo Ave, Mountain View, California 94043, US",
+      "team_size": "280",
+      "technologies_used": [
+        {
+          "value": "AI"
+        },
+        {
+          "value": "Machine Learning"
+        },
+        {
+          "value": "EHR integration"
+        },
+        {
+          "value": "AI Operational Assistants"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Surgical Growth Solution"
+        },
+        {
+          "value": "Perioperative Care Coordination"
+        },
+        {
+          "value": "Inpatient Capacity Solution"
+        },
+        {
+          "value": "Discharge Planning tools"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "OR scheduling optimization"
+        },
+        {
+          "value": "Surgery cancellation reduction"
+        },
+        {
+          "value": "Length of stay management"
+        },
+        {
+          "value": "Pre-admission testing automation"
+        },
+        {
+          "value": "Service line growth"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Hospital Systems"
+        },
+        {
+          "value": "Surgical Services"
+        },
+        {
+          "value": "Inpatient Care"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "NOHOLD Inc.",
+      "description": "NOHOLD Inc. is a technology company that has been developing enterprise-grade Artificial Intelligence experiences since 1999. Based in Milpitas, California, the firm specializes in the design, development, deployment, and maintenance of custom AI solutions tailored for global companies. Their core technology is the SICURA AI Platform, a no-code environment that enables businesses to create unique AI applications for various needs, such as onboarding, document generation, and task execution. NOHOLD utilizes AI Assistants as conversational gateways, allowing users to interact via voice or text. These assistants are trained on company-approved content and leverage language models specific to a client's business to ensure high accuracy and security. The company holds multiple patents related to interactive virtual conversation interfaces and natural language processing. Their platform is designed to be secure and compliant, meeting SOC 2 Type II, HIPAA, and PCI standards, while offering 24/7 support and multilingual capabilities. The company employs 30 people and generates $5.6 million in revenue, serving global enterprises including gaming studios and construction companies.",
+      "business_email": "info@nohold.com",
+      "location": "830 Hillview Ct, Suite 120, Milpitas, CA 95035",
+      "team_size": "30",
+      "technologies_used": [
+        {
+          "value": "SICURA AI Platform"
+        },
+        {
+          "value": "NLP"
+        },
+        {
+          "value": "NLP2X"
+        },
+        {
+          "value": "No-code platform"
+        },
+        {
+          "value": "SOC 2"
+        },
+        {
+          "value": "HIPAA"
+        },
+        {
+          "value": "PCI"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "SICURA AI Platform"
+        },
+        {
+          "value": "Custom AI Assistants"
+        },
+        {
+          "value": "Interactive Virtual Conversation Interface"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Employee onboarding"
+        },
+        {
+          "value": "Document generation"
+        },
+        {
+          "value": "Task execution"
+        },
+        {
+          "value": "Issue diagnosis"
+        },
+        {
+          "value": "Report generation"
+        },
+        {
+          "value": "Process guidance"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Global Enterprises"
+        },
+        {
+          "value": "Gaming"
+        },
+        {
+          "value": "Construction"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Finance"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Voice AI"
+        }
+      ]
+    },
+    {
+      "company_name": "Owebest.AI",
+      "description": "Owebest.ai is a technology firm dedicated to shaping the future of businesses through the transformative power of Artificial Intelligence. They specialize in delivering innovative solutions designed to propel enterprises into a new era of efficiency, success, and productivity. The company focuses on integrating AI technologies to help organizations streamline their functions, align with specific growth objectives, and discover unmatched opportunities for innovation. Their team consists of passionate AI enthusiasts, engineers, and experts who stay at the forefront of the AI landscape to ensure clients benefit from cutting-edge advancements. Owebest.ai offers a comprehensive range of services, including machine learning, natural language processing, generative AI, and computer vision. They follow a structured development process that includes data collection, cleaning, modeling, and performance optimization. By leveraging advanced algorithms and neural networks, they create customized tools like virtual assistants and predictive analytics systems to solve real-world problems and enhance decision-making across various global industries. Their solutions address use cases ranging from dynamic pricing and inventory management to medical diagnosis and autonomous vehicles.",
+      "business_email": "contact@owebest.ai",
+      "location": "Not specified",
+      "team_size": "Not specified",
+      "technologies_used": [
+        {
+          "value": "TensorFlow"
+        },
+        {
+          "value": "PyTorch"
+        },
+        {
+          "value": "Keras"
+        },
+        {
+          "value": "Azure"
+        },
+        {
+          "value": "AWS"
+        },
+        {
+          "value": "Google Cloud Platform"
+        },
+        {
+          "value": "CNN"
+        },
+        {
+          "value": "RNN"
+        },
+        {
+          "value": "GAN"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "AI Strategy"
+        },
+        {
+          "value": "Generative AI"
+        },
+        {
+          "value": "Machine Learning"
+        },
+        {
+          "value": "NLP"
+        },
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Chatbot Development"
+        },
+        {
+          "value": "Virtual Assistant"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Dynamic pricing"
+        },
+        {
+          "value": "Inventory management"
+        },
+        {
+          "value": "Visual search"
+        },
+        {
+          "value": "Predictive maintenance"
+        },
+        {
+          "value": "Quality control"
+        },
+        {
+          "value": "Medical diagnosis"
+        },
+        {
+          "value": "Algorithmic trading"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Retail"
+        },
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Agriculture"
+        },
+        {
+          "value": "Transportation"
+        },
+        {
+          "value": "Energy"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Finance"
+        },
+        {
+          "value": "Education"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "AI Ethics & Governance"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Recommendation Systems"
+        }
+      ]
+    },
+    {
+      "company_name": "Quantexa",
+      "description": "Quantexa is a global leader in Decision Intelligence that provides a platform to help organizations transform data management, customer intelligence, risk, financial crime, fraud, and security. Founded in 2016 and based in London, UK, the company focuses on harnessing trusted data and context-driven AI to unite human expertise with machine learning and Agentic AI, enabling smarter, faster, and more trusted decisions. Their Decision Intelligence Platform creates a trusted, connected data foundation across all data assets to power unique business applications. By using entity resolution and contextual analytics, Quantexa helps organizations identify hidden networks and risks, moving beyond standard data-driven approaches to a decision-centric model. The technology is designed to be seamlessly embedded into existing processes and workflows, offering transparency and consistency required by regulators and governments while driving operational efficiency and business growth across various global industries. The company employs 890 people, generates $100 million in revenue, and has raised $545 million in funding. Quantexa serves banking, insurance, public sector, telecommunications, and healthcare organizations worldwide.",
+      "business_email": "contact@quantexa.com",
+      "location": "10 York Road, London, England SE1 7, United Kingdom",
+      "team_size": "890",
+      "technologies_used": [
+        {
+          "value": "Quantexa Decision Intelligence Platform"
+        },
+        {
+          "value": "Agentic AI"
+        },
+        {
+          "value": "Machine Learning"
+        },
+        {
+          "value": "Entity Resolution"
+        },
+        {
+          "value": "Contextual Analytics"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Decision Intelligence Platform"
+        },
+        {
+          "value": "Data Management"
+        },
+        {
+          "value": "Customer Intelligence"
+        },
+        {
+          "value": "Financial Crime Solutions"
+        },
+        {
+          "value": "Risk Management"
+        },
+        {
+          "value": "KYC"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Financial crime detection"
+        },
+        {
+          "value": "Fraud investigations"
+        },
+        {
+          "value": "Risk intelligence"
+        },
+        {
+          "value": "Insurance claims automation"
+        },
+        {
+          "value": "Customer 360 views"
+        },
+        {
+          "value": "Tax crime investigation"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Banking"
+        },
+        {
+          "value": "Insurance"
+        },
+        {
+          "value": "Public Sector"
+        },
+        {
+          "value": "Telecommunications"
+        },
+        {
+          "value": "Healthcare"
+        }
+      ],
+      "categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "AI Ethics & Governance"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "OpenText",
+      "description": "OpenText is a global leader in secure information management designed to help organizations master their enterprise content and drive scalable AI innovation. Founded in 1991 and based in Waterloo, Ontario, Canada, the company provides a comprehensive suite of tools that unlock data, connect people and processes, and fuel trusted AI by transforming raw information into actionable outcomes. Their technology focuses on making data AI-ready through discovery, preparation, and the implementation of governance and compliance frameworks. By integrating data across various systems like CRM, ERP, and supply chain management, OpenText provides an information layer across structured and unstructured content. Their solutions include personalized AI agents that automate roles and tasks within specific workflows, ensuring that intelligence is applied in context. With decades of expertise, OpenText supports over 120,000 organizations worldwide, offering secure, governed, and compliant platforms that include sovereign cloud options to meet regional data needs. The company employs 22,000 people, generates $5.3 billion in revenue, and is publicly traded on NASDAQ (OTEX). OpenText serves industries including manufacturing, financial services, retail, telecommunications, healthcare, and professional services.",
+      "business_email": "info@opentext.com",
+      "location": "275 Frank Tompa Drive, Waterloo, Ontario N2L 6R2, Canada",
+      "team_size": "22000",
+      "technologies_used": [
+        {
+          "value": "OpenText Aviator"
+        },
+        {
+          "value": "Content Aviator"
+        },
+        {
+          "value": "Business Network Cloud"
+        },
+        {
+          "value": "NetIQ"
+        },
+        {
+          "value": "SAP Solutions"
+        },
+        {
+          "value": "Sovereign AI Cloud"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI and Analytics"
+        },
+        {
+          "value": "Content Cloud"
+        },
+        {
+          "value": "Cybersecurity Cloud"
+        },
+        {
+          "value": "DevOps Cloud"
+        },
+        {
+          "value": "Experience Cloud"
+        },
+        {
+          "value": "Information Management APIs"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "IT operations automation"
+        },
+        {
+          "value": "Software release acceleration"
+        },
+        {
+          "value": "Compliance tracking"
+        },
+        {
+          "value": "Identity governance"
+        },
+        {
+          "value": "HR document automation"
+        },
+        {
+          "value": "Warranty claims data access"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Financial Services"
+        },
+        {
+          "value": "Retail"
+        },
+        {
+          "value": "Telecommunications"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Professional Services"
+        }
+      ],
+      "categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "AI Ethics & Governance"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "Oversight",
+      "description": "Oversight is a leading provider of AI-based spend management and risk mitigation solutions, headquartered in Atlanta, Georgia. Founded in 2003, with over two decades of experience, the company focuses on helping large enterprises detect spending errors and misuse through its advanced AI-powered platform. The platform offers real-time monitoring, fraud detection, and audit automation across financial systems. It unifies all financial and compliance data to identify risks and enforce controls. Key capabilities include automating invoice reviews in accounts payable, monitoring travel and expense reports for policy violations, and analyzing purchase card transactions for high-risk activities. The platform also features audit planning, compliance tracking, and customizable reporting tools. Oversight's solutions integrate with major enterprise systems including SAP, Oracle, Workday, Ariba, and Coupa, enhancing operational efficiency and providing significant savings for its clients. The company employs 160 people, generates $16 million in revenue, and has raised $44.8 million in funding. Oversight serves diverse businesses from startups to large enterprises, trusted by finance and audit teams across various sectors including transportation, manufacturing, higher education, and healthcare.",
+      "business_email": "info@oversight.com",
+      "location": "360 Interstate North Pkwy SE, Suite 300, Atlanta, Georgia 30339, US",
+      "team_size": "160",
+      "technologies_used": [
+        {
+          "value": "AI/ML models"
+        },
+        {
+          "value": "SAP Concur"
+        },
+        {
+          "value": "Oracle"
+        },
+        {
+          "value": "Workday"
+        },
+        {
+          "value": "Ariba"
+        },
+        {
+          "value": "Coupa"
+        },
+        {
+          "value": "API integration"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Oversight Platform"
+        },
+        {
+          "value": "Travel & Expense Monitoring"
+        },
+        {
+          "value": "Procure-to-Pay Monitoring"
+        },
+        {
+          "value": "Purchase Card Monitoring"
+        },
+        {
+          "value": "Vendor Statement Reconciliation"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Real-time risk monitoring"
+        },
+        {
+          "value": "Fraud detection"
+        },
+        {
+          "value": "Audit automation"
+        },
+        {
+          "value": "Duplicate payment prevention"
+        },
+        {
+          "value": "Policy violation flagging"
+        },
+        {
+          "value": "Spend recovery"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Finance"
+        },
+        {
+          "value": "Audit"
+        },
+        {
+          "value": "Shared Services"
+        },
+        {
+          "value": "Transportation"
+        },
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Higher Education"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Document AI"
+        }
+      ]
+    },
+    {
+      "company_name": "ProphetLogic",
+      "description": "ProphetLogic is a sales development and technology company that specializes in driving revenue through a strategic blend of human expertise and artificial intelligence. The company provides a comprehensive suite of services designed to optimize the sales funnel, including outbound prospecting led by expert human Sales Development Representatives (SDRs) and inbound lead qualification managed by AI Voice Agents. Additionally, they offer AI Training Agents specifically built to help internal SDR teams improve their performance through realistic simulations. By focusing on creating \"conversations that convert,\" ProphetLogic helps founders, sales leaders, and growth teams simplify outbound efforts, accelerate lead response times, and enhance overall representative readiness. With over 20 years of experience in sales development, the company aims to fill client pipelines and qualify high-volume calls to ensure smarter conversations at every touchpoint. Their solutions serve various industries including technology and general business growth sectors, addressing use cases such as pipeline growth, inbound lead handling, SDR skill enhancement, meeting booking, and support response time improvement.",
+      "business_email": "contact@prophetlogic.com",
+      "location": "Not specified",
+      "team_size": "Not specified",
+      "technologies_used": [
+        {
+          "value": "AI Voice Agents"
+        },
+        {
+          "value": "AI Training Agents"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Expert Human SDRs"
+        },
+        {
+          "value": "AI Voice Agents for inbound qualification"
+        },
+        {
+          "value": "AI Training Agents"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Pipeline growth"
+        },
+        {
+          "value": "Inbound lead handling"
+        },
+        {
+          "value": "SDR training"
+        },
+        {
+          "value": "Meeting booking"
+        },
+        {
+          "value": "Support response improvement"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Sales"
+        },
+        {
+          "value": "Technology"
+        },
+        {
+          "value": "Business Growth"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "PugliAI",
+      "description": "PugliAI is an Italian artificial intelligence consultancy specialized in empowering Small and Medium Enterprises (SMEs) through structured AI implementation packages. Starting at 15,000 Euro, these packages aim to deliver a guaranteed 150% return on investment within short timeframes, typically seeing initial results in 2 to 4 weeks. The company offers a range of services including strategic consulting, custom automation development for marketing and sales, and comprehensive team training workshops to ensure staff autonomy. Their portfolio features advanced solutions like VoiceAI On-Premise for secure automated customer service and KnowledgeAI Enterprise, a Retrieval-Augmented Generation (RAG) system for querying internal company documents. PugliAI emphasizes data sovereignty by offering on-premise deployments, ensuring sensitive information remains local and compliant with GDPR and the EU AI Act. Additionally, they operate an accelerator program for AI-driven startups, providing intensive support and a bridge to international markets like Singapore. The company partners with Microsoft, AWS, and Google Cloud, and maintains partnerships with the University of Bari and University of Salento in Italy. Their solutions serve industries including manufacturing, fashion & luxury, financial services, healthcare, food & beverage, tourism, retail, and franchising.",
+      "business_email": "contact@pugliai.com",
+      "location": "Italy (partnerships with University of Bari and University of Salento)",
+      "team_size": "Not specified",
+      "technologies_used": [
+        {
+          "value": "Microsoft Partner"
+        },
+        {
+          "value": "AWS Partner"
+        },
+        {
+          "value": "Google Cloud Partner"
+        },
+        {
+          "value": "Agentic AI"
+        },
+        {
+          "value": "LLM orchestration"
+        },
+        {
+          "value": "RPA"
+        },
+        {
+          "value": "MLOps"
+        },
+        {
+          "value": "RAG"
+        },
+        {
+          "value": "Voice AI"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "VoiceAI On-Premise"
+        },
+        {
+          "value": "KnowledgeAI Enterprise"
+        },
+        {
+          "value": "Startup Accelerator"
+        },
+        {
+          "value": "Strategic Consulting"
+        },
+        {
+          "value": "Team Training"
+        },
+        {
+          "value": "Pre-built Automations"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automated customer service"
+        },
+        {
+          "value": "Technical documentation assistant"
+        },
+        {
+          "value": "Contract search"
+        },
+        {
+          "value": "Franchise location analysis"
+        },
+        {
+          "value": "Lead qualification"
+        },
+        {
+          "value": "Supply chain optimization"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Fashion & Luxury"
+        },
+        {
+          "value": "Financial Services"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Food & Beverage"
+        },
+        {
+          "value": "Tourism"
+        },
+        {
+          "value": "Retail"
+        },
+        {
+          "value": "Franchising"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "Oregon Systems",
+      "description": "Oregon Systems is a cybersecurity engineering firm dedicated to transforming digital safety through a focus on AI, data storage empowerment, and high-performance computing. Based in Abu Dhabi, United Arab Emirates, the company specializes in both Information Technology (IT) and Operational Technology (OT) security, catering to critical infrastructure sectors. Their service portfolio includes browser isolation, data intelligence platforms, network segmentation, and insider risk solutions. They utilize advanced technologies such as data diodes and cross-domain solutions to ensure unidirectional data flow and secure transfers between segregated networks. With a team of certified AI experts, the company leverages machine learning algorithms to optimize business operations and streamline processes. They provide comprehensive services ranging from vulnerability assessments and industrial patch management to resident engineering and consulting, all while aligning with global standards like NIST and ISO to maintain regulatory compliance for their clients. Oregon Systems serves industries including oil and gas, utilities, manufacturing, defense, and healthcare, addressing use cases such as secure file transfer, PI Historian replication, database replication, CCTV network security, and vulnerability assessments.",
+      "business_email": "contact@oregon-systems.com",
+      "location": "Abu Dhabi, United Arab Emirates",
+      "team_size": "Not specified",
+      "technologies_used": [
+        {
+          "value": "Machine Learning"
+        },
+        {
+          "value": "Data Diodes"
+        },
+        {
+          "value": "Browser Isolation"
+        },
+        {
+          "value": "HPC"
+        },
+        {
+          "value": "Cross Domain Solutions"
+        },
+        {
+          "value": "Industrial Patch Management"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Browser Isolation"
+        },
+        {
+          "value": "Data Intelligence Platform"
+        },
+        {
+          "value": "Network Segmentation"
+        },
+        {
+          "value": "Insider Risk Solutions"
+        },
+        {
+          "value": "Data Diode"
+        },
+        {
+          "value": "Cyber Lab"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Secure file transfer"
+        },
+        {
+          "value": "OSI PI Historian replication"
+        },
+        {
+          "value": "Database replication"
+        },
+        {
+          "value": "CCTV network security"
+        },
+        {
+          "value": "Vulnerability assessments"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Oil and Gas"
+        },
+        {
+          "value": "Utilities"
+        },
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Defense"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Critical Infrastructure"
+        }
+      ],
+      "categories": [
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Edge AI & IoT"
+        }
+      ]
+    },
+    {
+      "company_name": "Quadrant Technologies",
+      "description": "Quadrant Technologies is a global technology solutions provider with over 20 years of industry experience and a presence in more than 10 countries. The company specializes in delivering a comprehensive suite of technology services designed to drive business growth and innovation, including AI and Machine Learning, Application Services, Cloud Services, Data and Analytics, and DevSecOps. As a Microsoft Solutions Partner and CMMI Maturity Level 5 certified organization, Quadrant focuses on modernizing applications for scalability, providing secure cloud solutions, and empowering businesses with actionable insights through advanced data management. Their AI and ML offerings are specifically designed to streamline workflows, automate repetitive tasks, and optimize data management to enhance decision-making and operational efficiency. They work with a diverse range of global clients, from healthcare providers to major tech firms, assisting them in digital transformation journeys and complex database migrations using proprietary automation tools. The company serves industries including healthcare, technology, aviation and travel, retail and FMCG, government, finance/insurance, and food and beverage.",
+      "business_email": "contact@quadranttechnologies.com",
+      "location": "Global presence in 10+ countries",
+      "team_size": "Not specified",
+      "technologies_used": [
+        {
+          "value": "Microsoft"
+        },
+        {
+          "value": "Azure"
+        },
+        {
+          "value": "Microsoft Fabric"
+        },
+        {
+          "value": "Power BI"
+        },
+        {
+          "value": "SingleStore"
+        },
+        {
+          "value": "Oracle"
+        },
+        {
+          "value": "Google Gemini"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI & ML solutions"
+        },
+        {
+          "value": "Application Services"
+        },
+        {
+          "value": "Cloud Services"
+        },
+        {
+          "value": "Data & Analytics"
+        },
+        {
+          "value": "DevSecOps"
+        },
+        {
+          "value": "Q-Migrator"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Database migration"
+        },
+        {
+          "value": "Code conversion"
+        },
+        {
+          "value": "Customer lifecycle automation"
+        },
+        {
+          "value": "Real-time intelligence"
+        },
+        {
+          "value": "Anomaly detection"
+        },
+        {
+          "value": "Hospital system transformation"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Technology"
+        },
+        {
+          "value": "Aviation and Travel"
+        },
+        {
+          "value": "Retail and FMCG"
+        },
+        {
+          "value": "Government"
+        },
+        {
+          "value": "Finance/Insurance"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        }
+      ]
+    },
+    {
+      "company_name": "PR Newswire",
+      "description": "PR Newswire is a global leader in news distribution and earned media software, operating for over 70 years as a trusted source for journalists and brands. A Cision company, PR Newswire provides an AI-enhanced platform called PR Newswire Amplify that enables communicators to plan, create, distribute, and report on their campaigns in one unified workflow. Their network reaches over 500,000 media outlets, newsrooms, and influencers worldwide, offering search engine authority and multichannel visibility. Through innovations like the Create+ tool, users can instantly turn a single story into multiple campaign assets such as blog posts, snapshot videos, and media pitches. The platform also features a Plan module for brainstorming strategies and discovering trending news, alongside a press release scoring system powered by AI and decades of performance data to maximize engagement. By acquiring platforms like Trajaan, the company has expanded into search intelligence and generative AI monitoring to provide deeper insights for communications professionals. PR Newswire serves various industries including auto and transportation, consumer products, energy, entertainment, financial services, healthcare, and general business.",
+      "business_email": "contact@prnewswire.com",
+      "location": "Not specified (mentions Chicago and New York in news datelines)",
+      "team_size": "Not specified",
+      "technologies_used": [
+        {
+          "value": "PR Newswire Amplify"
+        },
+        {
+          "value": "Create+"
+        },
+        {
+          "value": "Trajaan"
+        },
+        {
+          "value": "GenAI"
+        },
+        {
+          "value": "Search intelligence"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Press release distribution"
+        },
+        {
+          "value": "PR Newswire Amplify"
+        },
+        {
+          "value": "Multichannel Amplification"
+        },
+        {
+          "value": "Create+ AI content generation"
+        },
+        {
+          "value": "Plan campaign strategy"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "News distribution"
+        },
+        {
+          "value": "Multimedia campaign asset generation"
+        },
+        {
+          "value": "PR campaign strategy"
+        },
+        {
+          "value": "Industry trend tracking"
+        },
+        {
+          "value": "Press release optimization"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Auto and Transportation"
+        },
+        {
+          "value": "Consumer Products"
+        },
+        {
+          "value": "Energy"
+        },
+        {
+          "value": "Entertainment"
+        },
+        {
+          "value": "Financial Services"
+        },
+        {
+          "value": "Healthcare"
+        }
+      ],
+      "categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "pureIntegration",
+      "description": "pureIntegration is a technology consulting and systems integration firm that serves as a partner to businesses seeking digital transformation. Founded in 2004 and based in Reston, Virginia, the company specializes in building custom roadmaps that integrate the right people and technology to solve complex business challenges. Their expertise spans across several domains including big data architectures, artificial intelligence, and machine learning solutions designed to provide actionable, predictive, and prescriptive insights. They focus on automating critical business processes to lower costs and improve customer experiences, while also managing hybrid cloud deployments and data engineering operations. With a strong presence in the communications, energy, and media technology sectors, they aim to help organizations optimize multi-screen distribution, accelerate telecom initiatives, and achieve digital success through specialized industry experience and a 97% client satisfaction rate. The firm leverages its experience with Fortune 500 companies to provide solutions across the full systems integration lifecycle. The company employs 110 people and generates $12.2 million in revenue.",
+      "business_email": "contact@pureintegration.com",
+      "location": "1801 Robert Fulton Dr, Reston, Virginia 20191, US",
+      "team_size": "110",
+      "technologies_used": [
+        {
+          "value": "Big data architectures"
+        },
+        {
+          "value": "AI/ML"
+        },
+        {
+          "value": "Multi-Cloud"
+        },
+        {
+          "value": "Hybrid Cloud"
+        },
+        {
+          "value": "Codeless programming"
+        },
+        {
+          "value": "OpenTelemetry"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "ContentCheck"
+        },
+        {
+          "value": "RunCodeless"
+        },
+        {
+          "value": "Intelligent Automation"
+        },
+        {
+          "value": "Data Engineering"
+        },
+        {
+          "value": "Multi-Cloud Management"
+        },
+        {
+          "value": "Video Quality Monitoring"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Video ad classification"
+        },
+        {
+          "value": "Codeless synthetic monitoring"
+        },
+        {
+          "value": "Multi-screen distribution optimization"
+        },
+        {
+          "value": "Subscription management"
+        },
+        {
+          "value": "IoT automation"
+        },
+        {
+          "value": "Proactive monitoring"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Communications"
+        },
+        {
+          "value": "Energy & Utilities"
+        },
+        {
+          "value": "Media Technology"
+        },
+        {
+          "value": "Network Service Providers"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "Edge AI & IoT"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "Process Innovations",
+      "description": "Process Innovations provides software and services designed to maximize Asset Performance Management investments through advanced data analytics, visualization, and integration, specifically for the Aveva/OSIsoft PI System. Since 2004, the company has operated as an OSIsoft Integration Partner, based in Greenwood Village, Colorado, helping clients improve operational efficiency, reduce risk, and optimize processes. Their expertise lies in Industrial IoT, helping businesses transform vast amounts of collected data into actionable insights to avoid missed opportunities and regulatory fines. They offer specialized plugins that simplify complex analysis and reporting, alongside a full range of consulting services that cover system planning, installation, ongoing maintenance, and troubleshooting. By automating report generation and distribution, they aim to streamline workflows and enhance decision-making for industrial facilities, supporting over 120 companies globally. The company serves industries including power & utilities, oil & gas, manufacturing, chemical, and water & wastewater.",
+      "business_email": "info@processinnovations.io",
+      "location": "8400 East Prentice Avenue, Suite 1300, Greenwood Village, CO 80111",
+      "team_size": "Not specified",
+      "technologies_used": [
+        {
+          "value": "Aveva/OSIsoft PI System"
+        },
+        {
+          "value": "Industrial IoT"
+        },
+        {
+          "value": "Process Plugins"
+        },
+        {
+          "value": "AF Reports"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Asset Performance Management Software"
+        },
+        {
+          "value": "Process Plugins"
+        },
+        {
+          "value": "PI System consulting"
+        },
+        {
+          "value": "Automated report generation"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Predictive maintenance"
+        },
+        {
+          "value": "Asset-based reliability"
+        },
+        {
+          "value": "Condition-based maintenance analytics"
+        },
+        {
+          "value": "Automated reporting"
+        },
+        {
+          "value": "Enterprise system integration"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Power & Utilities"
+        },
+        {
+          "value": "Oil & Gas"
+        },
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Chemical"
+        },
+        {
+          "value": "Water & Wastewater"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "Prisa Consulting Services",
+      "description": "Prisa Consulting Services specializes in providing innovative solutions tailored to the unique needs of each client. The company is committed to delivering exceptional services in the areas of staffing, technology, and business process optimization. By combining deep industry expertise with cutting-edge technology, they help businesses navigate complex challenges and achieve sustainable growth. Their team of dedicated professionals works closely with clients to understand their goals, providing customized strategies and solutions that drive success. Whether it is securing top-tier talent, optimizing workflows, or implementing robust IT security measures, Prisa Consulting Services is a trusted partner in achieving business excellence. Through diverse service offerings and commitment to excellence, they build lasting relationships with their clients, ensuring delivery of measurable results that make a significant impact on operations. The company employs 534 workers and serves industries including IT, healthcare, finance, and engineering.",
+      "business_email": "contact@prisallc.com",
+      "location": "Texas, USA (area code 817)",
+      "team_size": "534",
+      "technologies_used": [
+        {
+          "value": "PAM"
+        },
+        {
+          "value": "IAM"
+        },
+        {
+          "value": "Public Cloud"
+        },
+        {
+          "value": "Private Cloud"
+        },
+        {
+          "value": "Hybrid Cloud"
+        },
+        {
+          "value": "AI-driven recruitment"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Cybersecurity"
+        },
+        {
+          "value": "Cloud Solutions"
+        },
+        {
+          "value": "Healthcare Talent Acquisition"
+        },
+        {
+          "value": "IT Staffing"
+        },
+        {
+          "value": "BizTech Consulting"
+        },
+        {
+          "value": "Software Development"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Dental Clinic Management"
+        },
+        {
+          "value": "School MIS"
+        },
+        {
+          "value": "Maintenance Tracking"
+        },
+        {
+          "value": "Workforce Planning"
+        },
+        {
+          "value": "Talent Sourcing"
+        },
+        {
+          "value": "Cloud Migration"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "IT"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Finance"
+        },
+        {
+          "value": "Engineering"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "Peterson Technologies",
+      "description": "Peterson Technologies is a leading information technology business with innovative ideas and methodologies, capable of meeting the most critical technical requirements. Founded in 2001 and based in Elkridge, Maryland, it is an advanced technology company providing smarter ways to ingest, detect interests, translate, display, and simplify the use of mass volumes of data. As an engineering firm, they specialize in custom computer design, development, integration, and deployment, focusing on state-of-the-art and cutting-edge technologies that enable intelligence and cyber missions. They have a proven past performance record of providing sound technical solutions and solving customers' most technological challenges while ensuring quality solutions and cost savings. The team possesses technical expertise, skills, and experience needed to ensure quality and cost-effective outcomes for complex technical hurdles within the Intelligence Community. The company serves the Intelligence Community, cybersecurity, and defense/government sectors.",
+      "business_email": "contact@ptech-llc.com",
+      "location": "6810 Deerpath Rd #100, Elkridge, MD 21075",
+      "team_size": "Not specified",
+      "technologies_used": [
+        {
+          "value": "AI"
+        },
+        {
+          "value": "Machine Learning"
+        },
+        {
+          "value": "Data Discovery and Analysis"
+        },
+        {
+          "value": "Information Assurance"
+        },
+        {
+          "value": "CDS"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Mission Systems Solutions"
+        },
+        {
+          "value": "Data Discovery"
+        },
+        {
+          "value": "Decision Support"
+        },
+        {
+          "value": "AI/ML services"
+        },
+        {
+          "value": "Information Assurance"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Data ingestion"
+        },
+        {
+          "value": "Data translation"
+        },
+        {
+          "value": "Mass data analysis"
+        },
+        {
+          "value": "Intelligence missions"
+        },
+        {
+          "value": "Cyber missions"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Intelligence Community"
+        },
+        {
+          "value": "Cyber Security"
+        },
+        {
+          "value": "Defense/Government"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "Novo Connection",
+      "description": "Novo Connection is a technology-driven platform designed to streamline and simplify the process of self-insured quoting and stop-loss management for insurance brokers and their clients. The company utilizes data to drive informed decision-making, allowing advisors to model various self-funding strategies, evaluate a group's risk, and customize plan designs and components to meet specific needs. Through its proprietary secure platform, Novo Connection enables users to secure competitive stop-loss coverage that aligns with their customized plan designs. Furthermore, the company provides access to a network of fully-vetted vendors and pre-negotiated rates, which helps organizations save time and reduce costs on everything from stop-loss insurance to specialized program point solutions. By applying smart technology to the healthcare and insurance industries, Novo Connection provides detailed reporting and direct partnerships with stop-loss carriers to optimize benefit plan management.",
+      "business_email": "contact@novoconnection.com",
+      "location": "Not specified",
+      "team_size": "Not specified",
+      "technologies_used": [
+        {
+          "value": "Novo platform"
+        },
+        {
+          "value": "Smart technology"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Self-insured quoting platform"
+        },
+        {
+          "value": "Stop-loss coverage"
+        },
+        {
+          "value": "Vendor marketplace"
+        },
+        {
+          "value": "Benefit plan builder"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Self-funding insurance modeling"
+        },
+        {
+          "value": "Risk assessment"
+        },
+        {
+          "value": "Healthcare plan design"
+        },
+        {
+          "value": "Insurance rate securing"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Insurance"
+        },
+        {
+          "value": "Employee Benefits"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    }
+  ]
+}

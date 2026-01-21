@@ -1,0 +1,778 @@
+{
+  "companies": [
+    {
+      "name": "Teneo AI",
+      "name_citation": "https://www.teneo.ai/about",
+      "description": "Teneo AI is a publicly traded company on Nasdaq First North that positions itself at the forefront of Generative AI and Large Language Model (LLM) technology. Leveraging state-of-the-art models such as GPT, Teneo builds AI-driven conversational interfaces that replace traditional, keypad-based Interactive Voice Response (IVR) systems with natural, voice-first dialogues. The company’s core mission is to empower every organization on the planet to provide outstanding customer experiences for their clients, removing friction between customers and the services they need and connecting humans and machines. Teneo’s platform delivers a suite of AI-powered customer service solutions, most notably an intelligent IVR that understands intent, answers queries, and routes calls in real time, dramatically reducing wait times and improving satisfaction. By integrating generative language models, the system can handle open-ended conversations, retrieve relevant information from back-office systems, and provide personalized assistance without requiring customers to navigate nested menus. The firm’s technology has been adopted by hundreds of enterprises, including technology giants such as Amazon, Apple, Baidu, Google, Microsoft, Nuance, and IBM, which have cited Teneo’s patents as evidence of its pioneering role in next-generation customer experience. High-growth companies across diverse sectors—Telefónica, HelloFresh, Škoda, and Swisscom—use Teneo’s AI conversations to uncover new business opportunities, streamline support operations, and differentiate their brands. Overall, Teneo AI combines cutting-edge LLM research, voice AI engineering, and enterprise-grade scalability to transform the way organizations interact with customers, moving from static, menu-driven phone trees to dynamic, human-like conversations that can be deployed at global scale. The company maintains a strong focus on security and compliance, ensuring that its AI agents can be trusted in highly regulated environments. Through its Teneo.ai platform, organizations can build, orchestrate, and optimize AI agents that deliver 99% accuracy in intent detection and significantly lower operational costs.",
+      "description_citation": "https://www.teneo.ai/about",
+      "business_email": "info@teneo.ai",
+      "business_email_citation": "https://www.teneo.ai/contact",
+      "location": "Stureplan 15, Stockholm, Sweden",
+      "location_citation": "https://www.teneo.ai/contact",
+      "team_size": "59 employees",
+      "team_size_citation": "https://pitchbook.com/profiles/company/57047-23",
+      "technologies": [
+        {
+          "value": "Generative AI",
+          "value_citation": "https://www.teneo.ai/about"
+        },
+        {
+          "value": "Large Language Models (LLMs)",
+          "value_citation": "https://www.teneo.ai/about"
+        },
+        {
+          "value": "Natural Language Understanding (NLU)",
+          "value_citation": "https://www.teneo.ai/about"
+        },
+        {
+          "value": "Voice AI",
+          "value_citation": "https://www.teneo.ai/about"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI-powered IVR Replacement",
+          "value_citation": "https://www.teneo.ai/about"
+        },
+        {
+          "value": "Conversational AI Platform",
+          "value_citation": "https://www.teneo.ai/about"
+        },
+        {
+          "value": "Enterprise AI Agent Builder",
+          "value_citation": "https://www.teneo.ai/about"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automating customer support calls",
+          "value_citation": "https://www.teneo.ai/about"
+        },
+        {
+          "value": "Real-time call routing and self-service",
+          "value_citation": "https://www.teneo.ai/about"
+        },
+        {
+          "value": "Multilingual AI-driven customer assistance",
+          "value_citation": "https://www.teneo.ai/about"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Telecommunications",
+          "value_citation": "https://www.teneo.ai/about"
+        },
+        {
+          "value": "Retail",
+          "value_citation": "https://www.teneo.ai/about"
+        },
+        {
+          "value": "Automotive",
+          "value_citation": "https://www.teneo.ai/about"
+        },
+        {
+          "value": "Financial Services",
+          "value_citation": "https://www.teneo.ai/about"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Voice AI",
+          "value_citation": "https://www.teneo.ai/about"
+        },
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://www.teneo.ai/about"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://www.teneo.ai/about"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.teneo.ai/about"
+        }
+      ],
+      "teneo_ai_data": {
+        "name": "Teneo AI",
+        "name_citation": "https://www.teneo.ai"
+      }
+    },
+    {
+      "name": "Teradata",
+      "name_citation": "https://www.teradata.com/about-us",
+      "description": "Teradata is a global data-analytics and cloud-platform provider that positions itself as the engine for the autonomous era. Its flagship offering, the Teradata AI + Knowledge Platform, couples a high-performance, cloud-native data warehouse with built-in artificial-intelligence and machine-learning services. The company’s mission is to empower enterprises to rapidly seize new opportunities, generate breakthrough insights, and outpace competition by delivering a harmonized data environment where trusted AI/ML can be operationalized at scale. Through an integrated suite of capabilities—data ingestion, integration, governance, storage, and analytics—Teradata enables organizations to create a single source of truth for all structured and unstructured data. Its AI Services overlay domain expertise on top of enterprise-wide context, allowing customers to deploy solutions that combine industry-specific knowledge with the unique data assets of the organization. The platform is designed to be built for the autonomous era, supporting end-to-end automation of data pipelines, model training, deployment, and monitoring, all while maintaining performance, security, and compliance. Teradata emphasizes a customer-centric approach, showcasing thousands of users across retail, financial services, healthcare, and telecommunications. High-profile clients like US Bank, Unilever, and Vodafone illustrate the breadth of its market penetration. Teradata Vantage, its core analytics platform, enables organizations to run complex analytical workloads at massive scale across multi-cloud and on-premises environments. The company has a long history of innovation in parallel processing and continues to lead in data warehousing and enterprise AI solutions.",
+      "description_citation": "https://www.teradata.com/about-us",
+      "location": "San Diego, California, USA",
+      "location_citation": "https://www.teradata.com/about-us",
+      "team_size": "~5,700 employees",
+      "team_size_citation": "https://www.teradata.com/about-us",
+      "technologies": [
+        {
+          "value": "Teradata VantageCloud",
+          "value_citation": "https://www.teradata.com/about-us"
+        },
+        {
+          "value": "ClearScape Analytics",
+          "value_citation": "https://www.teradata.com/about-us"
+        },
+        {
+          "value": "AI + Knowledge Platform",
+          "value_citation": "https://www.teradata.com/about-us"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Cloud Data Warehousing",
+          "value_citation": "https://www.teradata.com/about-us"
+        },
+        {
+          "value": "Enterprise AI/ML Lifecycle Management",
+          "value_citation": "https://www.teradata.com/about-us"
+        },
+        {
+          "value": "Predictive Analytics Services",
+          "value_citation": "https://www.teradata.com/about-us"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Demand forecasting for retail",
+          "value_citation": "https://www.teradata.com/about-us"
+        },
+        {
+          "value": "Fraud detection in banking",
+          "value_citation": "https://www.teradata.com/about-us"
+        },
+        {
+          "value": "Supply chain optimization",
+          "value_citation": "https://www.teradata.com/about-us"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Financial Services",
+          "value_citation": "https://www.teradata.com/about-us"
+        },
+        {
+          "value": "Retail",
+          "value_citation": "https://www.teradata.com/about-us"
+        },
+        {
+          "value": "Healthcare",
+          "value_citation": "https://www.teradata.com/about-us"
+        },
+        {
+          "value": "Manufacturing",
+          "value_citation": "https://www.teradata.com/about-us"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://www.teradata.com/about-us"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://www.teradata.com/about-us"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.teradata.com/about-us"
+        }
+      ],
+      "teradata_data": {
+        "name": "Teradata",
+        "name_citation": "https://www.teradata.com"
+      }
+    },
+    {
+      "name": "teX.ai (Indium Software)",
+      "name_citation": "https://www.tex-ai.com/about-us/",
+      "description": "Indium Software is a global digital-engineering firm that delivers end-to-end technology solutions across application engineering, cloud engineering, data and analytics, and digital assurance. Within this broader portfolio, Indium has launched teX.ai, a SaaS-based text-analytics platform designed to turn unstructured, high-volume textual content into structured, actionable insight. teX.ai tackles three core challenges: extracting tabular data from PDFs and scanned documents, summarizing key information, and classifying large corpora of text. The product eliminates the need for manual template creation by employing deep-learning models that automatically detect table regions, perform OCR, and output clean tabular datasets. Simultaneously, its sequential natural-language-processing pipelines identify entities such as batch numbers, issue dates, and other domain-specific attributes regardless of their position in the source document. Advanced topic-modeling and sentiment analysis modules surface the main themes and key phrases from customer reviews, support tickets, and complaint logs. teX.ai's value proposition is framed around reducing time for table extraction, accelerating insight generation from free-text feedback, and streamlining content categorization. The platform is positioned as a plug-and-play solution for firms that possess large text repositories—ranging from financial research houses with dense research reports to B2C brands that monitor user reviews and support interactions. By integrating cutting-edge deep-learning, computer-vision OCR, and natural language understanding, teX.ai exemplifies Indium Software’s broader mission to make advanced AI technologies accessible, scalable, and directly tied to business outcomes.",
+      "description_citation": "https://www.tex-ai.com/about-us/",
+      "location": "Cupertino, California, USA (Indium Software HQ)",
+      "location_citation": "https://www.indiumsoftware.com/contact-us/",
+      "team_size": "2,000+ employees (Indium Software)",
+      "team_size_citation": "https://www.tex-ai.com/about-us/",
+      "technologies": [
+        {
+          "value": "Deep Learning",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "OCR (Computer Vision)",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Natural Language Processing (NLP)",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI-driven Table Extraction",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Automated Text Summarization",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Sentiment Analysis for Customer Reviews",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Extracting financial tables from reports",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Categorizing support tickets for workflow assignment",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Analyzing product reviews for consumer sentiment",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Financial Services",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Retail & E-commerce",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Healthcare",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Document AI",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        }
+      ],
+      "tex_ai_data": {
+        "name": "teX.ai",
+        "name_citation": "https://www.tex-ai.com"
+      }
+    },
+    {
+      "name": "The Generative AI Company",
+      "name_citation": "https://thegenerativeaicompany.com/",
+      "description": "The Generative AI Company, LLC positions itself as a catalyst for enterprise-wide adoption of trustworthy generative artificial intelligence. Its mission is to revolutionize the IT services industry through Gen AI transformation, delivering end-to-end, compliance-first AI solutions that move beyond proof-of-concept wrappers to fully integrated, production-grade software. The company’s service portfolio is built around four core pillars: AI Testing & Model Evaluation, CI/CD & Pipeline Integration, Full AI Application Development, and Compliance & Governance. AI Testing & Model Evaluation supplies domain-specific test datasets and automated evaluation scripts, ensuring models are accurate and safe before release. CI/CD & Pipeline Integration embeds AI testing into existing DevOps workflows, offering auditable pipelines and connectivity to enterprise data ecosystems. Full AI Application Development delivers AI-engine-agnostic applications that treat AI as the core engine rather than a superficial add-on. Compliance & Governance embeds HIPAA, GDPR, and SOC2 frameworks directly into product design, providing transparent controls and continuous monitoring. All of these services run on the Meta Cognitive Cloud, a flexible architecture that orchestrates a blend of public and private AI models, rule-based logic, and an observability stack that tracks performance and compliance. Through these offerings, The Generative AI Company aims to accelerate digital transformation and mitigate AI-related risk, helping organizations move confidently into the generative AI era with reliable, production-ready solutions.",
+      "description_citation": "https://thegenerativeaicompany.com/",
+      "business_email": "info@thegenerativeaicompany.com",
+      "business_email_citation": "https://thegenerativeaicompany.com/",
+      "location": "107 Technology Drive, Peachtree Corners, GA 30092, USA",
+      "location_citation": "https://thegenerativeaicompany.com/",
+      "technologies": [
+        {
+          "value": "Meta Cognitive Cloud",
+          "value_citation": "https://thegenerativeaicompany.com/"
+        },
+        {
+          "value": "Generative AI Models",
+          "value_citation": "https://thegenerativeaicompany.com/"
+        },
+        {
+          "value": "CI/CD for AI",
+          "value_citation": "https://thegenerativeaicompany.com/"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI Testing & Model Evaluation",
+          "value_citation": "https://thegenerativeaicompany.com/"
+        },
+        {
+          "value": "Full AI Application Development",
+          "value_citation": "https://thegenerativeaicompany.com/"
+        },
+        {
+          "value": "AI Compliance & Governance",
+          "value_citation": "https://thegenerativeaicompany.com/"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Validating enterprise AI models before production",
+          "value_citation": "https://thegenerativeaicompany.com/"
+        },
+        {
+          "value": "Integrating AI into DevOps pipelines",
+          "value_citation": "https://thegenerativeaicompany.com/"
+        },
+        {
+          "value": "Building HIPAA-compliant healthcare AI applications",
+          "value_citation": "https://thegenerativeaicompany.com/"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare",
+          "value_citation": "https://thegenerativeaicompany.com/"
+        },
+        {
+          "value": "Financial Services",
+          "value_citation": "https://thegenerativeaicompany.com/"
+        },
+        {
+          "value": "Technology",
+          "value_citation": "https://thegenerativeaicompany.com/"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://thegenerativeaicompany.com/"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://thegenerativeaicompany.com/"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://thegenerativeaicompany.com/"
+        }
+      ],
+      "thegenerativeaicompany_data": {
+        "name": "The Generative AI Company",
+        "name_citation": "https://thegenerativeaicompany.com"
+      }
+    },
+    {
+      "name": "ThoughtSpot",
+      "name_citation": "https://www.thoughtspot.com/about-thoughtspot",
+      "description": "ThoughtSpot is a search- and AI-driven analytics platform that enables anyone in an organization to ask questions of data in natural language and receive instant, AI-driven answers across any data source. The company’s mission is to democratize data-driven decision-making by removing the technical barriers that traditionally separate business users from the insights hidden in their data. Through its Modern Analytics Cloud, ThoughtSpot empowers users to explore, visualize, and act upon data without needing to write SQL or build complex data pipelines. Key features include AI Agents (Spotter) that interpret user intent, Automated Insights that surface trends and anomalies, and Augmented Dashboards that blend visual analytics with generative explanations. ThoughtSpot’s 'Any Data, Anywhere' connectivity supports cloud, on-premise, and hybrid environments, allowing users to query data wherever it resides. By delivering self-service analytics that scale across the enterprise, ThoughtSpot reduces reliance on IT bottlenecks and shortens the time-to-insight. The platform's impact lies in transforming organizations from reactive reporting to proactive, AI-guided actions. Customers across financial services, retail, and healthcare use ThoughtSpot to drive revenue growth and improve operational efficiency. The company continues to lead in search-driven BI, integrating generative AI to create a unified 'search-to-insight' experience that fosters a culture of data literacy and innovation worldwide.",
+      "description_citation": "https://www.thoughtspot.com/about-thoughtspot",
+      "location": "444 Castro Street, Mountain View, CA 94041, USA",
+      "location_citation": "https://www.thoughtspot.com/about-thoughtspot",
+      "team_size": "~780 employees",
+      "team_size_citation": "https://www.thoughtspot.com/about-thoughtspot",
+      "technologies": [
+        {
+          "value": "Search-driven Analytics",
+          "value_citation": "https://www.thoughtspot.com/about-thoughtspot"
+        },
+        {
+          "value": "Natural Language Processing (NLP)",
+          "value_citation": "https://www.thoughtspot.com/about-thoughtspot"
+        },
+        {
+          "value": "Generative AI (Spotter)",
+          "value_citation": "https://www.thoughtspot.com/about-thoughtspot"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Self-service Analytics Cloud",
+          "value_citation": "https://www.thoughtspot.com/about-thoughtspot"
+        },
+        {
+          "value": "AI-augmented Dashboards",
+          "value_citation": "https://www.thoughtspot.com/about-thoughtspot"
+        },
+        {
+          "value": "Embedded Analytics",
+          "value_citation": "https://www.thoughtspot.com/about-thoughtspot"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Ad-hoc data discovery via natural language search",
+          "value_citation": "https://www.thoughtspot.com/about-thoughtspot"
+        },
+        {
+          "value": "AI-generated insights for anomaly detection",
+          "value_citation": "https://www.thoughtspot.com/about-thoughtspot"
+        },
+        {
+          "value": "Embedded analytics in SaaS applications",
+          "value_citation": "https://www.thoughtspot.com/about-thoughtspot"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Financial Services",
+          "value_citation": "https://www.thoughtspot.com/about-thoughtspot"
+        },
+        {
+          "value": "Retail & E-commerce",
+          "value_citation": "https://www.thoughtspot.com/about-thoughtspot"
+        },
+        {
+          "value": "Healthcare",
+          "value_citation": "https://www.thoughtspot.com/about-thoughtspot"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://www.thoughtspot.com/about-thoughtspot"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.thoughtspot.com/about-thoughtspot"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://www.thoughtspot.com/about-thoughtspot"
+        }
+      ],
+      "thoughtspot_data": {
+        "name": "ThoughtSpot",
+        "name_citation": "https://www.thoughtspot.com"
+      }
+    },
+    {
+      "name": "Tredence",
+      "name_citation": "https://www.tredence.com/about-us",
+      "description": "Tredence Inc. is a data-first consulting and technology firm that helps enterprises unlock the full value of their data through advanced analytics, artificial intelligence, and digital engineering. Founded in 2013, the company combines deep industry expertise with cutting-edge AI capabilities to turn complex, siloed data into actionable insights that drive measurable business outcomes. Tredence’s core philosophy centers on 'data as the DNA' of every organization, embedding data science and engineering directly into the business workflow. Its service portfolio spans the entire analytics lifecycle: from data modernization and engineering to building robust AI models that leverage both traditional machine-learning and large language models (LLMs). The firm’s Atom.ai platform accelerates AI development through pre-built accelerators and industry-specific solutions. Tredence’s Generative AI and Agentic AI practices help clients create AI-driven products such as conversational assistants and autonomous decision-support agents. In supply-chain domains, the firm delivers end-to-end control-tower solutions that provide real-time visibility and predictive demand forecasting. Tredence serves a wide range of industries including retail, CPG, financial services, healthcare, and manufacturing. With approximately 4,000 employees and global delivery centers, the company emphasizes quantifiable ROI, often delivering double-digit improvements in cost reduction and revenue lift for Fortune 500 clients. Tredence is recognized for its speed to action and its focus on 'last-mile adoption,' ensuring that AI insights are practically integrated into client operations.",
+      "description_citation": "https://www.tredence.com/about-us",
+      "location": "1900 Camden Avenue, San Jose, CA 95124, USA",
+      "location_citation": "https://www.tredence.com/about-us",
+      "team_size": "~4,000 employees",
+      "team_size_citation": "https://www.tredence.com/about-us",
+      "technologies": [
+        {
+          "value": "Atom.ai Platform",
+          "value_citation": "https://www.tredence.com/about-us"
+        },
+        {
+          "value": "Generative AI & LLMs",
+          "value_citation": "https://www.tredence.com/about-us"
+        },
+        {
+          "value": "MLOps & LLMOps",
+          "value_citation": "https://www.tredence.com/about-us"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Supply Chain Control Tower",
+          "value_citation": "https://www.tredence.com/about-us"
+        },
+        {
+          "value": "Customer Cosmos (Customer 360)",
+          "value_citation": "https://www.tredence.com/about-us"
+        },
+        {
+          "value": "Revenue Growth Management",
+          "value_citation": "https://www.tredence.com/about-us"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Predictive demand forecasting for retail",
+          "value_citation": "https://www.tredence.com/about-us"
+        },
+        {
+          "value": "Dynamic pricing and promotion optimization",
+          "value_citation": "https://www.tredence.com/about-us"
+        },
+        {
+          "value": "Predictive maintenance for industrial manufacturers",
+          "value_citation": "https://www.tredence.com/about-us"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Retail & CPG",
+          "value_citation": "https://www.tredence.com/about-us"
+        },
+        {
+          "value": "Financial Services",
+          "value_citation": "https://www.tredence.com/about-us"
+        },
+        {
+          "value": "Healthcare & Life Sciences",
+          "value_citation": "https://www.tredence.com/about-us"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://www.tredence.com/about-us"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://www.tredence.com/about-us"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.tredence.com/about-us"
+        },
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://www.tredence.com/about-us"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://www.tredence.com/about-us"
+        }
+      ],
+      "tredence_data": {
+        "name": "Tredence",
+        "name_citation": "https://www.tredence.com"
+      }
+    },
+    {
+      "name": "Whistic",
+      "name_citation": "https://www.whistic.com/about-whistic",
+      "description": "Whistic is a technology company focused on modernizing third-party risk management (TPRM). Founded in 2015, the firm builds a network-based platform that enables organizations to assess, publish, and share vendor security information in a transparent and automated way. Central to Whistic’s offering is its proprietary CrowdConfidence scoring algorithm, which evaluates vendor questionnaire responses to provide a clear, quantitative risk metric. Leveraging generative AI, Whistic’s Security Questionnaire Response technology automatically generates answers to security questionnaires by drawing from its ever-growing Knowledge Base, significantly reducing the manual effort required for compliance and audit processes. Whistic positions itself as a trusted partner in the rapidly evolving risk landscape, partnering with leaders such as Mastercard’s RiskRecon to combine modern TPRM capabilities with external risk-rating intelligence. The company’s commitment to responsible AI is highlighted by its ISO 42001 certification, a first in the TPRM space, underscoring its focus on ethical AI deployment and robust governance. Beyond its core platform, Whistic offers a suite of services including automated vendor security profiles and the Trust Center Exchange, which features over 14,000 company profiles. The platform helps organizations maintain a consistent security posture, streamline procurement, and accelerate secure business relationships across various industries including healthcare, manufacturing, and financial services.",
+      "description_citation": "https://www.whistic.com/about-whistic",
+      "location": "365 S Garden Grove Ln, Pleasant Grove, UT 84062, USA",
+      "location_citation": "https://www.whistic.com/about-whistic",
+      "team_size": "~55 employees",
+      "team_size_citation": "https://www.whistic.com/about-whistic",
+      "technologies": [
+        {
+          "value": "Generative AI for Security Responses",
+          "value_citation": "https://www.whistic.com/about-whistic"
+        },
+        {
+          "value": "CrowdConfidence Scoring Algorithm",
+          "value_citation": "https://www.whistic.com/about-whistic"
+        },
+        {
+          "value": "Trust Center Exchange",
+          "value_citation": "https://www.whistic.com/about-whistic"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Vendor Security Network",
+          "value_citation": "https://www.whistic.com/about-whistic"
+        },
+        {
+          "value": "Automated Vendor Assessments",
+          "value_citation": "https://www.whistic.com/about-whistic"
+        },
+        {
+          "value": "Security Questionnaire Automation",
+          "value_citation": "https://www.whistic.com/about-whistic"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automating responses to vendor security questionnaires",
+          "value_citation": "https://www.whistic.com/about-whistic"
+        },
+        {
+          "value": "Continuous monitoring of third-party risk",
+          "value_citation": "https://www.whistic.com/about-whistic"
+        },
+        {
+          "value": "Publishing security profiles for customer trust",
+          "value_citation": "https://www.whistic.com/about-whistic"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare",
+          "value_citation": "https://www.whistic.com/about-whistic"
+        },
+        {
+          "value": "Financial Services",
+          "value_citation": "https://www.whistic.com/about-whistic"
+        },
+        {
+          "value": "Manufacturing",
+          "value_citation": "https://www.whistic.com/about-whistic"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Document AI",
+          "value_citation": "https://www.whistic.com/about-whistic"
+        },
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://www.whistic.com/about-whistic"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://www.whistic.com/about-whistic"
+        }
+      ],
+      "whistic_data": {
+        "name": "Whistic",
+        "name_citation": "https://www.whistic.com"
+      }
+    },
+    {
+      "name": "Zudu AI",
+      "name_citation": "https://zudu.ai/",
+      "description": "Zudu AI offers a global, enterprise-grade voice AI platform that enables businesses to deploy human-like AI voice agents capable of handling real customer calls at scale across channels such as WhatsApp and traditional phone lines. The platform delivers instantaneous, natural-sounding conversations in more than 80 languages and various regional accents, allowing companies to engage customers in their native tongue with sub-500ms response times. Zudu AI is built on advanced speech-synthesis and natural language understanding models, wrapped in a no-code interface that lets non-technical staff launch voice agents quickly. The cloud-native architecture automatically scales to meet fluctuating call volumes while maintaining robust security and compliance with GDPR, SOC 2, and HIPAA. The company provides pre-built, domain-specific agents for various sectors, including a Restaurant Takeout Ordering Assistant, a Hotel Receptionist, and a Healthcare Appointment Scheduler. Each agent is tailored with a brand-aligned voice and cultural tone to match market expectations. Zudu AI positions itself as a cost-effective alternative to traditional call-center operations, claiming cost reductions of up to 85% and significant improvements in customer satisfaction scores. Through its multilingual and accent-aware technology, Zudu AI helps enterprises provide consistent, human-like support 24/7 without the overhead of massive human-staffed centers, transforming the way organizations handle inbound and outbound telephone interactions worldwide.",
+      "description_citation": "https://zudu.ai/",
+      "technologies": [
+        {
+          "value": "Voice AI Synthesis",
+          "value_citation": "https://zudu.ai/"
+        },
+        {
+          "value": "Natural Language Processing (NLP)",
+          "value_citation": "https://zudu.ai/"
+        },
+        {
+          "value": "No-code AI Agent Builder",
+          "value_citation": "https://zudu.ai/"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Enterprise Voice AI Platform",
+          "value_citation": "https://zudu.ai/"
+        },
+        {
+          "value": "Multilingual Conversational Agents",
+          "value_citation": "https://zudu.ai/"
+        },
+        {
+          "value": "Call Center Automation",
+          "value_citation": "https://zudu.ai/"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automated restaurant takeout ordering",
+          "value_citation": "https://zudu.ai/"
+        },
+        {
+          "value": "Healthcare appointment scheduling",
+          "value_citation": "https://zudu.ai/"
+        },
+        {
+          "value": "Real estate lead qualification",
+          "value_citation": "https://zudu.ai/"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Hospitality",
+          "value_citation": "https://zudu.ai/"
+        },
+        {
+          "value": "Healthcare",
+          "value_citation": "https://zudu.ai/"
+        },
+        {
+          "value": "Retail & E-commerce",
+          "value_citation": "https://zudu.ai/"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Voice AI",
+          "value_citation": "https://zudu.ai/"
+        },
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://zudu.ai/"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://zudu.ai/"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://zudu.ai/"
+        }
+      ],
+      "zudu_ai_data": {
+        "name": "Zudu AI",
+        "name_citation": "https://zudu.ai"
+      }
+    },
+    {
+      "name": "Thoughtly",
+      "name_citation": "https://www.thoughtly.com/",
+      "description": "Thoughtly is a generative-AI-powered voice platform that builds fully automated contact-center agents capable of handling inbound and outbound phone calls for sales, customer service, and marketing. By integrating directly with a company’s CRM and other SaaS tools, Thoughtly agents can pull data, schedule appointments, qualify leads, route calls, and execute complex workflows without human intervention. The platform offers real-time analytics, detailed reporting, and A/B testing, allowing businesses to visualize performance, refine conversation flows, and improve conversion rates. Thoughtly’s technology supports a wide range of industry-specific use cases, including patient intake and claim status calls in healthcare, property showings in real-estate, and reservation management in travel and hospitality. The solution also provides a custom knowledge base that can be trained on call recordings and unstructured text, ensuring the AI agents continuously improve. Integration partners span major CRMs such as Salesforce, HubSpot, and Pipedrive, allowing for seamless data exchange and workflow automation. Thoughtly positions itself as a 'generative AI contact center,' promising up to 15x ROI for enterprise customers by eliminating manual call handling and delivering consistent, human-like interactions at scale. The platform's usage-based pricing model allows firms to scale their operations as needed, providing a flexible and powerful solution for modernizing telephone interactions across various business sectors.",
+      "description_citation": "https://www.thoughtly.com/",
+      "technologies": [
+        {
+          "value": "Generative AI Voice Platform",
+          "value_citation": "https://www.thoughtly.com/"
+        },
+        {
+          "value": "CRM & SaaS Integrations",
+          "value_citation": "https://www.thoughtly.com/"
+        },
+        {
+          "value": "Custom Knowledge Base Training",
+          "value_citation": "https://www.thoughtly.com/"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Automated Inbound/Outbound Calling",
+          "value_citation": "https://www.thoughtly.com/"
+        },
+        {
+          "value": "AI-driven Lead Qualification",
+          "value_citation": "https://www.thoughtly.com/"
+        },
+        {
+          "value": "Workflow Automation for Call Centers",
+          "value_citation": "https://www.thoughtly.com/"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automated patient intake calls",
+          "value_citation": "https://www.thoughtly.com/"
+        },
+        {
+          "value": "Scheduling real estate property showings",
+          "value_citation": "https://www.thoughtly.com/"
+        },
+        {
+          "value": "Handling travel reservation modifications",
+          "value_citation": "https://www.thoughtly.com/"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare",
+          "value_citation": "https://www.thoughtly.com/"
+        },
+        {
+          "value": "Real Estate",
+          "value_citation": "https://www.thoughtly.com/"
+        },
+        {
+          "value": "Travel & Hospitality",
+          "value_citation": "https://www.thoughtly.com/"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Voice AI",
+          "value_citation": "https://www.thoughtly.com/"
+        },
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://www.thoughtly.com/"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://www.thoughtly.com/"
+        }
+      ]
+    }
+  ]
+}

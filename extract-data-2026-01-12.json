@@ -1,0 +1,2224 @@
+{
+  "companies": [
+    {
+      "company_name": "Airside Labs Ltd.",
+      "company_name_citation": "https://airsidelabs.com",
+      "description": "Airside Labs Ltd. is a specialized technology firm dedicated to building, testing, and deploying artificial intelligence systems specifically for the aviation and travel sectors. The company is led by industry veterans who combine domain expertise with advanced AI knowledge to bridge the gap between complex aerospace requirements and modern machine learning capabilities. Their primary value proposition is helping organizations transform static data, such as operational manuals, into intelligent, interactive assistants within very short timeframes. The company places a heavy emphasis on AI security and assurance, operating on the premise that a significant portion of Generative AI projects fail due to poor implementation and lack of oversight. To combat this, Airside Labs provides a comprehensive framework for model and vendor validation, including automated bias detection and proprietary testing for challenging edge cases. Their work is heavily focused on safety and reliability, ensuring that Large Language Models (LLMs) do not produce unpredictable errors or hallucinations in critical production environments. Compliance is a core component of their service delivery. They assist organizations in navigating the complexities of the EU AI Act and GDPR, specifically focusing on preventing personal data leaks and ensuring that AI agents adhere to strict regulatory standards. Airside Labs also contributes to the broader industry by developing and releasing open-source tools, such as the Pre-Flight AI benchmark, which provides a comparative analysis of aviation-specific LLM performance.",
+      "description_citation": "https://airsidelabs.com",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": "United Kingdom",
+      "location_citation": "https://airsidelabs.com",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Large Language Models (LLM)",
+          "value_citation": "https://airsidelabs.com"
+        },
+        {
+          "value": "Generative AI (GenAI)",
+          "value_citation": "https://airsidelabs.com"
+        },
+        {
+          "value": "Automated bias detection frameworks",
+          "value_citation": "https://airsidelabs.com"
+        },
+        {
+          "value": "AI security dashboards",
+          "value_citation": "https://airsidelabs.com"
+        },
+        {
+          "value": "Pre-Flight AI Benchmark",
+          "value_citation": "https://airsidelabs.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI security testing",
+          "value_citation": "https://airsidelabs.com"
+        },
+        {
+          "value": "Model/Vendor validation",
+          "value_citation": "https://airsidelabs.com"
+        },
+        {
+          "value": "EU AI Act & GDPR compliance auditing",
+          "value_citation": "https://airsidelabs.com"
+        },
+        {
+          "value": "Ongoing risk assessment",
+          "value_citation": "https://airsidelabs.com"
+        },
+        {
+          "value": "Full AI system assessments",
+          "value_citation": "https://airsidelabs.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Converting manuals into intelligent assistants",
+          "value_citation": "https://airsidelabs.com"
+        },
+        {
+          "value": "AI chatbot compliance reporting",
+          "value_citation": "https://airsidelabs.com"
+        },
+        {
+          "value": "Preventing PII leaks in customer service agents",
+          "value_citation": "https://airsidelabs.com"
+        },
+        {
+          "value": "Detecting jailbreak techniques in LLMs",
+          "value_citation": "https://airsidelabs.com"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Aviation",
+          "value_citation": "https://airsidelabs.com"
+        },
+        {
+          "value": "Travel",
+          "value_citation": "https://airsidelabs.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://airsidelabs.com"
+        },
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://airsidelabs.com"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://airsidelabs.com"
+        }
+      ]
+    },
+    {
+      "company_name": "AI Rudder",
+      "company_name_citation": "https://airudder.com",
+      "description": "AI Rudder is a global technology company specializing in next-generation conversational AI designed to transform customer interactions into measurable business impact. The company focuses on contact center automation, providing tools that allow enterprises to scale their operations, serve customers faster, and drive growth through intelligent automation. With a presence in over 31 countries and support for more than 20 languages, AI Rudder has facilitated over 80 billion AI-powered calls for more than 500 enterprises worldwide, including major brands like TikTok Shop, Shopee, and Standard Chartered. The core of AI Rudder's offering is its ability to build, train, and scale enterprise-grade AI agents. At the heart of this ecosystem is BotLab, an intuitive low-code platform that simplifies the entire AI agent lifecycle. BotLab enables businesses to take an AI agent from the initial concept phase to deployment in intelligent, high-stakes conversations. The platform includes performance analytics and no-code tools, allowing teams to innovate quickly without requiring extensive technical backgrounds while maintaining full visibility into their operations. AI Rudder's product suite is comprehensive, covering multiple communication channels. Their AI Voice Agents deliver natural-sounding, intelligent conversations that prioritize speed and consistency.",
+      "description_citation": "https://airudder.com",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": "Operates in 31 countries across Asia, Middle East, Africa, America, and Europe",
+      "location_citation": "https://airudder.com",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "Voice AI",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "Low-code/No-code platforms",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "Omnichannel automation",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "Performance analytics",
+          "value_citation": "https://airudder.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI Voice Agent",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "AI Chat Agent",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "BotLab AI Agent Lifecycle Platform",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "AI Omnichannel",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "AI Contact Center",
+          "value_citation": "https://airudder.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Loan collection and pre-due reminders",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "Transaction verification and KYC checks",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "Lead generation and telemarketing",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "Order confirmation and delivery updates",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "Customer feedback surveys",
+          "value_citation": "https://airudder.com"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Banking & Finance",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "Insurance",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "E-commerce",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "Logistics & Supply Chain",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "Telecommunication",
+          "value_citation": "https://airudder.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Voice AI",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://airudder.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://airudder.com"
+        }
+      ]
+    },
+    {
+      "company_name": "AIRWEB",
+      "company_name_citation": "https://airweb.ai",
+      "description": "AIRWEB is an AI-first technology platform that specializes in the creation and deployment of advanced AI agents designed to automate business communications and processes. Developed by Reality Border, the AI division of the NASDAQ-listed telecom leader iQSTEL Inc., AIRWEB leverages over 17 years of industry expertise to provide enterprise-grade reliability and security. The core value proposition of the company is its train-once-deploy-anywhere technology, which allows businesses to train a single AI agent on their specific knowledge base, brand voice, and internal processes, then deploy it across both web interfaces and phone systems. The platform enables 24/7 automated customer support, lead generation, and process automation with natural, human-like conversation capabilities. Its web agents feature push-to-talk technology and support for 57 languages, while its phone integration allows for automated call handling, scheduling, and lead qualification using dedicated US or international phone numbers. AIRWEB provides a comprehensive client portal for customization, automated email summaries of interactions, and detailed analytics to track conversion rates and business insights. For larger organizations, the company offers custom solutions that integrate with private AI API keys and support customer-trained Large Language Models, ensuring the technology scales with enterprise-specific requirements.",
+      "description_citation": "https://airweb.ai",
+      "business_email": "info@airweb.ai",
+      "business_email_citation": "https://airweb.ai",
+      "location": "300 Aragon Ave Ste 375, Coral Gables, FL 33134, USA",
+      "location_citation": "https://airweb.ai",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Large Language Models (LLM)",
+          "value_citation": "https://airweb.ai"
+        },
+        {
+          "value": "Push-to-talk web interfaces",
+          "value_citation": "https://airweb.ai"
+        },
+        {
+          "value": "Automated voice interaction",
+          "value_citation": "https://airweb.ai"
+        },
+        {
+          "value": "Multi-language support (57 languages)",
+          "value_citation": "https://airweb.ai"
+        },
+        {
+          "value": "Cycurion ARx cybersecurity",
+          "value_citation": "https://airweb.ai"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Interactive Web AI Agents",
+          "value_citation": "https://airweb.ai"
+        },
+        {
+          "value": "Smart Call AI Agents",
+          "value_citation": "https://airweb.ai"
+        },
+        {
+          "value": "Custom Enterprise AI Agent Solutions",
+          "value_citation": "https://airweb.ai"
+        },
+        {
+          "value": "Lead Generation & Analytics",
+          "value_citation": "https://airweb.ai"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "24/7 website customer inquiries",
+          "value_citation": "https://airweb.ai"
+        },
+        {
+          "value": "Automated phone customer service",
+          "value_citation": "https://airweb.ai"
+        },
+        {
+          "value": "Appointment scheduling",
+          "value_citation": "https://airweb.ai"
+        },
+        {
+          "value": "Lead qualification",
+          "value_citation": "https://airweb.ai"
+        },
+        {
+          "value": "Business process automation",
+          "value_citation": "https://airweb.ai"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "E-commerce",
+          "value_citation": "https://airweb.ai"
+        },
+        {
+          "value": "Telecom",
+          "value_citation": "https://airweb.ai"
+        },
+        {
+          "value": "Customer Service",
+          "value_citation": "https://airweb.ai"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Voice AI",
+          "value_citation": "https://airweb.ai"
+        },
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://airweb.ai"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://airweb.ai"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://airweb.ai"
+        }
+      ]
+    },
+    {
+      "company_name": "AI Superior",
+      "company_name_citation": "https://aisuperior.com",
+      "description": "AI Superior is a German-based artificial intelligence services and development company that specializes in end-to-end AI-based application development and strategic consulting. The firm is dedicated to helping businesses accelerate growth and unlock greater value through the implementation of cutting-edge machine learning models and data-driven software solutions. Their workforce is notably high-level, consisting of Ph.D.-level Data Scientists and Software Engineers who provide a blend of academic depth and practical industry experience. The company offers a comprehensive suite of services that covers every stage of the AI adoption lifecycle, including custom AI Software Development for web and mobile platforms, Artificial Intelligence Training programs designed to upskill internal corporate teams, and strategic AI Consulting to help organizations identify, assess, and prioritize potential data science applications. AI Superior follows a systematic, five-stage work process: Discovery, Initial Setup, Building an MVP, Scaling and Integrating, and Evaluating Results. This structured approach ensures transparency and allows clients to validate the ROI of their AI investments incrementally. To support the specific needs of the startup ecosystem, AI Superior provides fixed-price development packages tailored to guide early-stage companies through the transition from a Proof of Concept to a Minimum Viable Product.",
+      "description_citation": "https://aisuperior.com",
+      "business_email": "info@aisuperior.com",
+      "business_email_citation": "https://aisuperior.com",
+      "location": "Robert-Bosch-Str.7, 64293 Darmstadt, Germany",
+      "location_citation": "https://aisuperior.com",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Natural Language Processing (NLP)",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Machine Learning",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Deep Learning",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Large Language Models (LLMs)",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Object Detection",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Optical Character Recognition (OCR)",
+          "value_citation": "https://aisuperior.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Custom AI Software Development",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "AI Consulting",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "AI Training and Education",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "AI Research and Development",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Business Intelligence Solutions",
+          "value_citation": "https://aisuperior.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Graffiti detection for government",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Workplace hygiene monitoring",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Fraud detection in finance",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Equipment failure prediction",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Supply chain optimization",
+          "value_citation": "https://aisuperior.com"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Finance",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Government",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Pharmaceuticals",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Real Estate",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Insurance",
+          "value_citation": "https://aisuperior.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://aisuperior.com"
+        },
+        {
+          "value": "Document AI",
+          "value_citation": "https://aisuperior.com"
+        }
+      ]
+    },
+    {
+      "company_name": "Arphie",
+      "company_name_citation": "https://arphie.ai",
+      "description": "Arphie is an AI-driven Knowledge Activation Platform designed specifically to empower Go-To-Market teams. The company's primary mission is to transform a business's unstructured knowledge into actionable intelligence, enabling teams to respond to RFPs, complete security questionnaires, and make informed decisions faster. By utilizing specialized AI agents, Arphie helps companies overcome the black box nature of traditional AI by providing high-quality, transparent answers that include confidence scores and direct citations of source materials. The platform distinguishes itself by integrating directly with a company's existing business context. Unlike generic AI models, Arphie's agents connect to live data sources such as Google Drive, SharePoint, Confluence, Notion, Seismic, and Highspot. This ensures that the information used for drafting responses is always up-to-date with the latest product developments and marketing figures. The platform's Smart Merge technology also assists in maintaining a clean knowledge base by identifying and consolidating duplicate items within Q&A libraries. Arphie emphasizes a trust-first approach to artificial intelligence, focusing heavily on security and data governance. The company is SOC 2 Type 2 compliant and employs Zero Data Retention policies through enterprise agreements with model platforms, ensuring that client data is never used to train external models.",
+      "description_citation": "https://arphie.ai",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "AI Agents",
+          "value_citation": "https://arphie.ai"
+        },
+        {
+          "value": "Knowledge Activation Platform",
+          "value_citation": "https://arphie.ai"
+        },
+        {
+          "value": "Large Language Models",
+          "value_citation": "https://arphie.ai"
+        },
+        {
+          "value": "SOC 2 Type 2 compliance",
+          "value_citation": "https://arphie.ai"
+        },
+        {
+          "value": "Zero Data Retention (ZDR)",
+          "value_citation": "https://arphie.ai"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI-powered RFP drafting",
+          "value_citation": "https://arphie.ai"
+        },
+        {
+          "value": "Questionnaire automation",
+          "value_citation": "https://arphie.ai"
+        },
+        {
+          "value": "Knowledge library management",
+          "value_citation": "https://arphie.ai"
+        },
+        {
+          "value": "Smart Merge for duplicate cleanup",
+          "value_citation": "https://arphie.ai"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Drafting RFP responses",
+          "value_citation": "https://arphie.ai"
+        },
+        {
+          "value": "Completing security and due diligence questionnaires",
+          "value_citation": "https://arphie.ai"
+        },
+        {
+          "value": "Accelerating sales deal velocity",
+          "value_citation": "https://arphie.ai"
+        },
+        {
+          "value": "Centralizing cross-functional knowledge",
+          "value_citation": "https://arphie.ai"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Technology",
+          "value_citation": "https://arphie.ai"
+        },
+        {
+          "value": "Software",
+          "value_citation": "https://arphie.ai"
+        },
+        {
+          "value": "Cybersecurity",
+          "value_citation": "https://arphie.ai"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://arphie.ai"
+        },
+        {
+          "value": "Document AI",
+          "value_citation": "https://arphie.ai"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://arphie.ai"
+        }
+      ]
+    },
+    {
+      "company_name": "AudioStack",
+      "company_name_citation": "https://audiostack.ai",
+      "description": "AudioStack is an enterprise-grade AI audio production platform designed to revolutionize how organizations create, manage, and scale audio content. Positioned as an end-to-end solution for agencies, publishers, AdTech firms, and global brands, the company focuses on removing traditional bottlenecks in the production process, such as high costs, long turnaround times, and complex logistics. By leveraging generative AI and automated workflows, AudioStack claims to enable the creation of studio-quality audio up to ten times faster than traditional methods while requiring significantly less manual effort. The platform is built to support various departments within an organization. For Operations Teams, it focuses on delivering measurable ROI by reducing production costs by up to 80% and enabling data-driven workflows that maintain brand consistency across all touchpoints. Creative Teams use the suite to iterate quickly, test ideas, and produce professional sales demos or creative assets without being slowed down by technical hurdles. For CTOs and Developers, AudioStack provides a robust API-first architecture, allowing the technology to be integrated directly into existing campaign workflows, frontends, or digital asset management systems. AudioStack's workflow covers the entire production lifecycle, from AI-assisted scriptwriting and asset management to automated mixing and mastering.",
+      "description_citation": "https://audiostack.ai",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Generative AI",
+          "value_citation": "https://audiostack.ai"
+        },
+        {
+          "value": "Text-To-Speech (TTS)",
+          "value_citation": "https://audiostack.ai"
+        },
+        {
+          "value": "Speech-To-Speech (STS)",
+          "value_citation": "https://audiostack.ai"
+        },
+        {
+          "value": "Cloud-based audio production",
+          "value_citation": "https://audiostack.ai"
+        },
+        {
+          "value": "Automated mixing and mastering",
+          "value_citation": "https://audiostack.ai"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI-driven production suite",
+          "value_citation": "https://audiostack.ai"
+        },
+        {
+          "value": "Script writing and asset management",
+          "value_citation": "https://audiostack.ai"
+        },
+        {
+          "value": "Hybrid AI/human voice production",
+          "value_citation": "https://audiostack.ai"
+        },
+        {
+          "value": "API integration for automated delivery",
+          "value_citation": "https://audiostack.ai"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Creating broadcast-ready audio ads",
+          "value_citation": "https://audiostack.ai"
+        },
+        {
+          "value": "Dynamic versioning of advertisements",
+          "value_citation": "https://audiostack.ai"
+        },
+        {
+          "value": "Rapid creation of sales demos",
+          "value_citation": "https://audiostack.ai"
+        },
+        {
+          "value": "Localized content production",
+          "value_citation": "https://audiostack.ai"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Advertising",
+          "value_citation": "https://audiostack.ai"
+        },
+        {
+          "value": "AdTech",
+          "value_citation": "https://audiostack.ai"
+        },
+        {
+          "value": "Publishing",
+          "value_citation": "https://audiostack.ai"
+        },
+        {
+          "value": "Media",
+          "value_citation": "https://audiostack.ai"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Voice AI",
+          "value_citation": "https://audiostack.ai"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://audiostack.ai"
+        }
+      ]
+    },
+    {
+      "company_name": "Arc Analytics",
+      "company_name_citation": "https://arcanalytics.us",
+      "description": "Arc Analytics is a technology partner and consultancy firm specializing in data analytics and artificial intelligence. The company provides a comprehensive suite of services designed to help organizations bridge the gap between complex data sets and actionable business insights. Their service model is built around three core pillars: consulting, technology solutions, and specialized staffing. By positioning themselves as a Superior Analytics & AI Experience provider, they aim to simplify the technical hurdles of data management so that business leaders can focus on operational success. The company offers a full-lifecycle approach to data. This begins with Data and AI Strategy, where consultants help organizations establish a clear roadmap for their digital transformation. To support these strategies, they provide Data Engineering and Integration services, which involve structuring and unifying data from various sources such as CRM, payroll, and accounting systems to create a reliable single source of truth. A significant area of expertise for the firm is the Qlik ecosystem. Arc Analytics serves as a specialized partner for Qlik Licensing, providing expert support, maintenance, and tailored recommendations. They also offer deep Qlik Consulting, helping clients with complex technical tasks like migrating on-premise Qlik Sense environments to the Qlik Cloud while maintaining custom integrations.",
+      "description_citation": "https://arcanalytics.us",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": "United States",
+      "location_citation": "https://arcanalytics.us",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Qlik Sense",
+          "value_citation": "https://arcanalytics.us"
+        },
+        {
+          "value": "Qlik Cloud",
+          "value_citation": "https://arcanalytics.us"
+        },
+        {
+          "value": "Artificial Intelligence",
+          "value_citation": "https://arcanalytics.us"
+        },
+        {
+          "value": "Data Integration tools",
+          "value_citation": "https://arcanalytics.us"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Data & AI Strategy",
+          "value_citation": "https://arcanalytics.us"
+        },
+        {
+          "value": "Data Integration",
+          "value_citation": "https://arcanalytics.us"
+        },
+        {
+          "value": "Data Engineering",
+          "value_citation": "https://arcanalytics.us"
+        },
+        {
+          "value": "Qlik Licensing",
+          "value_citation": "https://arcanalytics.us"
+        },
+        {
+          "value": "Qlik Consulting & Support",
+          "value_citation": "https://arcanalytics.us"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Migrating Qlik Sense to Qlik Cloud",
+          "value_citation": "https://arcanalytics.us"
+        },
+        {
+          "value": "Integrating CRM and payroll systems",
+          "value_citation": "https://arcanalytics.us"
+        },
+        {
+          "value": "Streamlining healthcare operations",
+          "value_citation": "https://arcanalytics.us"
+        },
+        {
+          "value": "Educational data solutions",
+          "value_citation": "https://arcanalytics.us"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Healthcare",
+          "value_citation": "https://arcanalytics.us"
+        },
+        {
+          "value": "Education",
+          "value_citation": "https://arcanalytics.us"
+        },
+        {
+          "value": "State & Local Government",
+          "value_citation": "https://arcanalytics.us"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://arcanalytics.us"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://arcanalytics.us"
+        }
+      ]
+    },
+    {
+      "company_name": "Angel Automation LLC",
+      "company_name_citation": "https://angelautomation.io",
+      "description": "Angel Automation LLC is a technology and automation firm specializing in AI-driven solutions designed to eliminate sales friction and operational inefficiencies. The company operates on the core principle that slow response times are a primary driver of lost revenue, noting that lead viability drops significantly after just five minutes of inactivity. To combat this, Angel Automation provides a suite of tools that offer instant, 24/7 responses and automated follow-up sequences, aiming to increase lead generation by 25% or more within a 90-day window. The company categorizes its offerings into two main tiers: Business Foundation Services and Advanced Automation Services. Foundation services are designed to build a professional digital presence and include website redesigns that are mobile-optimized and SEO-ready, CRM setup and integration, and Google Business Profile optimization. Advanced Automation Services move into intelligent interaction, utilizing AI voice assistants and multi-platform chatbots capable of answering inbound calls, scheduling appointments directly onto calendars, and managing customer inquiries across various social media platforms like Facebook, Instagram, WhatsApp, and TikTok. Angel Automation distinguishes itself through a performance-based business model, offering a 30-day money-back guarantee if measurable ROI is not delivered.",
+      "description_citation": "https://angelautomation.io",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": "Georgia, USA",
+      "location_citation": "https://angelautomation.io",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "AI Voice Assistants",
+          "value_citation": "https://angelautomation.io"
+        },
+        {
+          "value": "Website Chatbots",
+          "value_citation": "https://angelautomation.io"
+        },
+        {
+          "value": "CRM integration",
+          "value_citation": "https://angelautomation.io"
+        },
+        {
+          "value": "Multi-platform integration",
+          "value_citation": "https://angelautomation.io"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Smart Website development",
+          "value_citation": "https://angelautomation.io"
+        },
+        {
+          "value": "AI Phone Support",
+          "value_citation": "https://angelautomation.io"
+        },
+        {
+          "value": "Appointment Booking Automation",
+          "value_citation": "https://angelautomation.io"
+        },
+        {
+          "value": "Multi-Platform Chatbots",
+          "value_citation": "https://angelautomation.io"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Instant lead response",
+          "value_citation": "https://angelautomation.io"
+        },
+        {
+          "value": "24/7 customer support",
+          "value_citation": "https://angelautomation.io"
+        },
+        {
+          "value": "Automated appointment scheduling",
+          "value_citation": "https://angelautomation.io"
+        },
+        {
+          "value": "Reducing missed call volume",
+          "value_citation": "https://angelautomation.io"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Healthcare and Dental",
+          "value_citation": "https://angelautomation.io"
+        },
+        {
+          "value": "Home Improvement/Construction",
+          "value_citation": "https://angelautomation.io"
+        },
+        {
+          "value": "Technology",
+          "value_citation": "https://angelautomation.io"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Voice AI",
+          "value_citation": "https://angelautomation.io"
+        },
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://angelautomation.io"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://angelautomation.io"
+        }
+      ]
+    },
+    {
+      "company_name": "Arvy Consulting Inc.",
+      "company_name_citation": "https://arvyconsulting.com",
+      "description": "Arvy Consulting Inc. is a premier software solutions partner and consulting firm with more than 15 years of professional experience in the information technology industry. Established with a vision of Innovating the Data-Driven Future, the company has built a reputation for delivering high-quality, cutting-edge products and services across a broad spectrum of SAP and non-SAP applications and tools. Their primary motto revolves around empowering the youth in IT education, bridging the gap between academic learning and professional IT careers through specialized training and development programs. The company's diverse portfolio is centered on several core pillars of modern business technology. They are experts in S/4 HANA implementations, specifically focusing on Group Reporting Training to empower businesses with streamlined financial reporting and optimized financial processes. In the field of Enterprise Information Management, Arvy Consulting provides comprehensive solutions for Data Quality, Data Governance, Data Migration, and Data Integration designed to help organizations manage their data assets as strategic resources. Arvy Consulting also specializes in Intelligence Services, where they provide next-generation Artificial Intelligence and Machine Learning services including Business Intelligence services, Conversational AI, and advanced Data Visualization.",
+      "description_citation": "https://arvyconsulting.com",
+      "business_email": "info@arvyconsulting.com",
+      "business_email_citation": "https://arvyconsulting.com",
+      "location": "4003 PLNFLD NPRVLLE RD, STE 209-1, NAPERVILLE, IL 60564-4150, USA",
+      "location_citation": "https://arvyconsulting.com",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "SAP S/4 HANA",
+          "value_citation": "https://arvyconsulting.com"
+        },
+        {
+          "value": "Artificial Intelligence",
+          "value_citation": "https://arvyconsulting.com"
+        },
+        {
+          "value": "Machine Learning",
+          "value_citation": "https://arvyconsulting.com"
+        },
+        {
+          "value": "Robotic Process Automation (RPA)",
+          "value_citation": "https://arvyconsulting.com"
+        },
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://arvyconsulting.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Application Development",
+          "value_citation": "https://arvyconsulting.com"
+        },
+        {
+          "value": "Enterprise Information Management",
+          "value_citation": "https://arvyconsulting.com"
+        },
+        {
+          "value": "Intelligence Services",
+          "value_citation": "https://arvyconsulting.com"
+        },
+        {
+          "value": "Cloud & Digitalization",
+          "value_citation": "https://arvyconsulting.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Streamlining financial reporting",
+          "value_citation": "https://arvyconsulting.com"
+        },
+        {
+          "value": "Optimizing data science processes",
+          "value_citation": "https://arvyconsulting.com"
+        },
+        {
+          "value": "Automating repetitive business tasks",
+          "value_citation": "https://arvyconsulting.com"
+        },
+        {
+          "value": "Data migration and conversion",
+          "value_citation": "https://arvyconsulting.com"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Information Technology",
+          "value_citation": "https://arvyconsulting.com"
+        },
+        {
+          "value": "Finance",
+          "value_citation": "https://arvyconsulting.com"
+        },
+        {
+          "value": "Consumer Goods",
+          "value_citation": "https://arvyconsulting.com"
+        },
+        {
+          "value": "Healthcare/Pharmaceuticals",
+          "value_citation": "https://arvyconsulting.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://arvyconsulting.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://arvyconsulting.com"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://arvyconsulting.com"
+        }
+      ]
+    },
+    {
+      "company_name": "Ascent Business Partners",
+      "company_name_citation": "https://ascentpartners.io",
+      "description": "Ascent Business Partners is a specialized consultancy and technology partner focused on accelerating Artificial Intelligence transformation for customer experience and contact center operations. Founded by a team of industry experts, technologists, and operators, the company serves as a strategic guide for organizations navigating the complex and rapidly evolving AI landscape. Their core mission is to help businesses optimize operations, elevate customer interactions, and drive sales growth through the intelligent application of AI technologies. The company operates with a technology-agnostic philosophy, meaning they provide unbiased recommendations from a curated portfolio of leading AI-powered solutions rather than being tied to a single software provider. A key differentiator for Ascent is their commitment to a risk-free engagement model including a try before you buy approach where clients can evaluate potential solutions using their own data and within their specific business environments. According to their 2024 scorecard, they have completed 51 successful projects resulting in over $218 million in cost savings for their clients. Ascent's services target the most pressing pain points in modern contact centers, such as high agent turnover, language barriers in offshore operations, and inefficient customer resolution times.",
+      "description_citation": "https://ascentpartners.io",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Real-Time Agent Assist",
+          "value_citation": "https://ascentpartners.io"
+        },
+        {
+          "value": "Accent Neutralization",
+          "value_citation": "https://ascentpartners.io"
+        },
+        {
+          "value": "AI-powered Intelligent Hiring",
+          "value_citation": "https://ascentpartners.io"
+        },
+        {
+          "value": "Conversational Intelligence",
+          "value_citation": "https://ascentpartners.io"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI Transformation Strategy",
+          "value_citation": "https://ascentpartners.io"
+        },
+        {
+          "value": "Contact Center Optimization",
+          "value_citation": "https://ascentpartners.io"
+        },
+        {
+          "value": "Customer Experience Elevation",
+          "value_citation": "https://ascentpartners.io"
+        },
+        {
+          "value": "Recruitment & Hiring Optimization",
+          "value_citation": "https://ascentpartners.io"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Reducing agent attrition",
+          "value_citation": "https://ascentpartners.io"
+        },
+        {
+          "value": "Neutralizing accents for offshore agents",
+          "value_citation": "https://ascentpartners.io"
+        },
+        {
+          "value": "Analyzing billing interaction friction",
+          "value_citation": "https://ascentpartners.io"
+        },
+        {
+          "value": "Real-time response support",
+          "value_citation": "https://ascentpartners.io"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Business Process Outsourcing (BPO)",
+          "value_citation": "https://ascentpartners.io"
+        },
+        {
+          "value": "Healthcare",
+          "value_citation": "https://ascentpartners.io"
+        },
+        {
+          "value": "Private Equity",
+          "value_citation": "https://ascentpartners.io"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://ascentpartners.io"
+        },
+        {
+          "value": "Voice AI",
+          "value_citation": "https://ascentpartners.io"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://ascentpartners.io"
+        }
+      ]
+    },
+    {
+      "company_name": "Ashling",
+      "company_name_citation": "https://ashling.ai",
+      "description": "Ashling is a global leader in Intelligent Automation and digital transformation solutions, specializing in the intersection of Artificial Intelligence and automation marketed as AI Meets IA. The company focuses on uncovering high-value automation opportunities within complex enterprise environments and translating them into tangible business outcomes. Their core philosophy revolves around unleashing intelligence through AI-amplified strategies that are then scaled through robust automation frameworks. The company operates through a comprehensive five-pillar service model designed to support clients at every stage of their automation journey. This begins with Discover, where Ashling uses prioritization frameworks to pinpoint inefficiencies and build transformation roadmaps. In the Advise phase, they establish governance frameworks and program strategies to ensure compliance and long-term scalability. The Deliver phase involves the actual design and implementation of AI-powered solutions, while Manage provides 24/7 monitoring and optimization via their Modern Robotic Operations Center. Finally, the Evolve stage uses value engineering and advanced analytics to ensure the automation ecosystem remains future-ready. Ashling emphasizes a multi-technology, platform-independent approach, holding over 300 technical certifications and maintaining a library of over 500 prebuilt automation accelerators.",
+      "description_citation": "https://ashling.ai",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": "Global operations with 250 specialists",
+      "location_citation": "https://ashling.ai",
+      "team_size": 250,
+      "team_size_citation": "https://ashling.ai",
+      "technologies": [
+        {
+          "value": "SS&C Blue Prism",
+          "value_citation": "https://ashling.ai"
+        },
+        {
+          "value": "UiPath",
+          "value_citation": "https://ashling.ai"
+        },
+        {
+          "value": "Robotic Process Automation (RPA)",
+          "value_citation": "https://ashling.ai"
+        },
+        {
+          "value": "Generative AI",
+          "value_citation": "https://ashling.ai"
+        },
+        {
+          "value": "Agentic AI",
+          "value_citation": "https://ashling.ai"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Intelligent Automation services",
+          "value_citation": "https://ashling.ai"
+        },
+        {
+          "value": "Digital transformation roadmaps",
+          "value_citation": "https://ashling.ai"
+        },
+        {
+          "value": "Modern Robotic Operations Center",
+          "value_citation": "https://ashling.ai"
+        },
+        {
+          "value": "Automation accelerators",
+          "value_citation": "https://ashling.ai"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Marketing automation for campaigns",
+          "value_citation": "https://ashling.ai"
+        },
+        {
+          "value": "Integrating solutions into banking systems",
+          "value_citation": "https://ashling.ai"
+        },
+        {
+          "value": "Modernizing legacy manufacturing systems",
+          "value_citation": "https://ashling.ai"
+        },
+        {
+          "value": "Clinical decision-making in healthcare",
+          "value_citation": "https://ashling.ai"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Banking & Financial Services",
+          "value_citation": "https://ashling.ai"
+        },
+        {
+          "value": "Manufacturing",
+          "value_citation": "https://ashling.ai"
+        },
+        {
+          "value": "Healthcare",
+          "value_citation": "https://ashling.ai"
+        },
+        {
+          "value": "Retail",
+          "value_citation": "https://ashling.ai"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://ashling.ai"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://ashling.ai"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://ashling.ai"
+        }
+      ]
+    },
+    {
+      "company_name": "AtomRock",
+      "company_name_citation": "https://atomrock.com",
+      "description": "AtomRock is a technology provider specializing in military-grade AIoT (Artificial Intelligence of Things) security systems. The company's core mission is to empower disaster responders and industrial operators to perform critical tasks such as rescues in low-light or complex environments while protecting assets from modern threats like aerial incursions. They achieve this through a unified platform that seamlessly integrates next-generation AI, edge computing, and cloud services to provide advanced monitoring and management capabilities. The company's architecture is built on a four-tier structure: Edge IoT, Edge AI, Cloud Services, and a User Platform. At the Edge IoT level, AtomRock utilizes a diverse array of sensors, including cameras, microphones, and environmental tags, to capture real-time data. This information is then processed locally by the Edge AI Engine. By performing analytics on-device, the system ensures low latency, rapid detection, and autonomous management without relying solely on a constant cloud connection. Centralized coordination is handled by AtomCloud, which provides secure data storage and advanced AI processing. AtomRock emphasizes scalability and security with ISO 27001 certification and compliance with GDPR and HIPAA.",
+      "description_citation": "https://atomrock.com",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "AIoT",
+          "value_citation": "https://atomrock.com"
+        },
+        {
+          "value": "Edge Computing",
+          "value_citation": "https://atomrock.com"
+        },
+        {
+          "value": "Edge AI Engine",
+          "value_citation": "https://atomrock.com"
+        },
+        {
+          "value": "Thermal Imaging",
+          "value_citation": "https://atomrock.com"
+        },
+        {
+          "value": "Facial Recognition AI",
+          "value_citation": "https://atomrock.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Thermal Imaging Disaster Response",
+          "value_citation": "https://atomrock.com"
+        },
+        {
+          "value": "VisionSense AI Defense",
+          "value_citation": "https://atomrock.com"
+        },
+        {
+          "value": "Unified AIoT Cloud Platform",
+          "value_citation": "https://atomrock.com"
+        },
+        {
+          "value": "AtomCloud Web Interface",
+          "value_citation": "https://atomrock.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Low-light search and rescue",
+          "value_citation": "https://atomrock.com"
+        },
+        {
+          "value": "Aerial threat protection",
+          "value_citation": "https://atomrock.com"
+        },
+        {
+          "value": "Public security monitoring",
+          "value_citation": "https://atomrock.com"
+        },
+        {
+          "value": "Campus access control",
+          "value_citation": "https://atomrock.com"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Government/Public Safety",
+          "value_citation": "https://atomrock.com"
+        },
+        {
+          "value": "Education",
+          "value_citation": "https://atomrock.com"
+        },
+        {
+          "value": "Industrial Production",
+          "value_citation": "https://atomrock.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://atomrock.com"
+        },
+        {
+          "value": "Edge AI & IoT",
+          "value_citation": "https://atomrock.com"
+        },
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://atomrock.com"
+        }
+      ]
+    },
+    {
+      "company_name": "Atrium",
+      "company_name_citation": "https://atrium.ai",
+      "description": "Atrium is an AI-native consulting partner that specializes in the Salesforce and Snowflake ecosystems. Founded with a born in AI philosophy, the company emphasizes a heritage in artificial intelligence and machine learning that predates the current mainstream adoption of these technologies. Atrium's primary value proposition is delivering faster, more predictable business outcomes through a blend of human expertise and AI-assisted delivery. They are currently tracking a public goal of generating $1B in measurable customer impact through their implementations. A key differentiator for Atrium is their proprietary AI consultant named Andi. This custom-built AI agent is designed to supercharge technology implementations by automating repetitive, time-consuming tasks associated with Salesforce configuration. By using Andi to streamline development cycles and close the gap between conceptual ideas and working solutions, Atrium allows its consultants and client teams to focus on strategic initiatives rather than tedious administrative tasks. The company's methodology focuses on three core pillars: advising on data journeys, implementing new technology, and elevating existing enterprise solutions.",
+      "description_citation": "https://atrium.ai",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Salesforce",
+          "value_citation": "https://atrium.ai"
+        },
+        {
+          "value": "Snowflake",
+          "value_citation": "https://atrium.ai"
+        },
+        {
+          "value": "Artificial Intelligence",
+          "value_citation": "https://atrium.ai"
+        },
+        {
+          "value": "Andi (Proprietary AI Agent)",
+          "value_citation": "https://atrium.ai"
+        },
+        {
+          "value": "CRM Analytics",
+          "value_citation": "https://atrium.ai"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI-native consulting",
+          "value_citation": "https://atrium.ai"
+        },
+        {
+          "value": "Salesforce consulting services",
+          "value_citation": "https://atrium.ai"
+        },
+        {
+          "value": "Snowflake consulting",
+          "value_citation": "https://atrium.ai"
+        },
+        {
+          "value": "Data strategy development",
+          "value_citation": "https://atrium.ai"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Real-time commercial excellence scorecards",
+          "value_citation": "https://atrium.ai"
+        },
+        {
+          "value": "Sales rep consumption visibility",
+          "value_citation": "https://atrium.ai"
+        },
+        {
+          "value": "Streamlining commercial lending",
+          "value_citation": "https://atrium.ai"
+        },
+        {
+          "value": "Accelerating Salesforce configuration",
+          "value_citation": "https://atrium.ai"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "High Tech",
+          "value_citation": "https://atrium.ai"
+        },
+        {
+          "value": "Financial Services",
+          "value_citation": "https://atrium.ai"
+        },
+        {
+          "value": "Healthcare/Life Sciences",
+          "value_citation": "https://atrium.ai"
+        },
+        {
+          "value": "Education",
+          "value_citation": "https://atrium.ai"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://atrium.ai"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://atrium.ai"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://atrium.ai"
+        }
+      ]
+    },
+    {
+      "company_name": "aiXplain, Inc.",
+      "company_name_citation": "https://aixplain.com",
+      "description": "aiXplain is a comprehensive enterprise AI provider that offers an Agentic Operating System designed to streamline the development, deployment, and governance of AI agents. The platform serves as a full-stack solution that enables organizations to move from initial prototypes to production-scale AI operations with a focus on speed-to-value. By providing a unified infrastructure, aiXplain allows businesses to build sophisticated AI agents using either no-code visual tools, such as their Agent Builder, or developer-focused SDKs and APIs for more granular control. A key differentiator for aiXplain is its focus on flexibility and the prevention of vendor lock-in. Their integrated marketplace provides access to hundreds of Large Language Models, tools, and pre-built agents, allowing users to swap models or integrations dynamically without needing to rebuild or edit their core agents. The platform also emphasizes collaborative development through team workspaces that utilize role-based access control for models and configurations. Deployment with aiXplain is designed for enterprise-grade sovereignty and resilience. The platform supports a wide range of environments, including on-premises, air-gapped, and sovereign infrastructures, ensuring that data and operations remain entirely within the client's control. Furthermore, aiXplain integrates a sophisticated governance layer to meet strict regulatory and compliance standards with SOC 2 Type I & II compliance.",
+      "description_citation": "https://aixplain.com",
+      "business_email": "care@aixplain.com",
+      "business_email_citation": "https://aixplain.com",
+      "location": "3031 Tisch Way #80, San Jose, CA 95128, United States",
+      "location_citation": "https://aixplain.com",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Agentic OS",
+          "value_citation": "https://aixplain.com"
+        },
+        {
+          "value": "Large Language Models (LLMs)",
+          "value_citation": "https://aixplain.com"
+        },
+        {
+          "value": "Retrieval-Augmented Generation (RAG)",
+          "value_citation": "https://aixplain.com"
+        },
+        {
+          "value": "No-code Agent Builder",
+          "value_citation": "https://aixplain.com"
+        },
+        {
+          "value": "SOC 2 compliant security",
+          "value_citation": "https://aixplain.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "aiXplain Platform (Agentic OS)",
+          "value_citation": "https://aixplain.com"
+        },
+        {
+          "value": "Agent Builder",
+          "value_citation": "https://aixplain.com"
+        },
+        {
+          "value": "Media Monitor",
+          "value_citation": "https://aixplain.com"
+        },
+        {
+          "value": "HR Manager",
+          "value_citation": "https://aixplain.com"
+        },
+        {
+          "value": "BI Analyst",
+          "value_citation": "https://aixplain.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Enhancing translation accuracy",
+          "value_citation": "https://aixplain.com"
+        },
+        {
+          "value": "Internal document management for aviation",
+          "value_citation": "https://aixplain.com"
+        },
+        {
+          "value": "Diagnostic accuracy in healthcare",
+          "value_citation": "https://aixplain.com"
+        },
+        {
+          "value": "Automated HR hiring processes",
+          "value_citation": "https://aixplain.com"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Aviation",
+          "value_citation": "https://aixplain.com"
+        },
+        {
+          "value": "Healthcare",
+          "value_citation": "https://aixplain.com"
+        },
+        {
+          "value": "Media",
+          "value_citation": "https://aixplain.com"
+        },
+        {
+          "value": "Human Resources",
+          "value_citation": "https://aixplain.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://aixplain.com"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://aixplain.com"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://aixplain.com"
+        }
+      ]
+    },
+    {
+      "company_name": "Aray Infosolutions (AIS)",
+      "company_name_citation": "https://arayinfosolutions.com",
+      "description": "Aray Infosolutions (AIS) is a specialized engineering and technology firm that provides high-level expertise in Artificial Intelligence, Advanced Driver Assistance Systems (ADAS), Embedded Engineering, and Computer-Aided Engineering (CAE). With over 20 years of experience in the automotive industry and programming, the company focuses on empowering innovations through intelligent solutions that bridge the gap between software development and mechanical safety. The firm is led by a team of highly skilled electronics, software, and CAE engineers who have extensive experience working in Germany with world-renowned automotive brands such as Daimler, VW, Ford, Porsche, BMW, and Audi. The company specializes in the design, analysis, and virtual testing of automotive components to meet stringent global safety regulations. A core part of their business involves assisting car manufacturers and Tier 1 suppliers in achieving high NCAP safety ratings through rigorous simulation and pre-assessment. Their ADAS division focuses on simulation technologies, AI-driven development, and product architecture for infotainment and video systems, ensuring functional safety and regulatory compliance. In addition to automotive safety, AIS provides comprehensive embedded engineering services, specializing in Radar, Lidar, and connectivity systems.",
+      "description_citation": "https://arayinfosolutions.com",
+      "business_email": "info@arayinfosolutions.com",
+      "business_email_citation": "https://arayinfosolutions.com",
+      "location": "B27/90 -14, Shakumbhari Complex, Chetmani crossing, Bhelupr, Varanasi, U.P., India 221010",
+      "location_citation": "https://arayinfosolutions.com",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "AI",
+          "value_citation": "https://arayinfosolutions.com"
+        },
+        {
+          "value": "Machine Learning",
+          "value_citation": "https://arayinfosolutions.com"
+        },
+        {
+          "value": "ADAS (L4)",
+          "value_citation": "https://arayinfosolutions.com"
+        },
+        {
+          "value": "Embedded Systems",
+          "value_citation": "https://arayinfosolutions.com"
+        },
+        {
+          "value": "CAE",
+          "value_citation": "https://arayinfosolutions.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "ADAS simulation",
+          "value_citation": "https://arayinfosolutions.com"
+        },
+        {
+          "value": "NCAP pre-assessment",
+          "value_citation": "https://arayinfosolutions.com"
+        },
+        {
+          "value": "Full car crash analysis",
+          "value_citation": "https://arayinfosolutions.com"
+        },
+        {
+          "value": "Platform development",
+          "value_citation": "https://arayinfosolutions.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Real-time object detection in crash tests",
+          "value_citation": "https://arayinfosolutions.com"
+        },
+        {
+          "value": "Pedestrian safety simulations",
+          "value_citation": "https://arayinfosolutions.com"
+        },
+        {
+          "value": "Achieving five-star NCAP ratings",
+          "value_citation": "https://arayinfosolutions.com"
+        },
+        {
+          "value": "Designing defense components",
+          "value_citation": "https://arayinfosolutions.com"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Automotive",
+          "value_citation": "https://arayinfosolutions.com"
+        },
+        {
+          "value": "Aerospace",
+          "value_citation": "https://arayinfosolutions.com"
+        },
+        {
+          "value": "Defense",
+          "value_citation": "https://arayinfosolutions.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://arayinfosolutions.com"
+        },
+        {
+          "value": "Edge AI & IoT",
+          "value_citation": "https://arayinfosolutions.com"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://arayinfosolutions.com"
+        }
+      ]
+    },
+    {
+      "company_name": "alitiq",
+      "company_name_citation": "https://alitiq.com",
+      "description": "alitiq is a specialized provider of enterprise forecasting intelligence, focusing on converting complex meteorological and non-meteorological data points into actionable business insights. The company's core philosophy is to remove the friction of interpreting raw weather data, instead providing Intelligent Forecasting that identifies how environmental factors directly impact specific business operations. By translating these variables into a language that decision-makers can understand, alitiq enables its clients to forecast what truly matters for their bottom line, rather than just monitoring weather patterns. The company operates at scale, delivering over 1,000 specialized forecasts daily through advanced modeling techniques. Their platform is designed for rapid impact, claiming an immediate return on investment within the first month of deployment. alitiq's value proposition is centered on confidence and precision, providing a proven track record that has attracted over 100 active clients, including significant players in the European energy sector. For the energy industry, alitiq's platform addresses the challenges of grid management, energy distribution, and market trading. By providing precise predictions for renewable energy output, they help utilities minimize the high costs associated with balancing energy. alitiq also serves the public interest through sophisticated flood management and emergency preparedness solutions.",
+      "description_citation": "https://alitiq.com",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Intelligent forecasting models",
+          "value_citation": "https://alitiq.com"
+        },
+        {
+          "value": "Python SDK",
+          "value_citation": "https://alitiq.com"
+        },
+        {
+          "value": "RESTful API",
+          "value_citation": "https://alitiq.com"
+        },
+        {
+          "value": "Scalable infrastructure",
+          "value_citation": "https://alitiq.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Enterprise Forecasting Intelligence",
+          "value_citation": "https://alitiq.com"
+        },
+        {
+          "value": "Energy Industry Optimization",
+          "value_citation": "https://alitiq.com"
+        },
+        {
+          "value": "Local Authority Flood Management",
+          "value_citation": "https://alitiq.com"
+        },
+        {
+          "value": "Early Warning Systems",
+          "value_citation": "https://alitiq.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Optimizing grid management",
+          "value_citation": "https://alitiq.com"
+        },
+        {
+          "value": "Reducing renewable energy balancing costs",
+          "value_citation": "https://alitiq.com"
+        },
+        {
+          "value": "Weather-driven energy trading",
+          "value_citation": "https://alitiq.com"
+        },
+        {
+          "value": "Early flood warnings",
+          "value_citation": "https://alitiq.com"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Energy Industry",
+          "value_citation": "https://alitiq.com"
+        },
+        {
+          "value": "Utilities",
+          "value_citation": "https://alitiq.com"
+        },
+        {
+          "value": "Local Authorities",
+          "value_citation": "https://alitiq.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://alitiq.com"
+        },
+        {
+          "value": "Edge AI & IoT",
+          "value_citation": "https://alitiq.com"
+        }
+      ]
+    },
+    {
+      "company_name": "Aravo Solutions, Inc.",
+      "company_name_citation": "https://aravo.com",
+      "description": "Aravo is a leading provider of third-party risk management (TPRM) solutions designed to help large global enterprises manage risk and performance across their extended enterprise. At the core of their offering is the Intelligence-First platform, an AI-powered SaaS technology that centralizes third-party risk management processes. Aravo's approach is defined by its use of intelligent automation, machine learning, Generative AI, and Agentic AI, which are integrated into workflows to enhance efficiency and decision-making accuracy. The company helps organizations manage over 5 million third-party users, suppliers, and vendors, providing clarity and control over complex global supply chains. Aravo distinguishes itself through a responsible AI framework, which prioritizes trustworthy AI principles while cutting through market hype. Their platform supports the entire lifecycle of third-party risk, from initial onboarding and assessment to ongoing evaluation and remediation. Key features include configurable workflows, customizable dashboards, and over 50 different risk and compliance apps tailored to various domains. The company's philosophy centers on the concept of Connected Risk, emphasizing that risks across an organization are interconnected and require a unified vision. Aravo serves a significant portion of the Fortune 100 and leading brands across sectors.",
+      "description_citation": "https://aravo.com",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Intelligence First platform",
+          "value_citation": "https://aravo.com"
+        },
+        {
+          "value": "Machine Learning",
+          "value_citation": "https://aravo.com"
+        },
+        {
+          "value": "Generative AI",
+          "value_citation": "https://aravo.com"
+        },
+        {
+          "value": "Agentic AI",
+          "value_citation": "https://aravo.com"
+        },
+        {
+          "value": "Intelligent automation",
+          "value_citation": "https://aravo.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Third-Party Risk Management (TPRM)",
+          "value_citation": "https://aravo.com"
+        },
+        {
+          "value": "Third-party monitoring software",
+          "value_citation": "https://aravo.com"
+        },
+        {
+          "value": "Governance, Risk, and Compliance (GRC)",
+          "value_citation": "https://aravo.com"
+        },
+        {
+          "value": "AI-driven onboarding and assessment",
+          "value_citation": "https://aravo.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Centralizing TPRM programs",
+          "value_citation": "https://aravo.com"
+        },
+        {
+          "value": "Streamlining third-party onboarding",
+          "value_citation": "https://aravo.com"
+        },
+        {
+          "value": "Strengthening operational resilience",
+          "value_citation": "https://aravo.com"
+        },
+        {
+          "value": "Managing vendor/supplier risk",
+          "value_citation": "https://aravo.com"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Technology",
+          "value_citation": "https://aravo.com"
+        },
+        {
+          "value": "Pharmaceutical",
+          "value_citation": "https://aravo.com"
+        },
+        {
+          "value": "Financial Services",
+          "value_citation": "https://aravo.com"
+        },
+        {
+          "value": "Manufacturing",
+          "value_citation": "https://aravo.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://aravo.com"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://aravo.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://aravo.com"
+        }
+      ]
+    },
+    {
+      "company_name": "Aldaso",
+      "company_name_citation": "https://aldaso.com",
+      "description": "Aldaso is a technology company specializing in intelligent document processing (IDP) designed primarily for mobility providers and the automotive industry. The company focuses on automating repetitive, time-intensive administrative tasks that involve precise document handling. By streamlining these complex document-based workflows, Aldaso helps organizations significantly reduce processing times, minimize manual errors, and lower operational costs. Their value proposition centers on transforming unstructured data into actionable information, allowing teams to redirect their focus from paperwork to core business growth and revenue-generating activities. The company delivers its impact through three core pillars: automation of repetitive tasks, continuous operational support, and the delivery of highly tailored solutions. Aldaso prides itself on short implementation times to ensure a quick return on investment for its clients. Their technical approach involves using context-aware algorithms that can map unstructured documents and extract only the data points relevant to a specific organization. This flexibility is critical in the automotive sector, where document layouts often vary significantly across different regions and providers. With over five years of specialized experience in the automotive sector, Aldaso has processed more than one million documents featuring a wide variety of types and layouts.",
+      "description_citation": "https://aldaso.com",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Intelligent Document Processing (IDP)",
+          "value_citation": "https://aldaso.com"
+        },
+        {
+          "value": "Context-aware algorithms",
+          "value_citation": "https://aldaso.com"
+        },
+        {
+          "value": "Automated bots",
+          "value_citation": "https://aldaso.com"
+        },
+        {
+          "value": "Unstructured data mapping",
+          "value_citation": "https://aldaso.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Automated document handling",
+          "value_citation": "https://aldaso.com"
+        },
+        {
+          "value": "Tailored administrative automation",
+          "value_citation": "https://aldaso.com"
+        },
+        {
+          "value": "Quote Robot for car quotes",
+          "value_citation": "https://aldaso.com"
+        },
+        {
+          "value": "Continuous post-implementation support",
+          "value_citation": "https://aldaso.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automating car quote processing",
+          "value_citation": "https://aldaso.com"
+        },
+        {
+          "value": "Extracting data from non-standardized documents",
+          "value_citation": "https://aldaso.com"
+        },
+        {
+          "value": "Meeting Service Level Agreements",
+          "value_citation": "https://aldaso.com"
+        },
+        {
+          "value": "Streamlining automotive workflows",
+          "value_citation": "https://aldaso.com"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Automotive",
+          "value_citation": "https://aldaso.com"
+        },
+        {
+          "value": "Mobility providers",
+          "value_citation": "https://aldaso.com"
+        },
+        {
+          "value": "Car leasing",
+          "value_citation": "https://aldaso.com"
+        },
+        {
+          "value": "Banking/Finance",
+          "value_citation": "https://aldaso.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Document AI",
+          "value_citation": "https://aldaso.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://aldaso.com"
+        }
+      ]
+    },
+    {
+      "company_name": "alwaysAI",
+      "company_name_citation": "https://alwaysai.co",
+      "description": "alwaysAI is a provider of enterprise-grade computer vision solutions designed to transform physical operations into actionable digital data. The company offers a comprehensive, end-to-end platform that enables businesses to detect people, objects, and events in real-time. By acting as a second pair of eyes, alwaysAI helps enterprises streamline operations, enhance decision-making, and improve ROI. The platform is designed to be industry-agnostic, addressing common business pain points such as labor shortages, safety issues, and a lack of real-time data regarding inventory and customer behavior. The alwaysAI platform supports the entire machine learning lifecycle through a suite of integrated tools. It includes advanced dataset management and MLOps, allowing users to collect, annotate, train, and evaluate AI vision models. For development, it provides an extensive API library to build customized applications for real-world deployments. A key feature of the platform is its flexibility; applications can be deployed and managed remotely on edge devices or in the cloud, allowing businesses to leverage their existing camera infrastructure. Unlike generative AI, alwaysAI focuses on Practical AI that solves tangible operational problems providing real-time analytics.",
+      "description_citation": "https://alwaysai.co",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Computer vision",
+          "value_citation": "https://alwaysai.co"
+        },
+        {
+          "value": "Machine Learning",
+          "value_citation": "https://alwaysai.co"
+        },
+        {
+          "value": "MLOps",
+          "value_citation": "https://alwaysai.co"
+        },
+        {
+          "value": "Edge Computing",
+          "value_citation": "https://alwaysai.co"
+        },
+        {
+          "value": "Object detection",
+          "value_citation": "https://alwaysai.co"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "End-to-end computer vision platform",
+          "value_citation": "https://alwaysai.co"
+        },
+        {
+          "value": "Dataset management",
+          "value_citation": "https://alwaysai.co"
+        },
+        {
+          "value": "AI application development",
+          "value_citation": "https://alwaysai.co"
+        },
+        {
+          "value": "Remote deployment management",
+          "value_citation": "https://alwaysai.co"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Real-time detection of people and objects",
+          "value_citation": "https://alwaysai.co"
+        },
+        {
+          "value": "Visual inspection",
+          "value_citation": "https://alwaysai.co"
+        },
+        {
+          "value": "Labor productivity tracking",
+          "value_citation": "https://alwaysai.co"
+        },
+        {
+          "value": "PPE detection for safety",
+          "value_citation": "https://alwaysai.co"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Manufacturing",
+          "value_citation": "https://alwaysai.co"
+        },
+        {
+          "value": "Mining",
+          "value_citation": "https://alwaysai.co"
+        },
+        {
+          "value": "Energy",
+          "value_citation": "https://alwaysai.co"
+        },
+        {
+          "value": "Logistics",
+          "value_citation": "https://alwaysai.co"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://alwaysai.co"
+        },
+        {
+          "value": "Edge AI & IoT",
+          "value_citation": "https://alwaysai.co"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://alwaysai.co"
+        }
+      ]
+    },
+    {
+      "company_name": "Alphamoon",
+      "company_name_citation": "https://alphamoon.ai",
+      "description": "Alphamoon is a specialized technology company providing an AI-powered platform for Intelligent Document Processing (IDP). The company's primary mission is to eliminate the tedious, manual tasks associated with document management by offering an AI assistant that can read, classify, and extract information from a wide variety of document types within a single platform. The platform serves as an AI powerhouse that transforms unstructured documents into structured sources of information, helping businesses reduce the time and costs associated with manual data entry. The core of Alphamoon's offering revolves around its advanced OCR (Optical Character Recognition) technology, which transforms images and scans into searchable text. Beyond simple recognition, the platform features automatic classification tools that introduce order to disorganized document sets and include a page-splitting panel to simplify the management of large document collections. To ensure high accuracy and adaptability, Alphamoon utilizes a Human-in-the-loop system. This feature allows human supervisors to oversee the automation workflow, where they can accept, edit, or verify extracted data. This interaction supports a continual learning feature, meaning the AI improves its performance based on human feedback over time.",
+      "description_citation": "https://alphamoon.ai",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "AI (Artificial Intelligence)",
+          "value_citation": "https://alphamoon.ai"
+        },
+        {
+          "value": "OCR (Optical Character Recognition)",
+          "value_citation": "https://alphamoon.ai"
+        },
+        {
+          "value": "Machine Learning",
+          "value_citation": "https://alphamoon.ai"
+        },
+        {
+          "value": "Intelligent Document Processing (IDP)",
+          "value_citation": "https://alphamoon.ai"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Document classification",
+          "value_citation": "https://alphamoon.ai"
+        },
+        {
+          "value": "Automated data extraction",
+          "value_citation": "https://alphamoon.ai"
+        },
+        {
+          "value": "Human-in-the-loop supervision",
+          "value_citation": "https://alphamoon.ai"
+        },
+        {
+          "value": "Invoice automation",
+          "value_citation": "https://alphamoon.ai"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automating court and bailiff documents",
+          "value_citation": "https://alphamoon.ai"
+        },
+        {
+          "value": "Skip tracing for debtor data",
+          "value_citation": "https://alphamoon.ai"
+        },
+        {
+          "value": "Processing transactional documents",
+          "value_citation": "https://alphamoon.ai"
+        },
+        {
+          "value": "Digitizing identity documents",
+          "value_citation": "https://alphamoon.ai"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Finance",
+          "value_citation": "https://alphamoon.ai"
+        },
+        {
+          "value": "Debt Recovery/Collection",
+          "value_citation": "https://alphamoon.ai"
+        },
+        {
+          "value": "Legal Tech",
+          "value_citation": "https://alphamoon.ai"
+        },
+        {
+          "value": "Retail",
+          "value_citation": "https://alphamoon.ai"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Document AI",
+          "value_citation": "https://alphamoon.ai"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://alphamoon.ai"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://alphamoon.ai"
+        }
+      ]
+    },
+    {
+      "company_name": "Altair",
+      "company_name_citation": "https://altair.com",
+      "description": "Altair is a global leader in computational science and artificial intelligence that provides enterprise-class software solutions. The company specializes in four primary pillars: design and simulation, data analytics and AI, high-performance computing (HPC), and cloud technologies. Their overarching goal is to enable organizations from startups to large corporations to address complex challenges through an open and programmable architecture. A central component of Altair's offering is Altair One, a cloud innovation gateway that provides dynamic, collaborative access to simulation and data analytics tools along with scalable HPC resources. This is supported by their unique Altair Units licensing model, which allows customers flexible access to a vast portfolio of over 180 products. In the realm of design and simulation, the Altair HyperWorks platform utilizes AI-powered capabilities to solve complex engineering problems within a unified environment. For data-driven decision-making, the Altair RapidMiner platform provides low-code and no-code data analytics solutions designed to democratize data science. Altair is also a leader in HPC and cloud technology through its Altair HPCWorks platform. The company's impact is evidenced by its adoption by over 16,000 organizations worldwide for high-stakes applications.",
+      "description_citation": "https://altair.com",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Artificial Intelligence (AI)",
+          "value_citation": "https://altair.com"
+        },
+        {
+          "value": "Generative AI",
+          "value_citation": "https://altair.com"
+        },
+        {
+          "value": "High-Performance Computing (HPC)",
+          "value_citation": "https://altair.com"
+        },
+        {
+          "value": "Digital Twin",
+          "value_citation": "https://altair.com"
+        },
+        {
+          "value": "Low-code/No-code Data Analytics",
+          "value_citation": "https://altair.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Altair One (Cloud gateway)",
+          "value_citation": "https://altair.com"
+        },
+        {
+          "value": "Altair HPCWorks",
+          "value_citation": "https://altair.com"
+        },
+        {
+          "value": "Altair RapidMiner",
+          "value_citation": "https://altair.com"
+        },
+        {
+          "value": "Altair HyperWorks",
+          "value_citation": "https://altair.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Tracking virus variants with AI",
+          "value_citation": "https://altair.com"
+        },
+        {
+          "value": "Optimizing aerodynamic performance",
+          "value_citation": "https://altair.com"
+        },
+        {
+          "value": "Reducing weight in heavy vehicle frames",
+          "value_citation": "https://altair.com"
+        },
+        {
+          "value": "Accelerating spacecraft mission development",
+          "value_citation": "https://altair.com"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Aerospace",
+          "value_citation": "https://altair.com"
+        },
+        {
+          "value": "Automotive",
+          "value_citation": "https://altair.com"
+        },
+        {
+          "value": "Life Sciences",
+          "value_citation": "https://altair.com"
+        },
+        {
+          "value": "Healthcare",
+          "value_citation": "https://altair.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://altair.com"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://altair.com"
+        }
+      ]
+    },
+    {
+      "company_name": "AllCloud",
+      "company_name_citation": "https://allcloud.io",
+      "description": "AllCloud is a global professional and managed services company that specializes in driving innovation through cloud-native technologies, specifically focusing on the Amazon Web Services (AWS) and Salesforce ecosystems. The company positions itself as a strategic partner for organizations looking to accelerate their digital transformation and AI adoption. By combining deep technical expertise with industry-specific knowledge, AllCloud helps businesses move beyond basic infrastructure management to build sophisticated development platforms and AI-driven business models. At the core of their offering is a focus on AI-led innovation. They provide an end-to-end strategy for the entire AI journey, helping clients navigate the complexities of machine learning and automated intelligence. One of their flagship offerings is the AI Fusion framework, a multi-layer system designed to accelerate AI deployments by up to 70%. This framework provides access to over 20 pre-built solutions and accelerators that address common use cases across various industries. Beyond AI, AllCloud provides robust services for cloud infrastructure and security. Their TrustStack solution represents a prevention-first approach to security, moving away from simple detection to proactive protection of sensitive workloads in the cloud.",
+      "description_citation": "https://allcloud.io",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Amazon Web Services (AWS)",
+          "value_citation": "https://allcloud.io"
+        },
+        {
+          "value": "Salesforce",
+          "value_citation": "https://allcloud.io"
+        },
+        {
+          "value": "Kubernetes (EKS)",
+          "value_citation": "https://allcloud.io"
+        },
+        {
+          "value": "AI Fusion framework",
+          "value_citation": "https://allcloud.io"
+        },
+        {
+          "value": "Agentic AI",
+          "value_citation": "https://allcloud.io"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI-led professional services",
+          "value_citation": "https://allcloud.io"
+        },
+        {
+          "value": "Managed services",
+          "value_citation": "https://allcloud.io"
+        },
+        {
+          "value": "AI Fusion multi-layer framework",
+          "value_citation": "https://allcloud.io"
+        },
+        {
+          "value": "TrustStack security",
+          "value_citation": "https://allcloud.io"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Accelerating AI deployment",
+          "value_citation": "https://allcloud.io"
+        },
+        {
+          "value": "Migrating infrastructure to cloud",
+          "value_citation": "https://allcloud.io"
+        },
+        {
+          "value": "Automating Kubernetes management",
+          "value_citation": "https://allcloud.io"
+        },
+        {
+          "value": "Securing cloud workloads",
+          "value_citation": "https://allcloud.io"
+        }
+      ],
+      "industries_targeted": [
+        {
+          "value": "Finance and Banking",
+          "value_citation": "https://allcloud.io"
+        },
+        {
+          "value": "Insurance",
+          "value_citation": "https://allcloud.io"
+        },
+        {
+          "value": "Manufacturing",
+          "value_citation": "https://allcloud.io"
+        },
+        {
+          "value": "Cybersecurity",
+          "value_citation": "https://allcloud.io"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://allcloud.io"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://allcloud.io"
+        }
+      ]
+    }
+  ]
+}

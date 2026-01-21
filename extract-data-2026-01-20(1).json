@@ -1,0 +1,1463 @@
+{
+  "companies": [
+    {
+      "company_name": "Morphik",
+      "company_name_citation": "https://www.morphik.ai",
+      "description": "Morphik is a Y Combinator-backed technology company that enables businesses to centralize their knowledge and build reliable AI agents designed to automate tasks without hallucinations. The platform is built to help organizations shift human focus toward high-value work by providing a dependable infrastructure for AI-driven automation. Morphik positions itself as a superior alternative to traditional Retrieval-Augmented Generation (RAG) systems and leading large language models, claiming significantly higher accuracy and faster deployment speeds.\n\nThe company's technology stack revolves around a lifecycle of data management: Ingesting data effortlessly, extracting structured information, providing instant querying capabilities, visualizing knowledge through graphs, and unlocking insights via research tools. A core component of their offering is the Morphik SDK, which allows developers to integrate these capabilities into their applications with minimal code. Morphik distinguishes itself through \"Diagram Intelligence\" and a visual-first retrieval approach. While many AI systems struggle with non-textual data, Morphik directly embeds each page of an input into its store, ensuring no context is lost to imperfect parsing. This makes the technology particularly effective for technical and domain-specific searches involving complex diagrams, schematics, and datasheets.\n\nThe platform is built for enterprise-scale operations, supporting over one million documents with a retrieval latency of approximately 200ms. It offers high flexibility in deployment, allowing businesses to run the software on-premise or in the cloud across major providers like AWS, GCP, and Azure. Additionally, Morphik provides a white-label, embeddable web UI, enabling companies to integrate the Morphik interface directly into their own products. The company maintains an open-source core, inviting community contributions and feature requests through GitHub. Morphik's RAG technology achieves 96% accuracy on document analysis benchmarks, outperforming standard GPT-4 and custom LangChain pipelines.",
+      "description_citation": "https://www.morphik.ai",
+      "business_email": "founders@morphik.ai",
+      "business_email_citation": "https://www.morphik.ai/terms",
+      "location": "San Francisco, California, United States",
+      "location_citation": "https://www.morphik.ai",
+      "team_size": "2 employees",
+      "team_size_citation": "https://www.morphik.ai",
+      "technologies_used": [
+        {
+          "value": "RAG (Retrieval-Augmented Generation)"
+        },
+        {
+          "value": "LLMs"
+        },
+        {
+          "value": "Knowledge Graphs"
+        },
+        {
+          "value": "Model Context Protocol (MCP)"
+        },
+        {
+          "value": "RBAC (Role-Based Access Control)"
+        },
+        {
+          "value": "Multi-tenancy"
+        },
+        {
+          "value": "AWS"
+        },
+        {
+          "value": "GCP"
+        },
+        {
+          "value": "Azure"
+        },
+        {
+          "value": "Python SDK"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Data ingestion and extraction"
+        },
+        {
+          "value": "Instant querying"
+        },
+        {
+          "value": "Knowledge visualization (Graphs)"
+        },
+        {
+          "value": "Research insights"
+        },
+        {
+          "value": "AI agent building"
+        },
+        {
+          "value": "White-labeled embeddable Web UI"
+        },
+        {
+          "value": "Morphik SDK"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automating manual tasks"
+        },
+        {
+          "value": "Technical and domain-specific search"
+        },
+        {
+          "value": "Analyzing complex technical documents like diagrams, schematics, and datasheets"
+        },
+        {
+          "value": "Building AI agents without hallucinations"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Banking & Finance"
+        },
+        {
+          "value": "Building & Construction"
+        },
+        {
+          "value": "Automotive"
+        },
+        {
+          "value": "Retail"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "John Snow Labs",
+      "company_name_citation": "https://www.johnsnowlabs.com",
+      "description": "John Snow Labs is an award-winning healthcare AI and Natural Language Processing (NLP) company that specializes in providing state-of-the-art tools for clinical data analysis. The organization is widely recognized for its contribution to the open-source community, boasting over 150 million downloads of its libraries and AI models. Serving more than 500 enterprise customers across healthcare systems, pharmaceutical companies, insurance payers, government agencies, and IT providers, John Snow Labs has established itself as a leader in accelerating the deployment of practical AI solutions. The company's portfolio is built on a foundation of scientific rigor, featuring over 30 peer-reviewed papers and patents that validate the state-of-the-art accuracy of its models.\n\nTheir primary offerings include medical-grade Large Language Models (LLMs) specifically tuned for healthcare tasks such as clinical text summarization, question answering, information extraction, and medical chat systems. These models are integrated with a medical knowledge base that is updated daily to ensure clinical relevance and precision. A core component of their technology stack is Spark NLP, a widely used library for enterprise NLP. John Snow Labs provides specialized models for clinical data abstraction across various medical specialties, including oncology, radiology, psychiatry, pediatrics, pathology, and social determinants of health. Their solutions enable healthcare organizations to extract meaningful insights from unstructured clinical data, which is critical for clinical decision support, provider experience improvement, and pharmacoepidemiology.\n\nIn addition to data extraction, John Snow Labs offers regulatory-grade de-identification tools. These solutions allow for the obfuscation and tokenization of unstructured clinical data across multiple formats, including free text, PDFs, DICOM images, and SVS files. This ensures that organizations can remain compliant with privacy regulations while still utilizing patient data for research and operational improvement. To facilitate the development and deployment of these models, the company provides a no-code, human-in-the-loop platform called NLP Lab. This workflow allows teams to annotate text and images, train and tune AI models, and share them within a private hub without requiring extensive programming knowledge. By combining advanced research with accessible tooling, John Snow Labs helps its customers navigate the complexities of AI innovation, focusing on responsible AI practices, benchmarks, and compliance within the healthcare sector.",
+      "description_citation": "https://www.johnsnowlabs.com",
+      "business_email": "nlpsummit@johnsnowlabs.com",
+      "business_email_citation": "https://www.nlpsummit.org/healthcare-2025",
+      "location": "Lewes, Delaware, United States",
+      "location_citation": "https://www.johnsnowlabs.com",
+      "team_size": "110 employees",
+      "team_size_citation": "https://www.johnsnowlabs.com",
+      "technologies_used": [
+        {
+          "value": "Spark NLP"
+        },
+        {
+          "value": "Medical Large Language Models (LLMs)"
+        },
+        {
+          "value": "NLP Lab"
+        },
+        {
+          "value": "Oracle Cloud Infrastructure (OCI)"
+        },
+        {
+          "value": "Deep Learning"
+        },
+        {
+          "value": "Python"
+        },
+        {
+          "value": "Machine Learning"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Medical LLMs for summarization, QA, extraction, and chat"
+        },
+        {
+          "value": "Clinical Data Abstraction with specialty-specific models"
+        },
+        {
+          "value": "Regulatory-Grade Text and Image De-Identification"
+        },
+        {
+          "value": "No-code Human-in-the-loop Workflows (NLP Lab)"
+        },
+        {
+          "value": "Private Model Hubs"
+        },
+        {
+          "value": "Healthcare NLP models"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Temporal relations extraction in oncological electronic health records"
+        },
+        {
+          "value": "Information extraction from unstructured clinical data for pharmacoepidemiology"
+        },
+        {
+          "value": "Medical chatbots for patient/provider experience"
+        },
+        {
+          "value": "De-identification of PDF/DICOM/SVS files"
+        },
+        {
+          "value": "Clinical text summarization"
+        },
+        {
+          "value": "Clinical decision support"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare systems"
+        },
+        {
+          "value": "Pharmaceuticals"
+        },
+        {
+          "value": "Insurance Payers"
+        },
+        {
+          "value": "Government"
+        },
+        {
+          "value": "Life Sciences"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        }
+      ]
+    },
+    {
+      "company_name": "Omdena",
+      "company_name_citation": "https://www.omdena.com",
+      "description": "Omdena is an organization that builds customized AI applications focused on impact and innovation. They operate a human-centered agentic platform that localizes solutions to specific industries, data, and challenges. The company functions as a collaborative community, bringing together over 1,000 global AI developers to solve real-world problems. They have served over 300 organizations across 80 countries, delivering more than 600 AI solutions. Their work spans from research and development to product scaling, emphasizing ethical AI that serves people first.\n\nOmdena offers specific programs for startups, NGOs, and large enterprises to integrate AI, build internal capacity, or develop cutting-edge innovations. Their approach combines technical expertise with a commitment to social impact, partnering with organizations like the UN World Food Programme and UN Refugee Agency. The company maintains a 98% partner satisfaction rate and has demonstrated measurable results across diverse sectors including climate change, healthcare, disaster response, education, and social good initiatives.\n\nThe platform enables organizations to co-create AI solutions through various engagement models: Product Development for seamless AI integration, Capacity Building to empower teams with AI skills, and AI Innovation for cutting-edge research and development. Omdena's collaborative methodology brings together multi-disciplinary AI teams to tackle challenges using advanced technologies including computer vision, natural language processing, machine learning, and generative AI. Their solutions are designed to be customized, scalable, and ethically sound, with a focus on delivering measurable business impact while addressing social challenges. The company's mission is to positively impact 1 billion people by 2030, demonstrating their commitment to using AI as a force for good in addressing global challenges ranging from environmental sustainability to poverty alleviation.",
+      "description_citation": "https://www.omdena.com",
+      "business_email": "contact@omdena.com",
+      "business_email_citation": "https://www.omdena.com/contact-us",
+      "location": "New York, New York, United States",
+      "location_citation": "https://www.omdena.com",
+      "team_size": "430 employees (1000+ global AI developers)",
+      "team_size_citation": "https://www.omdena.com",
+      "technologies_used": [
+        {
+          "value": "Human-centered agentic platform"
+        },
+        {
+          "value": "Machine Learning"
+        },
+        {
+          "value": "IBM watsonx"
+        },
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Generative AI"
+        },
+        {
+          "value": "Deep Learning"
+        },
+        {
+          "value": "Cloud Platforms"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Product Development Program"
+        },
+        {
+          "value": "Capacity Building Program"
+        },
+        {
+          "value": "AI Innovation Program"
+        },
+        {
+          "value": "Research & Development"
+        },
+        {
+          "value": "Custom AI solutions"
+        },
+        {
+          "value": "Ethical AI implementation"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "ESG scoring and greenwashing detection"
+        },
+        {
+          "value": "Text-based healthcare chatbots for 24/7 patient assistance"
+        },
+        {
+          "value": "Early Alzheimer's diagnosis through brain scan analysis"
+        },
+        {
+          "value": "Climate change solutions"
+        },
+        {
+          "value": "Disaster response systems"
+        },
+        {
+          "value": "Educational technology"
+        },
+        {
+          "value": "Sustainable finance for SMEs"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Startups"
+        },
+        {
+          "value": "NGOs"
+        },
+        {
+          "value": "Enterprises"
+        },
+        {
+          "value": "SMEs"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Finance"
+        },
+        {
+          "value": "Environmental Services"
+        },
+        {
+          "value": "Education"
+        },
+        {
+          "value": "Government"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "AI Ethics & Governance"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        }
+      ]
+    },
+    {
+      "company_name": "NAVEX",
+      "company_name_citation": "https://www.navex.com",
+      "description": "NAVEX is a global provider of governance, risk, and compliance (GRC) software and solutions, serving over 13,000 organizations worldwide in 150 countries. The company provides a centralized platform, NAVEX One, designed to connect people, processes, data, and technology to provide organizations with improved visibility, adaptability, and control over their risk landscape. Their mission is to help organizations manage and meet compliance obligations efficiently by identifying which business risks to handle first and where to find them. They support over 73 million people and employees worldwide, including 75% of the Fortune 100 and 500 companies.\n\nThe platform is built to solve the challenges of complex, regulated institutions that need to scale innovation without increasing operational risk. It automates the entire AI lifecycle from initial use case intake and risk classification to production monitoring and eventual retirement. This automation allows enterprises to bring AI solutions to market up to ten times faster than traditional manual processes. One of the core value propositions is the ability to enforce policies at scale, ensuring that every AI model complies with internal standards and global regulations such as the EU AI Act, NIST AI Risk Management Framework, and ISO 42001.\n\nNAVEX architecture is designed for enterprise-grade flexibility, supporting deployment both on-premises and in the cloud. It integrates seamlessly with existing technology stacks, including MLOps tools, data platforms, and GRC (Governance, Risk, and Compliance) systems. The platform facilitates collaboration across diverse cross-functional teams, including Responsible AI leaders, C-suite executives, IT architects, model owners, and control partners. Their AI-powered intelligence saves time on manual tasks, provides instant insights into risk activity, and supports better business decision-making by connecting intelligence across the entire enterprise. The platform includes specialized capabilities for continuous control and insight, monitoring AI models for performance issues, bias, and drift, while generating regulator-grade reports to ensure audit readiness.",
+      "description_citation": "https://www.navex.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.navex.com/en-us/contact-us",
+      "location": "Lake Oswego, Oregon, United States",
+      "location_citation": "https://www.navex.com",
+      "team_size": "1200 employees",
+      "team_size_citation": "https://www.navex.com",
+      "technologies_used": [
+        {
+          "value": "AI-powered risk and compliance software"
+        },
+        {
+          "value": "GRC platform (NAVEX One)"
+        },
+        {
+          "value": "Automation tools"
+        },
+        {
+          "value": "Data analytics"
+        },
+        {
+          "value": "Cloud infrastructure"
+        },
+        {
+          "value": "Salesforce"
+        },
+        {
+          "value": "NetSuite"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "NAVEX One GRC platform"
+        },
+        {
+          "value": "Whistleblowing & Incident Management"
+        },
+        {
+          "value": "Ethics & Compliance Training"
+        },
+        {
+          "value": "Policy & Procedure Management (PolicyTech)"
+        },
+        {
+          "value": "Risk & Governance"
+        },
+        {
+          "value": "Compliance Consulting Services"
+        },
+        {
+          "value": "Model Monitoring (Bias, Drift, Performance)"
+        },
+        {
+          "value": "Automated due diligence"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Managing corporate hotlines"
+        },
+        {
+          "value": "Detecting accounting fraud and misconduct"
+        },
+        {
+          "value": "Automating due diligence"
+        },
+        {
+          "value": "Tracking regulatory changes"
+        },
+        {
+          "value": "Building ethical workplace cultures"
+        },
+        {
+          "value": "Streamlining policy communication"
+        },
+        {
+          "value": "Ensuring compliance with EU AI Act and NIST frameworks"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Financial Services"
+        },
+        {
+          "value": "Global Development"
+        },
+        {
+          "value": "Non-profits/Associations"
+        },
+        {
+          "value": "Large Enterprise (Fortune 100/500)"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "ModelOp",
+      "company_name_citation": "https://www.modelop.com",
+      "description": "ModelOp is a leading provider of AI Lifecycle Management and Governance solutions specifically designed for large-scale enterprises. The company serves as a centralized Control Tower for organizations looking to operationalize AI across various forms, including traditional machine learning, Generative AI, and Agentic AI. By providing a unified AI system of record, ModelOp enables businesses to establish full visibility into their AI inventory, whether the solutions are developed internally, sourced from third-party vendors, or embedded within SaaS applications. The platform is built to solve the challenges of complex, regulated institutions that need to scale innovation without increasing operational risk.\n\nModelOp automates the entire AI lifecycle from initial use case intake and risk classification to production monitoring and eventual retirement. This automation allows enterprises to bring AI solutions to market up to ten times faster than traditional manual processes. One of the core value propositions is the ability to enforce policies at scale, ensuring that every AI model complies with internal standards and global regulations such as the EU AI Act, NIST AI Risk Management Framework, and ISO 42001. The architecture is designed for enterprise-grade flexibility, supporting deployment both on-premises and in the cloud, integrating seamlessly with existing technology stacks including MLOps tools, data platforms, and GRC (Governance, Risk, and Compliance) systems.\n\nThe platform facilitates collaboration across diverse cross-functional teams, including Responsible AI leaders, C-suite executives, IT architects, model owners, and control partners. For example, it helps data scientists satisfy documentation requirements faster through automated model card generation, while providing executives with real-time insights into ROI and risk posture. ModelOp includes specialized capabilities for continuous control and insight, monitoring AI models for performance issues, bias, and drift, while generating regulator-grade reports to ensure audit readiness. By standardizing the intake of use cases and automatically tiering risks, ModelOp helps organizations prioritize their AI investments based on business value and risk tolerance, ultimately empowering enterprises to build trust by design and turning governance from a bottleneck into a strategic accelerator for AI innovation.",
+      "description_citation": "https://www.modelop.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.modelop.com",
+      "location": "Chicago, Illinois, United States",
+      "location_citation": "https://www.modelop.com",
+      "team_size": "45 employees",
+      "team_size_citation": "https://www.modelop.com",
+      "technologies_used": [
+        {
+          "value": "Machine Learning (ML)"
+        },
+        {
+          "value": "Generative AI (GenAI)"
+        },
+        {
+          "value": "Agentic AI"
+        },
+        {
+          "value": "REST-compliant micro-services"
+        },
+        {
+          "value": "AWS"
+        },
+        {
+          "value": "Azure"
+        },
+        {
+          "value": "GCP"
+        },
+        {
+          "value": "Snowflake"
+        },
+        {
+          "value": "Salesforce"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Single AI System of Record"
+        },
+        {
+          "value": "Automation and Orchestration"
+        },
+        {
+          "value": "Continuous Control and Insight"
+        },
+        {
+          "value": "AI Governance Software"
+        },
+        {
+          "value": "Lifecycle Management"
+        },
+        {
+          "value": "Model Monitoring (Bias, Drift, Performance)"
+        },
+        {
+          "value": "Audit Reporting"
+        },
+        {
+          "value": "ModelOp Center platform"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Operationalizing AI governance at scale"
+        },
+        {
+          "value": "Automating risk rating processes"
+        },
+        {
+          "value": "Managing third-party AI risk"
+        },
+        {
+          "value": "Accelerating time-to-market for AI models"
+        },
+        {
+          "value": "Automated generation of model cards and risk documentation"
+        },
+        {
+          "value": "Ensuring compliance with EU AI Act and NIST frameworks"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Financial Services"
+        },
+        {
+          "value": "Life Sciences"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Consumer Goods"
+        },
+        {
+          "value": "Pharmaceuticals & Biotech"
+        },
+        {
+          "value": "Retail"
+        },
+        {
+          "value": "Government & Public Sector"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "AI Ethics & Governance"
+        },
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "My Voice AI",
+      "company_name_citation": "https://www.myvoice.ai",
+      "description": "My Voice AI Ltd is a privately held company recognized as a pioneer and leader in the field of conversational AI and voice intelligence. The company is dedicated to unlocking the full potential of the human voice, moving beyond simple speech-to-text conversion to understand the deeper nuances, identity, and intent behind spoken words. Their primary mission is to build the world's most secure end-to-end voice intelligence platform through the application of advanced machine learning and deep learning technologies. Founded in 2017 by a team of world-class speech scientists and serial entrepreneurs including Dr. David Horowitz, Ivar Line, and Nikola Andelic, the company specializes in state-of-the-art deep neural network (DNN) and deep learning techniques.\n\nA cornerstone of their product offering is NanoVoice, a proprietary technology that utilizes TinyML to perform speaker verification in real-time. This technology is uniquely designed to operate on ultra-low power edge AI platforms, giving My Voice AI a first-mover advantage with what is described as the world's smallest speaker verification engine. Their approach emphasizes both privacy and security, providing software licenses and services that enable seamless authentication directly on-device, thereby reducing the reliance on cloud-based processing and enhancing user privacy. The technology is language-independent and engineered to function reliably under real-world conditions across a vast range of hardware, from cloud infrastructures and mobile phones to ultra-low powered microchips.\n\nBeyond basic identity verification, My Voice AI's technology portfolio includes advanced speaker identification capabilities, such as anti-spoofing and digit verification. These tools are designed to detect recorded voices or sophisticated spoofing attempts and can verify that a specific authorized person is speaking a random digit passcode. The company also focuses on the emotional and demographic dimensions of human speech, with specialized engines that can detect complex emotions like stress, happiness, and anger, while simultaneously identifying the gender and age of a speaker based solely on their voice profile. They deliver power-efficient training and inference engines with a minimal digital footprint, serving a diverse global clientele including financial institutions and leaders in edge AI embedded platforms.",
+      "description_citation": "https://www.myvoice.ai",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.myvoice.ai",
+      "location": "London, United Kingdom",
+      "location_citation": "https://www.myvoice.ai",
+      "team_size": "10 employees",
+      "team_size_citation": "https://www.myvoice.ai",
+      "technologies_used": [
+        {
+          "value": "TinyML"
+        },
+        {
+          "value": "Deep Neural Networks (DNN)"
+        },
+        {
+          "value": "Deep Learning"
+        },
+        {
+          "value": "Machine Learning"
+        },
+        {
+          "value": "Voice User Interface (VUI)"
+        },
+        {
+          "value": "Edge AI"
+        },
+        {
+          "value": "Cloud technology"
+        },
+        {
+          "value": "Ultra-low power chips"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "NanoVoice (TinyML Speaker Verification)"
+        },
+        {
+          "value": "Speaker Identification"
+        },
+        {
+          "value": "Anti-spoofing"
+        },
+        {
+          "value": "Digit Verification"
+        },
+        {
+          "value": "Emotion Detection"
+        },
+        {
+          "value": "Gender Detection"
+        },
+        {
+          "value": "Age Detection"
+        },
+        {
+          "value": "Edge-based training and inference engines"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Real-time speaker verification on edge devices"
+        },
+        {
+          "value": "Secure authentication for financial services"
+        },
+        {
+          "value": "Detection of voice recordings and spoofing attempts"
+        },
+        {
+          "value": "Verification of random digit passcodes"
+        },
+        {
+          "value": "Emotional analysis for stress or sentiment"
+        },
+        {
+          "value": "Demographic profiling for age and gender"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Financial institutions"
+        },
+        {
+          "value": "Edge AI embedded platform providers"
+        },
+        {
+          "value": "Digital security"
+        },
+        {
+          "value": "Physical security"
+        },
+        {
+          "value": "Consumer electronics"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Banking"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Edge AI & IoT"
+        }
+      ]
+    },
+    {
+      "company_name": "Mixsoft",
+      "company_name_citation": "https://www.mixsoft.ai",
+      "description": "Mixsoft is an artificial intelligence solutions provider dedicated to empowering forward-thinking businesses by streamlining workflows through the implementation of intelligent assistants. The company specializes in designing tailored AI tools that allow professionals to remain focused on high-value tasks while automating repetitive, time-consuming processes. Their core philosophy is centered on creating AI solutions that serve as natural extensions of human effort rather than replacements, ensuring that virtual assistants integrate seamlessly into existing business operations to enhance overall productivity. Founded in 2023 and based in London, United Kingdom, Mixsoft operates with a lean team focused on delivering customized, high-impact AI implementations.\n\nThe company offers a diverse suite of high-impact services designed to address various technical and operational needs. One of their primary offerings is the development of Intelligent Virtual Assistants—conversational bots capable of natural interactions via both chat and voice, providing 24/7 availability to handle customer requests or internal tasks. These systems are built to integrate directly with Contact Centers, CRMs, and other internal systems, featuring ongoing learning capabilities to improve performance over time. Additionally, Mixsoft provides expert Prompt Engineering and Management, helping businesses maximize the utility of advanced AI models such as OpenAI, Claude, and Gemini. This service includes structuring optimal inputs, managing version tracking, and performing continual optimization to ensure high-quality content and data outputs.\n\nBeyond conversational AI, Mixsoft provides robust technical development services, including modern web development and API construction using Node.js and Clean Architecture. They specialize in building scalable REST and GraphQL APIs that connect databases and AI services, often deployed on Kubernetes and cloud infrastructure. Their specialized web scraping solutions allow businesses to extract and structure public data while bypassing complex bot detection systems like CAPTCHAs. Furthermore, their speech-to-text documentation services provide 99 percent accuracy for generating editable transcripts from audio and video. Mixsoft defines its success through measurable outcomes such as increased sales, significant time savings—often cited as over two hours daily—and cost optimization, following a structured four-step process from discovery to continuous optimization.",
+      "description_citation": "https://www.mixsoft.ai",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.mixsoft.ai",
+      "location": "London, United Kingdom",
+      "location_citation": "https://www.mixsoft.ai",
+      "team_size": "2 employees",
+      "team_size_citation": "https://www.mixsoft.ai",
+      "technologies_used": [
+        {
+          "value": "OpenAI"
+        },
+        {
+          "value": "Claude"
+        },
+        {
+          "value": "Gemini"
+        },
+        {
+          "value": "Node.js"
+        },
+        {
+          "value": "GraphQL"
+        },
+        {
+          "value": "REST"
+        },
+        {
+          "value": "Kubernetes"
+        },
+        {
+          "value": "Cloud Infrastructure"
+        },
+        {
+          "value": "JavaScript"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Intelligent Virtual Assistants"
+        },
+        {
+          "value": "Prompt Engineering and Management"
+        },
+        {
+          "value": "Web Development"
+        },
+        {
+          "value": "API Development (REST & GraphQL)"
+        },
+        {
+          "value": "Web Scraping"
+        },
+        {
+          "value": "Speech to Text Documentation"
+        },
+        {
+          "value": "Custom AI Models"
+        },
+        {
+          "value": "Private Cloud AI instances"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automating repetitive tasks"
+        },
+        {
+          "value": "24/7 customer support"
+        },
+        {
+          "value": "Lead generation for real estate"
+        },
+        {
+          "value": "Private cloud data analysis for law firms"
+        },
+        {
+          "value": "Capturing public web data for internal databases"
+        },
+        {
+          "value": "Transcribing audio and video for record-keeping"
+        },
+        {
+          "value": "Optimizing sales funnels"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Legal"
+        },
+        {
+          "value": "Real Estate"
+        },
+        {
+          "value": "Customer Service"
+        },
+        {
+          "value": "Tech-enabled businesses"
+        },
+        {
+          "value": "Professional Services"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "OPX Ai",
+      "company_name_citation": "https://www.opxai.com",
+      "description": "OPX Ai is an industrial technology company dedicated to unifying three critical pillars of modern industry: Operations AI, Carbon Removal, and Workforce Development. Founded in 2018 and based in Carrollton, Texas, the company's core mission is to digitize operations, decarbonize the industry, and democratize AI for producers in the oil and gas sector. By providing an interoperable ecosystem, OPX Ai enables organizations to move from reactive firefighting to proactive, exception-driven management. Their platform is designed to plug directly into existing infrastructures, such as SCADA systems, PI/historians, and various data lakes, without requiring data to leave the client's secure network. The company has reportedly unlocked over $100 million in production improvements annually and serves notable clients including Chevron and ConocoPhillips.\n\nThe Operations AI suite consists of three primary components: Buddy AI, FieldIQ, and IOCaaS (Integrated Operating Center as a Service). Buddy AI acts as an intelligent layer that detects anomalies and suggests next-best actions, effectively filtering out noise from thousands of data tags to provide clear advisories. FieldIQ serves as an on-pad advisor for operators, allowing them to chat with the AI, log actions, and receive micro-lessons in the field. IOCaaS provides a unified view for leadership, utilizing playbooks and KPIs to standardize operations across the entire field. Together, these tools create a closed-loop system where field feedback retrains the AI, and standardized playbooks drive efficiency.\n\nIn addition to operational efficiency, OPX Ai addresses environmental sustainability through its CARBiN Direct Air Capture (DAC) solution. This modular, grid-ready technology integrates telemetry for measurement, reporting, and verification (MRV) of carbon removal and asset health, allowing companies to generate audit-ready evidence of methane and CO2 reductions. Complementing these technical solutions is the \"Operators of the Future\" program, a Texas-based workforce engine designed to produce skilled operators trained in AI, SCADA, PLC, and artificial lift optimization. By combining advanced software with hardware and human capital development, OPX Ai helps producers achieve measurable results, including significant reductions in lease operating expenses (LOE), production lifts of 2-5%, and faster event resolution.",
+      "description_citation": "https://www.opxai.com",
+      "business_email": "OPXAi@opxai.com",
+      "business_email_citation": "https://www.opxai.com",
+      "location": "Carrollton, Texas, United States",
+      "location_citation": "https://www.opxai.com",
+      "team_size": "20 employees",
+      "team_size_citation": "https://www.opxai.com",
+      "technologies_used": [
+        {
+          "value": "SCADA"
+        },
+        {
+          "value": "PI/historian tags"
+        },
+        {
+          "value": "Telemetry"
+        },
+        {
+          "value": "Field Sensors"
+        },
+        {
+          "value": "Buddy AI"
+        },
+        {
+          "value": "AWS"
+        },
+        {
+          "value": "Microsoft Azure"
+        },
+        {
+          "value": "Google Cloud"
+        },
+        {
+          "value": "Apache Kafka"
+        },
+        {
+          "value": "Power BI"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Buddy AI (anomaly detection and advisories)"
+        },
+        {
+          "value": "FieldIQ (on-pad AI advisor)"
+        },
+        {
+          "value": "IOCaaS (Integrated Operating Center as a Service)"
+        },
+        {
+          "value": "CARBiN Direct Air Capture (Modular DAC)"
+        },
+        {
+          "value": "Operators of the Future (Workforce training)"
+        },
+        {
+          "value": "Methane verification (MVR)"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Exception-driven operations"
+        },
+        {
+          "value": "Artificial lift optimization"
+        },
+        {
+          "value": "Compression and flow assurance"
+        },
+        {
+          "value": "Methane verification (MVR)"
+        },
+        {
+          "value": "Lean Integrated Operating Center (IOC) setup"
+        },
+        {
+          "value": "Anomaly detection"
+        },
+        {
+          "value": "Reduction of manual well checks/truck rolls"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Oil and Gas"
+        },
+        {
+          "value": "Mining"
+        },
+        {
+          "value": "Industrial Energy production"
+        },
+        {
+          "value": "Environmental Services"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Edge AI & IoT"
+        }
+      ]
+    },
+    {
+      "company_name": "Nimdzi Insights",
+      "company_name_citation": "https://www.nimdzi.com",
+      "description": "Nimdzi Insights is an international market research and consulting firm based in Seattle, Washington, specializing in the language services and localization industry. Founded in 2017, the company focuses on helping businesses expand internationally through research, education, and geocultural intelligence. The name \"Nimdzi\" means \"knowledge\" in the Fante dialect of Ghana, reflecting the company's commitment to spreading knowledge about business development and the role of language in organizations. With an estimated 75 employees, Nimdzi serves a diverse client base including language service providers, multinational corporations, and organizations seeking to enhance their global readiness.\n\nNimdzi offers a comprehensive range of consultancy services including international business expansion consulting, translation and localization consulting, technology stack audits, mergers and acquisitions support, competitive analysis, and international business growth strategies. The firm has established itself as a thought leader in the industry through its flagship research publications. The Nimdzi 100 ranks the top language service providers by revenue and is widely considered an industry standard, read by tens of thousands of people in the translation and localization space and beyond. The Nimdzi Language Technology Radar is a database of products that brings visibility and transparency to the language technology market, mapping hundreds of language technology solutions to help organizations make informed decisions.\n\nThe company's expertise extends to leveraging advanced AI technologies in the localization space. Their work encompasses Generative AI (GenAI) applications, agentic linguistic testing, and process optimization for multilingual content workflows. Nimdzi provides strategic guidance on AI-powered localization, helping organizations streamline their localization processes end-to-end through automation and workflow optimization. They conduct commissioned industry research, manage RFP and RFI processes, optimize localization programs, and provide benchmarking data for both language service providers and enterprise buyers. Their consulting services also include sales, marketing, and account/project management workshops, as well as professional training to help teams stay competitive in an evolving technological landscape dominated by AI and machine learning innovations.",
+      "description_citation": "https://www.nimdzi.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.nimdzi.com",
+      "location": "Seattle, Washington, United States",
+      "location_citation": "https://www.nimdzi.com",
+      "team_size": "75 employees",
+      "team_size_citation": "https://www.nimdzi.com",
+      "technologies_used": [
+        {
+          "value": "Language technology"
+        },
+        {
+          "value": "Generative AI (GenAI)"
+        },
+        {
+          "value": "Localization tools"
+        },
+        {
+          "value": "Machine Translation"
+        },
+        {
+          "value": "Translation Management Systems (TMS)"
+        },
+        {
+          "value": "AI"
+        },
+        {
+          "value": "Oracle Cloud"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Market research"
+        },
+        {
+          "value": "Strategic consulting"
+        },
+        {
+          "value": "Technology audits"
+        },
+        {
+          "value": "Nimdzi 100 rankings"
+        },
+        {
+          "value": "Language Technology Radar"
+        },
+        {
+          "value": "RFP and RFI process management"
+        },
+        {
+          "value": "Localization program optimization"
+        },
+        {
+          "value": "Professional training workshops"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Scaling multilingual E-Learning efficiently"
+        },
+        {
+          "value": "Optimizing financial technology platforms"
+        },
+        {
+          "value": "Analyzing buyer behavior"
+        },
+        {
+          "value": "Agentic linguistic testing"
+        },
+        {
+          "value": "Streamlining localization end-to-end"
+        },
+        {
+          "value": "Process optimization for multilingual content"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Language Service Providers (LSPs)"
+        },
+        {
+          "value": "Technology"
+        },
+        {
+          "value": "Finance"
+        },
+        {
+          "value": "Retail"
+        },
+        {
+          "value": "Education"
+        },
+        {
+          "value": "E-commerce"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Conversational AI"
+        }
+      ]
+    },
+    {
+      "company_name": "Metosin",
+      "company_name_citation": "https://www.metosin.fi",
+      "description": "Metosin is a high-tech and high-touch consulting company based in Tampere, Finland, founded in 2012. The company specializes in finding beautiful solutions to clients' hard problems with a people-first mindset. Metosin operates with a team of approximately 26 employees who take a unique three-pronged approach to problem-solving by considering the technology perspective, business perspective, and people perspective equally. This holistic methodology ensures that solutions are sustainable and can adapt along with their clients' evolving needs. The company maintains small, tight-knit blended teams and open lines of communication, fostering collaborative partnerships that enable successful project outcomes.\n\nMetosin has positioned itself as an engineering growth partner that focuses on the intersection of human expertise and intelligent automation to create lasting competitive advantage. The company partners with organizations throughout the complete AI journey, from identifying valuable opportunities and driving structured adoption to delivering measurable business impact with agentic AI solutions. Their approach emphasizes that lasting competitive advantage comes from aligning intelligent automation with clear business objectives, and they consider technology, business, and people perspectives equally to ensure digital solutions are sustainable and adaptable. They are particularly known for their expertise in Clojure and functional programming, as well as their contributions to the open-source community.\n\nBeyond traditional software development, Metosin provides specialized services in AI Transformation, Digital Strategy, Product & Solution Development, and Open Source support. They help organizations develop high-level AI strategies and create prioritized investment roadmaps that align with business goals. Their work includes building scalable web applications using demanding software projects and providing technical mentoring and training. The company has worked on case studies for organizations like Choreograph, Reslink, and Planeo, demonstrating their capability to deliver complex technical solutions. Metosin also maintains popular open-source libraries such as Reitit (routing), Malli (data schemas), and Reagent optimization tools, contributing actively to the Clojure and ClojureScript ecosystems while providing dedicated support for their open-source libraries.",
+      "description_citation": "https://www.metosin.fi",
+      "business_email": "valtteri.harmainen@metosin.fi",
+      "business_email_citation": "https://www.metosin.fi/en/contact",
+      "location": "Tampere, Finland",
+      "location_citation": "https://www.metosin.fi",
+      "team_size": "26 employees",
+      "team_size_citation": "https://www.metosin.fi",
+      "technologies_used": [
+        {
+          "value": "Clojure"
+        },
+        {
+          "value": "ClojureScript"
+        },
+        {
+          "value": "Intelligent automation"
+        },
+        {
+          "value": "Agentic AI"
+        },
+        {
+          "value": "Reitit (routing library)"
+        },
+        {
+          "value": "Malli (data schemas)"
+        },
+        {
+          "value": "Reagent"
+        },
+        {
+          "value": "Cloud platforms"
+        },
+        {
+          "value": "Functional programming"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "AI Transformation"
+        },
+        {
+          "value": "Digital Strategy"
+        },
+        {
+          "value": "Product & Solution Development"
+        },
+        {
+          "value": "Open Source support"
+        },
+        {
+          "value": "Agentic AI solutions"
+        },
+        {
+          "value": "Technical mentoring and training"
+        },
+        {
+          "value": "Scalable web applications"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "High-Level AI Strategy into a Prioritized Investment Roadmap"
+        },
+        {
+          "value": "Building agentic AI solutions"
+        },
+        {
+          "value": "Scalable web application development"
+        },
+        {
+          "value": "Digital transformation projects"
+        },
+        {
+          "value": "Open source library support and optimization"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Technology"
+        },
+        {
+          "value": "Software Development"
+        },
+        {
+          "value": "Consulting"
+        },
+        {
+          "value": "Professional Services"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "Oregon Systems",
+      "company_name_citation": "https://www.oregon-systems.com",
+      "description": "Oregon Systems is a cybersecurity engineering firm based in Abu Dhabi that focuses on securing resilient cyber infrastructure, specifically targeting the intersection of AI, data storage, and high-performance computing. The company positions itself as an engineering services provider that helps organizations reduce their carbon footprint and transition to cleaner and more efficient operations through advanced cybersecurity solutions. Their work encompasses both Operational Technology (OT) and Information Technology (IT) environments, offering specialized hardware and software solutions to protect critical infrastructure against external threats. Oregon Systems emphasizes engineering cybersecurity while empowering AI and data storage capabilities with unbreakable cyber defense and high-performance computing solutions.\n\nThe company provides a comprehensive range of AI solutions designed to streamline processes in line with business needs. Their certified AI experts are well-versed in the latest technologies, including standard Machine Learning algorithms, and they focus on optimizing operations across the board through intelligent automation. Oregon Systems maintains a strong emphasis on security, keeping systems secure with strong access controls, regular checks, and timely updates. They promote preparedness through recovery plans and staying prepared with strong recovery plans that are regularly tested and improved. Their approach combines cutting-edge AI capabilities with robust cybersecurity measures to deliver enterprise-grade solutions.\n\nOregon Systems offers various service models including Resident Engineer programs, Partners Training, Consulting Services, Annual Maintenance Contracts, Cyber Lab facilities, and GAP Assessments. Their technical solutions include Browser Isolation, Data Intelligence Platforms, Network Segmentation and Security, Insider Risk Solutions, Data Diodes, Cross Domain solutions, and Protection for Critical Software, Hardware, and Firmware. They specialize in secure file transfer, database replication, and industrial patch management. Their case studies demonstrate expertise in implementing secure data transfer solutions using technologies like Owl Cyber Defense data diodes for OSI PI Historian replication, OPC Data Replication, and securing critical CCTV networks. Oregon Systems serves industries including oil and gas, utilities, manufacturing, defense, and healthcare, providing tailored cybersecurity and AI solutions for each sector's unique operational requirements.",
+      "description_citation": "https://www.oregon-systems.com",
+      "business_email": "contact@oregon-systems.com",
+      "business_email_citation": "https://www.oregon-systems.com",
+      "location": "Abu Dhabi, United Arab Emirates",
+      "location_citation": "https://www.oregon-systems.com",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.oregon-systems.com",
+      "technologies_used": [
+        {
+          "value": "Data Diodes"
+        },
+        {
+          "value": "Browser Isolation"
+        },
+        {
+          "value": "Data Intelligence Platform"
+        },
+        {
+          "value": "Network Segmentation"
+        },
+        {
+          "value": "Cross Domain solutions"
+        },
+        {
+          "value": "High Performance Computing"
+        },
+        {
+          "value": "Machine Learning"
+        },
+        {
+          "value": "Cloud Security"
+        },
+        {
+          "value": "OT Cybersecurity"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Resident Engineer"
+        },
+        {
+          "value": "Partners Training"
+        },
+        {
+          "value": "Consulting Services"
+        },
+        {
+          "value": "Annual Maintenance Contract"
+        },
+        {
+          "value": "Cyber Lab"
+        },
+        {
+          "value": "GAP Assessment"
+        },
+        {
+          "value": "Data Diode solutions"
+        },
+        {
+          "value": "Secure Transfer systems"
+        },
+        {
+          "value": "Industrial patch management"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Secure File Transfer and Syslog Replication"
+        },
+        {
+          "value": "OSI PI Historian Replication"
+        },
+        {
+          "value": "Secure OPC Data Replication"
+        },
+        {
+          "value": "Database Replication"
+        },
+        {
+          "value": "Securing Critical CCTV Networks and Enterprise"
+        },
+        {
+          "value": "AI optimization for business processes"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Oil and gas"
+        },
+        {
+          "value": "Utilities"
+        },
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Defense"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Government"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        }
+      ]
+    },
+    {
+      "company_name": "Metis Consulting Services",
+      "company_name_citation": "https://www.metisconsultingservices.com",
+      "description": "Metis Consulting Services is a women-founded and women-run organization that provides strategic consulting to the global life sciences sector. With over 20 years of experience, the firm serves as a trusted advisor to biotech and pharmaceutical companies, helping them navigate the transition of products from the laboratory bench to international markets. Their core objective is to ensure patient safety while helping organizations meet and exceed complex regulatory requirements. The company positions itself as decision-makers at the cutting edge of industry evolution, providing innovative solutions to facilitate effective regulatory compliance on a worldwide scale.\n\nThe firm offers a range of specialized services including regulatory strategy advising, pharmacovigilance, clinical data management, and ethical AI consulting. Their pharmacovigilance expertise provides expert guidance in REMS (Risk Evaluation and Mitigation Strategies) and ensures companies remain in compliance with drug safety regulations. In the realm of clinical data management, Metis Consulting Services helps elevate the sponsor, site, and patient experiences through deliberate planning and the implementation of sophisticated Clinical Data Management Systems. Their quality audits and collaborative management services further support organizations in maintaining high standards throughout their operations.\n\nA particularly significant area of focus for Metis Consulting Services is their Ethical AI consulting services, which ensures that companies practice ethical use of AI throughout the pharmaceutical and biotech development lifecycle. This service addresses the growing importance of responsible AI implementation in an industry where patient safety and regulatory compliance are paramount. By providing guidance on AI ethics frameworks, data governance, and responsible technology deployment, Metis helps organizations leverage AI capabilities while maintaining the highest ethical standards. The company operates globally, serving biotech and pharmaceutical companies internationally, and maintains availability for consultations Monday through Friday from 1-5 PM EST. Their mission emphasizes being trusted advisors who shape the future of how the life sciences industry will evolve, with patient safety remaining their primary focus across all consulting engagements.",
+      "description_citation": "https://www.metisconsultingservices.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.metisconsultingservices.com",
+      "location": "Global (operates on Eastern Standard Time)",
+      "location_citation": "https://www.metisconsultingservices.com",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.metisconsultingservices.com",
+      "technologies_used": [
+        {
+          "value": "Clinical Data Management Systems"
+        },
+        {
+          "value": "Ethical AI frameworks"
+        },
+        {
+          "value": "Pharmacovigilance systems"
+        },
+        {
+          "value": "REMS compliance tools"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Quality & Regulatory Strategy Advising"
+        },
+        {
+          "value": "Pharmacovigilance and REMS guidance"
+        },
+        {
+          "value": "Clinical Data Management"
+        },
+        {
+          "value": "Ethical AI Consulting"
+        },
+        {
+          "value": "Quality Audits"
+        },
+        {
+          "value": "Collaborative Management"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Facilitating worldwide bench-to-market regulatory compliance"
+        },
+        {
+          "value": "Ensuring compliance with REMS and drug safety regulations"
+        },
+        {
+          "value": "Improving sponsor and patient experiences through clinical data planning"
+        },
+        {
+          "value": "Implementing ethical AI frameworks in drug development"
+        },
+        {
+          "value": "Ensuring ethical use of AI throughout pharma and biotech lifecycle"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Biotech"
+        },
+        {
+          "value": "Pharmaceuticals"
+        },
+        {
+          "value": "Life Sciences"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "AI Ethics & Governance"
+        }
+      ]
+    },
+    {
+      "company_name": "Namaste Data",
+      "company_name_citation": "https://www.namastedata.org",
+      "description": "Namaste Data is a research, training, and consulting practice founded in 2021 that focuses on centering equity, inclusion, and human-centric values in data and AI practices. As a BIPOC Immigrant-led practice founded by CEO Meena Das, the organization aims to enable all voices that seek and support racial and social justice. Operating on the traditional, ancestral and unceded territory of the Coast Salish peoples (Squamish, Tsleil-Waututh, and Musqueam Nations) in Vancouver, British Columbia, with an extended presence in the Greater Seattle Area, Washington, Namaste Data specializes in helping organizations, particularly nonprofits, move beyond viewing data as a mere commodity to seeing it as a tool for social change rooted in fairness and justice.\n\nThe organization's approach emphasizes \"human in the loop\" methodologies, ensuring that data collection and analysis reflect community values and amplify marginalized voices. Their vision is to empower nonprofits to do good with data by centering equity and inclusion in all aspects of their data practices. Namaste Data provides guidance on ethical AI integration, data-driven strategy, and inclusive research methods, operating with a social justice lens that informs all of their work. They offer specialized support models including a \"pay what you can\" pricing structure for BIPOC-led organizations and pro-bono sessions for those impacted by unemployment, demonstrating their commitment to accessibility and equity in their service delivery.\n\nNamaste Data's service offerings include Advisory Services for developing data strategies, Training & Workshops for building accessibility about AI and data, Data Collection services for crafting inclusive and actionable methods, and AI Readiness & Equity Frameworks for preparing organizations to ethically and effectively integrate AI into their operations and decision-making processes. Their work encompasses helping organizations leverage AI tools ethically and responsibly for fundraising, ethical impact measurement, and member surveys to drive data-driven strategies. The organization also provides resume assistance and career counsel for data roles. Their philosophy is built on the belief that data and AI can be \"kind, curious, and equitable\" when designed with intention, and they work to ensure that technology serves communities rather than exploiting them.",
+      "description_citation": "https://www.namastedata.org",
+      "business_email": "meenadas@namastedata.org",
+      "business_email_citation": "https://www.namastedata.org/about",
+      "location": "Vancouver, BC, Canada / Greater Seattle Area, Washington, United States",
+      "location_citation": "https://www.namastedata.org/love",
+      "team_size": "Not available (BIPOC Immigrant-led practice)",
+      "team_size_citation": "https://www.namastedata.org",
+      "technologies_used": [
+        {
+          "value": "Data collection tools"
+        },
+        {
+          "value": "AI tools"
+        },
+        {
+          "value": "Data science frameworks"
+        },
+        {
+          "value": "Survey design platforms"
+        },
+        {
+          "value": "Ethical AI frameworks"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Advisory Services for data strategy"
+        },
+        {
+          "value": "Training & Workshops on AI and data"
+        },
+        {
+          "value": "Data Collection methods"
+        },
+        {
+          "value": "AI Readiness & Equity Frameworks"
+        },
+        {
+          "value": "Ethical AI Consulting"
+        },
+        {
+          "value": "Speaking and training programs"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Ethical and responsible AI for fundraising"
+        },
+        {
+          "value": "Ethical impact measurement"
+        },
+        {
+          "value": "Member surveys for nonprofits"
+        },
+        {
+          "value": "Organizational data strategy development"
+        },
+        {
+          "value": "Resume and career counsel for data roles"
+        },
+        {
+          "value": "Building equity-centered data practices"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Nonprofits"
+        },
+        {
+          "value": "BIPOC-led organizations"
+        },
+        {
+          "value": "Social justice organizations"
+        },
+        {
+          "value": "Community-based organizations"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "AI Ethics & Governance"
+        }
+      ]
+    }
+  ]
+}

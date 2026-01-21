@@ -1,0 +1,1696 @@
+{
+  "companies": [
+    {
+      "company_name": "WBR Laboratories, Inc.",
+      "company_name_citation": "http://wbrlab.com",
+      "description": "WBR Laboratories, Inc., operating as West BioScience Research (WBR), is a specialized contract research organization that provides comprehensive biologics research, chemistry services, and pre-clinical development solutions. The company has established itself as a leader in biosimilar antibody production, cell line development, and advanced screening methodologies. WBR's core expertise spans multiple scientific domains including biologics development, analytical chemistry, and in vivo compound screening, making it an essential partner for pharmaceutical and biotechnology companies advancing novel therapeutics.\n\nThe company offers sophisticated cell line development services, producing customized cell lines for pharmaceutical and biotechnology applications. Their biologics capabilities encompass the full spectrum of antibody development, from initial design through production and characterization. WBR's analytical services provide critical quality control and characterization data essential for regulatory submissions and product development. These comprehensive capabilities enable clients to advance drug candidates efficiently through pre-clinical development stages with confidence in data quality and regulatory compliance.\n\nA distinguishing feature of WBR Laboratories is their integration of artificial intelligence and large language model (LLM) technologies into their research operations. The AI/LLM & Data service offerings represent a cutting-edge approach to biological data analysis and interpretation, enabling more efficient screening processes and data-driven insights. This technological integration positions WBR at the intersection of traditional biological research and modern computational methodologies, providing clients with advanced analytics that accelerate discovery timelines and improve decision-making throughout the drug development process.\n\nThe company's in vivo screening capabilities utilize advanced platforms including Luminex® technology for multiplexed biomarker analysis. They have developed specialized ophthalmology models for ocular drug development and offer comprehensive compound screening services in live animal systems. These capabilities make WBR particularly valuable for pharmaceutical companies advancing novel therapeutics through pre-clinical stages. The company's experienced scientific team brings deep expertise in designing and executing complex in vivo studies that generate regulatory-grade data.\n\nWBR Laboratories serves the biotechnology, pharmaceutical, and clinical research sectors, providing essential services that bridge the gap between early discovery and clinical development. Their combination of traditional biologics expertise with modern AI-enabled data analysis creates a unique value proposition in the contract research market. The company is headquartered in Irvine, California, where they maintain state-of-the-art laboratory facilities equipped for complex biological research and development projects. Through their commitment to scientific excellence and technological innovation, WBR Laboratories continues to support clients in bringing new therapeutic candidates from concept to clinical testing.",
+      "description_citation": "http://wbrlab.com",
+      "business_email": "contact@westbioscience.com",
+      "business_email_citation": "http://wbrlab.com/contact-us.html",
+      "location": "9891 Irvine Center Dr. Suite 200, Irvine, CA 92618, US",
+      "location_citation": "http://wbrlab.com/contact-us.html",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "AI/LLM",
+          "value_citation": "http://wbrlab.com"
+        },
+        {
+          "value": "Luminex",
+          "value_citation": "http://wbrlab.com"
+        },
+        {
+          "value": "Cell line development",
+          "value_citation": "http://wbrlab.com"
+        },
+        {
+          "value": "In vivo screening",
+          "value_citation": "http://wbrlab.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Biosimilar antibody production",
+          "value_citation": "http://wbrlab.com"
+        },
+        {
+          "value": "Customized cell lines",
+          "value_citation": "http://wbrlab.com"
+        },
+        {
+          "value": "Biologics development",
+          "value_citation": "http://wbrlab.com"
+        },
+        {
+          "value": "Chemistry services",
+          "value_citation": "http://wbrlab.com"
+        },
+        {
+          "value": "Analytical services",
+          "value_citation": "http://wbrlab.com"
+        },
+        {
+          "value": "Pre-clinical development",
+          "value_citation": "http://wbrlab.com"
+        },
+        {
+          "value": "AI/LLM & Data services",
+          "value_citation": "http://wbrlab.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Ophthalmology model development",
+          "value_citation": "http://wbrlab.com"
+        },
+        {
+          "value": "In vivo compound screening",
+          "value_citation": "http://wbrlab.com"
+        },
+        {
+          "value": "Luminex-based screening",
+          "value_citation": "http://wbrlab.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Biotechnology",
+          "value_citation": "http://wbrlab.com"
+        },
+        {
+          "value": "Pharmaceuticals",
+          "value_citation": "http://wbrlab.com"
+        },
+        {
+          "value": "Clinical research",
+          "value_citation": "http://wbrlab.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "http://wbrlab.com"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "http://wbrlab.com"
+        }
+      ]
+    },
+    {
+      "company_name": "Milestone Systems",
+      "company_name_citation": "https://www.milestonesys.com",
+      "description": "Milestone Systems is a global leader in open-platform video management software (VMS) technology, providing innovative solutions that transform video data into actionable intelligence. Founded in Denmark, the company has established itself as a pioneering force in the video surveillance and security industry, serving organizations across diverse sectors worldwide. Milestone's flagship product, XProtect, represents industry-leading video management software that enables organizations to centralize cameras, sensors, and sites into unified security ecosystems.\n\nThe company's comprehensive product portfolio includes XProtect video management software available in multiple editions to suit organizations of all sizes, the BriefCam advanced analytics platform for video intelligence, Arcules video surveillance as a service (VSaaS) for cloud-based deployments, and Husky IVO for intelligent video operations. These solutions leverage cutting-edge artificial intelligence technologies, including Vision-Language Models (VLM) and advanced video AI analytics, to help organizations extract meaningful insights from video data, respond faster to incidents, and improve operational efficiency.\n\nMilestone Systems has embraced responsible AI as a core principle, integrating video AI capabilities that enhance security operations while maintaining ethical standards. The company's technology enables users to turn vast amounts of video data into insights through intelligent search capabilities, behavioral analytics, and automated event detection. The Vision-Language Model implementation represents a significant advancement in how users can interact with video surveillance systems using natural language queries and sophisticated visual understanding.\n\nWith approximately 1,500 employees representing over 70 nationalities working across 25 countries, Milestone Systems maintains a truly global presence. The company is headquartered in Brondby, Denmark, with offices in Canada, China, Hong Kong, Australia, the Netherlands, and numerous other locations worldwide. This international footprint enables Milestone to serve a diverse client base spanning critical infrastructure, smart cities, airports, hospitals, educational institutions, retail operations, and law enforcement agencies.\n\nMilestone's open-platform approach has fostered a robust ecosystem of technology partners and integrators, making it possible for organizations to build customized video intelligence solutions that integrate with existing security infrastructure and business systems. The company's commitment to innovation, combined with its focus on responsible AI deployment, positions Milestone Systems as a trusted partner for organizations seeking to leverage video technology for enhanced security, safety, and operational intelligence across multiple industries and use cases.",
+      "description_citation": "https://www.milestonesys.com",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": "Brondby, Denmark",
+      "location_citation": "https://pitchbook.com/profiles/company/54279-73",
+      "team_size": 1500,
+      "team_size_citation": "http://www.milestonesys.com/company/about-milestone/annual-report/",
+      "technologies": [
+        {
+          "value": "Video Management Software (VMS)",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Vision-Language Model (VLM)",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Video AI",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Cloud technology",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Video surveillance as a service (VSaaS)",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Advanced analytics",
+          "value_citation": "https://www.milestonesys.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "XProtect video management software",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "BriefCam advanced analytics platform",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Arcules video surveillance as a service",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Husky IVO",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Milestone Care",
+          "value_citation": "https://www.milestonesys.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Centralize cameras, sensors and sites",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Turn video data into insights",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Respond faster to incidents",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Find specific footage",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "High-value mineral storage security",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Smart city management",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Crime prevention",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Airport security",
+          "value_citation": "https://www.milestonesys.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Education",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Hospitality",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Retail",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Critical infrastructure",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Law enforcement",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Transportation",
+          "value_citation": "https://www.milestonesys.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://www.milestonesys.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.milestonesys.com"
+        }
+      ]
+    },
+    {
+      "company_name": "aman.ai",
+      "company_name_citation": "https://aman.ai",
+      "description": "aman.ai is a comprehensive educational platform dedicated to demystifying artificial intelligence and machine learning through clear, accessible content. Created as \"Distilled AI,\" the platform embodies the philosophy of teaching \"the art of artificial intelligence one concept at a time,\" breaking down complex AI/ML topics into digestible, practical learning materials. The platform serves as an invaluable resource for students, professionals, and researchers seeking to build deep intuition in artificial intelligence, machine learning, and data science.\n\nThe platform offers an extensive curriculum covering the full spectrum of AI technologies. In the realm of natural language processing, aman.ai provides detailed primers on tokenization, Named entity recognition, machine translation, and advanced topics like Retrieval Augmented Generation (RAG). For computer vision, the content spans convolutional neural networks (CNNs), Vision Transformers (ViT), and receptive field concepts. The platform extensively covers large language models and conversational AI, including detailed explorations of ChatGPT, Claude, Meena, and emerging LLM architectures.\n\naman.ai distinguishes itself through comprehensive coverage of MLOps and infrastructure topics, providing practical guidance on MLOps tooling, testing methodologies, Large Language Model Operations (LLMOps), model acceleration, GPU architecture, and ML runtimes. The platform addresses critical production considerations including data drift detection, model compression, and on-device AI deployment. Edge AI receives particular attention, with detailed content on federated learning, on-device transformers, and mobile AI implementations.\n\nThe educational content extends to AI agents and agentic systems, exploring agentic reinforcement learning, computer control, and LLM-as-a-Judge paradigms. Ethics and governance considerations are woven throughout, with coverage of differential privacy, handling personally identifiable information (PII), AI text detection techniques, and factuality in large language models. The platform also provides foundational content in probability, statistics, linear and logistic regression, and probability calibration for predictive analytics applications.\n\naman.ai serves multiple industries and user segments, from aspiring AI engineers preparing for technical interviews to experienced practitioners staying current with the latest research. The platform curates summaries of prestigious Stanford AI courses (CS229, CS230, CS231n, CS224n) and maintains updated lists of important AI/ML research papers. Through its comprehensive coverage of document intelligence, recommendation systems, speech processing, and workflow automation concepts, aman.ai has established itself as an essential educational resource for anyone serious about understanding and applying artificial intelligence technologies.",
+      "description_citation": "https://aman.ai",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Python 3",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "PyTorch",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "TensorFlow",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "NumPy",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Matplotlib",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Pandas",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Git",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "GPU Architecture",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "TensorBoard",
+          "value_citation": "https://aman.ai"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI Fundamentals primers",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Stanford AI course summaries (CS229, CS230, CS231n, CS224n)",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "ML/Data Science coding tutorials",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Research papers curated lists",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Interview preparation resources",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Graph Studio",
+          "value_citation": "https://aman.ai"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Build AI/ML intuition",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Learn AI fundamentals",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Research paper reviews",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Technical interview preparation",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "End-to-end AI/ML project development",
+          "value_citation": "https://aman.ai"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Education",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "AI Research",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Software Engineering",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Technology",
+          "value_citation": "https://aman.ai"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Voice AI",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Document AI",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Edge AI & IoT",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://aman.ai"
+        },
+        {
+          "value": "Recommendation Systems",
+          "value_citation": "https://aman.ai"
+        }
+      ]
+    },
+    {
+      "company_name": "AI Now Institute",
+      "company_name_citation": "https://ainowinstitute.org",
+      "description": "AI Now Institute is a leading research and advocacy organization focused on understanding and challenging concentrations of power in the artificial intelligence industry. The institute conducts critical research that maps the current landscape of the AI market, interrogates the industry's fundamental sources of power, and develops actionable strategies to reclaim public agency over AI's future. Founded on the principle that AI development must serve public interest rather than solely corporate goals, AI Now has established itself as a crucial counterweight to industry-driven AI policy and regulation.\n\nThe institute's research portfolio includes comprehensive analysis of AI market dynamics, regulatory frameworks, and infrastructure implications. Their flagship \"Artificial Power\" annual landscape report provides in-depth examination of how major technology companies accumulate and exercise power through AI systems, data center infrastructure, and algorithmic decision-making systems. The institute has produced groundbreaking research on topics ranging from algorithmic accountability to the environmental and social impacts of AI data center expansion.\n\nAI Now Institute takes a systems-level approach to AI governance, examining not just the technology itself but the broader ecosystem of power relationships, economic incentives, and regulatory structures that shape AI development and deployment. Their research on \"Fission for Algorithms\" examines how nuclear regulation is being undermined to serve AI infrastructure needs, while their \"North Star Data Center Policy Toolkit\" provides practical guidance for state and local governments seeking to manage AI data center expansion responsibly.\n\nThe organization plays a vital role in policy development, providing research-based recommendations to government bodies at federal, state, and local levels. AI Now's \"People's AI Action Plan\" offers a comprehensive alternative to industry-backed AI policies, emphasizing democratic accountability, worker rights, environmental sustainability, and public oversight. The institute has engaged with bodies including the Philadelphia City Council and numerous state legislatures on AI governance matters.\n\nAI Now Institute serves multiple stakeholder communities including policymakers, civil society organizations, journalists, researchers, and affected communities. Through publications, policy briefs, public events, and direct engagement with decision-makers, the institute works to ensure that AI development serves democratic values and public interest. The organization addresses all aspects of AI governance including ethics, transparency, accountability, bias mitigation, environmental impact, labor implications, and democratic oversight, making it a comprehensive resource for understanding and shaping the future of artificial intelligence policy.",
+      "description_citation": "https://ainowinstitute.org",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "AI systems analysis",
+          "value_citation": "https://ainowinstitute.org"
+        },
+        {
+          "value": "Generative AI research",
+          "value_citation": "https://ainowinstitute.org"
+        },
+        {
+          "value": "Algorithmic accountability frameworks",
+          "value_citation": "https://ainowinstitute.org"
+        },
+        {
+          "value": "Data center infrastructure analysis",
+          "value_citation": "https://ainowinstitute.org"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Artificial Power: 2025 Landscape Report",
+          "value_citation": "https://ainowinstitute.org"
+        },
+        {
+          "value": "People's AI Action Plan",
+          "value_citation": "https://ainowinstitute.org"
+        },
+        {
+          "value": "North Star Data Center Policy Toolkit",
+          "value_citation": "https://ainowinstitute.org"
+        },
+        {
+          "value": "Fission for Algorithms research",
+          "value_citation": "https://ainowinstitute.org"
+        },
+        {
+          "value": "State and local AI policy guidance",
+          "value_citation": "https://ainowinstitute.org"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Reclaim public agency over AI future",
+          "value_citation": "https://ainowinstitute.org"
+        },
+        {
+          "value": "State and local policy interventions for AI data center expansion",
+          "value_citation": "https://ainowinstitute.org"
+        },
+        {
+          "value": "Counter industry-backed AI plans and executive orders",
+          "value_citation": "https://ainowinstitute.org"
+        },
+        {
+          "value": "AI market power analysis",
+          "value_citation": "https://ainowinstitute.org"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Public Policy",
+          "value_citation": "https://ainowinstitute.org"
+        },
+        {
+          "value": "Government",
+          "value_citation": "https://ainowinstitute.org"
+        },
+        {
+          "value": "Technology Industry",
+          "value_citation": "https://ainowinstitute.org"
+        },
+        {
+          "value": "Civil Society",
+          "value_citation": "https://ainowinstitute.org"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://ainowinstitute.org"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://ainowinstitute.org"
+        }
+      ]
+    },
+    {
+      "company_name": "AI Center for Government",
+      "company_name_citation": "https://aicenterforgovernment.org",
+      "description": "AI Center for Government is a specialized program of the Partnership for Public Service dedicated to fostering artificial intelligence leadership, talent development, and AI literacy across federal, state, and local government institutions. With a mission to modernize government operations through responsible AI adoption, the center serves as a convening force for senior executives, political officials, and government innovators seeking to harness AI's potential for public benefit. The organization brings together decision-makers and practitioners to share knowledge, develop capabilities, and implement AI solutions that improve government services and operations.\n\nThe center's flagship programs include the AI Government Leadership Program, which develops strategic AI competencies among senior government officials, and comprehensive AI onboarding and professional development initiatives designed to build AI literacy throughout the public sector workforce. Through the Future Leaders in Public Service Internship Program, the center cultivates the next generation of AI-enabled public servants. These educational initiatives are complemented by the Responsible AI Federal Roundtable Series, which brings together stakeholders to address critical questions around ethical AI deployment in government contexts.\n\nAI Center for Government has demonstrated tangible impact through its work on disaster resilience applications, where AI technologies predict future disasters, assess impacts in real-time, identify disaster events as they unfold, and evaluate damage patterns. The center's research on wildfire prediction showcases how predictive analytics and edge computing can save lives and protect communities. In federal human resources, the center's intelligent automation work streamlines operations, reducing administrative burden while improving service delivery. The organization's AI Accountability Framework provides government agencies with practical guidance for implementing responsible AI systems.\n\nThe center operates through regional cohorts, including programs in Atlanta, Georgia and on the West Coast, while conducting significant work in Maryland, Michigan, and other states. This distributed approach enables the center to understand and address the unique AI implementation challenges faced by different government jurisdictions. Technologies employed include predictive analytics for disaster response, intelligent automation for operational efficiency, immersive technologies for training and simulation, edge computing for distributed AI applications, and prompt engineering for natural language processing tasks.\n\nServing the public sector exclusively, AI Center for Government addresses the needs of federal agencies, state governments, local municipalities, military medicine institutions, public health departments, and emergency management organizations. The center's comprehensive approach to AI governance ensures that government AI implementations prioritize transparency, accountability, equity, and public benefit while building the technical capabilities needed to deliver on AI's promise for improving public services and civic outcomes.",
+      "description_citation": "https://aicenterforgovernment.org",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Artificial intelligence",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Intelligent automation",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Predictive analytics",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Immersive technologies",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Edge computing",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Prompt engineering",
+          "value_citation": "https://aicenterforgovernment.org"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI Government Leadership Program",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "AI Onboarding and Professional Development program",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Future Leaders in Public Service Internship Program",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Responsible AI Federal Roundtable Series",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "AI Accountability Framework",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "White paper reports",
+          "value_citation": "https://aicenterforgovernment.org"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Predict future disasters",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Assess disaster impacts",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Identify disasters in real-time",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Evaluate damage from disasters",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Predict wildfire path and extent",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Streamline federal HR operations",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Improve public health",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Improve public safety and media literacy",
+          "value_citation": "https://aicenterforgovernment.org"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Federal government",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "State government",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Local government",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Military medicine",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Public health",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Emergency management",
+          "value_citation": "https://aicenterforgovernment.org"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Edge AI & IoT",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://aicenterforgovernment.org"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://aicenterforgovernment.org"
+        }
+      ]
+    },
+    {
+      "company_name": "ETO AGORA",
+      "company_name_citation": "https://agora.eto.tech",
+      "description": "ETO AGORA (AI GOvernance and Regulatory Archive) is a comprehensive digital repository maintained by the Emerging Technology Observatory (ETO) that serves as a living collection of artificial intelligence governance documents from around the world. The platform provides centralized access to AI-relevant laws, regulations, standards, executive orders, policy frameworks, and other governance documents from the United States and international jurisdictions. As regulatory frameworks for AI multiply globally, AGORA addresses the critical need for a centralized, searchable, and well-organized database that enables policymakers, researchers, companies, and civil society to quickly discover and analyze key developments in AI governance.\n\nThe platform's architecture includes sophisticated search capabilities with keyword functionality, thematic tagging systems, and advanced filtering options that enable users to navigate the complex landscape of AI regulation efficiently. AGORA's taxonomy organizes governance documents by themes including AI safety, bias and fairness, privacy protections, transparency requirements, catastrophic risk assessment, and frontier AI regulation. The platform covers governance documents from multiple levels including federal, state, and local governments in the United States, as well as multinational organizations such as the European Union, OECD, and United Nations.\n\nAGORA provides essential infrastructure for understanding how different jurisdictions approach critical AI governance challenges. The platform tracks transparency reporting requirements, regulations addressing facial recognition technology, autonomous systems governance, deepfake and synthetic content rules, and frameworks for identifying and mitigating severe AI risks. Each document in AGORA includes summaries, full text access, thematic tags, and contextual information that helps users understand the document's scope, intent, and implications.\n\nThe platform serves diverse user communities including government officials developing new AI policies, private-sector companies ensuring compliance with evolving regulations, researchers analyzing regulatory trends, AI developers navigating safety requirements, and civil society organizations advocating for responsible AI governance. AGORA's thematic collections enable focused research on specific governance topics, while bulk data access options support quantitative analysis of regulatory patterns and trends.\n\nBy providing comprehensive coverage of AI governance across multiple dimensions—including ethics, safety frameworks, bias mitigation standards, privacy regulations, transparency mandates, accountability mechanisms, and risk assessment protocols—ETO AGORA has become an indispensable resource for anyone working at the intersection of artificial intelligence and public policy. The platform's ongoing updates ensure that users have access to the latest developments in this rapidly evolving regulatory landscape.",
+      "description_citation": "https://agora.eto.tech",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "AI governance tracking systems",
+          "value_citation": "https://agora.eto.tech"
+        },
+        {
+          "value": "Keyword search",
+          "value_citation": "https://agora.eto.tech"
+        },
+        {
+          "value": "Thematic tagging",
+          "value_citation": "https://agora.eto.tech"
+        },
+        {
+          "value": "Taxonomy systems",
+          "value_citation": "https://agora.eto.tech"
+        },
+        {
+          "value": "Document filtering",
+          "value_citation": "https://agora.eto.tech"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI GOvernance and Regulatory Archive (AGORA)",
+          "value_citation": "https://agora.eto.tech"
+        },
+        {
+          "value": "Document summaries and full text access",
+          "value_citation": "https://agora.eto.tech"
+        },
+        {
+          "value": "Thematic collections",
+          "value_citation": "https://agora.eto.tech"
+        },
+        {
+          "value": "Bulk data access",
+          "value_citation": "https://agora.eto.tech"
+        },
+        {
+          "value": "Regulatory documentation",
+          "value_citation": "https://agora.eto.tech"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Quickly discover and analyze AI governance developments",
+          "value_citation": "https://agora.eto.tech"
+        },
+        {
+          "value": "Assess catastrophic risks",
+          "value_citation": "https://agora.eto.tech"
+        },
+        {
+          "value": "Track transparency reports",
+          "value_citation": "https://agora.eto.tech"
+        },
+        {
+          "value": "Identify and mitigate severe AI risks",
+          "value_citation": "https://agora.eto.tech"
+        },
+        {
+          "value": "Monitor facial recognition regulations",
+          "value_citation": "https://agora.eto.tech"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Government",
+          "value_citation": "https://agora.eto.tech"
+        },
+        {
+          "value": "Technology companies",
+          "value_citation": "https://agora.eto.tech"
+        },
+        {
+          "value": "Research institutions",
+          "value_citation": "https://agora.eto.tech"
+        },
+        {
+          "value": "AI development",
+          "value_citation": "https://agora.eto.tech"
+        },
+        {
+          "value": "Civil society organizations",
+          "value_citation": "https://agora.eto.tech"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://agora.eto.tech"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://agora.eto.tech"
+        },
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://agora.eto.tech"
+        }
+      ]
+    },
+    {
+      "company_name": "AI Governance",
+      "company_name_citation": "https://aigovernance.co.uk",
+      "description": "AI Governance is a UK-based organization committed to inspiring widespread adoption of artificial intelligence with wisdom and integrity. The organization serves as a thought leadership platform focused on helping businesses, boards, and management navigate the complex ethical, strategic, and operational challenges presented by AI integration. Through expert guidance, educational content, and advisory services, AI Governance works to ensure that organizations implement AI technologies in ways that balance innovation with responsibility, efficiency with ethics, and technological advancement with human values.\n\nThe organization addresses critical contemporary challenges in AI adoption, including how management can navigate AI-driven workforce transformations when automation makes job redundancies increasingly inevitable. AI Governance provides frameworks and guidance for boards and executives who must understand AI's implications for strategy, risk, compliance, and competitive positioning. The organization's work on embodied AI explores how physical AI systems—from robots to autonomous vehicles—are moving from laboratory breakthroughs into real-world deployments that require robust governance frameworks.\n\nAI Governance positions itself at the intersection of technology and ethics, recognizing that successful AI implementation requires more than technical proficiency—it demands thoughtful consideration of social impacts, organizational culture, regulatory compliance, and stakeholder trust. The organization's advisory services help leadership teams develop comprehensive AI governance policies that address bias mitigation, transparency, accountability, data privacy, and algorithmic fairness while still enabling organizations to capture AI's productivity and innovation benefits.\n\nThrough publications, articles, and thought leadership content, AI Governance shares insights on emerging AI governance topics including the regulatory landscape, best practices for responsible AI deployment, risk management frameworks, and strategies for maintaining public trust in an era of increasing automation. The organization's focus on embodied AI governance reflects recognition that as AI systems gain physical presence and autonomy, governance frameworks must evolve beyond purely digital considerations to address safety, liability, and human-machine interaction challenges.\n\nAI Governance serves corporate boards, C-suite executives, compliance officers, risk managers, and organizational leaders across industries who recognize that AI governance is not merely a technical challenge but a strategic imperative. By providing practical guidance grounded in both technological understanding and ethical principles, the organization helps ensure that AI's integration into business and society proceeds with appropriate safeguards, transparency, and alignment with human values and societal benefit.",
+      "description_citation": "https://aigovernance.co.uk",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": "United Kingdom",
+      "location_citation": "https://aigovernance.co.uk",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Artificial intelligence",
+          "value_citation": "https://aigovernance.co.uk"
+        },
+        {
+          "value": "Automation",
+          "value_citation": "https://aigovernance.co.uk"
+        },
+        {
+          "value": "Embodied AI",
+          "value_citation": "https://aigovernance.co.uk"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI governance advisory services",
+          "value_citation": "https://aigovernance.co.uk"
+        },
+        {
+          "value": "Board-level AI guidance",
+          "value_citation": "https://aigovernance.co.uk"
+        },
+        {
+          "value": "AI ethics frameworks",
+          "value_citation": "https://aigovernance.co.uk"
+        },
+        {
+          "value": "Thought leadership content",
+          "value_citation": "https://aigovernance.co.uk"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Managing people when AI makes redundancies inevitable",
+          "value_citation": "https://aigovernance.co.uk"
+        },
+        {
+          "value": "Embodied AI governance from laboratory to real-world",
+          "value_citation": "https://aigovernance.co.uk"
+        },
+        {
+          "value": "Navigating AI frontier for Boards",
+          "value_citation": "https://aigovernance.co.uk"
+        },
+        {
+          "value": "Responsible AI implementation",
+          "value_citation": "https://aigovernance.co.uk"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Corporate governance",
+          "value_citation": "https://aigovernance.co.uk"
+        },
+        {
+          "value": "Management consulting",
+          "value_citation": "https://aigovernance.co.uk"
+        },
+        {
+          "value": "Business leadership",
+          "value_citation": "https://aigovernance.co.uk"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://aigovernance.co.uk"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://aigovernance.co.uk"
+        }
+      ]
+    },
+    {
+      "company_name": "Amplified Labs",
+      "company_name_citation": "https://amplifiedlabs.zendesk.com",
+      "description": "Amplified Labs, associated with CDW Education, is a specialized technology solutions provider focused on K-12 educational technology integration and management. The company provides comprehensive technical support, resources, and specialized tools designed to help school districts and educational institutions connect, learn, and lead in the rapidly evolving K-12 EdTech landscape. Through its suite of purpose-built applications and support services, Amplified Labs empowers educational administrators and IT professionals to effectively manage Google Workspace for Education environments while addressing critical challenges in data security, automation, and AI integration.\n\nThe company's product portfolio includes the Little SIS suite (Premium and for Classroom editions) for student information system integration, and the comprehensive Gopher family of tools covering Chrome Apps, Users, Groups, Gmail, and Drive management. Additional offerings include Group Gator for group administration, Event-o-Matic for automated event management, Local Hero for local resource management, Centipede for distributed administration, and Managed Sync for data synchronization. These solutions collectively address the complex technical challenges faced by educational IT departments managing large-scale Google Workspace deployments.\n\nAmplified Labs demonstrates forward-thinking integration of artificial intelligence technologies into educational environments. The company provides guidance and implementation support for Google's Gemini and NotebookLM AI tools, helping educational institutions navigate the enablement of large language model technologies for all education users while considering appropriate youth experience parameters. This positions Amplified Labs at the forefront of responsible AI adoption in K-12 education, balancing innovation with student safety and privacy considerations.\n\nThe company's expertise extends to critical governance and security domains including Data Loss Prevention (DLP) implementation for education, data sensitivity labeling for educational contexts, and Gmail DLP visibility enhancements that provide sensitive content snippets for more effective investigations. Amplified Labs helps educational institutions prepare for technology transitions such as Windows 10 end-of-support scenarios, particularly in student labs and shared device environments. The CDW Education Collaborative and Amplified Support for Google Workspace for Education agents provide ongoing technical assistance and community support.\n\nServing exclusively the K-12 education sector, Amplified Labs addresses the unique challenges educational institutions face in balancing technological innovation with student privacy, data protection, regulatory compliance, and age-appropriate AI experiences. The company's solutions encompass automation and workflow optimization, natural language processing through AI integrations, and governance frameworks specifically designed for educational contexts, making it an essential partner for school districts navigating digital transformation.",
+      "description_citation": "https://amplifiedlabs.zendesk.com",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Google Workspace",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Google Workspace for Education",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Chrome Apps",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Gemini",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "NotebookLM",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Microsoft Windows",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "LMS integration",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Gmail DLP",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Data Sensitivity Labels",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Little SIS Premium",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Little SIS for Classroom",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Gopher for Chrome",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Gopher for Users",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Gopher for Groups",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Gopher for Gmail",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Gopher for Drive",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Group Gator",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Event-o-Matic",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Local Hero",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Centipede",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Managed Sync",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "The CDW Education Collaborative",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Regaining Super Admin Access to Google Workspace",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Accessing LMS Paid Workspace Content",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Implementing Data Sensitivity Labels for Education",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Implementing Data Loss Prevention (DLP) for Education",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Enhancing Gmail DLP Visibility with Sensitive Content Snippets",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Preparing for Windows 10 End of Support in Student Labs",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Gemini and NotebookLM Enablement for Education Users",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "K-12 Education",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Educational Technology",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "School Districts",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://amplifiedlabs.zendesk.com"
+        }
+      ]
+    },
+    {
+      "company_name": "AI Company Data Initiative (AICDI)",
+      "company_name_citation": "https://aicdi.trust.org",
+      "description": "AI Company Data Initiative (AICDI) is a groundbreaking transparency initiative powered by the Thomson Reuters Foundation and grounded in UNESCO's Recommendation on the Ethics of AI. The organization is building a comprehensive global dataset on corporate AI adoption to drive transparency and promote responsible business practices across industries. AICDI addresses the critical need for standardized disclosure and benchmarking of AI policies and practices as artificial intelligence becomes increasingly integral to business operations worldwide.\n\nThe initiative operates through a voluntary survey mechanism that enables businesses to map their AI use, identify opportunities for value creation, and proactively mitigate operational risks associated with AI deployment. By creating a benchmark of AI policies and practices, AICDI provides organizations with a framework to assess their AI maturity, compare their approaches to industry peers, and demonstrate leadership in transparent and responsible AI governance. This benchmarking capability helps companies understand where they stand in the AI adoption landscape and identify areas for improvement.\n\nAICDI's work is fundamentally rooted in promoting ethical AI adoption and responsible governance frameworks. The organization recognizes that as AI technologies proliferate across business functions, stakeholders including investors, customers, employees, regulators, and the public increasingly demand transparency about how organizations develop, deploy, and govern AI systems. AICDI provides the infrastructure for this transparency, enabling companies to voluntarily disclose information about their AI governance structures, risk management processes, ethical frameworks, and impact assessment methodologies.\n\nThe dataset compiled by AICDI serves multiple constituencies. For participating companies, it offers a structured approach to AI governance documentation and a means to demonstrate commitment to responsible AI practices. For investors and analysts, it provides valuable data for assessing AI-related risks and opportunities in portfolio companies. For policymakers and regulators, it offers insights into industry practices that can inform regulatory frameworks. For civil society and advocacy groups, it enables monitoring of corporate AI adoption patterns and accountability mechanisms.\n\nBy focusing on transparency as a foundational element of responsible AI, AICDI addresses core governance challenges including algorithmic accountability, bias mitigation, privacy protection, human rights considerations, and environmental impacts of AI systems. The initiative serves organizations across all industries that deploy AI technologies, from financial services and healthcare to retail and manufacturing. Through its comprehensive approach to documenting corporate AI practices, AICDI is establishing the standards for AI transparency and responsibility that will shape the future of corporate AI governance.",
+      "description_citation": "https://aicdi.trust.org",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "AI disclosure frameworks",
+          "value_citation": "https://aicdi.trust.org"
+        },
+        {
+          "value": "Survey methodology",
+          "value_citation": "https://aicdi.trust.org"
+        },
+        {
+          "value": "Benchmarking systems",
+          "value_citation": "https://aicdi.trust.org"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Corporate AI adoption dataset",
+          "value_citation": "https://aicdi.trust.org"
+        },
+        {
+          "value": "Voluntary AI disclosure survey",
+          "value_citation": "https://aicdi.trust.org"
+        },
+        {
+          "value": "AI policy and practice benchmarking",
+          "value_citation": "https://aicdi.trust.org"
+        },
+        {
+          "value": "Responsible AI governance framework",
+          "value_citation": "https://aicdi.trust.org"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Map corporate AI use",
+          "value_citation": "https://aicdi.trust.org"
+        },
+        {
+          "value": "Benchmark AI policies and practices",
+          "value_citation": "https://aicdi.trust.org"
+        },
+        {
+          "value": "Identify AI opportunities",
+          "value_citation": "https://aicdi.trust.org"
+        },
+        {
+          "value": "Mitigate operational AI risks",
+          "value_citation": "https://aicdi.trust.org"
+        },
+        {
+          "value": "Demonstrate AI governance leadership",
+          "value_citation": "https://aicdi.trust.org"
+        },
+        {
+          "value": "Drive transparent AI adoption",
+          "value_citation": "https://aicdi.trust.org"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Corporate sector (cross-industry)",
+          "value_citation": "https://aicdi.trust.org"
+        },
+        {
+          "value": "Financial services",
+          "value_citation": "https://aicdi.trust.org"
+        },
+        {
+          "value": "Healthcare",
+          "value_citation": "https://aicdi.trust.org"
+        },
+        {
+          "value": "Technology",
+          "value_citation": "https://aicdi.trust.org"
+        },
+        {
+          "value": "Manufacturing",
+          "value_citation": "https://aicdi.trust.org"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://aicdi.trust.org"
+        }
+      ]
+    },
+    {
+      "company_name": "NSF AI Institutes Virtual Organization (NSF AIVO)",
+      "company_name_citation": "https://aiinstitutes.org",
+      "description": "NSF AI Institutes Virtual Organization (NSF AIVO) serves as the central nexus connecting 29 National AI Institutes established by the National Science Foundation across the United States. This collaborative network brings together leading academic institutions, research centers, and industry partners to conduct cutting-edge artificial intelligence research of critical importance to U.S. competitiveness, national security, food security, public safety, education, ethics, and numerous other strategic priorities. The Virtual Organization facilitates collaboration, knowledge sharing, and coordination among these geographically distributed institutes, creating a unified ecosystem for AI innovation and advancement.\n\nThe organization encompasses diverse research focus areas spanning multiple AI application domains. Special Interest Groups (SIGs) provide structured collaboration frameworks around key themes including Ed4AI and AI for Education, Data Engineering for AI Applications, Project Management, AI for Agriculture, Ethics and Trustworthiness, and Natural and Physical Sciences. These SIGs enable researchers and practitioners across the 29 institutes to share methodologies, coordinate research agendas, and amplify impact through collective action.\n\nNSF AIVO places significant emphasis on practical applications of AI technologies in critical sectors. The AI for Agriculture initiative addresses challenges in food production, precision agriculture, and agricultural sustainability through robotics and intelligent systems. The organization hosts Farm Robotics Challenges and AI-CLIMATE Robotics Tours that showcase how AI and robotic systems can transform agricultural practices. The network's work in education explores how AI can enhance learning outcomes, personalize educational experiences, and prepare the workforce for an AI-enabled future.\n\nInfrastructure development represents a core focus area, with NSF AIVO supporting cyberinfrastructure capabilities that enable AI research at scale. The organization provides researchers with access to computational resources, data engineering tools, and collaborative platforms necessary for advancing AI science. The AWARE Home initiative exemplifies the network's commitment to understanding how AI systems can be studied in real-world residential settings, providing insights into human-AI interaction, edge computing, and ambient intelligence.\n\nEthics and trustworthiness form foundational pillars of NSF AIVO's mission. The Ethics and Trustworthiness Special Interest Group ensures that AI research conducted across the network adheres to rigorous ethical standards, addresses bias and fairness concerns, and considers societal implications of AI deployment. By serving academic researchers, students, government agencies, agricultural producers, educators, and healthcare providers, NSF AIVO creates pathways for responsible AI innovation that benefits society while maintaining scientific rigor and ethical integrity across all 29 member institutes.",
+      "description_citation": "https://aiinstitutes.org",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": "United States (multiple locations including Chicago, IL; Washington, D.C.; Wenatchee, WA; Atlanta, GA)",
+      "location_citation": "https://aiinstitutes.org",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Robotics",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "Data Engineering",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "Cyberinfrastructure",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "AI systems",
+          "value_citation": "https://aiinstitutes.org"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "29 National AI Institutes network",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "Special Interest Groups (SIGs)",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "Agricultural and Natural Resources Communications e-textbook",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "Farm Robotics Challenge",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "AI-CLIMATE Robotics Tour",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "AWARE Home research platform",
+          "value_citation": "https://aiinstitutes.org"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "AI in agriculture",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "AI in healthcare",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "AI's impact on education",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "Home-based AI research studies",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "Food security",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "Public safety applications",
+          "value_citation": "https://aiinstitutes.org"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Agriculture",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "Education",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "Healthcare",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "Public Safety",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "Natural and Physical Sciences",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "Academic Research",
+          "value_citation": "https://aiinstitutes.org"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://aiinstitutes.org"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://aiinstitutes.org"
+        }
+      ]
+    },
+    {
+      "company_name": "Association for the Advancement of Artificial Intelligence (AAAI)",
+      "company_name_citation": "https://aaai.org",
+      "description": "The Association for the Advancement of Artificial Intelligence (AAAI) is the premier international scientific society dedicated to advancing the scientific understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines. As the journal of record for the artificial intelligence community, AAAI serves as the central hub for AI researchers, practitioners, students, and professionals worldwide, facilitating knowledge exchange, collaboration, and advancement of AI science. The organization has established itself as the authoritative voice in AI research, providing platforms for groundbreaking discoveries and fostering dialogue on AI's opportunities, challenges, and ethical implications.\n\nAAAI's comprehensive conference program represents the gold standard in AI research dissemination. The flagship AAAI Conference brings together thousands of researchers annually to present cutting-edge work across all AI domains. The organization also hosts specialized conferences including the International Conference on Web and Social Media (ICWSM), the Conference on AI, Ethics, and Society (AIES), the Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE), the Symposium on Educational Advances in Artificial Intelligence (EAAI), the Conference on Innovative Applications of Artificial Intelligence (IAAI), and the Conference on Human Computation and Crowdsourcing (HCOMP). These venues collectively cover the full spectrum of AI research from foundational theory to practical applications.\n\nThe organization's symposium series—Spring, Summer, and Fall—provides forums for in-depth exploration of emerging AI topics, fostering interdisciplinary collaboration and rapid dissemination of novel ideas. AAAI's publication portfolio includes AI Magazine, which serves as the journal of record for the AI community, featuring accessible articles on significant AI developments, applications, and societal implications. The organization's podcast series, \"Generations in Dialogue: Bridging Perspectives in AI,\" facilitates conversations between AI researchers of different career stages, exploring how age and experience shape perspectives on AI's opportunities, challenges, and ethics.\n\nAAAI membership provides AI professionals and students with access to a global network of expertise, opportunities to present research at prestigious conferences, and connections to the latest developments in AI science and applications. The organization plays a crucial role in helping stakeholders navigate the significant transformations in AI capabilities that have emerged in recent years, providing frameworks for understanding technical advances while considering ethical, societal, and policy implications.\n\nBy serving academic researchers, industry practitioners, students, policymakers, and the broader AI community, AAAI ensures that artificial intelligence research advances with scientific rigor while maintaining attention to ethical considerations, societal impact, and beneficial applications. The organization's comprehensive approach to AI advancement—spanning fundamental research, innovative applications, educational initiatives, and ethical discourse—positions it as an essential institution for anyone engaged with artificial intelligence research, development, or policy.",
+      "description_citation": "https://aaai.org",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": "United States",
+      "location_citation": "https://aaai.org",
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Artificial Intelligence research",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "Web and Social Media AI",
+          "value_citation": "https://aaai.org"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AAAI Conference series",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "International Conference on Web and Social Media (ICWSM)",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "Conference on AI, Ethics, and Society (AIES)",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "Symposium Series (Spring, Summer, Fall)",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "AI Magazine",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "Conference on Innovative Applications of AI (IAAI)",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "Educational Advances in AI (EAAI)",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "Generations in Dialogue podcast",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "Professional membership programs",
+          "value_citation": "https://aaai.org"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Advancing scientific understanding of intelligent behavior",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "Navigate transformations in AI capabilities",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "Research dissemination and collaboration",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "Explore AI opportunities, challenges, and ethics",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "Innovative AI applications",
+          "value_citation": "https://aaai.org"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Academic research",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "AI research community",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "Technology industry",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "Education",
+          "value_citation": "https://aaai.org"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://aaai.org"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://aaai.org"
+        }
+      ]
+    },
+    {
+      "company_name": "Awesome Agentic Patterns",
+      "company_name_citation": "https://agentic-patterns.com",
+      "description": "Awesome Agentic Patterns is a comprehensive, curated catalogue of agentic AI patterns that provides real-world tricks, workflows, and mini-architectures designed to help autonomous and semi-autonomous AI agents accomplish useful work in production environments. This specialized resource serves as an essential reference for AI engineers, developers, and architects who are building agent-based systems that require sophisticated orchestration of large language models, tools, and execution environments. The catalogue captures battle-tested patterns that multiple teams have successfully deployed, distinguishing proven approaches from experimental techniques.\n\nThe platform documents diverse architectural patterns spanning multiple domains of agentic AI development. Core patterns include agent-powered codebase question-answering and onboarding systems that help developers understand complex codebases through intelligent semantic search and contextual explanation. AI-assisted code review and verification patterns enable automated quality assurance while maintaining human oversight. Autonomous workflow agent architectures provide frameworks for building agents that can independently execute multi-step processes with appropriate error handling and rollback capabilities.\n\nAwesome Agentic Patterns addresses critical technical challenges in agentic AI including agentic search over vector embeddings for retrieval-augmented generation implementations, integration of isolated virtual machines and sandboxed execution environments for safe code execution, and utilization of browser automation tools like Playwright for web-based agent interactions. The catalogue covers patterns for visual AI and multimodal agent capabilities, compiler integration for code generation workflows, continuous integration pipeline automation, and reinforcement learning approaches for agent optimization.\n\nThe resource provides practical guidance on Agent SDK utilization, database interaction patterns, shell command execution safety, and proper isolation strategies to prevent agents from causing unintended system modifications. Each pattern in the catalogue includes implementation considerations, tradeoffs, and contexts where the pattern proves most effective. This pragmatic focus distinguishes Awesome Agentic Patterns from purely theoretical treatments of agentic AI, providing actionable guidance that accelerates production deployment.\n\nAwesome Agentic Patterns serves software engineering teams, AI development organizations, MLOps practitioners, and companies building production-grade agentic AI systems. The catalogue's emphasis on real-world, multi-team validation ensures that documented patterns represent proven solutions rather than experimental approaches. By providing comprehensive coverage of LLM agent architectures, automation workflows, RAG implementations, and governance considerations for autonomous systems, Awesome Agentic Patterns has established itself as an indispensable resource for organizations seeking to build reliable, scalable, and safe agentic AI applications.",
+      "description_citation": "https://agentic-patterns.com",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Large Language Models (LLM)",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Vector cache",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Compilers",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Continuous Integration (CI)",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Reinforcement Learning (RL)",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Isolated Virtual Machines",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Shell",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Browser automation",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Database systems",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Playwright",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Sandbox environments",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Visual AI",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Multimodal AI",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Agent SDK",
+          "value_citation": "https://agentic-patterns.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Curated catalogue of agentic AI patterns",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Real-world agentic workflows",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Mini-architectures for autonomous agents",
+          "value_citation": "https://agentic-patterns.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Agent-powered codebase Q&A and onboarding",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "AI-assisted code review and verification",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Autonomous workflow agent architecture",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Agentic search over vector embeddings",
+          "value_citation": "https://agentic-patterns.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Software engineering",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "AI development",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Technology companies",
+          "value_citation": "https://agentic-patterns.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://agentic-patterns.com"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://agentic-patterns.com"
+        }
+      ]
+    },
+    {
+      "company_name": "ACL Anthology",
+      "company_name_citation": "https://aclanthology.org",
+      "description": "ACL Anthology is the premier digital repository for research papers in computational linguistics and natural language processing, serving as the comprehensive archive for the Association for Computational Linguistics and related scientific communities. This extensive scholarly database provides free, open access to thousands of research publications spanning decades of advancement in language technologies, computational linguistics, speech processing, and related fields. The Anthology represents an invaluable resource for researchers, practitioners, students, and anyone seeking to understand the evolution and current state of natural language processing research.\n\nThe repository encompasses proceedings from major conferences and workshops including EMNLP (Empirical Methods in Natural Language Processing), ANLP (Applied Natural Language Processing), ArabicNLP (Arabic Natural Language Processing), RANLP (Recent Advances in Natural Language Processing), DIAL (Discourse and Dialogue), DAT (Data Acquisition and Text), SLPAT (Speech and Language Processing for Assistive Technologies), and numerous other specialized venues. This comprehensive coverage ensures that ACL Anthology serves as the authoritative historical record and current reference for computational linguistics research across all subdomains and application areas.\n\nACL Anthology provides sophisticated access mechanisms including full BibTeX downloads for citation management, RSS feeds tracking the latest 1,000 papers for staying current with emerging research, and search capabilities enabling researchers to discover relevant work efficiently. The repository's BibTeX offerings include both basic citation information and versions with abstracts, facilitating literature review and research synthesis. These features make ACL Anthology an essential tool for academic researchers conducting literature reviews, practitioners seeking state-of-the-art techniques, and educators developing curricula in natural language processing and computational linguistics.\n\nThe Anthology's scope extends beyond core natural language processing to encompass specialized areas including conversational AI and dialogue systems, document AI and text analysis, voice AI and speech technologies for assistive applications, and critical examinations of social and ethical issues in language technologies through dedicated Special Interest Group (SIG) proceedings. This breadth ensures comprehensive coverage of how computational methods are applied to language understanding, generation, and processing across diverse contexts and applications.\n\nServing the global computational linguistics research community, ACL Anthology supports academia, research and development organizations, and the artificial intelligence industry by providing permanent, accessible, and well-organized access to the collective knowledge base of the field. The repository's commitment to open access ensures that language technology research remains accessible to researchers worldwide regardless of institutional affiliations or resources, advancing the democratic dissemination of scientific knowledge in computational linguistics and natural language processing.",
+      "description_citation": "https://aclanthology.org",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "BibTeX",
+          "value_citation": "https://aclanthology.org"
+        },
+        {
+          "value": "RSS",
+          "value_citation": "https://aclanthology.org"
+        },
+        {
+          "value": "Digital repository systems",
+          "value_citation": "https://aclanthology.org"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Research paper archival and access",
+          "value_citation": "https://aclanthology.org"
+        },
+        {
+          "value": "BibTeX citation downloads",
+          "value_citation": "https://aclanthology.org"
+        },
+        {
+          "value": "RSS feeds for latest papers",
+          "value_citation": "https://aclanthology.org"
+        },
+        {
+          "value": "Conference proceedings repository",
+          "value_citation": "https://aclanthology.org"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Academic research and literature review",
+          "value_citation": "https://aclanthology.org"
+        },
+        {
+          "value": "Citation management",
+          "value_citation": "https://aclanthology.org"
+        },
+        {
+          "value": "Tracking latest NLP research",
+          "value_citation": "https://aclanthology.org"
+        },
+        {
+          "value": "Historical research in computational linguistics",
+          "value_citation": "https://aclanthology.org"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Academia",
+          "value_citation": "https://aclanthology.org"
+        },
+        {
+          "value": "Research and Development",
+          "value_citation": "https://aclanthology.org"
+        },
+        {
+          "value": "Artificial Intelligence",
+          "value_citation": "https://aclanthology.org"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://aclanthology.org"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://aclanthology.org"
+        },
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://aclanthology.org"
+        },
+        {
+          "value": "Document AI",
+          "value_citation": "https://aclanthology.org"
+        },
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://aclanthology.org"
+        },
+        {
+          "value": "Voice AI",
+          "value_citation": "https://aclanthology.org"
+        }
+      ]
+    },
+    {
+      "company_name": "Emerj Artificial Intelligence Research",
+      "company_name_citation": "https://aiconsulting.libsyn.com",
+      "description": "Emerj Artificial Intelligence Research is a specialized AI research and consulting firm that produces authoritative insights into how enterprises leverage artificial intelligence technologies to drive innovation, enhance operations, and create competitive advantage. Through its flagship \"The AI Consulting Podcast,\" comprehensive research reports, and advisory services, Emerj explores how generative AI and large language models are reshaping industries, unlocking creativity, and driving bold innovation across the enterprise landscape. The organization serves as a trusted intelligence source for enterprise leaders seeking to understand AI's practical applications, business cases, and implementation strategies.\n\nEmerj's research focuses on the practical application of AI technologies in enterprise contexts, moving beyond theoretical discussions to examine real-world implementations, ROI considerations, and operational challenges. The organization's work explores how large language models bring tangible value to enterprises, examining use cases ranging from streamlining enterprise workflows to enhancing customer experience through AI-powered solutions. Emerj's partnership with major consulting firms like Deloitte on reports such as the \"State of Gen AI Report\" demonstrates the organization's position as a credible source for enterprise AI intelligence.\n\nThe organization provides deep-dive analysis into specialized AI applications including contract intelligence in the procurement space, where technologies like Docskiff enable automated analysis and insight extraction from legal documents. Emerj examines the evolving role of AI assistants for customer support agents, exploring how these technologies enhance satisfaction while maintaining the critical balance between automation and human interaction. The firm's research addresses the fundamental question of AI's business case beyond pure efficiency gains, helping executives understand the strategic value proposition of AI investments.\n\nEmerj's podcast serves as a primary vehicle for disseminating insights, featuring interviews with AI service providers, enterprise practitioners, and technology vendors who share practical experiences implementing AI solutions. By polling extensive volumes of enterprise leaders, Emerj provides data-driven perspectives on AI adoption trends, challenges, and success factors. This empirical approach distinguishes Emerj from purely theoretical AI research, grounding insights in the realities of enterprise technology deployment.\n\nServing enterprise executives, AI strategy teams, procurement professionals, customer experience leaders, and consulting organizations, Emerj Artificial Intelligence Research addresses the information needs of decision-makers navigating the complex landscape of enterprise AI adoption. The organization's coverage spans LLM agents, automation strategies, workflow optimization, document AI, conversational AI, and natural language processing applications, providing comprehensive intelligence for organizations seeking to understand and implement AI technologies effectively.",
+      "description_citation": "https://aiconsulting.libsyn.com",
+      "business_email": null,
+      "business_email_citation": null,
+      "location": null,
+      "location_citation": null,
+      "team_size": null,
+      "team_size_citation": null,
+      "technologies": [
+        {
+          "value": "Generative AI",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        },
+        {
+          "value": "Large language models",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        },
+        {
+          "value": "AI Assistants",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "The AI Consulting Podcast",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        },
+        {
+          "value": "AI research reports",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        },
+        {
+          "value": "State of Gen AI Report",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        },
+        {
+          "value": "Enterprise AI consulting intelligence",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Reshaping industries with generative AI",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        },
+        {
+          "value": "Enhance customer experience (CX)",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        },
+        {
+          "value": "Balance between automation and human interaction",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        },
+        {
+          "value": "Streamlining enterprise workflows",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        },
+        {
+          "value": "Contract intelligence in procurement",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Enterprise technology",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        },
+        {
+          "value": "Procurement",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        },
+        {
+          "value": "AI services",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        },
+        {
+          "value": "Consulting",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        },
+        {
+          "value": "Document AI",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        },
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://aiconsulting.libsyn.com"
+        }
+      ]
+    }
+  ]
+}

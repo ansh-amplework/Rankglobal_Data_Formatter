@@ -1,0 +1,2466 @@
+{
+  "companies": [
+    {
+      "company_name": "Azra AI",
+      "company_name_citation": "https://www.azra-ai.com",
+      "description": "Azra AI is an innovative healthcare technology company that provides an end-to-end platform for oncology and beyond. The company leverages advanced artificial intelligence models trained on over 100 million pathology and radiology reports to transform how hospitals and cancer centers identify, connect, and manage patients throughout their cancer journey. Their flagship platform uses sophisticated neural networks and natural language processing to analyze medical reports in real-time, enabling healthcare providers to identify positive cancer diagnoses and incidental findings automatically. This revolutionary approach eliminates the manual, time-consuming processes traditionally associated with cancer patient identification and registry management. Azra AI's comprehensive solution suite includes Cancer Patient Identification, which uses AI to analyze pathology and radiology reports to identify positive cancer diagnoses in real-time, and SmartPath Cancer Registry Automation, which eliminates manual case finding and streamlines registry operations. The platform also features Tumor Board functionality to simplify review processes, Patient Care Management to track and document the entire patient journey from suspicion through survivorship, and Real-Time Analytics for in-depth reporting. By seamlessly integrating with existing Electronic Health Record systems, Azra AI ensures that healthcare providers can adopt their technology without disrupting existing workflows. The company's mission centers on helping hospitals and cancer centers identify patients who need care in real-time, connect them to appropriate care sooner, and manage their entire treatment journey efficiently. This AI-driven approach not only improves patient outcomes by reducing delays in diagnosis and treatment but also enhances operational efficiency for healthcare providers by automating tedious manual processes. Azra AI's technology represents a significant advancement in applying artificial intelligence to critical healthcare challenges, particularly in the oncology domain where early detection and comprehensive care coordination are essential for patient survival and quality of life.",
+      "description_citation": "https://www.azra-ai.com",
+      "business_email": "contact@azra-ai.com",
+      "business_email_citation": "https://www.azra-ai.com",
+      "location": "Franklin, TN 37067",
+      "location_citation": "https://www.azra-ai.com",
+      "team_size": "N/A",
+      "technologies": [
+        {
+          "value": "AI Models",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "Neural Networks",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "NLP",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "EHR Integration",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "Machine Learning",
+          "value_citation": "https://www.azra-ai.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Cancer Patient Identification",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "Screening & Incidental Findings",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "SmartPath Cancer Registry Automation",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "Tumor Board",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "Patient Care Management",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "Real-Time Analytics",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "Clinical Consulting Services",
+          "value_citation": "https://www.azra-ai.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Analyze Pathology and Radiology Reports",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "Real-time cancer diagnosis identification",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "Incidental findings tracking",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "Automated case finding for registries",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "Tumor board review simplification",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "Patient journey tracking from suspicion through survivorship",
+          "value_citation": "https://www.azra-ai.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "Oncology",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "Hospitals",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "Cancer Centers",
+          "value_citation": "https://www.azra-ai.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "Document AI",
+          "value_citation": "https://www.azra-ai.com"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://www.azra-ai.com"
+        }
+      ]
+    },
+    {
+      "company_name": "Businessware Technologies",
+      "company_name_citation": "https://www.businesswaretech.com",
+      "description": "Businessware Technologies is a comprehensive AI and software development company that has been providing custom digital solutions for over two decades. The company specializes in building custom-built AI agents that extract data, apply business logic, and integrate seamlessly with ERP, CRM, and core business systems. Their expertise spans multiple cutting-edge AI technologies including Intelligent Document Processing, Document Layout Intelligence, Computer Vision, and Robotic Process Automation. With a proven track record across diverse industries including banking, insurance, engineering, logistics, judicial systems, and healthcare, Businessware Technologies has established itself as a trusted vendor for long-term partnerships, with many clients relying on their services for over ten years. The company's AI agent technology represents the forefront of automation, enabling organizations to automate complex workflows that previously required significant manual intervention. Their Intelligent Document Processing solution uses advanced machine learning and natural language processing to extract critical data from unstructured documents, including complex medical records, government forms, and engineering drawings. One of their signature capabilities is Document Layout Intelligence, which can understand and process documents with varying layouts and formats, making it invaluable for industries dealing with diverse document types. Businessware Technologies has successfully delivered innovative AI-powered solutions across multiple domains. Their portfolio includes a government form processing system that streamlines bureaucratic workflows, an AI-based SaaS platform for architectural drawing recognition that helps engineering firms digitize and analyze blueprints, and a sophisticated robotic process automation AI agent for insurance claims that reduces processing time and improves accuracy. They've also developed cutting-edge solutions such as a newspaper digitization AI system, social media caption generation tools, an AI agent for aspect extraction from Amazon reviews to help businesses understand customer sentiment, and an AI-powered digital media recommendation system. The company offers flexible engagement models including dedicated software teams, staff augmentation, and offshore development centers, allowing clients to scale their AI capabilities according to their needs. Their commitment to delivering high-quality solutions within time and budget constraints has made them a preferred partner for organizations seeking to transform their operations through artificial intelligence.",
+      "description_citation": "https://www.businesswaretech.com",
+      "business_email": "sales@businesswaretech.com",
+      "business_email_citation": "https://www.businesswaretech.com",
+      "location": "League City, TX 77573",
+      "location_citation": "https://www.businesswaretech.com",
+      "team_size": "N/A",
+      "technologies": [
+        {
+          "value": "AI Agents",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Intelligent Document Processing",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Document Layout Intelligence",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Cloud AI Services",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Machine Learning",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Robotic Process Automation",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "JSON",
+          "value_citation": "https://www.businesswaretech.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI Agents",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Intelligent Document Processing",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Document Layout Intelligence",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Engineering Drawing Data Extraction",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Dedicated Software Team",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Staff Augmentation",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Offshore Development Center",
+          "value_citation": "https://www.businesswaretech.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Government form processing",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Architectural drawing recognition",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Medical records data extraction",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Insurance claims automation",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Newspaper digitization",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Social media caption generation",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Aspect extraction from Amazon reviews",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Digital media recommendation",
+          "value_citation": "https://www.businesswaretech.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Banking",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Insurance",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Engineering",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Logistics",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Judicial",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Healthcare",
+          "value_citation": "https://www.businesswaretech.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Document AI",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://www.businesswaretech.com"
+        },
+        {
+          "value": "Recommendation Systems",
+          "value_citation": "https://www.businesswaretech.com"
+        }
+      ]
+    },
+    {
+      "company_name": "Chatbots Life",
+      "company_name_citation": "https://www.chatbotslife.com",
+      "description": "Chatbots Life is a specialized media and educational platform dedicated to empowering professionals to navigate and successfully implement artificial intelligence in their daily workflows and business operations. Serving a community of over 100,000 professionals from leading technology companies including Google, Amazon, and Microsoft, Chatbots Life has established itself as a trusted resource for AI education and practical implementation guidance. The platform's core mission revolves around making AI accessible and actionable, with a unique approach that delivers essential AI knowledge in just 10 minutes, allowing busy professionals to stay informed without overwhelming time commitments. The organization provides comprehensive access to over 100 courses and tutorials covering the full spectrum of AI technologies, from conversational AI and chatbots to advanced topics like GPT-5, ElevenLabs AI Music, and robotics. Their educational content is complemented by extensive case studies that demonstrate real-world AI implementations, helping users understand how others are successfully deploying AI solutions across various industries. Chatbots Life emphasizes practical productivity gains, offering guidance on how professionals can reclaim 10+ hours per week through AI-powered workflows that blend chatbots, automation tools, and optimized prompts. Their library includes professionally-crafted, battle-tested AI prompts designed to boost productivity, creativity, and decision-making across multiple business functions. The platform serves as both an educational hub and a news aggregator, tracking major AI developments including strategic partnerships, industry forecasts, and emerging technologies. Their content spans multiple professional domains including sales, HR, marketing, design, customer support, engineering, and SEO, ensuring relevance for professionals across different functions. Chatbots Life covers critical industry trends such as AI in robotics, search technologies, smart homes, and the evolution of AI as economic infrastructure. They provide insights into major platform developments from industry leaders like Google, Apple, and emerging AI companies, while also addressing the practical implications of AI adoption, including job market impacts and skill requirements. By positioning AI as not just optional but mandatory for staying competitive in big tech and modern business environments, Chatbots Life helps professionals and organizations future-proof their skills and operations in an increasingly AI-driven world.",
+      "description_citation": "https://www.chatbotslife.com",
+      "business_email": "N/A",
+      "location": "San Francisco, California",
+      "location_citation": "https://www.chatbotslife.com",
+      "team_size": "7",
+      "team_size_citation": "https://www.chatbotslife.com",
+      "technologies": [
+        {
+          "value": "Chatbots",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Automation Tools",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Prompt Engineering",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "GPT-5",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "ElevenLabs AI Music",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Google Genie 3",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Generative AI",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "LLMs",
+          "value_citation": "https://www.chatbotslife.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI Tutorials & Courses (100+)",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Case Studies",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Tools & Resources",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "AI Newsletters",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Battle-tested Prompts",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "AI-powered Workflows",
+          "value_citation": "https://www.chatbotslife.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Gaining 10+ hours weekly with AI workflows",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Productivity enhancement",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Decision-making through AI prompts",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Staying updated on AI news and trends",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Learning AI implementation",
+          "value_citation": "https://www.chatbotslife.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Sales",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "HR",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Marketing",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Design",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Customer Support",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Engineering",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "SEO",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Productivity",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Healthcare",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Robotics",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Big Tech",
+          "value_citation": "https://www.chatbotslife.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Voice AI",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Document AI",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://www.chatbotslife.com"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.chatbotslife.com"
+        }
+      ]
+    },
+    {
+      "company_name": "CloudRaft",
+      "company_name_citation": "https://www.cloudraft.io",
+      "description": "CloudRaft is a specialized technology consulting firm that focuses on AI and cloud-native solutions, helping organizations from startups to Fortune 500 enterprises build and scale their AI infrastructure on Kubernetes. The company's mission is to make AI and cloud-native technologies accessible for everyone, enabling organizations of all sizes to adopt cutting-edge infrastructure without the complexity typically associated with enterprise-scale deployments. CloudRaft positions itself as a partner that helps clients unlock the full potential of artificial intelligence through tailored AI Cloud solutions built on the robust Kubernetes platform. Their approach combines deep technical expertise with practical implementation experience across critical open-source technologies. CloudRaft provides comprehensive enterprise support and consulting for essential data and observability platforms including PostgreSQL, ClickHouse, Prometheus, Thanos, OpenTelemetry, Grafana, Argo CD, Grafana Mimir, and Backstage. These tools form the foundation of modern, scalable infrastructure that can support the demanding requirements of AI and machine learning workloads. The company's service portfolio spans DevOps, cloud consulting, Kubernetes consulting, observability, and platform engineering, ensuring end-to-end support for organizations building AI-powered systems. A key differentiator for CloudRaft is their focus on MLOps and agentic AI. They've developed Kagent, an open-source agentic AI platform designed to revolutionize Kubernetes operations through multi-agent reasoning, Model Context Protocol integration, and cloud-native automation. This innovative platform demonstrates CloudRaft's commitment to advancing the state of AI operations infrastructure. Additionally, they provide specialized expertise in LLM observability, offering comprehensive guidance for implementing observability for Large Language Models in production environments, covering critical aspects like monitoring, tracing, security, and cost optimization. CloudRaft's practical experience is evidenced by their diverse project portfolio, which includes building cloud-native Bring Your Own Cloud platforms for enterprise customers, constructing AI cloud infrastructure for Indian datacenters to improve scalability and performance, optimizing cloud costs for e-commerce platforms, implementing cloud-native disaster recovery systems for critical infrastructure like power plants, and managing massive data migrations such as moving 100TB of historical metrics from InfluxDB to Grafana Mimir. Their work enables companies to accelerate go-to-market strategies and maximize ROI through expert Kubernetes consulting and tailored AI cloud solutions.",
+      "description_citation": "https://www.cloudraft.io",
+      "business_email": "contact@cloudraft.io",
+      "business_email_citation": "https://www.cloudraft.io",
+      "location": "Indore, India",
+      "location_citation": "https://www.cloudraft.io",
+      "team_size": "18",
+      "team_size_citation": "https://www.cloudraft.io",
+      "technologies": [
+        {
+          "value": "Kubernetes",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "PostgreSQL",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "ClickHouse",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Prometheus",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Thanos",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "OpenTelemetry",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Grafana",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Argo CD",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Grafana Mimir",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Backstage",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "InfluxDB",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "AWS",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Azure",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Google Cloud",
+          "value_citation": "https://www.cloudraft.io"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI Cloud with Kubernetes",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "MLOps",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "DevOps Consulting",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Cloud Consulting",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Kubernetes Consulting",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Observability and Monitoring",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Platform Engineering",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Kagent (Agentic AI platform)",
+          "value_citation": "https://www.cloudraft.io"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Building BYOC SaaS platforms",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "AI cloud infrastructure for datacenters",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Cloud cost optimization",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Cloud-native disaster recovery",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "LLM observability",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Large-scale metrics migration",
+          "value_citation": "https://www.cloudraft.io"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Startups",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Fortune 500 Enterprises",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Datacenters",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "E-commerce",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Communication",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Power Plants",
+          "value_citation": "https://www.cloudraft.io"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://www.cloudraft.io"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.cloudraft.io"
+        }
+      ]
+    },
+    {
+      "company_name": "Centennial Technologies Inc.",
+      "company_name_citation": "https://www.centennialtechnologies.com",
+      "description": "Centennial Technologies Inc. is an ISO and CMMI Level 3 certified company that specializes in providing comprehensive financial management and information technology services to federal government and commercial clients. As an SBA certified 8(a) and HUBZone company, Centennial has established a strong presence in the government contracting space, serving prestigious agencies including the Department of Commerce, USPTO, Department of Education, EPA, HHS, FDA, Navy, SEC, IRS, USDA, and USPS. The company follows a rigorous process-oriented approach to solving complex business problems and achieving exceptional performance levels. Centennial's value proposition centers on engineering the future where innovation meets opportunity, combining technical expertise with mission-critical business process understanding. Their service portfolio spans the full spectrum of professional and technical services designed to help clients optimize operations and achieve strategic goals. In the technology domain, Centennial provides full life-cycle IT services including DevSecOps, systems integration, and business transformation using innovative technologies to modernize enterprise business systems. A major focus area for Centennial is artificial intelligence, where they offer specialized AI-driven solutions encompassing data insights, predictive analytics, process optimization, Generative AI, and scalable infrastructure tailored specifically for federal missions. The company has developed the Centennial Healthcare AgenticAI Platform, demonstrating their commitment to building autonomous AI agents that can operate semi-independently to solve complex healthcare challenges. Their AI practice is organized into distinct categories including traditional Artificial Intelligence, Generative Artificial Intelligence (GenAI), and specialized AgenticAI solutions, enabling them to address diverse client needs across the AI spectrum. Beyond AI, Centennial provides robust information technology services including emerging technology services, application development and support, cloud support services, business intelligence and data analytics, and comprehensive cybersecurity services. These capabilities are integrated with their financial management expertise, which includes financial management subject matter expertise, auditing, risk management, compliance (including OMB A-123), performance management, and systems support. This unique combination of financial and technical expertise allows Centennial to deliver holistic solutions that address both operational efficiency and regulatory compliance requirements. The company leverages partnerships with leading technology vendors including Automation Anywhere, Appian, AWS, Google Cloud, Microsoft Azure, Salesforce, SAS, ServiceNow, and UiPath to deliver best-in-class solutions. Centennial serves diverse commercial clients including Marriott, HMSHost, Verizon, Capital One, Fannie Mae, and Freddie Mac, demonstrating their ability to apply government-grade rigor to commercial challenges. Their mission is to innovate and drive forward a next generation of efficient business processes and technologies that enable customers to achieve mission objectives in an increasingly complex and rapidly evolving technological landscape.",
+      "description_citation": "https://www.centennialtechnologies.com",
+      "business_email": "sales@centennialtechnologies.com",
+      "business_email_citation": "https://www.centennialtechnologies.com",
+      "location": "Leesburg, VA 20176",
+      "location_citation": "https://www.centennialtechnologies.com",
+      "team_size": "N/A",
+      "technologies": [
+        {
+          "value": "Automation Anywhere",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Appian",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "AWS",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Google Cloud",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Microsoft Azure",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Salesforce",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "SAS",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "ServiceNow",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "UiPath",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "DevSecOps",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Generative AI",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Machine Learning",
+          "value_citation": "https://www.centennialtechnologies.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Financial Management Services",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Information Technology Services",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Artificial Intelligence Services",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Generative AI (GenAI)",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Centennial Healthcare AgenticAI Platform",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Cloud Support Services",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "DevSecOps",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Cyber Security Services",
+          "value_citation": "https://www.centennialtechnologies.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Modernizing enterprise business systems",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Healthcare AI automation through AgenticAI",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Financial reporting and risk management",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Business process optimization",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Cybersecurity for federal agencies",
+          "value_citation": "https://www.centennialtechnologies.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Federal Government",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Healthcare",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Financial Services",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Hospitality",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Telecommunications",
+          "value_citation": "https://www.centennialtechnologies.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.centennialtechnologies.com"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://www.centennialtechnologies.com"
+        }
+      ]
+    },
+    {
+      "company_name": "BlueLabel",
+      "company_name_citation": "https://www.bluelabellabs.com",
+      "description": "BlueLabel, also known as BlueLabel Labs, is a premier agentic AI development partner with over 13 years of technical excellence serving mid-market and enterprise companies. The organization functions as an embedded AI team, specializing in designing and implementing custom multi-agent AI solutions that drive operational efficiency in complex business scenarios. With a team of 75+ global members headquartered in New York, BlueLabel has launched over 300 products and earned more than 30 industry awards, establishing itself as a leader in practical, high-impact AI implementations. The company's service model spans the entire AI development lifecycle from strategy to deployment, with a particular focus on maximizing productivity and minimizing costs through intelligent automation. BlueLabel's methodology is anchored by their proprietary SPRINT Framework, a structured approach designed to identify opportunity areas, prioritize use cases, and launch AI pilots within 4-8 weeks, with a target return on investment within 90 days. This rapid-deployment approach distinguishes them from traditional consulting firms that can take months or years to deliver results. Their technical expertise encompasses AI Strategy Development, where they help organizations identify high-value AI opportunities; AI Agent Workflows, building autonomous agents to automate complex workflows; and RAG AI Development, creating Retrieval-Augmented Generation powered applications for fast, high-quality AI insights. BlueLabel excels in Data & LLM Engineering, architecting sophisticated data pipelines that ingest, integrate, and clean data from multiple sources to power accurate and effective AI models. Their engineering process emphasizes rapid value generation on scalable architectures, ensuring that solutions can grow with client needs. The company provides Conversational AI solutions that deliver personalized, brand-enhancing, data-driven interactions, helping clients transform customer engagement. BlueLabel's client portfolio includes prestigious organizations like Mayo Clinic, Koch Industries, Google, Microsoft, Time, iHeart Radio, Consumer Reports, and Sidewalk Labs. Their work spans diverse applications: developing real-time insights for fertilizer operations managing 10 million metric tons (KochView), creating generative design tools for real estate optimization (Delve), building GenAI assistants for retirement strategy creation (Blueprint Builder), implementing live chat and video diagnostics for in-home services (Frontdoor), streamlining real estate due diligence using geospatial data (MapLine.AI), and developing AI-powered e-commerce platforms for luxury retail (The 1916 Company). The company emphasizes six core principles for safely deploying agentic AI in enterprise IT, demonstrating their commitment to AI Ethics & Governance. Their approach focuses on enduring partnerships rather than transactional projects, working with clients to build long-term roadmaps and using clear, bold metrics to unify teams around key performance indicators. BlueLabel positions itself as passionate technologists obsessed with delivering innovative competitive advantages through human-centric digital solutions and forward-looking architecture.",
+      "description_citation": "https://www.bluelabellabs.com",
+      "business_email": "contact@bluelabellabs.com",
+      "business_email_citation": "https://www.bluelabellabs.com",
+      "location": "New York, NY 10014",
+      "location_citation": "https://www.bluelabellabs.com",
+      "team_size": "75",
+      "team_size_citation": "https://www.bluelabellabs.com",
+      "technologies": [
+        {
+          "value": "OpenAI",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Copilot",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "AWS",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Milvus",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "LangChain",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Esri",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Amazon Bedrock",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "RAG",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Generative AI",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "LLM",
+          "value_citation": "https://www.bluelabellabs.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI Strategy Development",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "AI Agent Workflows",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "RAG AI Development",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "AI Product Development",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Data & LLM Engineering",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "BlueLabel SPRINT Framework",
+          "value_citation": "https://www.bluelabellabs.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Real-time insights for operations",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Generative design for real estate",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "GenAI for retirement strategy",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Live chat and video diagnostics",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Geospatial data for real estate due diligence",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "E-commerce AI platforms",
+          "value_citation": "https://www.bluelabellabs.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Manufacturing",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Real Estate",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Financial Services",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Media",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Technology",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Retail",
+          "value_citation": "https://www.bluelabellabs.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.bluelabellabs.com"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://www.bluelabellabs.com"
+        }
+      ]
+    },
+    {
+      "company_name": "CloudHesive",
+      "company_name_citation": "https://www.cloudhesive.com",
+      "description": "CloudHesive is an AWS Premier Partner that specializes in transforming business operations through cloud innovation and advanced artificial intelligence technologies. The company positions itself as a leader in Generative AI and Agentic AI solutions that automate processes, empower teams, and enhance customer experience. By leveraging their top-tier partnership with Amazon Web Services, CloudHesive helps organizations simplify and accelerate the implementation, security, and management of AWS cloud technologies. With corporate headquarters in Fort Lauderdale, Florida, and additional offices in Denver, New York, Santiago de Chile, Colombia, and Buenos Aires, CloudHesive serves both commercial and public sector clients across the Americas. The company's technological focus is heavily centered on Generative AI, machine learning, and contact center modernization. Their flagship platform, ConnectPath CX, is a powerful Amazon Connect-based contact center solution designed to transform customer experience through AI-powered, omnichannel capabilities that enhance scalability and efficiency. This solution represents CloudHesive's deep expertise in conversational AI and voice technologies, enabling organizations to modernize their customer interaction infrastructure. CloudHesive's approach to AI includes sophisticated Agentic AI solutions that automate complex business workflows and provide intelligent virtual assistants capable of handling customer inquiries without human intervention. Their work with AJE, a major client, demonstrates the tangible impact of their solutions: by implementing intelligent virtual assistants to automate frequent inquiries and optimize call routing, they achieved a 60% reduction in wait times and a 40% increase in first-call resolution rates. This success earned CloudHesive the Best Customer Experience Partnership award at the CX Today Awards, validating their approach to AI-powered customer service transformation. Beyond AI and contact centers, CloudHesive provides a comprehensive suite of cloud services including AWS Migration to facilitate smooth cloud transitions, Managed Services to maximize AWS potential, Managed Security Services for comprehensive cloud cybersecurity, and Application Modernization focused on cloud-native transformation to revitalize legacy applications. Their client portfolio spans diverse industries including education (University of Michigan, FIU), healthcare (WebOps, Boulder Medical Center), government (DC Government, Ministry of Health Colombia, IPS Chile), financial services (Inter banking), energy (Pan American Energy), retail (City Furniture, Kirklands), and logistics/aviation (Phoenix East Aviation). CloudHesive operates as an extension of their clients' teams, helping them unleash data intelligence through machine learning and Gen AI mastery. They sponsor various AWS User Groups, connecting thousands of members to foster community knowledge in cloud technologies. With over 462 completed projects, CloudHesive has established itself as a trusted partner for organizations seeking to leverage AWS infrastructure and AI technologies to drive digital transformation and operational excellence.",
+      "description_citation": "https://www.cloudhesive.com",
+      "business_email": "sales@cloudhesive.com",
+      "business_email_citation": "https://www.cloudhesive.com",
+      "location": "Ft. Lauderdale, Florida",
+      "location_citation": "https://www.cloudhesive.com",
+      "team_size": "N/A",
+      "technologies": [
+        {
+          "value": "Amazon Connect",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Generative AI",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Agentic AI",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Machine Learning",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "AWS Lambda",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "AWS Control Tower",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "EC2",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "CloudFront",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "EKS",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "RDS",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "QuickSight",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "ECS",
+          "value_citation": "https://www.cloudhesive.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "ConnectPath CX (Contact Center solution)",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "AWS Migration",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Managed Services",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Managed Security Services",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Application Modernization",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "GenAI and Machine Learning services",
+          "value_citation": "https://www.cloudhesive.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Modernizing contact centers",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Intelligent virtual assistants",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Automated customer inquiries",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Call routing optimization",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Cloud-native application transformation",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Automated business workflows",
+          "value_citation": "https://www.cloudhesive.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Education",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Healthcare",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Government",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Financial Services",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Energy",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Retail",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Logistics",
+          "value_citation": "https://www.cloudhesive.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Voice AI",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.cloudhesive.com"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://www.cloudhesive.com"
+        }
+      ]
+    },
+    {
+      "company_name": "CASEpeer",
+      "company_name_citation": "https://www.casepeer.com",
+      "description": "CASEpeer is recognized as the #1 rated case management software specifically designed for personal injury law firms, providing a comprehensive, cloud-based platform that streamlines business operations and increases productivity. The company distinguishes itself as the only case management software purpose-built to drive better outcomes for both clients and law firms, positioning itself as a turnkey legal practice management solution developed exclusively for the needs of plaintiffs' law firms. CASEpeer's platform serves as a blueprint for success by offering an integrated suite of tools that encompass reporting, marketing, client relationship management, client intake, document automation, and accounting hubs. This comprehensive approach eliminates the need for law firms to cobble together multiple disparate systems, instead providing a unified platform where all critical functions are seamlessly connected. The technology is built on a cloud-based architecture, ensuring accessibility from anywhere while maintaining the security and reliability required for legal practice. A core technological advantage of CASEpeer is its emphasis on scalable automation, which is designed to do the operational legwork for law firms, allowing attorneys and staff to focus more on helping clients make full and fair recoveries rather than being bogged down by administrative tasks. The platform's document automation capabilities are particularly powerful, enabling firms to generate legal documents, correspondence, and forms automatically based on case data, significantly reducing the time spent on routine paperwork. One of CASEpeer's key value propositions is its turnkey nature, requiring no customization to get started. This allows firms to hit the ground running in days rather than months, thanks to an intuitive, easy-to-learn interface that doesn't require extensive inside knowledge to operate effectively. This accessibility makes it suitable for firms of all sizes, from solo practitioners to larger plaintiff law firms. The platform is designed to facilitate easy case management from beginning to end, supporting every stage of the personal injury case lifecycle from initial client intake through final resolution. CASEpeer emphasizes industry-leading support, offering assistance through multiple channels including chat, phone, webinars, tutorials, and one-on-one support sessions. This comprehensive support structure ensures that firms can maximize their use of the platform and quickly resolve any issues that arise. The software is also designed with integration capabilities, allowing firms to easily connect with other applications they already use, creating a seamless technological ecosystem. Users have praised CASEpeer for being user-friendly and accessible even to those without extensive technical backgrounds. The platform is trusted by leading personal injury law firms nationwide, helping them optimize workflows, manage their business efficiently, and ultimately provide better service to their clients. CASEpeer represents a modern approach to legal practice management that leverages automation and cloud technology to transform how personal injury law firms operate.",
+      "description_citation": "https://www.casepeer.com",
+      "business_email": "N/A",
+      "location": "N/A",
+      "team_size": "N/A",
+      "technologies": [
+        {
+          "value": "Cloud-based platform",
+          "value_citation": "https://www.casepeer.com"
+        },
+        {
+          "value": "Document Automation",
+          "value_citation": "https://www.casepeer.com"
+        },
+        {
+          "value": "Scalable Automation",
+          "value_citation": "https://www.casepeer.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Legal Practice Management Software",
+          "value_citation": "https://www.casepeer.com"
+        },
+        {
+          "value": "Integrated Reporting",
+          "value_citation": "https://www.casepeer.com"
+        },
+        {
+          "value": "Marketing Hub",
+          "value_citation": "https://www.casepeer.com"
+        },
+        {
+          "value": "Client Relationship Management",
+          "value_citation": "https://www.casepeer.com"
+        },
+        {
+          "value": "Client Intake",
+          "value_citation": "https://www.casepeer.com"
+        },
+        {
+          "value": "Document Automation",
+          "value_citation": "https://www.casepeer.com"
+        },
+        {
+          "value": "Accounting Hubs",
+          "value_citation": "https://www.casepeer.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Streamlining firm operations",
+          "value_citation": "https://www.casepeer.com"
+        },
+        {
+          "value": "Client intake automation",
+          "value_citation": "https://www.casepeer.com"
+        },
+        {
+          "value": "Document automation",
+          "value_citation": "https://www.casepeer.com"
+        },
+        {
+          "value": "Workflow optimization",
+          "value_citation": "https://www.casepeer.com"
+        },
+        {
+          "value": "Case management",
+          "value_citation": "https://www.casepeer.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Personal Injury Law",
+          "value_citation": "https://www.casepeer.com"
+        },
+        {
+          "value": "Legal Services",
+          "value_citation": "https://www.casepeer.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.casepeer.com"
+        },
+        {
+          "value": "Document AI",
+          "value_citation": "https://www.casepeer.com"
+        }
+      ]
+    },
+    {
+      "company_name": "Brooklyn Data",
+      "company_name_citation": "https://www.brooklyndata.co",
+      "description": "Brooklyn Data, operating as Velir's data studio, is a comprehensive data consulting firm that aims to transform organizations through the power of data by providing unparalleled data engineering and analytics consulting services. In March 2023, Brooklyn Data was acquired by Velir, a digital marketing agency based in Somerville, Massachusetts, forming a full-service data-driven digital agency with over 300 passionate professionals. This acquisition combined Brooklyn Data's technical expertise in modern data infrastructure with Velir's experience in creating engaging, personalized digital experiences, resulting in a powerhouse capable of helping organizations manage, understand, and act on audience data to provide exceptional digital experiences. Brooklyn Data's approach centers on collaborating with client teams to develop the right data strategy, implement scalable cloud-data infrastructures, manage data effectively, and deliver insights that inform strategic decision-making. Their mission is to help clients harness the power of their organization's data to gain a competitive edge through implementation of the Modern Data Stack, a contemporary approach to data infrastructure that emphasizes cloud-based, modular, and best-of-breed tools. The organization offers full-service capabilities spanning several key areas. In Data Science & AI, their data scientists develop sophisticated algorithms that interpret existing data to predict future outcomes, leveraging modern tools like artificial intelligence and machine learning to translate data into tangible business value. Their Data & Analytics Engineering teams implement modern data stacks utilizing leading platforms to collect, transform, and manage data efficiently. Brooklyn Data has established themselves as elite partners with industry-leading technologies. As a Platinum dbt Partner and the 2023 Training Partner of the Year, they translate business requirements into robust data models to establish a central source of truth for reporting and build comprehensive 360-customer views for personalization. They leverage Snowflake to consolidate data into a single source of truth with highly responsive data warehouses focused on security, scalability, simplicity, and impact. As a Certified Delivery Partner for Sigma, they help organizations leverage user-friendly data visualization and modeling capabilities to uncover powerful insights. Brooklyn Data's expertise extends to Data Governance & Security, where they help clients define the policies, procedures, and processes necessary to ensure data quality, compliance, and security. Their Analytics & Performance Management practice goes beyond traditional dashboards to develop comprehensive performance management systems that help teams understand trends and drive more effective decisions. The company serves a diverse client portfolio including FanDuel (sports/gaming), CNN (media), Vetsource (pet health), MyFitnessPal (wellness), Helix (consumer goods), Zeiss (optics/technology), Madison Reed (beauty/retail), and johnnie-O (apparel/retail). Brooklyn Data's integration with Velir enables them to not only build robust data infrastructure but also leverage that data to create personalized, engaging digital experiences and omnichannel strategies that drive business results.",
+      "description_citation": "https://www.brooklyndata.co",
+      "business_email": "hello@brooklyndata.co",
+      "business_email_citation": "https://www.brooklyndata.co",
+      "location": "Somerville, MA",
+      "location_citation": "https://www.brooklyndata.co",
+      "team_size": "300",
+      "team_size_citation": "https://www.brooklyndata.co",
+      "technologies": [
+        {
+          "value": "Snowflake",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "dbt",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Sigma",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Fivetran",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Cloud-data platforms",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "AI",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Machine Learning",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Modern Data Stack",
+          "value_citation": "https://www.brooklyndata.co"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Data Governance & Security",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Data Strategy & Architecture",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Data & Analytics Engineering",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Data Science & AI",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Analytics & Performance Management",
+          "value_citation": "https://www.brooklyndata.co"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Consolidating data into single source of truth",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Building 360-customer views",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Predictive analytics algorithms",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Performance management systems",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Personalized digital experiences",
+          "value_citation": "https://www.brooklyndata.co"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Sports/Gaming",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Media",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Pet Health",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Wellness",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Consumer Goods",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Technology",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Beauty",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Apparel",
+          "value_citation": "https://www.brooklyndata.co"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.brooklyndata.co"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.brooklyndata.co"
+        }
+      ]
+    },
+    {
+      "company_name": "CloudIQ",
+      "company_name_citation": "https://www.cloudiqtech.com",
+      "description": "CloudIQ is an innovative technology firm that empowers bold innovation through AI-first solutions, enabling enterprises to build their intelligent technology backbone and drive a modern, AI-first future. The company specializes in solving legacy challenges and operational hurdles using scalable, forward-looking solutions that combine cutting-edge artificial intelligence with robust cloud infrastructure. CloudIQ's mission centers on helping organizations design and engineer intelligent infrastructure to future-proof their businesses while laying a solid foundation for success with a pragmatic approach to modernization and AI integration. The company has offices in Issaquah, Washington, and Chennai, India, allowing them to provide global coverage and around-the-clock support. CloudIQ specializes in AI Native Services, providing comprehensive solutions designed to transform enterprises through intelligent technology. Their approach includes building and modernizing AI applications where they embed machine learning, natural language processing, and analytics into cloud-native applications for powerful automation and insight. They have specific expertise in leveraging AI tools for legacy system modernization, using advanced algorithms to analyze, refactor, and modernize code, which significantly accelerates digital transformation initiatives. A significant focus area for CloudIQ is Agentic AI, which they describe as going beyond traditional automation. They engineer and deploy next-generation autonomous agents capable of tackling complex business operations, orchestrating multi-step processes, and delivering hyper-personalized interactions. These adaptive software agents are designed to intelligently act, learn, and optimize workflows at scale, representing the cutting edge of AI automation technology. CloudIQ provides AI-powered cloud management and operations, building and managing intelligent cloud ecosystems that work smarter by leveraging AI to scale resources dynamically, forecast system needs, shield against threats in real-time, and deliver continuous performance optimization without human intervention. The company also offers specialized digital experience services through AI-powered Sitecore solutions, using robust AI capabilities to analyze real-time customer behavior, dynamically tailor content, and optimize journeys for every user, effectively creating personalized recommendation systems at scale. Their service portfolio encompasses AI Strategic Advisory for developing comprehensive AI strategies, MLOps & AIOps for operationalizing machine learning models and AI-driven IT operations, Rapid AI Prototyping for quick proof-of-concept development, App Modernization for updating legacy applications, Cloud Native App Development, AI Infused Apps that embed intelligence into every interaction, Low Code App Development for rapid application creation, Unified Analytics Platforms for comprehensive data insights, and AI Governance to ensure ethical and compliant AI deployment. CloudIQ's practical experience is demonstrated through diverse client success stories, including modernizing pet care referral systems by transforming monolithic applications into global distributed solutions on Azure, consolidating fragmented healthcare mobile applications into unified platforms for scheduling, messaging, and records, building diagnostic AI agents on Microsoft Fabric to uncover business performance shifts, and automating invoice processing with Azure AI using serverless architecture for intelligent document workflows. Their client roster includes prestigious organizations such as JetBlue Airlines, Staples, and Zurich Insurance Group, demonstrating their ability to deliver enterprise-grade AI solutions across diverse industries.",
+      "description_citation": "https://www.cloudiqtech.com",
+      "business_email": "sales@cloudiqtech.com",
+      "business_email_citation": "https://www.cloudiqtech.com",
+      "location": "Issaquah, WA 98029",
+      "location_citation": "https://www.cloudiqtech.com",
+      "team_size": "N/A",
+      "technologies": [
+        {
+          "value": "Azure",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "AWS",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Sitecore",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Coveo",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Microsoft Fabric",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "ASP.NET",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Kubernetes",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Machine Learning",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "NLP",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Infrastructure as Code",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "CI/CD",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Serverless Computing",
+          "value_citation": "https://www.cloudiqtech.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Data Science, ML & AI",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Generative AI",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Agentic AI",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "AI Governance",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "MLOps & AIOps",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "App Modernization",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Cloud Native App Development",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "AI Infused Apps",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Unified Analytics Platform",
+          "value_citation": "https://www.cloudiqtech.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Modernizing pet care systems",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Healthcare mobile app unification",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Diagnostic AI agents",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Automated invoice processing",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Personalized content delivery",
+          "value_citation": "https://www.cloudiqtech.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Pet Care",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Airlines",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Retail",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Insurance",
+          "value_citation": "https://www.cloudiqtech.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Document AI",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://www.cloudiqtech.com"
+        },
+        {
+          "value": "Recommendation Systems",
+          "value_citation": "https://www.cloudiqtech.com"
+        }
+      ]
+    },
+    {
+      "company_name": "Chivox",
+      "company_name_citation": "https://www.chivox.com",
+      "description": "Chivox, formally known as Suzhou Chivox Information Technology Co., Ltd., is a leading artificial intelligence company specializing in intelligent speech evaluation technology and smart education solutions. Based in Suzhou, Jiangsu Province, China, the company has established itself as a transformative force in language learning, with a mission to fundamentally change the way people learn languages through advanced AI technology. Chivox's technology serves more than 100 million users, processing hundreds of millions of speech recordings annually across numerous countries and regions, making it one of the most widely deployed speech evaluation systems in the education sector. The company has earned recognition as a Provincial-level Specialized, Refined, Differential and Innovative Enterprise in Jiangsu Province, a prestigious designation awarded for deep accumulation in the field of intelligent speech education and outstanding innovation capabilities. Chivox's core technology focuses on intelligent speech evaluation for both English and Chinese languages, providing comprehensive solutions for the educational ecosystem that they categorize as teaching, testing, and practicing. Their platform uses sophisticated natural language processing and voice AI to automatically evaluate oral performance, providing instant feedback and grading that traditionally required human examiners. This automation dramatically improves efficiency while maintaining high accuracy standards, making large-scale oral language assessment practical and affordable for educational institutions. The company's product portfolio includes the English Listening and Speaking Formal Exam System, which is used by schools and regional education authorities for standardized testing; the English Listening, Speaking, Teaching, Testing, and Training Platform, which provides a comprehensive solution for classroom instruction and assessment; and Chivox Speaking Online, a platform that enables independent student practice and homework evaluation. These systems integrate seamlessly with existing educational infrastructure and can scale from individual classrooms to entire regional education systems. Chivox actively collaborates with educational institutions and industry partners to advance AI adoption in education. They recently launched the 100 Pioneer Schools Recruitment Plan to build new benchmarks for AI-powered English teaching and testing. They maintain strategic partnerships with major education technology providers like CVTE (Seewo) to integrate their AI speech solutions into smart campus hardware ecosystems. The company is also committed to professional development within the AI sector, having established an AI Service Engineer Certification program to train professionals in deploying and maintaining AI-driven educational tools. Chivox's business model extends to government procurement, successfully bidding for regional education digitization projects in provinces like Heilongjiang and cities throughout China, providing both software platforms and specialized hardware such as examination headsets. The company incorporates emerging technologies like AIGC (AI Generated Content) into their solutions, positioning themselves at the forefront of educational technology innovation. By automating the labor-intensive process of oral language evaluation and providing real-time, consistent feedback to millions of students, Chivox is democratizing access to quality language education and fundamentally transforming how oral proficiency is taught and assessed.",
+      "description_citation": "https://www.chivox.com",
+      "business_email": "N/A",
+      "location": "Suzhou, Jiangsu Province, China",
+      "location_citation": "https://www.chivox.com",
+      "team_size": "N/A",
+      "technologies": [
+        {
+          "value": "Intelligent Speech Evaluation Technology",
+          "value_citation": "https://www.chivox.com"
+        },
+        {
+          "value": "English Oral Evaluation",
+          "value_citation": "https://www.chivox.com"
+        },
+        {
+          "value": "Chinese Oral Evaluation",
+          "value_citation": "https://www.chivox.com"
+        },
+        {
+          "value": "AIGC",
+          "value_citation": "https://www.chivox.com"
+        },
+        {
+          "value": "Digital Smart Education Solutions",
+          "value_citation": "https://www.chivox.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "English Listening and Speaking Exam System",
+          "value_citation": "https://www.chivox.com"
+        },
+        {
+          "value": "English Teaching, Testing, and Training Platform",
+          "value_citation": "https://www.chivox.com"
+        },
+        {
+          "value": "Chivox Speaking Online",
+          "value_citation": "https://www.chivox.com"
+        },
+        {
+          "value": "AI Service Engineer Certification",
+          "value_citation": "https://www.chivox.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automated oral language testing",
+          "value_citation": "https://www.chivox.com"
+        },
+        {
+          "value": "Classroom teaching enhancement",
+          "value_citation": "https://www.chivox.com"
+        },
+        {
+          "value": "Regional education digitalization",
+          "value_citation": "https://www.chivox.com"
+        },
+        {
+          "value": "Independent student practice",
+          "value_citation": "https://www.chivox.com"
+        },
+        {
+          "value": "Professional AI certification",
+          "value_citation": "https://www.chivox.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Education",
+          "value_citation": "https://www.chivox.com"
+        },
+        {
+          "value": "K-12",
+          "value_citation": "https://www.chivox.com"
+        },
+        {
+          "value": "EdTech",
+          "value_citation": "https://www.chivox.com"
+        },
+        {
+          "value": "Government/Public Sector",
+          "value_citation": "https://www.chivox.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Voice AI",
+          "value_citation": "https://www.chivox.com"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.chivox.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.chivox.com"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://www.chivox.com"
+        }
+      ]
+    },
+    {
+      "company_name": "Cyber Defense Group",
+      "company_name_citation": "https://www.cdg.io",
+      "description": "Cyber Defense Group (CDG) is a specialized cybersecurity consulting firm that uniquely positions cybersecurity as a growth enabler rather than merely a defensive necessity. The organization provides Outcomes-Based Security Programs that deliver measurable results, dedicated teams, and predictable pricing to help businesses scale securely without the burden of endless, undefined services. CDG's core philosophy emphasizes moving away from traditional open-ended security engagements toward structured programs that drive specific, tangible business outcomes, allowing companies to invest in security with confidence and clarity. The company's primary value proposition centers on Cybersecurity Leadership for Secure Growth, delivered primarily through their Virtual CISO (vCISO) services. This offering provides growing organizations with strategic, executive-level security expertise without the substantial cost of hiring a full-time Chief Information Security Officer. These virtual leaders help companies build and manage comprehensive security programs that are both proactive in preventing threats and audit-ready for compliance requirements, ensuring that security practices align with business objectives and regulatory mandates. A distinguishing feature of CDG's service portfolio is their dedicated focus on AI Governance, addressing one of the most pressing challenges facing modern organizations. As businesses rapidly integrate artificial intelligence into their operations, they face unique risks related to data privacy, algorithmic bias, model security, and regulatory compliance. CDG provides specialized services to help organizations adopt AI technologies securely while maintaining compliance with evolving regulations. This forward-looking approach positions CDG as a partner that understands both traditional cybersecurity challenges and emerging risks associated with cutting-edge technologies. CDG's comprehensive service offerings include Cybersecurity Risk Assessments designed to identify vulnerabilities before malicious actors can exploit them, Compliance Readiness services to prepare organizations for audits and maintain security standards across various regulatory frameworks, and Incident Response services to help companies respond rapidly and recover effectively after security breaches. The company emphasizes building security as a foundation for business growth rather than an obstacle to innovation. According to their track record, CDG has protected over $1 billion in client revenue and helped numerous organizations pass compliance audits without experiencing data breaches. Their client portfolio spans diverse industries including healthcare (Crouse Hospital, Riva Health, Abbott), utilities (Golden State Water), technology and hardware (Lantronix, Simply NUC, JMA, Sapio), legal services (Sheppard Mullin), fintech and lending (Sagent), retail and e-commerce (Shein), and media and entertainment (FilmRise, EditShare/SHIFT). CDG's operational model follows a streamlined three-step approach: connecting with a security professional for initial consultation, receiving a tailored security program designed to address specific threats and business contexts, and maintaining focus on business growth backed by proactive defense. This client-centric approach, combined with their nimble team structure, allows CDG to serve as a trusted provider for mid-market and enterprise organizations globally, delivering a full spectrum of information security advisory and implementation services on a fixed-cost basis that makes cybersecurity investment predictable and manageable.",
+      "description_citation": "https://www.cdg.io",
+      "business_email": "N/A",
+      "location": "N/A",
+      "team_size": "N/A",
+      "technologies": [
+        {
+          "value": "Cloud platforms",
+          "value_citation": "https://www.cdg.io"
+        },
+        {
+          "value": "Cloud Penetration Testing",
+          "value_citation": "https://www.cdg.io"
+        },
+        {
+          "value": "AI-powered tools",
+          "value_citation": "https://www.cdg.io"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Virtual CISO leadership",
+          "value_citation": "https://www.cdg.io"
+        },
+        {
+          "value": "Outcomes-Based Security Programs",
+          "value_citation": "https://www.cdg.io"
+        },
+        {
+          "value": "Cybersecurity Risk Assessment",
+          "value_citation": "https://www.cdg.io"
+        },
+        {
+          "value": "AI Governance",
+          "value_citation": "https://www.cdg.io"
+        },
+        {
+          "value": "Compliance Readiness",
+          "value_citation": "https://www.cdg.io"
+        },
+        {
+          "value": "Incident Response",
+          "value_citation": "https://www.cdg.io"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Finding vulnerabilities before attackers",
+          "value_citation": "https://www.cdg.io"
+        },
+        {
+          "value": "Adopting AI securely",
+          "value_citation": "https://www.cdg.io"
+        },
+        {
+          "value": "Building security programs",
+          "value_citation": "https://www.cdg.io"
+        },
+        {
+          "value": "Compliance preparation",
+          "value_citation": "https://www.cdg.io"
+        },
+        {
+          "value": "Breach response and recovery",
+          "value_citation": "https://www.cdg.io"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare",
+          "value_citation": "https://www.cdg.io"
+        },
+        {
+          "value": "Utilities",
+          "value_citation": "https://www.cdg.io"
+        },
+        {
+          "value": "Technology",
+          "value_citation": "https://www.cdg.io"
+        },
+        {
+          "value": "Legal",
+          "value_citation": "https://www.cdg.io"
+        },
+        {
+          "value": "Fintech",
+          "value_citation": "https://www.cdg.io"
+        },
+        {
+          "value": "Retail",
+          "value_citation": "https://www.cdg.io"
+        },
+        {
+          "value": "Media",
+          "value_citation": "https://www.cdg.io"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://www.cdg.io"
+        }
+      ]
+    },
+    {
+      "company_name": "Bricklayer AI",
+      "company_name_citation": "https://www.bricklayer.ai",
+      "description": "Bricklayer AI is a specialized technology company that provides an AI Agent Platform specifically designed for cybersecurity teams, addressing the fundamental challenge that security operations cannot keep pace with modern cyber threats through traditional methods of hiring more people, purchasing more tools, or increasing training. The company's platform empowers security analysts by enabling them to build, deploy, and manage teams of AI agents that work alongside human experts, effectively multiplying the capabilities of existing security teams without proportionally increasing headcount or costs. Based in Arlington, Virginia, Bricklayer AI has developed a solution that fundamentally transforms how security operations centers approach threat detection, investigation, and response. The platform's core technological innovation is its no-code approach, offering out-of-the-box agents, procedures, and templates that make building AI teams as simple as a few clicks, eliminating the technical barriers that often prevent security teams from adopting AI solutions. Unlike black box AI systems where decision-making processes are opaque, Bricklayer AI emphasizes complete transparency, allowing security professionals to understand exactly why decisions were made and how tasks were completed. This transparency ensures that human experts remain in control while AI handles the computational heavy lifting of data processing, correlation, and initial analysis. The platform operates by integrating with an organization's existing security stack and internal documentation. Users provide context by uploading internal documents and integrating external sources like security blogs and threat intelligence feeds, giving AI agents comprehensive understanding of the specific security environment they're protecting. These agents can then take autonomous actions including conducting research, mitigating threats, drafting reports, and communicating with human team members. A key technical capability of Bricklayer AI is its support for procedures—multi-task workflows where multiple agents and humans collaborate to use tools and execute tasks to accomplish complex security processes. This multi-agent orchestration mimics how human SOC teams operate, with different specialists handling different aspects of an investigation or response action. The platform includes prebuilt, pre-trained AI agents for common security operations use cases including IOC Investigation and Reporting, Threat Actor Research and Reporting, Vulnerability Analysis and Reporting, Daily Cyber Situational Updates, and various alert triage functions for endpoints, cloud infrastructure, networks, and phishing attempts. These ready-made agents can be deployed immediately, providing instant value while also serving as templates that can be customized for organization-specific needs. Another critical feature is the platform's role as a repository for institutional knowledge. All essential data, decision-making logic, and procedures captured by AI agents are permanently retained within the system, ensuring that critical security knowledge never leaves the organization even when human staff members depart. By automating repetitive, time-consuming tasks like data collection, enrichment, correlation, and reporting, Bricklayer AI allows security teams to transition from reactive firefighting to proactive, AI-first cybersecurity operations, ultimately enabling smaller teams to protect larger attack surfaces more effectively.",
+      "description_citation": "https://www.bricklayer.ai",
+      "business_email": "info@bricklayer.ai",
+      "business_email_citation": "https://www.bricklayer.ai",
+      "location": "Arlington, VA",
+      "location_citation": "https://www.bricklayer.ai",
+      "team_size": "N/A",
+      "technologies": [
+        {
+          "value": "AI Agent Platform",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "No-code development",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "Multi-task workflows",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "Automated reporting",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "LLM",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "RAG",
+          "value_citation": "https://www.bricklayer.ai"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI Agent Platform",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "Out-of-the-box agents",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "Procedures and templates",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "Multi-agent orchestration",
+          "value_citation": "https://www.bricklayer.ai"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "IOC Investigation",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "Threat Actor Research",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "Vulnerability Analysis",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "Daily Cyber Situational Updates",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "Endpoint Alert Triage",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "Cloud Alert Triage",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "Network Alert Triage",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "Phishing Alert Triage",
+          "value_citation": "https://www.bricklayer.ai"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Cybersecurity",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "Security Operations Centers",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "Managed Security Service Providers",
+          "value_citation": "https://www.bricklayer.ai"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.bricklayer.ai"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://www.bricklayer.ai"
+        }
+      ]
+    },
+    {
+      "company_name": "CGI",
+      "company_name_citation": "https://www.cgi.com",
+      "description": "CGI is one of the largest information technology and business consulting services firms in the world, operating across 400 locations globally and serving clients in 21 industry sectors. The company positions itself as a partner that helps organizations move from AI vision to tangible value, focusing on bold human-centered AI thinking combined with practical expert insights and proven success stories that help clients accelerate innovation confidently. CGI's approach emphasizes human-led innovation to ensure that technology serves the needs of both customers and citizens, reflecting a commitment to ethical and purposeful technology deployment. A significant aspect of CGI's current strategic focus involves redefining global capability centers (GCCs) into AI-powered innovation hubs, transforming these traditionally operational centers into strategic growth engines that unlock agility, resilience, and innovation in an AI-first world. The company provides secure and flexible end-to-end services designed to meet ever-evolving digital expectations, encompassing business consulting, business process services, managed IT services, artificial intelligence, data analytics, and cloud & hybrid IT solutions. CGI aims to provide a global antenna based on facts rather than hype, helping clients improve returns on their IT and business investments through data-driven decision-making. CGI's technological portfolio is built heavily on intellectual property-based solutions that help clients accelerate innovation and drive operational excellence. Their AI-specific offerings, such as CGI PulseAI, are integrated into various industry-specific platforms to enable data-powered growth and real-time, intelligent, human-centric operations. In the insurance sector, CGI assists with reimagining operations through modernization, helping clients migrate to modern core platforms that enable faster claims processing, better underwriting, and data-powered growth. In manufacturing, they focus on driving standardization at scale with unified Manufacturing Execution System (MES) platforms that bring consistency and efficiency to production operations. CGI also helps organizations navigate AI change management, addressing both the excitement and concerns associated with AI adoption. Their approach recognizes that successful AI implementation requires managing cultural and organizational change alongside technological transformation. The company combines global insights with local expertise to deliver strategies that achieve meaningful and sustainable outcomes, helping clients transform legacy processes into modern core systems that are cloud-ready and capable of supporting advanced data analytics and AI-first business models. CGI's industry-specific solutions include CGI Credit Studio for financial services, CGI Trade360 for trade finance, CGI OpenGrid360 for utilities, CGI All Payments for payment processing, and CGI Retail Suite for retail operations. These purpose-built platforms incorporate AI and data analytics capabilities tailored to specific industry workflows and challenges. The company serves major clients across banking, government, healthcare, manufacturing, retail, energy and utilities, and insurance sectors, providing them with the technical infrastructure, strategic guidance, and operational support needed to succeed in an increasingly digital and AI-driven business environment.",
+      "description_citation": "https://www.cgi.com",
+      "business_email": "N/A",
+      "location": "400 locations worldwide",
+      "location_citation": "https://www.cgi.com",
+      "team_size": "N/A",
+      "technologies": [
+        {
+          "value": "Artificial Intelligence",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "Data Analytics",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "Cloud & Hybrid IT",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "SAP",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "MES platform",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "CGI PulseAI",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "Modern core platforms",
+          "value_citation": "https://www.cgi.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "CGI PulseAI",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "Business Consulting",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "Business Process Services",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "Managed IT Services",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "CGI Credit Studio",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "CGI Trade360",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "CGI OpenGrid360",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "CGI All Payments",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "CGI Retail Suite",
+          "value_citation": "https://www.cgi.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Insurance modernization",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "GCC transformation into AI hubs",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "Manufacturing standardization with MES",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "Cloud-ready SAP transformation",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "Debt recovery modernization",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "AI change management",
+          "value_citation": "https://www.cgi.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Banking",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "Government",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "Healthcare",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "Manufacturing",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "Retail",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "Energy & Utilities",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "Insurance",
+          "value_citation": "https://www.cgi.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://www.cgi.com"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.cgi.com"
+        }
+      ]
+    },
+    {
+      "company_name": "CACI idt",
+      "company_name_citation": "https://www.caciidt.com",
+      "description": "CACI idt is a specialized division of CACI International that serves as a leader in providing next-generation IT solutions to the most complex missions that keep the United States safe. The organization focuses on helping clients in defense, intelligence, and federal civilian agencies overcome their most intricate and diverse challenges in artificial intelligence, cybersecurity, and cloud computing by delivering comprehensive data center and IT infrastructures along with security solutions that are individually crafted to best fit their unique operational requirements. CACI idt operates with a team of highly skilled solution engineers who bring deep technical expertise and extensive experience working with the most demanding and security-conscious clients in the federal government. The company's approach centers on understanding the specific mission requirements of each client and then architecting tailored solutions using best-of-breed technologies from leading vendors. Their technology partnerships include industry leaders such as Dell Technologies, Cisco, VMware, Hewlett Packard Enterprise, Juniper Networks, Microsoft, ServiceNow, Intel, AWS, Hitachi, and Ruckus by CommScope, giving them access to the full spectrum of enterprise IT capabilities. CACI idt's solution portfolio addresses the foundational infrastructure requirements that enable AI and advanced analytics workloads. Their focus on compute and storage solutions provides the essential hardware and software infrastructure needed for machine learning operations and AI model training, inference, and deployment. By delivering cutting-edge data center infrastructure, CACI idt enables government agencies to build the robust, scalable computing environments required for modern AI and data-intensive applications. This positions them squarely in the MLOps & Infrastructure category, as they provide the underlying systems that make AI operations possible at enterprise scale. Security is a paramount concern for CACI idt's client base, and the company specializes in implementing zero trust architecture, a modern security framework that assumes no implicit trust and continuously verifies every access request. This approach is particularly critical for government agencies handling sensitive and classified information, where traditional perimeter-based security models are insufficient against sophisticated adversaries. CACI idt also provides expertise in hybrid cloud solutions, helping federal agencies embrace cloud computing while maintaining on-premises infrastructure where required by regulatory or operational constraints. The company's services span the entire lifecycle of IT infrastructure, from initial planning and architecture through implementation, integration, and ongoing management. Their work includes modernizing legacy networks to support current and future mission requirements, elevating data center infrastructure with cutting-edge compute and storage solutions that can handle the massive data volumes and computational demands of AI workloads, safeguarding critical assets with zero trust architecture that provides defense-in-depth security, and embracing the future with hybrid cloud solutions that provide the flexibility and scalability of cloud computing while maintaining the control and security required by government regulations. By focusing exclusively on the defense, intelligence, and federal civilian sectors, CACI idt has developed specialized expertise in navigating the unique procurement processes, security requirements, and operational constraints of government IT, making them a trusted partner for agencies seeking to build the infrastructure foundation necessary for AI-enabled mission success.",
+      "description_citation": "https://www.caciidt.com",
+      "business_email": "N/A",
+      "location": "N/A",
+      "team_size": "N/A",
+      "technologies": [
+        {
+          "value": "Dell Technologies",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "Cisco",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "VMware",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "Hewlett Packard Enterprise",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "Juniper Networks",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "Microsoft",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "ServiceNow",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "Intel",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "AWS",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "Hitachi",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "Ruckus by CommScope",
+          "value_citation": "https://www.caciidt.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Next-generation IT solutions",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "Data center infrastructure",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "Security solutions",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "Compute and Storage solutions",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "Zero trust architecture",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "Hybrid cloud solutions",
+          "value_citation": "https://www.caciidt.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Modernizing networks",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "Data center infrastructure elevation",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "Zero trust security implementation",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "Hybrid cloud adoption",
+          "value_citation": "https://www.caciidt.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Defense",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "Intelligence",
+          "value_citation": "https://www.caciidt.com"
+        },
+        {
+          "value": "Federal Civilian Agencies",
+          "value_citation": "https://www.caciidt.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://www.caciidt.com"
+        }
+      ]
+    },
+    {
+      "company_name": "Arizona Supreme Court",
+      "company_name_citation": "https://www.courts.az.gov",
+      "description": "The Arizona Supreme Court represents the judicial branch of the state of Arizona and has emerged as an innovative leader in applying artificial intelligence and advanced technology to judicial operations and public services. Based in Phoenix, Arizona, the Court oversees the state court system while also establishing forward-thinking initiatives like the Center for Forensics & AI, demonstrating a commitment to responsibly integrating emerging technologies into the legal system. The organization provides a comprehensive range of legal services and digital tools designed to make the judicial system more accessible and efficient for Arizona citizens. Their technology infrastructure includes interactive data dashboards that provide transparency into court operations and statistics, eFileAZ for electronic filing of court documents, eAccess for online access to case information and documents, and family law calculators that help citizens determine obligations like child support amounts. A notable innovation is Chat With Gavel, an AI-powered conversational interface that represents a significant application of conversational AI in the public sector legal domain. This tool provides citizens with an accessible way to get information about court procedures, forms, and legal processes through natural language interaction, democratizing access to legal information that might otherwise require significant research or professional consultation. The presence of this conversational AI tool positions the Arizona Supreme Court at the forefront of government agencies leveraging AI to improve constituent services. The establishment of the Center for Forensics & AI demonstrates the Court's commitment to AI Ethics & Governance, addressing the responsible use of artificial intelligence in forensic science and judicial decision-making. This center likely focuses on ensuring that AI tools used in legal contexts are fair, unbiased, transparent, and subject to appropriate oversight—critical concerns when AI is applied to matters affecting individual liberty and justice. This proactive approach to governance reflects an understanding that as AI becomes more prevalent in legal systems, strong ethical frameworks and governance structures are essential to maintain public trust and ensure just outcomes. The Court's digital services provide citizens with self-service capabilities including the ability to pay fines online, search for appropriate court forms for their legal needs, access defensive driving programs, search opinions and decisions to understand legal precedents, obtain jury information, and watch recent oral arguments to observe the judicial process. These services collectively work to make the legal system more transparent and accessible to everyday citizens who may not have the resources to hire legal representation. The Arizona Supreme Court also oversees legal services reforms aimed at improving access to justice across the state. By providing comprehensive eFiling information and maintaining the eAccess system, the Court enables attorneys, self-represented litigants, and the public to interact with the court system electronically, reducing barriers related to physical presence and paper-based processes. The Court's approach to technology adoption demonstrates how government institutions can leverage AI and digital tools to serve the public interest while maintaining appropriate governance and ethical standards, making it a model for other judicial systems considering similar innovations.",
+      "description_citation": "https://www.courts.az.gov",
+      "business_email": "pasupport@courts.az.gov",
+      "business_email_citation": "https://www.courts.az.gov",
+      "location": "Phoenix, AZ",
+      "location_citation": "https://www.courts.az.gov",
+      "team_size": "N/A",
+      "technologies": [
+        {
+          "value": "Interactive Data Dashboards",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "eFileAZ",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "eAccess",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "Family Law Calculators",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "Chat With Gavel (AI tool)",
+          "value_citation": "https://www.courts.az.gov"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Self-Service Center",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "Defensive Driving",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "Search Opinions & Decisions",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "Jury Information",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "Legal Services Reforms",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "Find a Case",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "eAccess",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "eFiling Information",
+          "value_citation": "https://www.courts.az.gov"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Pay fines online",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "Search court forms",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "Child support calculations",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "Oral arguments viewing",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "Case information access",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "Conversational AI legal assistance",
+          "value_citation": "https://www.courts.az.gov"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Government",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "Legal",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "Public Sector",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "Judicial System",
+          "value_citation": "https://www.courts.az.gov"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://www.courts.az.gov"
+        },
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://www.courts.az.gov"
+        }
+      ]
+    },
+    {
+      "company_name": "Civic Marketplace",
+      "company_name_citation": "https://www.civicmarketplace.com",
+      "description": "Civic Marketplace is an innovative public-sector procurement platform designed to revolutionize how government agencies identify, evaluate, and procure technology solutions and services. The platform addresses a fundamental challenge in government procurement: the traditional process is notoriously slow, complex, and resource-intensive, often taking months to complete what should be straightforward purchasing decisions. Civic Marketplace speeds up government workflows, enabling procurement in days rather than months while reducing manual effort and helping agencies find the perfect suppliers to deliver successful projects—all without the typical complexity of government contracting. A distinguishing feature of Civic Marketplace is their focus on vetted, competitively awarded AI solutions and services. The platform features awarded AI contracts for local government covering more than 70 individual use cases, providing government agencies with rapid access to pre-approved AI technologies that have already undergone competitive evaluation. This dramatically reduces the time and risk associated with AI procurement, as agencies can leverage existing contracts rather than starting procurement processes from scratch. The platform's AI focus positions it at the intersection of government modernization and artificial intelligence adoption in the public sector. Civic Marketplace operates on three core principles: Find Faster through pre-vetted suppliers that have been evaluated for quality and capability; Evaluate Efficiently through streamlined quote requests and documentation processes; and Award Confidently with built-in transparency and auditability that meet government procurement standards. This approach transforms supplier search and comparison from a labor-intensive manual process into an efficient digital workflow. The platform leverages automation and workflow optimization to eliminate bottlenecks and manual tasks that traditionally slow government procurement. The platform incorporates CivicMarketplace AI Chat, a conversational AI tool that helps government procurement professionals navigate the platform, find relevant suppliers and contracts, and get answers to procurement questions. This conversational interface makes the complex world of government contracting more accessible, particularly for smaller agencies that may not have dedicated procurement specialists. The technology stack includes Cloudflare Bot Management for security, HubSpot for customer relationship management, Google Recaptcha for fraud prevention, Auth0 for secure authentication, and analytics tools like PostHog and Google Analytics for continuous platform improvement. Civic Marketplace has established strong partnerships within the government sector, including collaboration with the Texas Police Chiefs Association and various local government entities. Their case studies demonstrate tangible impact: streamlining project tracking at the City of Dallas Public Works Department and helping agencies recover delinquent emergency medical services accounts. These real-world applications show how the platform drives both operational efficiency and financial outcomes for government clients. The platform serves local government agencies, law enforcement organizations, and public works departments, providing them with access to technology solutions across multiple categories with particular emphasis on AI and automation tools. By maintaining built-in transparency and auditability, Civic Marketplace ensures that government agencies can adopt new technologies while maintaining compliance with procurement regulations and public accountability requirements, making it a critical enabler of digital transformation and AI adoption in the public sector.",
+      "description_citation": "https://www.civicmarketplace.com",
+      "business_email": "N/A",
+      "location": "N/A",
+      "team_size": "N/A",
+      "technologies": [
+        {
+          "value": "Cloudflare Bot Management",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "HubSpot",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "Google Recaptcha",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "Auth0",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "Calendly",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "PostHog",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "Google Analytics",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "CivicMarketplace AI Chat",
+          "value_citation": "https://www.civicmarketplace.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Procurement platform",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "Supplier search and comparison",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "Awarded AI contracts",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "Project tracking tools",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "Pre-vetted supplier marketplace",
+          "value_citation": "https://www.civicmarketplace.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Deploying vetted AI solutions for government",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "Streamlining project tracking",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "Recovering delinquent accounts",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "Government procurement automation",
+          "value_citation": "https://www.civicmarketplace.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Public Sector",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "Government",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "Local Government",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "Law Enforcement",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "Public Works",
+          "value_citation": "https://www.civicmarketplace.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.civicmarketplace.com"
+        },
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://www.civicmarketplace.com"
+        }
+      ]
+    },
+    {
+      "company_name": "BridgeView",
+      "company_name_citation": "https://www.bridgeviewit.com",
+      "description": "BridgeView is a specialized technology staffing and consulting firm headquartered in the Rocky Mountains between Denver and the mountains of Colorado. The company helps organizations build exceptional technology teams and deliver complex projects with confidence through a combination of technical talent acquisition expertise and strategic technology consulting services. BridgeView positions itself as more than a traditional staffing agency, operating as a trusted partner that understands both the technical requirements and cultural fit necessary for successful technology team building. The company's core mission centers on helping organizations scale high-performance technology teams while driving digital transformation initiatives. Their staffing solutions focus on sourcing highly competitive technical talent in a challenging market where skilled technology professionals are in high demand and short supply. BridgeView's approach goes beyond simply matching resumes to job descriptions; they work to understand client culture, technology stacks, and team dynamics to ensure long-term successful placements that contribute to organizational success. A key differentiator for BridgeView is their focus on AI Ethics & Governance, particularly in the context of the hiring process. The company has developed capabilities for combating candidate fraud, an increasingly critical issue as artificial intelligence tools make it easier for unqualified candidates to misrepresent their skills and experience through AI-generated resumes, interview responses, and even synthetic work samples. By implementing fraud detection mechanisms and rigorous validation processes, BridgeView helps clients avoid costly hiring mistakes while maintaining ethical standards in recruitment. This focus on ethics extends to their broader consulting practice, where they help organizations navigate the complex landscape of AI adoption responsibly. BridgeView offers AI Readiness Assessments, a strategic consulting service that evaluates organizations' preparedness for artificial intelligence adoption. These assessments examine factors including data infrastructure, technical capabilities, organizational culture, skills gaps, ethical frameworks, and governance structures. By identifying strengths and weaknesses before significant AI investments are made, BridgeView helps clients develop realistic implementation roadmaps and avoid common pitfalls associated with premature or poorly planned AI initiatives. This service reflects a mature understanding that successful AI adoption requires more than just technology—it demands organizational readiness across multiple dimensions. The company's technology consulting services help organizations bridge internal capability gaps with specialized technology and process consulting expertise. They tackle complex projects that require deep technical knowledge, strategic thinking, and execution excellence. As a Denver-based company, BridgeView demonstrates strong community engagement, serving as a partner to organizations like the Denver Broncos, showing their commitment to supporting and investing in the communities and leaders that shape their region. BridgeView's value proposition is built on three core values: Authentic (genuine relationships and transparent communication), Driven (commitment to exceptional results and continuous improvement), and Focused (sharpshooters who concentrate on finding the right fit rather than just any fit). Their philosophy includes a willingness to walk away from opportunities that don't represent good matches for either clients or candidates, demonstrating a long-term relationship focus rather than transactional thinking. The company operates as a purpose-driven organization that gives back to its community while helping technology companies navigate the complex challenges of team building, digital transformation, and AI adoption in an era where technological change is accelerating and the stakes for getting technology strategy right have never been higher.",
+      "description_citation": "https://www.bridgeviewit.com",
+      "business_email": "N/A",
+      "location": "Denver, Colorado",
+      "location_citation": "https://www.bridgeviewit.com",
+      "team_size": "N/A",
+      "technologies": [
+        {
+          "value": "AI Readiness Assessment tools",
+          "value_citation": "https://www.bridgeviewit.com"
+        },
+        {
+          "value": "Candidate fraud detection",
+          "value_citation": "https://www.bridgeviewit.com"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Staffing Solutions",
+          "value_citation": "https://www.bridgeviewit.com"
+        },
+        {
+          "value": "Technology Consulting",
+          "value_citation": "https://www.bridgeviewit.com"
+        },
+        {
+          "value": "AI Readiness Assessment",
+          "value_citation": "https://www.bridgeviewit.com"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Scaling technology teams",
+          "value_citation": "https://www.bridgeviewit.com"
+        },
+        {
+          "value": "Digital transformation",
+          "value_citation": "https://www.bridgeviewit.com"
+        },
+        {
+          "value": "AI readiness evaluation",
+          "value_citation": "https://www.bridgeviewit.com"
+        },
+        {
+          "value": "Combating candidate fraud",
+          "value_citation": "https://www.bridgeviewit.com"
+        },
+        {
+          "value": "Complex project delivery",
+          "value_citation": "https://www.bridgeviewit.com"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Technology",
+          "value_citation": "https://www.bridgeviewit.com"
+        },
+        {
+          "value": "Sports",
+          "value_citation": "https://www.bridgeviewit.com"
+        },
+        {
+          "value": "General Business",
+          "value_citation": "https://www.bridgeviewit.com"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://www.bridgeviewit.com"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.bridgeviewit.com"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3011 @@
+{
+  "companies": [
+    {
+      "company_name": "DocAcquire",
+      "company_name_citation": "https://www.docacquire.com",
+      "description": "DocAcquire is a cloud-native intelligent document processing (IDP) platform designed to automate the extraction of data from various types of documents. The company focuses on transforming unstructured information into actionable data to streamline business workflows, aiming to tackle the challenge that approximately 80% of data handled by organizations is unstructured. By leveraging advanced artificial intelligence and machine learning algorithms, DocAcquire enables businesses to process documents from diverse streams, including email, social media, fax, and paper, without the need for manual data entry.\n\nA core feature of the platform is its \"Zero Shot Extraction\" capability, which allows for instant data extraction without prior training or manual configuration by using AI-powered contextual understanding. Users can also utilize a \"Document Chat\" feature to interact conversationally with their documents, asking questions or requesting summaries. The platform supports multilingual processing, including Arabic, and is capable of recognizing handwritten text through optical character recognition technology. To ensure high accuracy, it incorporates a \"Human in the Loop\" system, allowing users to verify and correct data before final export. DocAcquire also offers AI-based document splitting to manage multi-page files and provides bank-grade security with advanced encryption protocols.\n\nThe solution is designed to integrate seamlessly with existing business systems like ERPs and CRMs through APIs and webhooks. By automating these document-centric processes, the company helps organizations significantly reduce manual effort, processing time, and operational costs. The platform serves multiple industries including finance and accounting, operations and logistics, legal and compliance, human resources, medical and benefits, and government and public sector organizations. With its base in Leatherhead, London, DocAcquire maintains a small, focused team of approximately seven employees dedicated to advancing intelligent document processing technology.",
+      "description_citation": "https://www.docacquire.com",
+      "business_email": "info@docacquire.com",
+      "business_email_citation": "https://www.docacquire.com/contact-us/",
+      "location": "Dorset House Regent Park, Kingston Road, Leatherhead, London KT22 7PL, United Kingdom",
+      "location_citation": "https://contactout.com/company/DocAcquire-72735",
+      "team_size": "7 employees",
+      "team_size_citation": "https://contactout.com/company/DocAcquire-72735",
+      "technologies_used": [
+        {
+          "value": "AI-powered data extraction"
+        },
+        {
+          "value": "Machine Learning"
+        },
+        {
+          "value": "Zero Shot Extraction"
+        },
+        {
+          "value": "APIs"
+        },
+        {
+          "value": "Webhooks"
+        },
+        {
+          "value": "OCR"
+        },
+        {
+          "value": "Bank Grade Encryption"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Zero Shot Extraction"
+        },
+        {
+          "value": "Document Chat"
+        },
+        {
+          "value": "Multilingual Processing"
+        },
+        {
+          "value": "AI-Based Document Splitting"
+        },
+        {
+          "value": "Human in the Loop verification"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Invoice processing"
+        },
+        {
+          "value": "Purchase order extraction"
+        },
+        {
+          "value": "Bank statement analysis"
+        },
+        {
+          "value": "Contract management"
+        },
+        {
+          "value": "Resume parsing"
+        },
+        {
+          "value": "Medical report processing"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Finance & Accounting"
+        },
+        {
+          "value": "Operations & Logistics"
+        },
+        {
+          "value": "Legal & Compliance"
+        },
+        {
+          "value": "Human Resources"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Government"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "Elite Workflow",
+      "company_name_citation": "https://www.eliteworkflow.com",
+      "description": "Elite Workflow is a strategic consultancy specializing in fractional AI leadership for growing companies. The firm provides cohesive business systems rather than just individual AI tools, helping organizations bridge the gap between initial AI curiosity and full-scale business transformation. Their core value proposition centers on the Fractional CAIO (Chief Artificial Intelligence Officer) model, which provides executive-level strategy at approximately one-fifth the cost of a full-time hire, making advanced AI leadership accessible to mid-market companies.\n\nThe company emphasizes three main pillars in their service delivery: strategy, adoption, and measurable impact. Their strategy services focus on creating clear roadmaps and achieving quick wins within the first 30 days to build momentum toward enterprise-wide transformation. They address the common issue of tool overload by evaluating and selecting the right vendors for their clients' specific operational needs, having evaluated over 500 AI tools. In terms of adoption, Elite Workflow uses change management strategies to turn AI skeptics into champions, ensuring that systems are integrated into the company culture so that work becomes easier rather than harder.\n\nThe firm's methodology is divided into four distinct phases: Discovery and Assessment, Strategic Roadmap development, Executive Leadership and ongoing guidance, and the realization of Measurable Results. They focus on implementing performance measurement systems to track ROI and optimize AI usage across organizations. Elite Workflow specifically targets mid-market companies ranging from two million to 500 million dollars in revenue, serving industries including manufacturing, distribution, SaaS, and recruiting. With a track record of helping clients increase AI adoption rates from as low as 12% to 87% in 90 days and generating documented cost savings exceeding $180,000, Elite Workflow applies mission-critical methodology and systems thinking to AI implementation. The company operates nationwide across the United States and can be reached at contact@eliteworkflow.com.",
+      "description_citation": "https://www.eliteworkflow.com",
+      "business_email": "contact@eliteworkflow.com",
+      "business_email_citation": "https://www.eliteworkflow.com/contact",
+      "location": "United States (Nationwide Coverage)",
+      "location_citation": "https://www.eliteworkflow.com/contact",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.eliteworkflow.com",
+      "technologies_used": [
+        {
+          "value": "AI Tools (500+ evaluated)"
+        },
+        {
+          "value": "Performance measurement systems"
+        },
+        {
+          "value": "ROI tracking software"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Fractional CAIO leadership"
+        },
+        {
+          "value": "90-day AI Roadmap"
+        },
+        {
+          "value": "AI Strategy and Transformation"
+        },
+        {
+          "value": "Team Training and Adoption"
+        },
+        {
+          "value": "Vendor Evaluation"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Increasing AI adoption rates"
+        },
+        {
+          "value": "Reducing AI tool spending"
+        },
+        {
+          "value": "Improving team productivity"
+        },
+        {
+          "value": "Automating strategic systems"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Distribution"
+        },
+        {
+          "value": "SaaS"
+        },
+        {
+          "value": "Recruiting"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "Dubber",
+      "company_name_citation": "https://www.dubber.net",
+      "description": "Dubber is a global leader in conversational intelligence and cloud-based voice recording, providing a platform designed to capture and analyze communications across a vast array of networks and services. The company specializes in consolidating voice recordings from diverse sources including traditional telecommunication networks, native mobile networks, and modern unified communication and collaboration platforms such as Microsoft Teams, Cisco Webex, and Zoom into a single, secure cloud environment. A primary focus of the platform is ensuring built-in compliance, adhering to leading global security standards and regulatory requirements for industries where record-keeping is mandatory.\n\nBeyond the capture of audio, Dubber utilizes its patented, in-house-developed AI technology to transform raw voice data into actionable business intelligence. This AI-driven approach provides users with tools for sentiment analysis, trend monitoring, and dynamic topic identification without the need for complex manual configuration. By providing real-time alerts and conversation highlights, the platform helps organizations improve sales performance, elevate customer experience, and monitor employee wellbeing. The platform's \"Dubber Moments\" feature and other specialized tools allow executives and managers to adapt their sales and service strategies in real time based on the actual content of customer interactions.\n\nDubber functions as a critical infrastructure layer for over 250 network and solution partners worldwide, including major carriers like Bell and BT. The company is headquartered in Melbourne, Australia, at Level 5, 2 Russell Street, with approximately 111 employees. Founded in 2011, Dubber has established itself as a trusted provider for telecommunications companies, enterprise businesses, and contact centers. The platform serves multiple industries including telecommunications, financial services, and sales and service sectors. With support available at support@dubber.net, Dubber's mission is to turn every conversation into a powerful business asset by making voice data searchable, secure, and insightful.",
+      "description_citation": "https://www.dubber.net",
+      "business_email": "support@dubber.net",
+      "business_email_citation": "https://www.dubber.net/company/investor-centre/",
+      "location": "Level 5, 2 Russell Street, Melbourne VIC 3000, Australia",
+      "location_citation": "https://www.dubber.net/company/investor-centre/",
+      "team_size": "111 employees",
+      "team_size_citation": "https://rocketreach.co/dubber-profile_b5e7e187f42e642d",
+      "technologies_used": [
+        {
+          "value": "Microsoft Teams"
+        },
+        {
+          "value": "Cisco Webex"
+        },
+        {
+          "value": "Zoom"
+        },
+        {
+          "value": "Cloud infrastructure"
+        },
+        {
+          "value": "Patented AI technology"
+        },
+        {
+          "value": "Contact Centre platforms"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Cloud voice recording"
+        },
+        {
+          "value": "AI-driven business insights"
+        },
+        {
+          "value": "Compliance recording"
+        },
+        {
+          "value": "Dubber Moments"
+        },
+        {
+          "value": "Sentiment analysis"
+        },
+        {
+          "value": "Trend monitoring"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Regulatory compliance recording"
+        },
+        {
+          "value": "Sales performance improvement"
+        },
+        {
+          "value": "Customer service enhancement"
+        },
+        {
+          "value": "Employee wellbeing monitoring"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Telecommunications"
+        },
+        {
+          "value": "Enterprise"
+        },
+        {
+          "value": "Sales and Service"
+        },
+        {
+          "value": "Financial Services"
+        },
+        {
+          "value": "Contact Centers"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "Dograh",
+      "company_name_citation": "https://www.dograh.com",
+      "description": "Dograh is a technology company that provides an open-source platform specifically designed for building, deploying, and managing AI voice agents. Positioned as a transparent alternative to proprietary services like Vapi, Dograh emphasizes data privacy, reduced latency, and the elimination of vendor lock-in through its 100% Free and Open Source Software (FOSS) model. The platform is built to be accessible to both developers and non-technical users, offering a no-code agent builder that utilizes an intuitive drag-and-drop interface and visual flow designer. This allows users to create sophisticated conversational logic and go from an initial concept to a live agent in less than ten minutes.\n\nThe platform's capabilities are extensive, featuring multilingual support for over 30 languages and advanced Natural Language Processing (NLP) to ensure that agents understand human context and intent with high accuracy. Dograh integrates with telephony systems and includes Langfuse observability for monitoring and performance tracking. It also offers real-time analytics, voice customization, and intelligent routing features that can transfer complex queries to human agents when necessary. By providing a self-deployable infrastructure, Dograh ensures that businesses maintain full control over every workflow, model, and integration.\n\nThe company aims to democratize voice AI by keeping its technology free and open, allowing businesses to scale their customer experience operations 24/7 without the constraints of \"black box\" logic or hidden costs. Dograh's open-source approach enables rapid development and deployment of voice AI solutions for automated customer inquiry handling, lead generation, multilingual customer support, and complex query routing. The platform serves general business, customer service, sales, and technology sectors, empowering organizations to build voice agents that understand context and intent with human-like accuracy.",
+      "description_citation": "https://www.dograh.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.dograh.com",
+      "location": "Not available",
+      "location_citation": "https://www.dograh.com",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.dograh.com",
+      "technologies_used": [
+        {
+          "value": "AI voice technology"
+        },
+        {
+          "value": "No-Code Builder"
+        },
+        {
+          "value": "Telephony Integration"
+        },
+        {
+          "value": "Langfuse Observability"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Open Source (FOSS)"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Open Source Voice Agent Platform"
+        },
+        {
+          "value": "No-Code Agent Builder"
+        },
+        {
+          "value": "Telephony Integration"
+        },
+        {
+          "value": "Multilingual support (30+ languages)"
+        },
+        {
+          "value": "Real-time analytics"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automated customer inquiry handling"
+        },
+        {
+          "value": "24/7 lead generation"
+        },
+        {
+          "value": "Multilingual customer support"
+        },
+        {
+          "value": "Scaling customer experience"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Customer Service"
+        },
+        {
+          "value": "Sales"
+        },
+        {
+          "value": "Technology"
+        },
+        {
+          "value": "General Business"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "Druid AI",
+      "company_name_citation": "https://www.druidai.com",
+      "description": "Druid AI (DRUID) is a specialized technology provider that offers an Enterprise Agentic Orchestration Platform designed to build, deploy, and manage intelligent AI agents and applications. The company focuses on moving beyond simple AI pilots to create \"AI Agents That Actually Work\" within complex enterprise environments. Their platform features a proprietary tool called \"The Conductor,\" which acts as a central intelligence layer to bring together various platforms, internal processes, and AI agents into a single unified workspace. This allows organizations to orchestrate complex business workflows starting from simple user interactions while maintaining security and control.\n\nThe platform is designed for rapid deployment, allowing businesses to build their first agents in days using a pre-built agent library and an expansive API layer. Druid AI emphasizes \"explainable AI,\" ensuring that every decision made by an agent is visible and auditable, effectively removing the \"black box\" nature of traditional AI. Their technology is built to handle multi-language interactions and integrates with existing enterprise data systems including Salesforce, ServiceNow, SAP, Workday, Oracle, and Microsoft without requiring perfect datasets. By automating routine administrative tasks and routine work, the platform aims to free up human teams for high-value activities.\n\nThe company has gained significant industry recognition, being named a Challenger in the Gartner Magic Quadrant for Conversational AI Platforms and a Fast Follower in agentic AI by Everest Group. Headquartered in New York with operations in Bucharest, Romania, Druid AI employs between 51-200 people. Their ecosystem includes strategic partnerships with global firms like Microsoft, Accenture, and UiPath to deliver scalable, context-aware automation solutions. The platform serves multiple industries including telecommunications, banking, insurance, healthcare, retail, higher education, and human resources.",
+      "description_citation": "https://www.druidai.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.druidai.com",
+      "location": "New York, NY (with operations in Bucharest, Romania)",
+      "location_citation": "https://www.linkedin.com/company/druidai",
+      "team_size": "51-200 employees",
+      "team_size_citation": "https://www.linkedin.com/company/druidai",
+      "technologies_used": [
+        {
+          "value": "Agentic AI"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "API layers"
+        },
+        {
+          "value": "Pre-built agent library"
+        },
+        {
+          "value": "Multi-language support"
+        },
+        {
+          "value": "Salesforce"
+        },
+        {
+          "value": "ServiceNow"
+        },
+        {
+          "value": "SAP"
+        },
+        {
+          "value": "Workday"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Enterprise Agentic Orchestration Platform"
+        },
+        {
+          "value": "Druid Conductor"
+        },
+        {
+          "value": "Pre-built Agent Library"
+        },
+        {
+          "value": "Customer Support AI Agents"
+        },
+        {
+          "value": "HR AI Agents"
+        },
+        {
+          "value": "Banking AI Agents"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Smart ticket routing"
+        },
+        {
+          "value": "Recruitment automation"
+        },
+        {
+          "value": "Employee onboarding"
+        },
+        {
+          "value": "Loan processing"
+        },
+        {
+          "value": "Claims processing"
+        },
+        {
+          "value": "Student admissions"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Telecom"
+        },
+        {
+          "value": "Banking"
+        },
+        {
+          "value": "Insurance"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Retail"
+        },
+        {
+          "value": "Higher Education"
+        },
+        {
+          "value": "Human Resources"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "EdgeCortix",
+      "company_name_citation": "https://www.edgecortix.com",
+      "description": "EdgeCortix is a fabless semiconductor company founded in July 2019 that specializes in energy-efficient artificial intelligence processing at the edge. The company was established with a software-first philosophy, designing an AI-specific processor architecture from the ground up to bridge the gap between software frameworks and hardware performance. Their primary mission is to provide near cloud-level AI performance on edge devices with significantly better energy efficiency and processing speeds than traditional solutions, thereby reducing total cost of ownership and operating expenses for their clients.\n\nThe company's technology is built upon its proprietary Dynamic Neural Accelerator (DNA) technology, which features a flexible, run-time reconfigurable, and highly parallelized architecture. This hardware is complemented by the MERA compiler and framework, a software platform that enables seamless AI inference across heterogeneous systems. EdgeCortix is currently focusing on the \"next wave of Generative AI at the edge,\" developing solutions like the SAKURA-II accelerator that can handle multi-billion parameter models in low-power environments. Their products are designed for high-reliability and high-performance applications, ranging from consumer-grade Arm-based platforms like the Raspberry Pi to extreme environments like orbital and lunar missions.\n\nHeadquartered in Tokyo, Japan at GINZA SIX 13F, 6-10-1, Ginza, Chuo-ku, the company employs approximately 66 people as of 2025. EdgeCortix has received significant support from the Japanese government, including a 3 billion yen project awarded by NEDO, highlighting their role in Japan's chip renaissance. The company serves industries including robotics and drones, smart manufacturing, smart cities, automotive sensing, aerospace, and semiconductor infrastructure. By co-developing software and hardware, EdgeCortix aims to solve challenges where data curation and AI-driven decision-making must occur simultaneously at the source of data.",
+      "description_citation": "https://www.edgecortix.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.edgecortix.com",
+      "location": "GINZA SIX 13F, 6-10-1, Ginza, Chuo-ku, Tokyo, 104-0061, Japan",
+      "location_citation": "https://www.edgecortix.com/en/contact",
+      "team_size": "66 employees",
+      "team_size_citation": "https://pitchbook.com/profiles/company/433077-76",
+      "technologies_used": [
+        {
+          "value": "SAKURA-II AI Accelerator"
+        },
+        {
+          "value": "MERA Compiler"
+        },
+        {
+          "value": "Dynamic Neural Accelerator (DNA)"
+        },
+        {
+          "value": "Arm-based platforms"
+        },
+        {
+          "value": "Intel Agilex FPGA"
+        },
+        {
+          "value": "Generative AI"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "SAKURA-II AI Accelerator chips"
+        },
+        {
+          "value": "AI Accelerator Modules and Cards"
+        },
+        {
+          "value": "MERA Compiler and Framework"
+        },
+        {
+          "value": "DNA IP for semiconductor design"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Orbital and lunar space missions"
+        },
+        {
+          "value": "Low-power Generative AI on Raspberry Pi"
+        },
+        {
+          "value": "Real-time intelligence for autonomous systems"
+        },
+        {
+          "value": "Edge AI inference"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Robotics & Drones"
+        },
+        {
+          "value": "Smart Manufacturing"
+        },
+        {
+          "value": "Smart Cities"
+        },
+        {
+          "value": "Automotive"
+        },
+        {
+          "value": "Aerospace"
+        },
+        {
+          "value": "Semiconductor"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Edge AI & IoT"
+        },
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        }
+      ]
+    },
+    {
+      "company_name": "Dolbey",
+      "company_name_citation": "https://www.dolbeyspeech.com",
+      "description": "Dolbey is a long-standing leader in the healthcare technology sector, specializing in the development of advanced solutions for clinical documentation and medical coding. Founded in 1914, the company has evolved from providing dictation equipment to delivering sophisticated, AI-driven software that streamlines the workflow of healthcare providers. Their primary mission is to improve the accuracy and efficiency of medical records while reducing the administrative burden on clinicians, thereby allowing them to focus more on patient care.\n\nThe company's flagship offerings include speech recognition technology, powered by artificial intelligence, which enables doctors to dictate notes directly into Electronic Health Record (EHR) systems with high precision. This is complemented by their Computer-Assisted Coding (CAC) and Clinical Documentation Improvement (CDI) solutions, which use Natural Language Processing (NLP) to analyze clinical text and suggest appropriate medical codes for billing. By integrating these tools, Dolbey helps hospitals and clinics ensure compliance, maximize reimbursement, and maintain high standards of data integrity.\n\nLocated in Cincinnati, Ohio, with a team of 51-200 employees, Dolbey serves thousands of healthcare facilities across the United States. Their portfolio extends to transcription services, dictation management, and radiology reporting systems through products like Fusion Narrate, Fusion Voice, Fusion Text, Fusion Expert, Fusion CAC, and Fusion CDI. The solutions are designed to be interoperable, working seamlessly across various healthcare platforms to provide a unified experience for medical staff. Their commitment to innovation is reflected in their use of machine learning and cloud-based deployments to provide scalable and secure services. Contact information is available at info@dolbey.com for organizations seeking to improve clinical documentation workflows.",
+      "description_citation": "https://www.dolbeyspeech.com",
+      "business_email": "info@dolbey.com",
+      "business_email_citation": "https://www.dolbeyspeech.com",
+      "location": "Cincinnati, Ohio, USA",
+      "location_citation": "https://www.dolbeyspeech.com",
+      "team_size": "51-200 employees",
+      "team_size_citation": "https://www.dolbeyspeech.com",
+      "technologies_used": [
+        {
+          "value": "Artificial Intelligence"
+        },
+        {
+          "value": "Machine Learning"
+        },
+        {
+          "value": "Speech Recognition"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Cloud Computing"
+        },
+        {
+          "value": "HL7"
+        },
+        {
+          "value": "DICOM"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Fusion Narrate"
+        },
+        {
+          "value": "Fusion Voice"
+        },
+        {
+          "value": "Fusion Text"
+        },
+        {
+          "value": "Fusion Expert"
+        },
+        {
+          "value": "Fusion CAC"
+        },
+        {
+          "value": "Fusion CDI"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Clinical documentation in EHRs"
+        },
+        {
+          "value": "Automated medical coding"
+        },
+        {
+          "value": "Radiology reporting"
+        },
+        {
+          "value": "Nursing documentation"
+        },
+        {
+          "value": "Mobile physician documentation"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Hospitals"
+        },
+        {
+          "value": "Clinics"
+        },
+        {
+          "value": "Radiology Centers"
+        },
+        {
+          "value": "Health Systems"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Document AI"
+        }
+      ]
+    },
+    {
+      "company_name": "Enkrypt AI",
+      "company_name_citation": "https://www.enkryptai.com",
+      "description": "Enkrypt AI is a cybersecurity and compliance firm specialized in securing the lifecycle of artificial intelligence applications within the enterprise environment. Recognized as a Gartner Cool Vendor in AI Security for 2025, the company provides an \"Agentic Security & Compliance\" platform designed to allow organizations to deploy AI technologies rapidly without compromising on safety or regulatory standards. Their primary mission is to solve the unique security challenges posed by Large Language Models (LLMs) and generative AI, which traditional security measures often fail to address.\n\nThe platform offers a comprehensive approach to AI safety through three core pillars: detection, removal, and monitoring. By using dynamic red teaming, Enkrypt AI pinpoints hidden risks such as prompt injections, jailbreaking, and data leakage. Their system implements real-time guardrails that act as AI security agents, catching threats as they occur and preventing unsafe actuations or goal misalignment. Furthermore, the platform automates the compliance process by translating complex internal policies and external regulations into actionable technical controls. This automation can reduce the time required to certify and ship AI products by up to 90%.\n\nBeyond software solutions, Enkrypt AI contributes to the broader AI ecosystem by maintaining the industry's first LLM Safety Leaderboard, which benchmarks over 200 models through continuous red teaming. Located at 1660 Soldiers Field Rd, Brighton, MA 02135, the company serves industries including insurance, e-commerce, advertising, cybersecurity, and enterprise software. Their technology is multimodal, protecting both text-based interactions and image-generation processes. Contact information is available at hello@enkryptai.com for organizations seeking to secure their AI deployments while maintaining compliance with regulations like GDPR and HIPAA.",
+      "description_citation": "https://www.enkryptai.com",
+      "business_email": "hello@enkryptai.com",
+      "business_email_citation": "https://www.enkryptai.com",
+      "location": "1660 Soldiers Field Rd, Brighton, MA 02135",
+      "location_citation": "https://www.enkryptai.com",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.enkryptai.com",
+      "technologies_used": [
+        {
+          "value": "LLMs"
+        },
+        {
+          "value": "Generative AI"
+        },
+        {
+          "value": "MCP"
+        },
+        {
+          "value": "Multimodal AI"
+        },
+        {
+          "value": "CASB integration"
+        },
+        {
+          "value": "AI Security Agents"
+        },
+        {
+          "value": "Dynamic Red Teaming"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "MCP Scanner"
+        },
+        {
+          "value": "AI Risk Detection"
+        },
+        {
+          "value": "Real-time Guardrails"
+        },
+        {
+          "value": "AI Monitoring"
+        },
+        {
+          "value": "AI Compliance Management"
+        },
+        {
+          "value": "LLM Safety Leaderboard"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Securing AI-powered chatbots"
+        },
+        {
+          "value": "Removing data layer risks"
+        },
+        {
+          "value": "Safeguarding image creatives"
+        },
+        {
+          "value": "Securing AI agent tool usage"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Insurance"
+        },
+        {
+          "value": "E-commerce"
+        },
+        {
+          "value": "Advertising"
+        },
+        {
+          "value": "Cybersecurity"
+        },
+        {
+          "value": "Enterprise Software"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "AI Ethics & Governance"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        }
+      ]
+    },
+    {
+      "company_name": "Exabeam",
+      "company_name_citation": "https://www.exabeam.com",
+      "description": "Exabeam is a global cybersecurity leader specializing in Threat Detection, Investigation, and Response (TDIR). The company provides a comprehensive security operations platform designed to help organizations manage risk by applying advanced behavioral analytics and automation to large-scale security data. At its core, Exabeam focuses on identifying abnormal user and device behavior that might indicate a security breach, such as stolen credentials or malicious insider activity. Their flagship \"New-Scale Security Operations Platform\" is a cloud-native solution that allows security teams to ingest data at massive scale, correlate it with business outcomes, and automate the triage and investigation process.\n\nThe platform leverages \"Agentic AI\" to accelerate security workflows, improve detection accuracy, and boost team productivity. By baselining \"normal\" behavior for every user and entity in an environment, Exabeam can pinpoint subtle anomalies that traditional signature-based tools often miss. Following a merger or integration with LogRhythm, the company also offers the LogRhythm SIEM Platform for organizations requiring self-hosted solutions. Their solutions are used by large enterprises, healthcare providers, and government agencies to defend against phishing, malware, and ransomware while ensuring regulatory compliance through always-on reporting and simplified auditing.\n\nThe company has been recognized as a leader in the Gartner Magic Quadrant for SIEM for six consecutive years. Through its use case-driven approach, Exabeam aims to transform the modern Security Operations Center (SOC) by reducing the time required to resolve logs from months to hours. Their client roster includes major global brands like Delta Air Lines, United Airlines, Trinity Health, U.S. Air Force, NASA, University of Colorado, MUFG, Under Armour, and NTT Data. Contact for privacy matters is available at privacy@exabeam.com.",
+      "description_citation": "https://www.exabeam.com",
+      "business_email": "privacy@exabeam.com",
+      "business_email_citation": "https://www.exabeam.com",
+      "location": "Not available",
+      "location_citation": "https://www.exabeam.com",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.exabeam.com",
+      "technologies_used": [
+        {
+          "value": "Cloud-native architecture"
+        },
+        {
+          "value": "Self-hosted SIEM"
+        },
+        {
+          "value": "Agentic AI"
+        },
+        {
+          "value": "Behavioral analytics"
+        },
+        {
+          "value": "Machine learning"
+        },
+        {
+          "value": "Automation playbooks"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "New-Scale Security Operations Platform"
+        },
+        {
+          "value": "LogRhythm SIEM"
+        },
+        {
+          "value": "Insider Threat Protection"
+        },
+        {
+          "value": "Behavioral Analytics"
+        },
+        {
+          "value": "Compliance reporting"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Mitigating insider threats"
+        },
+        {
+          "value": "Defending against phishing and ransomware"
+        },
+        {
+          "value": "Automating security triage"
+        },
+        {
+          "value": "Regulatory compliance"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Government"
+        },
+        {
+          "value": "Defense"
+        },
+        {
+          "value": "Education"
+        },
+        {
+          "value": "Transportation"
+        },
+        {
+          "value": "Finance"
+        },
+        {
+          "value": "Retail"
+        },
+        {
+          "value": "Technology"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "fileAI",
+      "company_name_citation": "https://www.file.ai",
+      "description": "fileAI is an enterprise-grade AI-native data intelligence and workflow automation platform designed to transform complex business processes into verified intelligence. The company specializes in processing unstructured files and converting them into structured, LLM-ready data that compounds in value over time. Their core platform, fileForge, serves as the foundation for these operations, utilizing proprietary multimodal AI to ingest, parse, extract, classify, and verify data from any file type, format, or language. The platform is specifically engineered to support agentic workflows and RAG (Retrieval-Augmented Generation) pipelines, enabling businesses to transition from manual document handling to autonomous operations.\n\nThe fileAI ecosystem includes specialized solutions like fileLedger, which focuses on AI-driven BPO for finance and accounting workflows, and fileShield, designed for intelligent third-party administration (TPA) and case management. Their technology stack includes advanced features such as zero-shot classification, AI-driven reconciliation, and natural language querying of processed data through components like fileAgent. By providing over 100 integrations and an MCP server, fileAI facilitates touchless end-to-end automation across various legacy and modern systems.\n\nThe platform maintains a heavy emphasis on security and governance, holding certifications for SOC 2 Type II, ISO 27001, and HIPAA. Having processed over one billion files, the company assists global enterprises in highly regulated sectors—including insurance, banking, and supply chain—in saving up to 90% in processing costs and time. Through its agentic AI capabilities, fileAI can clean, enrich, and validate data from diverse sources such as purchase orders, shipping manifests, and complex insurance claims, ensuring that the resulting outputs are cited and trustworthy for critical enterprise decision-making.",
+      "description_citation": "https://www.file.ai",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.file.ai",
+      "location": "Not available",
+      "location_citation": "https://www.file.ai",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.file.ai",
+      "technologies_used": [
+        {
+          "value": "AI OCR"
+        },
+        {
+          "value": "Multimodal AI"
+        },
+        {
+          "value": "Large Language Models"
+        },
+        {
+          "value": "Agentic AI"
+        },
+        {
+          "value": "MCP Server"
+        },
+        {
+          "value": "APIs"
+        },
+        {
+          "value": "Zero-shot classification"
+        },
+        {
+          "value": "RAG pipelines"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "fileForge"
+        },
+        {
+          "value": "fileLedger"
+        },
+        {
+          "value": "fileShield"
+        },
+        {
+          "value": "fileAgent"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automated invoice processing"
+        },
+        {
+          "value": "Claims processing"
+        },
+        {
+          "value": "Import/export documentation"
+        },
+        {
+          "value": "Financial record extraction"
+        },
+        {
+          "value": "Three-way matching"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Insurance"
+        },
+        {
+          "value": "Financial Services"
+        },
+        {
+          "value": "Supply Chain & Logistics"
+        },
+        {
+          "value": "BPO"
+        },
+        {
+          "value": "Accounting"
+        },
+        {
+          "value": "Legal"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "AI Ethics & Governance"
+        }
+      ]
+    },
+    {
+      "company_name": "Foundation AI",
+      "company_name_citation": "https://www.foundationai.com",
+      "description": "Foundation AI is a specialized technology firm that focuses on Intelligent Document Processing (IDP) and the automation of document-driven workflows. The company's platform is designed to act as an intelligent intake layer for organizations that handle massive volumes of incoming unstructured data, such as emails, faxes, medical records, and legal filings. By leveraging proprietary artificial intelligence models, Foundation AI enables businesses to automatically ingest, profile, match, and classify documents to the correct internal folders or case matters. The system is built to handle the complexities of the legal and insurance industries, where it can split large document bundles, extract specific data points like dates and financial amounts, and name files consistently based on organization-specific rules.\n\nThe company distinguishes itself through a \"human-empowered\" AI approach, where the software provides reliable confidence scores and seeks human validation only when it is uncertain. This hybrid model ensures high precision while dramatically increasing processing speeds—often moving from minutes per document to just seconds. Foundation AI emphasizes rapid implementation, allowing firms to integrate the software with their existing Document Management Systems (DMS) via robust APIs and pre-built connectors. By automating the \"mailroom\" aspects of professional services, the platform helps firms reduce non-billable administrative hours, improve response times for claims, and scale their operations without necessarily increasing their headcount.\n\nLocated at 19800 MacArthur Boulevard, Suite 300, Irvine, CA 92612, Foundation AI serves the legal and insurance sectors specifically. The company's infrastructure is built on secure AWS cloud technology and maintains high-level compliance standards, including SOC 2 Type II, ISO27001, and HIPAA. Their solutions help injury litigation firms, insurance defense practices, workers' compensation firms, and insurance claims departments automate mailroom intake, match medical bills to claims, and index incoming documents in real-time.",
+      "description_citation": "https://www.foundationai.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.foundationai.com",
+      "location": "19800 MacArthur Boulevard, Suite 300, Irvine, CA 92612",
+      "location_citation": "https://www.foundationai.com",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.foundationai.com",
+      "technologies_used": [
+        {
+          "value": "Proprietary AI models"
+        },
+        {
+          "value": "IDP technology"
+        },
+        {
+          "value": "AWS cloud"
+        },
+        {
+          "value": "API integrations"
+        },
+        {
+          "value": "CMS/DMS connectors"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Automated document intake"
+        },
+        {
+          "value": "Document classification and routing"
+        },
+        {
+          "value": "Data extraction"
+        },
+        {
+          "value": "Workflow automation"
+        },
+        {
+          "value": "CMS integration"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automating mailroom intake for law firms"
+        },
+        {
+          "value": "Matching medical bills to insurance claims"
+        },
+        {
+          "value": "Indexing incoming claims documents"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Legal"
+        },
+        {
+          "value": "Insurance"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "Emplay",
+      "company_name_citation": "https://www.emplay.net",
+      "description": "Emplay is an enterprise technology firm that provides a platform for building, deploying, and managing autonomous AI agents designed to drive specific business outcomes. Its core product, Zinger, is an agentic AI solution that allows organizations to hire, train, and manage digital agents through natural language conversations. The company focuses on \"Result as a Service,\" meaning their agents are built to take ownership of tasks, quality, and output rather than just acting as passive tools.\n\nThe platform is designed to be accessible to business users through low-code and no-code tools, democratizing the creation of sophisticated AI workflows. Emplay offers a \"Meta agents\" platform where specialized agents—such as Business Analyst, Orchestration, and Testing agents—work together to help users design and scale new agentic workflows. Their architecture is notably cloud-neutral and LLM-agnostic, providing enterprises with the flexibility to use various large language models without vendor lock-in and the option to install the technology behind a corporate firewall for enhanced security.\n\nBeyond the technology platform, Emplay provides a programmatic approach to AI transformation. This includes assisting Fortune 500 companies with AI readiness assessments, establishing Centers of Excellence, and implementing governance processes. By automating a significant percentage of repetitive tasks in departments like sales, procurement, and customer support, Emplay aims to double employee productivity and significantly reduce operational costs while maintaining a high level of managed support and partnership. Headquartered in Dublin, California at 11501 Dublin Blvd suite 200, Emplay serves industries including sales and marketing, procurement and supply chain, customer support, finance, human resources, and general enterprise sectors.",
+      "description_citation": "https://www.emplay.net",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.emplay.net",
+      "location": "11501 Dublin Blvd suite 200, Dublin, California 94568, US",
+      "location_citation": "https://rocketreach.co/emplay-inc-profile_b5e33384f42e6cfe",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.emplay.net",
+      "technologies_used": [
+        {
+          "value": "Zinger platform"
+        },
+        {
+          "value": "GenAI"
+        },
+        {
+          "value": "LLM-agnostic architecture"
+        },
+        {
+          "value": "Cloud-neutral infrastructure"
+        },
+        {
+          "value": "Low-code/no-code tools"
+        },
+        {
+          "value": "Meta agents"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Zinger Sales AI"
+        },
+        {
+          "value": "Zinger Support AI"
+        },
+        {
+          "value": "Zinger People AI"
+        },
+        {
+          "value": "Zinger Decision AI"
+        },
+        {
+          "value": "Procurement AI"
+        },
+        {
+          "value": "Agent Studio"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automating sales and marketing tasks"
+        },
+        {
+          "value": "Managing autonomous sourcing events"
+        },
+        {
+          "value": "Deflecting customer support tickets"
+        },
+        {
+          "value": "Building custom AI workflows"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Sales and Marketing"
+        },
+        {
+          "value": "Procurement"
+        },
+        {
+          "value": "Customer Support"
+        },
+        {
+          "value": "Finance"
+        },
+        {
+          "value": "Human Resources"
+        },
+        {
+          "value": "Enterprise"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "Equitus Corporation",
+      "company_name_citation": "https://www.equitus.ai",
+      "description": "Equitus Corporation is a technology company specializing in the development of autonomous, scalable, and trusted artificial intelligence solutions, with a primary focus on converting fragmented data into explainable intelligence. The company's core offering is the Knowledge Graph Neural Network (KGNN), a platform designed to automatically connect, correlate, unify, and contextualize disparate data sets from across an organization's fragmented landscape. This system is designed to handle both structured and unstructured data, automating the ingestion and unification process to create an AI-ready knowledge graph without the need for manual preprocessing or complex ontology building.\n\nThe company emphasizes the importance of data accuracy, traceability, and explainability, ensuring that intelligence generated is transparent and reliable for high-stakes decision-making. Beyond data integration, Equitus provides advanced computer vision capabilities through its Equitus Video Sentinel (EVS) product, which offers real-time visual inference at the edge for security and industrial applications. Equitus solutions are built to be deployment-agnostic, supporting on-premises, hybrid, and cloud environments. They specifically target high-security sectors such as defense, intelligence, and government agencies, as well as large-scale commercial enterprises.\n\nThe platform supports integration with systems including IBM Power1022 servers, Dell XR7620 servers, RedHat OpenShift, SUSE Rancher, and S3 buckets. By streamlining the path from raw data to actionable intelligence, Equitus helps organizations overcome common data bottlenecks, legacy system silos, and the technical risks typically associated with AI adoption and deployment. Their solutions enable use cases such as unifying legacy and modern systems for analytics, automated data structuring at scale, real-time object detection and behavior analysis, and forensic indexing for rapid video search.",
+      "description_citation": "https://www.equitus.ai",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.equitus.ai",
+      "location": "Not available",
+      "location_citation": "https://www.equitus.ai",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.equitus.ai",
+      "technologies_used": [
+        {
+          "value": "Knowledge Graph Neural Network (KGNN)"
+        },
+        {
+          "value": "IBM Power1022"
+        },
+        {
+          "value": "Dell XR7620"
+        },
+        {
+          "value": "RedHat OpenShift"
+        },
+        {
+          "value": "SUSE Rancher"
+        },
+        {
+          "value": "S3 buckets"
+        },
+        {
+          "value": "Automated ETL"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "KGNN"
+        },
+        {
+          "value": "Equitus Video Sentinel (EVS)"
+        },
+        {
+          "value": "Equitus Fusion"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Unifying legacy and modern systems"
+        },
+        {
+          "value": "Automated data structuring"
+        },
+        {
+          "value": "Real-time object detection"
+        },
+        {
+          "value": "Forensic video indexing"
+        },
+        {
+          "value": "Real-time threat alerts"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Government"
+        },
+        {
+          "value": "Defense"
+        },
+        {
+          "value": "Intelligence"
+        },
+        {
+          "value": "Commercial Enterprise"
+        },
+        {
+          "value": "Industrial"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Edge AI & IoT"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        }
+      ]
+    },
+    {
+      "company_name": "ExentAI",
+      "company_name_citation": "https://www.exentai.com",
+      "description": "ExentAI Research and Innovation Lab is a specialized technology firm dedicated to the research and development of advanced artificial intelligence solutions. The company focuses on solving complex, ever-changing problems across various industries by utilizing state-of-the-art AI technologies and scientific expertise. By partnering with renowned experts in the field, ExentAI aims to deliver high-quality products and solutions that bridge the gap between deep technical research and marketable real-world impact. Their approach is highly tailored, focusing on the unique needs of each client to push the boundaries of what is possible in intelligent automation and data analysis.\n\nThe company operates a dedicated AI lab where they explore several core research areas, including Big Data Analytics, Natural Language Processing, Reinforcement Learning, Computer Vision, and Conversational AI. Through these focus areas, they assist businesses in uncovering hidden patterns within large datasets, enabling machines to understand human language, and developing systems that can see and interpret the physical world. Their service offerings include practical applications such as large-scale text analytics, data ingestion processes, and the development of intelligent chatbots for customer service.\n\nAdditionally, ExentAI provides predictive analysis tools to help organizations anticipate future trends and recommendation systems that use logical reasoning to improve customer engagement. By integrating deep learning and machine learning techniques, ExentAI helps businesses transition into the future of intelligent success, transforming raw data into strategic assets and automated workflows. The company primarily serves the e-commerce industry and general commercial sectors, offering solutions for extracting meaningful insights from complex text data, filtering customer service issues via chatbots, and identifying the likelihood of future outcomes based on historical data analysis.",
+      "description_citation": "https://www.exentai.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.exentai.com",
+      "location": "Not available",
+      "location_citation": "https://www.exentai.com",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.exentai.com",
+      "technologies_used": [
+        {
+          "value": "Big Data Analytics"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Reinforcement Learning"
+        },
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Machine Learning"
+        },
+        {
+          "value": "Deep Learning"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Text Analytics"
+        },
+        {
+          "value": "Data Ingestion"
+        },
+        {
+          "value": "Chatbots Development"
+        },
+        {
+          "value": "Predictive Analysis"
+        },
+        {
+          "value": "Recommendation systems"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Extracting insights from text data"
+        },
+        {
+          "value": "Moving data between databases"
+        },
+        {
+          "value": "Filtering customer service issues"
+        },
+        {
+          "value": "Predicting future outcomes"
+        },
+        {
+          "value": "Product recommendations"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "E-commerce"
+        },
+        {
+          "value": "General Commercial"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Recommendation Systems"
+        }
+      ]
+    },
+    {
+      "company_name": "EltegraAI",
+      "company_name_citation": "https://www.eltegra.ai",
+      "description": "EltegraAI is an AI-native platform designed to manage the entire Product Development Lifecycle (PDLC) from initial ideation to post-launch optimization and governance. The platform aims to eliminate \"requirements chaos\" and the inefficiencies of disconnected tools by providing a unified environment where intelligence, automation, and compliance are integrated into every stage. By synchronizing with various sources such as Jira, GitHub, long-form documents, and meeting transcripts, EltegraAI creates a bidirectional link between business requirements and production code. This traceability allows teams to answer critical questions about feature implementation and the potential impact of changes, significantly reducing the time wasted hunting for details across repositories.\n\nThe platform offers specialized capabilities tailored to different development phases. During ideation, it utilizes smart interviews to extract requirements directly from stakeholder conversations. In the design phase, it automatically generates essential documentation, including Business Requirement Documents (BRDs) and Product Requirement Documents (PRDs). For development and testing, it provides automated test case generation and sophisticated reverse engineering of legacy systems. EltegraAI is particularly proficient in legacy modernization, supporting over 40 languages—including COBOL, PowerBuilder, and C—to extract business logic from undocumented systems.\n\nThe platform features a robust compliance engine that validates projects against over 23 industry frameworks like GDPR, HIPAA, and ISO 26262. By offering role-specific dashboards for Product Owners, Business Analysts, Developers, and QA leads, the platform serves as a single source of truth that improves ROI, accelerates time-to-market, and reduces technical debt. EltegraAI serves industries including financial services, healthcare, automotive, manufacturing, telecommunications, e-commerce, and SaaS.",
+      "description_citation": "https://www.eltegra.ai",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.eltegra.ai",
+      "location": "Not available",
+      "location_citation": "https://www.eltegra.ai",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.eltegra.ai",
+      "technologies_used": [
+        {
+          "value": "Angular"
+        },
+        {
+          "value": "C#"
+        },
+        {
+          "value": "C++"
+        },
+        {
+          "value": "C"
+        },
+        {
+          "value": "SQL"
+        },
+        {
+          "value": ".NET"
+        },
+        {
+          "value": "COBOL"
+        },
+        {
+          "value": "Java"
+        },
+        {
+          "value": "Python"
+        },
+        {
+          "value": "PowerBuilder"
+        },
+        {
+          "value": "Jira"
+        },
+        {
+          "value": "GitHub"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI-Native PDLC Platform"
+        },
+        {
+          "value": "Smart Interviews"
+        },
+        {
+          "value": "Automated Documentation"
+        },
+        {
+          "value": "Requirements-to-Code Traceability"
+        },
+        {
+          "value": "Legacy Code Reverse Engineering"
+        },
+        {
+          "value": "Compliance Scoring"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Legacy system modernization"
+        },
+        {
+          "value": "Automated requirements gathering"
+        },
+        {
+          "value": "Mapping Jira tickets to code"
+        },
+        {
+          "value": "Detecting security gaps"
+        },
+        {
+          "value": "Generating test cases"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Financial Services"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Automotive"
+        },
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Telecommunications"
+        },
+        {
+          "value": "E-commerce"
+        },
+        {
+          "value": "SaaS"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        }
+      ]
+    },
+    {
+      "company_name": "ePlane AI",
+      "company_name_citation": "https://www.eplaneai.com",
+      "description": "ePlane AI is a specialized technology firm that provides a comprehensive AI-powered platform designed specifically to modernize and optimize aviation operations. The company focuses on helping aviation professionals unlock hidden revenue opportunities, streamline complex processes, and transform vast amounts of data into actionable business insights. By offering a suite of intelligent tools, ePlane AI addresses critical industry challenges such as inventory mismanagement, slow response times in sales, and the difficulty of navigating technical documentation. The aviation and aerospace industry faces unique challenges in managing parts inventory, compliance requirements, and technical documentation, and ePlane AI has developed targeted solutions to address these specific pain points.\n\nThe platform is built around three core AI modules that work together to provide comprehensive aviation intelligence. AeroGenie acts as an intelligent copilot, allowing users to perform parts identification, compliance checks, and technical support through a conversational interface. This tool leverages advanced natural language processing to understand aviation-specific queries and provide accurate, contextual responses. Email AI focuses on revenue generation by using artificial intelligence to prioritize high-value business emails, check part availability within existing ERP systems, and automate the quoting process with precision pricing. This module helps aviation businesses respond faster to customer inquiries and close deals more efficiently. Inventory AI utilizes machine learning to analyze competitor pricing and forecast stock requirements, removing guesswork from the supply chain and helping businesses maintain optimal inventory levels.\n\nePlane AI emphasizes seamless integration with industry-standard systems such as SAP, Oracle, and various specialized aviation ERPs including Swiss AS, IFS, Ramco, Amos, Trax, AvSight, QC, and Rusada. This integration capability ensures that businesses can adopt ePlane AI's solutions without disrupting their existing workflows. The company maintains enterprise-grade security standards, including SOC2 and ISO certifications, to ensure data privacy for its global clientele. Headquartered in Miami Beach with a team of 11-50 employees, ePlane AI serves aviation companies worldwide, helping them build more resilient, efficient, and data-driven operations in an increasingly competitive global market. By bridging the gap between structured and unstructured data, ePlane AI enables aviation companies to make faster, more informed decisions that drive revenue growth and operational excellence.",
+      "description_citation": "https://www.eplaneai.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.eplaneai.com",
+      "location": "Miami Beach",
+      "location_citation": "https://www.linkedin.com/company/eplaneai",
+      "team_size": "11-50 employees",
+      "team_size_citation": "https://www.linkedin.com/company/eplaneai",
+      "technologies_used": [
+        {
+          "value": "AI"
+        },
+        {
+          "value": "Machine Learning"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "ERP Integrations (Oracle, SAP, Swiss AS, IFS, Ramco, Amos, Trax, AvSight, QC, Rusada)"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AeroGenie (Intelligent Copilot)"
+        },
+        {
+          "value": "Email AI (Lead Prioritization)"
+        },
+        {
+          "value": "Inventory AI (Pricing Optimization and Forecasting)"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automated parts identification"
+        },
+        {
+          "value": "Aviation compliance checks"
+        },
+        {
+          "value": "Technical support"
+        },
+        {
+          "value": "Prioritizing sales emails"
+        },
+        {
+          "value": "Automated quote generation"
+        },
+        {
+          "value": "Competitor pricing analysis"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Aviation and Aerospace"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        }
+      ]
+    },
+    {
+      "company_name": "Do IT Now",
+      "company_name_citation": "https://www.doitnowgroup.com",
+      "description": "Do IT Now is a specialized technology firm that provides advanced supercomputing services and high-performance computing (HPC) solutions tailored for scientists, engineers, and large-scale industrial players. The company positions itself as an innovation driver, offering a comprehensive suite of turnkey solutions designed to handle the most complex computational challenges. Their core mission is to bring supercomputing capabilities closer to companies, enabling them to leverage massive processing power without the burden of managing complex infrastructure internally. Formed by a merger of global HPC leaders, the group maintains a strong international presence with offices across Europe including France, Germany, Italy, Spain, and New Zealand.\n\nThe organization operates through a lifecycle-based service model encompassing planning, installation, support, and innovation. In the planning phase, they assist clients with cluster design and identifying specific architectural requirements for their workloads. During installation, they deliver fully integrated systems. Their support services include ongoing supercomputer administration and user support to ensure maximum system performance and uptime. Their innovation arm focuses on staying at the cutting edge of technology, including advancements in quantum computing and code optimization. They also provide specialized environments for simulation, big data, and artificial intelligence applications, which positions them in the MLOps and Infrastructure category.\n\nLocated in Montpellier, France at Office 233 - 672 Rue du Mas de Verchant, Do IT Now serves multiple industries including biotech, automotive, research, energy, and pharma. They can be contacted at info@doit-now.tech. The company works with major technology partners including IBM, Intel, Lenovo, Nvidia, Oracle, ThinkParq, Altair, AWS, Azure, Bright, Dell, and HPE.",
+      "description_citation": "https://www.doitnowgroup.com",
+      "business_email": "info@doit-now.tech",
+      "business_email_citation": "https://www.doitnowgroup.com",
+      "location": "Office 233 - 672 Rue du Mas de Verchant - 34000 Montpellier, France",
+      "location_citation": "https://www.doitnowgroup.com",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.doitnowgroup.com",
+      "technologies_used": [
+        {
+          "value": "HPC"
+        },
+        {
+          "value": "Quantum computing"
+        },
+        {
+          "value": "VDI"
+        },
+        {
+          "value": "Cluster design"
+        },
+        {
+          "value": "IBM"
+        },
+        {
+          "value": "Intel"
+        },
+        {
+          "value": "Lenovo"
+        },
+        {
+          "value": "Nvidia"
+        },
+        {
+          "value": "Oracle"
+        },
+        {
+          "value": "AWS"
+        },
+        {
+          "value": "Azure"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "HPC services"
+        },
+        {
+          "value": "Simulation"
+        },
+        {
+          "value": "Cloud solutions"
+        },
+        {
+          "value": "AI infrastructure"
+        },
+        {
+          "value": "Storage solutions"
+        },
+        {
+          "value": "VDI"
+        },
+        {
+          "value": "Quantum computing services"
+        },
+        {
+          "value": "Big data analytics"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Life science code optimization"
+        },
+        {
+          "value": "European quantum computing advancement"
+        },
+        {
+          "value": "Code modernization"
+        },
+        {
+          "value": "Turnkey supercomputing clusters"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Biotech"
+        },
+        {
+          "value": "Automotive"
+        },
+        {
+          "value": "Research"
+        },
+        {
+          "value": "Energy"
+        },
+        {
+          "value": "Pharma"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "MLOps & Infrastructure"
+        }
+      ]
+    },
+    {
+      "company_name": "DS STREAM",
+      "company_name_citation": "https://www.dsstream.com",
+      "description": "DS STREAM sp. z o.o. is a specialized senior-level data consulting and software engineering firm that focuses on delivering advanced solutions in artificial intelligence, machine learning, and data analytics. The company serves as a strategic partner for global brands across various sectors, helping them manage complex data environments and extract actionable insights to drive business growth. Their core expertise spans the entire data lifecycle, from initial data engineering and cloud migration to the deployment of sophisticated Generative AI and Machine Learning models. The company distinguishes itself through a technology-agnostic approach, prioritizing the specific business needs of the client over any particular software vendor.\n\nTheir service portfolio is divided into several key areas: Machine Learning & MLOps, which focuses on automating workflows and integrating DevOps practices into AI development; Data Engineering, which involves transforming raw, disparate data into structured, valuable knowledge; and Generative AI, where they build custom AI tools and support AI-driven decision-making. Additionally, they provide managed services for Apache Airflow to simplify pipeline automation. DS STREAM emphasizes the seniority of its staff, noting that its engineers typically possess over 10 years of experience in their respective fields.\n\nLocated at 306/308 Grochowska Street, Warsaw (03-840), Poland, DS STREAM serves industries including FMCG, retail, e-commerce, healthcare, telco, finance, logistics, and water metering. A notable achievement includes implementing Europe's first AI voice bot for Iliada.pl, automating complex resort package sales. Their work often results in measurable improvements such as optimized sales processes, faster data processing times, and enhanced category management through predictive analytics and automated agentic AI solutions.",
+      "description_citation": "https://www.dsstream.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.dsstream.com",
+      "location": "306/308 Grochowska Street, Warsaw (03-840), Poland",
+      "location_citation": "https://www.dsstream.com",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.dsstream.com",
+      "technologies_used": [
+        {
+          "value": "Apache Airflow"
+        },
+        {
+          "value": "Databricks"
+        },
+        {
+          "value": "Machine Learning"
+        },
+        {
+          "value": "Generative AI"
+        },
+        {
+          "value": "MLOps"
+        },
+        {
+          "value": "Cloud Solutions"
+        },
+        {
+          "value": "Agentic AI"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Machine Learning & MLOps"
+        },
+        {
+          "value": "Generative AI"
+        },
+        {
+          "value": "Data Science & Analytics"
+        },
+        {
+          "value": "Data Engineering"
+        },
+        {
+          "value": "Cloud Solutions"
+        },
+        {
+          "value": "Apache Airflow Managed Services"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Category management with advanced analytics"
+        },
+        {
+          "value": "Automating resort package sales using AI voice bots"
+        },
+        {
+          "value": "Optimizing feature stores"
+        },
+        {
+          "value": "Predictive water metering"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "FMCG"
+        },
+        {
+          "value": "Retail"
+        },
+        {
+          "value": "E-commerce"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Telco"
+        },
+        {
+          "value": "Finance"
+        },
+        {
+          "value": "Logistics"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "Decision Point Advisors",
+      "company_name_citation": "https://www.dpadvisors.ca",
+      "description": "Decision Point Advisors is a specialized risk and assurance advisory firm dedicated to helping organizations navigate the complexities of the modern digital landscape. The company positions itself as a pioneer in providing assurance services, specifically focusing on helping global clients gain confidence and trust in their internal processes, technology systems, and data integrity. Their mission is to leverage emerging technologies to address the evolving challenges of achieving efficient and effective assurance in an increasingly automated world. The firm is led by a team of highly experienced and qualified professionals who provide specialized knowledge, resource support, and an essential independent perspective to every engagement.\n\nA core part of their value proposition is the integration of cutting-edge technology into traditional advisory roles. This includes a specific focus on Explainable AI, which allows businesses to utilize artificial intelligence while maintaining transparency and understanding of the underlying decision-making processes. Their service suite is comprehensive, covering critical areas such as IT assurance, rigorous control testing, data precision, and the verification of blockchain technologies. By offering a customized approach, Decision Point Advisors ensures that they solve the unique operational challenges faced by each business they work with.\n\nThe firm emphasizes a partnership-driven model where their advisors work closely with clients to find tailored solutions that align with their specific business goals and core values. Their expertise in Explainable AI positions them in the AI Ethics & Governance category, helping organizations unlock the power of AI while maintaining ethical standards and transparency. Decision Point Advisors serves global companies across various sectors requiring IT assurance and risk management, though their specific location and team size are not publicly disclosed.",
+      "description_citation": "https://www.dpadvisors.ca",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.dpadvisors.ca",
+      "location": "Not available",
+      "location_citation": "https://www.dpadvisors.ca",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.dpadvisors.ca",
+      "technologies_used": [
+        {
+          "value": "Explainable AI"
+        },
+        {
+          "value": "Blockchain"
+        },
+        {
+          "value": "IT Assurance frameworks"
+        },
+        {
+          "value": "Data precision tools"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Control Testing"
+        },
+        {
+          "value": "IT Assurance"
+        },
+        {
+          "value": "Blockchain Verification"
+        },
+        {
+          "value": "Data Precision"
+        },
+        {
+          "value": "Risk and Assurance Advisory"
+        },
+        {
+          "value": "Explainable AI advisory"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Achieving efficient assurance"
+        },
+        {
+          "value": "Gaining trust in technology and data"
+        },
+        {
+          "value": "Solving operational challenges"
+        },
+        {
+          "value": "Verifying blockchain transactions"
+        },
+        {
+          "value": "Implementing transparent AI"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Global companies requiring IT assurance and risk management"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "AI Ethics & Governance"
+        }
+      ]
+    },
+    {
+      "company_name": "Enterprise Health",
+      "company_name_citation": "https://www.enterprisehealth.com",
+      "description": "Enterprise Health is a provider of occupational health software that offers a comprehensive Electronic Health Record (EHR) platform specifically designed for large organizations, health systems, and government agencies. The company's primary focus is on integrating occupational health, compliance management, and employee engagement into a single, interoperable cloud-based system. Their solution is built to help enterprises create a culture of health, safety, and wellbeing, which they link to improved business results and increased return on investment.\n\nA central feature of their current platform is Ozwell AI, which is marketed as the first occupational health AI to be pDSI-certified by the Drummond Group. This certification indicates a focus on risk mitigation and administrative confidence. The software facilitates real-time collaboration across different organizational levels, connecting employees, clinicians, supervisors, and leadership. By automating complex workflows, the platform helps manage health surveillance programs, regulatory requirements, and diverse employee roles across multiple geographic locations.\n\nEnterprise Health also places a significant emphasis on data migration, providing specialized tools and services to help organizations transition from legacy or competing systems to their modern infrastructure. Their clients include global corporations, major federal and state government agencies, university systems, and third-party occupational medicine providers who require sophisticated tools to manage workforce health and safety at scale. The company can be contacted at info@enterprisehealth.com. Their platform serves industries including corporations in financial services, energy, and pharmaceuticals, as well as hospitals, health systems, government agencies, universities, and third-party occupational medicine providers.",
+      "description_citation": "https://www.enterprisehealth.com",
+      "business_email": "info@enterprisehealth.com",
+      "business_email_citation": "https://www.enterprisehealth.com",
+      "location": "Not available",
+      "location_citation": "https://www.enterprisehealth.com",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.enterprisehealth.com",
+      "technologies_used": [
+        {
+          "value": "Ozwell AI"
+        },
+        {
+          "value": "Cloud-based technology"
+        },
+        {
+          "value": "Interoperable EHR"
+        },
+        {
+          "value": "pDSI-certified AI"
+        },
+        {
+          "value": "Drummond-certified EHR"
+        },
+        {
+          "value": "Data migration tools"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Occupational health EHR"
+        },
+        {
+          "value": "Ozwell AI"
+        },
+        {
+          "value": "Compliance management"
+        },
+        {
+          "value": "Employee engagement platform"
+        },
+        {
+          "value": "Data migration services"
+        },
+        {
+          "value": "Health surveillance programs"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Migrating health data from legacy systems"
+        },
+        {
+          "value": "Managing occupational health across global sites"
+        },
+        {
+          "value": "Separating employee from patient data"
+        },
+        {
+          "value": "Managing faculty health"
+        },
+        {
+          "value": "Streamlining clinician-supervisor communication"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Corporations"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Government"
+        },
+        {
+          "value": "Universities"
+        },
+        {
+          "value": "Occupational Medicine Providers"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "ETH Technology",
+      "company_name_citation": "https://www.eth-tech.net",
+      "description": "ETH Technology (ETH-Tech) is a technology-focused enterprise dedicated to creating a better digital world through the application of advanced digital technologies. The company positions itself as a comprehensive service provider that creates value for customers across a wide variety of industries by helping them achieve digital transformation and operational efficiency. Their core philosophy revolves around using digital technology as a central tool to improve lives and business outcomes. The company's expertise is broad, spanning several high-tech domains including Artificial Intelligence, Big Data, Cloud Computing, the Internet of Things (IoT), and Blockchain. By integrating these technologies, ETH Technology provides one-stop technical solutions designed to help enterprises discover valuable insights within massive datasets and automate complex decision-making processes.\n\nTheir team consists of passionate professionals with deep industry knowledge who focus on research and development to ensure their solutions remain competitive and innovative. Beyond general software development for web, mobile, and desktop platforms, ETH Technology has established specialized footprints in sectors such as Intelligent Manufacturing, Financial Technology, and Intelligent Transportation. Their mission is to promote both business development and social progress by serving as a trusted technical partner. They emphasize a collaborative approach, continuous learning, and a commitment to helping clients improve productivity, reduce costs, and achieve higher business value through customized, high-quality technical implementations. The company serves industries including manufacturing, healthcare, finance, transportation, and education, utilizing technologies such as machine learning, deep learning, natural language processing, Big Data, Cloud Computing, IoT, and Blockchain.",
+      "description_citation": "https://www.eth-tech.net",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.eth-tech.net",
+      "location": "Not available",
+      "location_citation": "https://www.eth-tech.net",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.eth-tech.net",
+      "technologies_used": [
+        {
+          "value": "Machine learning"
+        },
+        {
+          "value": "Deep learning"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Big Data"
+        },
+        {
+          "value": "Cloud Computing"
+        },
+        {
+          "value": "IoT"
+        },
+        {
+          "value": "Blockchain"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Data Analysis and AI Solutions"
+        },
+        {
+          "value": "IoT Solutions"
+        },
+        {
+          "value": "Health management"
+        },
+        {
+          "value": "Software Development"
+        },
+        {
+          "value": "Financial Technology"
+        },
+        {
+          "value": "Intelligent Transportation Systems"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automating business decisions"
+        },
+        {
+          "value": "Digital transformation in manufacturing"
+        },
+        {
+          "value": "Health monitoring"
+        },
+        {
+          "value": "Transportation planning"
+        },
+        {
+          "value": "Educational data analysis"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Finance"
+        },
+        {
+          "value": "Transportation"
+        },
+        {
+          "value": "Education"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "Evolution Analytics",
+      "company_name_citation": "https://www.evolutionanalytics.com",
+      "description": "Evolution Analytics is a specialized data, AI, and analytics consulting firm that focuses on helping high-growth organizations drive smarter decision-making through advanced technology. The company positions itself as a strategic partner for businesses looking to transform their raw data into a valuable asset. Their service model revolves around a full life-cycle approach that guides organizations through three critical phases: strategic planning, building a robust analytics foundation, and leveraging artificial intelligence for advanced business insights.\n\nThe firm is comprised of a team of experienced consultants who specialize in data science solutions, advanced analytics, and AI-powered decision automation. They work closely with clients to move beyond conventional data approaches, aiming to uncover transformative opportunities that lead to long-term growth and success. Their methodology is designed to maximize the value of existing investments while streamlining complex decision-making processes. A core part of their technical strategy involves utilizing the Snowflake platform as a central hub for data operations. As Snowflake Partners, Evolution Analytics integrates governance, engineering, and AI/ML applications within the Snowflake ecosystem to deliver measurable ROI. They also work across major cloud platforms including AWS, Azure, and Google Cloud. The leadership team, boasting over 75 years of combined experience, emphasizes a pragmatic, business-focused approach. This ensures that every initiative, from data engineering to predictive modeling, aligns with the client's most pressing business needs and produces clear, impactful results. They serve industries including logistics, software, financial institutions, and general high-growth organizations.",
+      "description_citation": "https://www.evolutionanalytics.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.evolutionanalytics.com",
+      "location": "Not available",
+      "location_citation": "https://www.evolutionanalytics.com",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.evolutionanalytics.com",
+      "technologies_used": [
+        {
+          "value": "Snowflake"
+        },
+        {
+          "value": "AWS"
+        },
+        {
+          "value": "Azure"
+        },
+        {
+          "value": "Google Cloud"
+        },
+        {
+          "value": "AI/ML platforms"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Data Strategy and Planning"
+        },
+        {
+          "value": "Analytics Build and Optimization"
+        },
+        {
+          "value": "AI and Automation Enablement"
+        },
+        {
+          "value": "Data Governance"
+        },
+        {
+          "value": "Data Engineering"
+        },
+        {
+          "value": "AI & ML Consulting"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Digital transformation for logistics"
+        },
+        {
+          "value": "Data strategy development"
+        },
+        {
+          "value": "Strategic data investment"
+        },
+        {
+          "value": "AI-powered decision automation"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Logistics"
+        },
+        {
+          "value": "Software"
+        },
+        {
+          "value": "Financial Institutions"
+        },
+        {
+          "value": "High-Growth Organizations"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "Fortinet",
+      "company_name_citation": "https://www.fortinet.com",
+      "description": "Fortinet is a global leader in cybersecurity and networking innovation, focusing on the convergence of these two fields to enhance threat protection and network performance. The company provides a comprehensive cybersecurity platform designed to simplify management while securing diverse environments, including hybrid workforces, cloud infrastructures, and modern data centers. Fortinet is distinguished by its use of a single operating system, FortiOS, across its product line, and its proprietary FortiASIC technology, which is engineered to increase speed and efficiency while reducing the physical footprint and power requirements of security hardware.\n\nThe company serves over 700,000 customers worldwide, ranging from large enterprises and service providers to government organizations. Their offerings are organized into three primary pillars: Secure Networking, Unified SASE (Secure Access Service Edge), and Security Operations (SecOps). Fortinet also places a heavy emphasis on artificial intelligence through its FortiAI platform, which assists in defending against emerging threats and protecting AI workloads. They have recently expanded into securing \"AI Factories\" and data centers, collaborating with partners like NVIDIA to integrate security directly into accelerated infrastructure. Their global threat intelligence unit, FortiGuard Labs, processes over one trillion cloud events daily, ensuring that their automated security services are informed by real-time data to block malware and prevent attacks globally. The company serves industries including enterprises, service providers, government, hospitality, retail, automotive, manufacturing, energy, transportation, and critical infrastructure.",
+      "description_citation": "https://www.fortinet.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.fortinet.com",
+      "location": "United States",
+      "location_citation": "https://www.fortinet.com",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.fortinet.com",
+      "technologies_used": [
+        {
+          "value": "FortiOS"
+        },
+        {
+          "value": "FortiASIC"
+        },
+        {
+          "value": "NVIDIA BlueField"
+        },
+        {
+          "value": "5G"
+        },
+        {
+          "value": "SD-WAN"
+        },
+        {
+          "value": "ZTNA"
+        },
+        {
+          "value": "Cloud Firewall"
+        },
+        {
+          "value": "SIEM"
+        },
+        {
+          "value": "SOAR"
+        },
+        {
+          "value": "EDR"
+        },
+        {
+          "value": "XDR"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Next-Generation Firewall"
+        },
+        {
+          "value": "Ethernet Switching"
+        },
+        {
+          "value": "Wireless LAN"
+        },
+        {
+          "value": "FortiGuard AI-Powered Security"
+        },
+        {
+          "value": "FortiManager"
+        },
+        {
+          "value": "FortiCNAPP"
+        },
+        {
+          "value": "SOC Platform"
+        },
+        {
+          "value": "FortiAI"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Securing hybrid workforces"
+        },
+        {
+          "value": "Accelerating AI factory infrastructure"
+        },
+        {
+          "value": "Protecting LLMs from data leakage"
+        },
+        {
+          "value": "Enhancing IT efficiency"
+        },
+        {
+          "value": "Direct-to-cloud connectivity"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Enterprise"
+        },
+        {
+          "value": "Government"
+        },
+        {
+          "value": "Hospitality"
+        },
+        {
+          "value": "Retail"
+        },
+        {
+          "value": "Automotive"
+        },
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Energy"
+        },
+        {
+          "value": "Transportation"
+        },
+        {
+          "value": "Critical Infrastructure"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "Conversational AI"
+        }
+      ]
+    },
+    {
+      "company_name": "Tatung System Technologies",
+      "company_name_citation": "https://www.etatung.com",
+      "description": "Tatung System Technologies Inc. (tsti), known as 大世科, is a prominent ICT system integration and digital transformation service provider in Taiwan. The company focuses on assisting both government organizations and private enterprises in enhancing their operational efficiency and decision-making capabilities through advanced data analysis. Their core business model revolves around providing comprehensive digital transformation strategies, which include the integration of information and communication technology systems, professional consulting services, and cloud computing solutions. tsti is dedicated to maintaining high standards of data security and ensuring uninterrupted service for its clients, which has earned them recognition such as the BSI Digital Trust Excellence Award.\n\nThe company operates a specialized AI platform called ibo.ai, which focuses on intelligent customer service, virtual assistants, and semantic understanding to help businesses automate interactions. Furthermore, tsti acts as a major bridge between global technology providers and local markets, maintaining strong partnerships with industry leaders like Dell, HPE, Cisco, and NVIDIA. Their work spans across infrastructure deployment, such as smart storage and high-performance AI-driven servers, to specialized software applications in healthcare and smart security. By leveraging international security and privacy management standards, the company positions itself as a reliable partner for organizations looking to integrate AI and green energy goals into their long-term corporate governance. They serve government, enterprise, healthcare, and office sectors in Taiwan.",
+      "description_citation": "https://www.etatung.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.etatung.com",
+      "location": "Taiwan",
+      "location_citation": "https://www.etatung.com",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.etatung.com",
+      "technologies_used": [
+        {
+          "value": "ibo.ai platform"
+        },
+        {
+          "value": "Semantic understanding"
+        },
+        {
+          "value": "Cloud services"
+        },
+        {
+          "value": "Dell PowerEdge"
+        },
+        {
+          "value": "HPE Smart Storage"
+        },
+        {
+          "value": "Cisco"
+        },
+        {
+          "value": "NVIDIA AI infrastructure"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "ibo.ai Intelligent Text Robot Platform"
+        },
+        {
+          "value": "AI Virtual Assistants"
+        },
+        {
+          "value": "Smart Customer Service"
+        },
+        {
+          "value": "ICT System Integration"
+        },
+        {
+          "value": "Cloud Computing"
+        },
+        {
+          "value": "Smart Security"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automated customer service"
+        },
+        {
+          "value": "Government procurement"
+        },
+        {
+          "value": "AI-driven precision medicine"
+        },
+        {
+          "value": "Smart elderly care"
+        },
+        {
+          "value": "Enterprise data storage"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Government"
+        },
+        {
+          "value": "Enterprise"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Office/Commercial"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        }
+      ]
+    },
+    {
+      "company_name": "Fortress 5 Consulting",
+      "company_name_citation": "https://www.fortress5consulting.com",
+      "description": "Fortress 5 Consulting is a professional automation consultancy dedicated to helping contractors in the Metro Atlanta area streamline their business operations through the implementation of custom digital solutions. The company serves as a strategic partner for trade professionals, including HVAC companies, electricians, plumbers, and general contractors, by identifying operational bottlenecks and replacing manual efforts with sophisticated automated systems. Their primary mission is to empower business owners to move away from time-consuming administrative tasks so they can focus on scaling their businesses profitably and managing high-level project growth.\n\nThe firm's expertise spans several critical business domains, including lead generation, project management, and financial accounting. As QuickBooks Certified experts, they specialize in integrating financial tools with automated workflows to handle invoicing, expense tracking, and payment processing without manual intervention. Beyond simple tool recommendations, Fortress 5 Consulting designs bespoke systems that coordinate trades, track project progress, and manage complex timelines. By leveraging their status as AI workflow experts, they help modern contracting businesses implement smart systems that handle scheduling, dispatching, and customer communication. Located in Metro Atlanta, Georgia, the company serves industries including HVAC, electrical, plumbing, flooring, general contracting, and lawn care. Their comprehensive approach ensures that every lead is captured, qualified, and nurtured through automated sequences, ensuring no revenue opportunities are missed.",
+      "description_citation": "https://www.fortress5consulting.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.fortress5consulting.com",
+      "location": "Metro Atlanta, Georgia",
+      "location_citation": "https://www.fortress5consulting.com",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.fortress5consulting.com",
+      "technologies_used": [
+        {
+          "value": "QuickBooks"
+        },
+        {
+          "value": "AI Integration"
+        },
+        {
+          "value": "Automation systems"
+        },
+        {
+          "value": "Custom workflows"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Project Management Automation"
+        },
+        {
+          "value": "Business Process Automation"
+        },
+        {
+          "value": "Accounting Automation"
+        },
+        {
+          "value": "Lead Generation Automation"
+        },
+        {
+          "value": "AI Integration & Smart Systems"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Streamlining project workflows"
+        },
+        {
+          "value": "Tracking project progress"
+        },
+        {
+          "value": "Automating scheduling and dispatching"
+        },
+        {
+          "value": "Managing customer communication"
+        },
+        {
+          "value": "Automating invoicing and expense tracking"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "HVAC"
+        },
+        {
+          "value": "Electricians"
+        },
+        {
+          "value": "Plumbers"
+        },
+        {
+          "value": "Flooring"
+        },
+        {
+          "value": "General Contractors"
+        },
+        {
+          "value": "Lawn Care"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "FinServ Consulting",
+      "company_name_citation": "https://www.finservconsulting.com",
+      "description": "FinServ Consulting is a professional services firm established in 2005 that specializes in providing a unique combination of technology and business knowledge to the financial services industry. The company primarily serves leaders in the alternative asset management space, including top private equity firms, hedge funds, private credit clients, and their respective service providers. FinServ positions itself as a passionate problem-solver dedicated to helping organizations succeed by ensuring their technology and operations are effectively aligned with their business needs.\n\nThe company offers three main pillars of solutions: Business Advisory Services, Technology Services, and Managed Service Solutions. Under Business Advisory, they handle business process reengineering, information management, and vendor selections to prepare clients for technical and regulatory requirements. Their Technology Services focus on front-to-back office system integration and disciplined project management. For Managed Services, they provide white-glove, outsourced middle and back-office operations, specifically offering Workday HCM, Financials, and Salesforce-managed services from their offices in New York City and Mumbai. FinServ helps clients transform complex operational data into actionable insights and addresses key challenges through comprehensive operational assessments. They have a significant track record of success, having serviced clients with trillions in combined assets under management, including many of the top 100 private equity and hedge funds globally.",
+      "description_citation": "https://www.finservconsulting.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.finservconsulting.com",
+      "location": "New York City and Mumbai",
+      "location_citation": "https://www.finservconsulting.com",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.finservconsulting.com",
+      "technologies_used": [
+        {
+          "value": "Workday (HCM, Finance, Payroll)"
+        },
+        {
+          "value": "Salesforce"
+        },
+        {
+          "value": "SharePoint Online"
+        },
+        {
+          "value": "Cloud-based data platforms"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Business Advisory"
+        },
+        {
+          "value": "Technology Services"
+        },
+        {
+          "value": "Managed Service Solutions"
+        },
+        {
+          "value": "Business process reengineering"
+        },
+        {
+          "value": "System integration"
+        },
+        {
+          "value": "Project management"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Unlocking operational data insights"
+        },
+        {
+          "value": "Implementing AI in investor portals"
+        },
+        {
+          "value": "Transitioning to SharePoint Online"
+        },
+        {
+          "value": "Cash reconciliation with prime brokers"
+        },
+        {
+          "value": "Implementing Workday R1 2025"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Alternative asset management"
+        },
+        {
+          "value": "Private equity"
+        },
+        {
+          "value": "Hedge funds"
+        },
+        {
+          "value": "Private credit"
+        },
+        {
+          "value": "Third-party administrators"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "Emergent Mind",
+      "company_name_citation": "https://www.emergentmind.com",
+      "description": "Emergent Mind is a discovery and educational platform designed to help researchers, developers, and AI enthusiasts navigate the rapidly evolving landscape of scientific literature, primarily sourced from the arXiv preprint server. The platform addresses the problem of information overload in fields such as machine learning, artificial intelligence, and mathematics by aggregating trending papers based on social signals and engagement from platforms like X (formerly Twitter), Reddit, Hacker News, GitHub, and YouTube. By tracking which papers have \"caught fire\" online, the service helps users distinguish high-quality research from the high volume of daily submissions.\n\nBeyond simple aggregation, Emergent Mind offers advanced AI-driven features to help users understand complex research quickly. It utilizes large language models, including Google's Gemini and OpenAI's GPT models, to provide summaries, synthesize insights across multiple papers, and answer specific user queries about research topics. Key tools include \"Paper to Video,\" which converts research into watchable content, and automated whiteboard explanations. Users can search for specific topics and receive synthesized replies based on their needs. The site also tracks real-world social reactions to papers, allowing users to see what experts and the community are saying online. It offers a Pro tier that provides additional capabilities like selecting specific AI models for research analysis and downloading results in PDF or Markdown formats. The platform serves industries including AI and machine learning, academic research, software engineering, robotics, quantitative finance, and data science.",
+      "description_citation": "https://www.emergentmind.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.emergentmind.com",
+      "location": "Not available",
+      "location_citation": "https://www.emergentmind.com",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.emergentmind.com",
+      "technologies_used": [
+        {
+          "value": "arXiv API"
+        },
+        {
+          "value": "Gemini"
+        },
+        {
+          "value": "GPT"
+        },
+        {
+          "value": "PDF"
+        },
+        {
+          "value": "Markdown"
+        },
+        {
+          "value": "GitHub"
+        },
+        {
+          "value": "YouTube API"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Trending research discovery"
+        },
+        {
+          "value": "AI-generated summaries"
+        },
+        {
+          "value": "Paper to Video conversion"
+        },
+        {
+          "value": "Whiteboard explanations"
+        },
+        {
+          "value": "Social signal aggregation"
+        },
+        {
+          "value": "Research synthesis chat"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Tracking SOTA methods for R&D"
+        },
+        {
+          "value": "Preparing educational content"
+        },
+        {
+          "value": "Synthesizing research for academic projects"
+        },
+        {
+          "value": "Staying updated on AI trends"
+        },
+        {
+          "value": "Optimizing prompt engineering"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "AI and Machine Learning"
+        },
+        {
+          "value": "Academic Research"
+        },
+        {
+          "value": "Software Engineering"
+        },
+        {
+          "value": "Robotics"
+        },
+        {
+          "value": "Quantitative Finance"
+        },
+        {
+          "value": "Data Science"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "Fincantieri",
+      "company_name_citation": "https://www.fincantieri.com",
+      "description": "Fincantieri is a prominent global industrial group and a world leader in the complex shipbuilding industry. With a heritage spanning over two centuries, the company has established itself as a pioneer in maritime engineering, operating across three continents with a network of 18 shipyards and a workforce of over 23,000 employees. The group's core business is multifaceted, encompassing the design and construction of high-end cruise ships, sophisticated naval vessels, and specialized offshore units. Beyond traditional shipbuilding, Fincantieri has diversified into critical sectors such as underwater technology, infrastructure development, ship components, and luxury interior design for maritime vessels.\n\nA key strategic focus for the company is the \"Energy Transition,\" which serves as a pillar of its industrial plan. Fincantieri is actively pursuing an ambitious roadmap to achieve Net-Zero emissions by 2035. Digitalization is another core component of their strategy, exemplified by the integration of artificial intelligence and robotic systems into their fleet and operations. Their \"DEEP\" (Dynamic Ecosystem for Enhanced Performance) initiative highlights their leadership in the underwater domain, including the launch of integrated underwater drone systems for surveillance and exploration. Fincantieri has launched 'captAIn', the AI agent revolutionizing the group's digital communication. Through its subsidiaries like VARD and WASS, the group also provides robotic vessels and advanced defense systems. Headquartered in Trieste, Italy, Fincantieri serves industries including maritime, defense, cruise and tourism, energy, telecommunications, and underwater technology.",
+      "description_citation": "https://www.fincantieri.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.fincantieri.com",
+      "location": "Trieste, Italy",
+      "location_citation": "https://www.fincantieri.com",
+      "team_size": "23,000+ employees",
+      "team_size_citation": "https://www.fincantieri.com",
+      "technologies_used": [
+        {
+          "value": "LNG propulsion"
+        },
+        {
+          "value": "Fuel cells"
+        },
+        {
+          "value": "Batteries"
+        },
+        {
+          "value": "Dual-fuel ICEs"
+        },
+        {
+          "value": "AI agents"
+        },
+        {
+          "value": "Underwater drones"
+        },
+        {
+          "value": "Robotic vessels"
+        },
+        {
+          "value": "3D modeling"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Cruise ships"
+        },
+        {
+          "value": "Naval vessels"
+        },
+        {
+          "value": "Offshore vessels"
+        },
+        {
+          "value": "Underwater drone systems (DEEP)"
+        },
+        {
+          "value": "Ship components"
+        },
+        {
+          "value": "Maritime interiors"
+        },
+        {
+          "value": "Robotic multipurpose vessels"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Maritime defense"
+        },
+        {
+          "value": "Luxury cruise travel"
+        },
+        {
+          "value": "Underwater surveillance"
+        },
+        {
+          "value": "Offshore energy operations"
+        },
+        {
+          "value": "Submarine telecommunications"
+        },
+        {
+          "value": "Sustainable maritime transport"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Maritime"
+        },
+        {
+          "value": "Defense"
+        },
+        {
+          "value": "Cruise and Tourism"
+        },
+        {
+          "value": "Energy"
+        },
+        {
+          "value": "Telecommunications"
+        },
+        {
+          "value": "Underwater Technology"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "FreeDoc",
+      "company_name_citation": "https://www.freedoc.com",
+      "description": "FreeDoc is a professional information management and technology services firm that has been in operation for over 26 years, having been established in 1999. The company specializes in streamlining information for enterprise commercial businesses and government agencies through Enterprise Content Management (ECM) solutions in the cloud. They are recognized for their longevity and reliability in the sector, boasting a 92% customer retention rate after five years and managing over one billion records. Their extensive experience includes the processing of 10 billion images. FreeDoc operates as a specialized, tight-knit team of 15 individuals with an impressive average staff tenure of eight years, ensuring consistent expertise across all projects.\n\nThe company's core value proposition lies in its ability to provide a comprehensive, start-to-finish service model that combines high-level software and consulting with physical scanning and data migration. Their service suite includes records consulting, technical services, system migration, and professional document scanning. To support these operations, they maintain a state-of-the-art production workflow division equipped with 2.5 million dollars worth of technology dedicated to precise scanning and indexing. By representing leading ECM platforms and providing secure e-signature tools, FreeDoc helps organizations move away from physical file cabinets and disorganized shared drives into structured, cloud-based environments. Located in Washington State, with a team of 15 people, FreeDoc serves industries including government agencies, enterprise commercial business, legal services, accounting firms, and retail.",
+      "description_citation": "https://www.freedoc.com",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.freedoc.com",
+      "location": "Washington State",
+      "location_citation": "https://www.freedoc.com",
+      "team_size": "15 employees",
+      "team_size_citation": "https://www.freedoc.com",
+      "technologies_used": [
+        {
+          "value": "FileBound Cloud"
+        },
+        {
+          "value": "Laserfiche Cloud"
+        },
+        {
+          "value": "OneSpan Sign"
+        },
+        {
+          "value": "PSIcapture"
+        },
+        {
+          "value": "ECM Cloud software"
+        },
+        {
+          "value": "Digital identity verification"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Cloud-based ECM"
+        },
+        {
+          "value": "Records Management Consulting"
+        },
+        {
+          "value": "Technical Services"
+        },
+        {
+          "value": "System Migration"
+        },
+        {
+          "value": "Document Scanning and Indexing"
+        },
+        {
+          "value": "E-signature solutions"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Digitizing records for litigation"
+        },
+        {
+          "value": "Transitioning from paper to cloud storage"
+        },
+        {
+          "value": "Automating municipal records management"
+        },
+        {
+          "value": "Organizing document workflows for CPA firms"
+        },
+        {
+          "value": "Implementing secure e-signatures"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Government"
+        },
+        {
+          "value": "Enterprise"
+        },
+        {
+          "value": "Legal"
+        },
+        {
+          "value": "Accounting"
+        },
+        {
+          "value": "Retail"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Document AI"
+        }
+      ]
+    },
+    {
+      "company_name": "EVAWorks",
+      "company_name_citation": "https://www.evaworks.com",
+      "description": "EVAWorks provides elite executive virtual assistant (EVA) services specifically designed for founders and business leaders who need to scale their impact and reclaim their professional focus. The company differentiates itself through its \"Silicon Valley Trained\" approach, where assistants are mentored by executive assistants with over 40 years of experience in the Silicon Valley ecosystem. The service model is built on the premise that a founder's time is their most valuable asset, and by delegating administrative backlogs to high-caliber professionals, executives can transition from being overwhelmed to being strategically focused.\n\nThe company offers more than just a single point of contact; hiring an assistant through EVAWorks provides the client with a full support ecosystem. This includes a Dedicated Success Manager who ensures the EVA meets expectations, a collective community of intelligence where knowledge is shared among assistants, and on-call subject matter experts for technical needs. These experts assist with specialized tasks such as AI enablement, venue research, and complex travel logistics. The company advocates for a \"TEVA Transformation,\" which blends traditional administrative excellence with modern automation and AI-driven efficiency. Their assistants are trained to handle a wide variety of tasks including complex calendar management, drafting emails in the executive's voice, CRM maintenance, and expense tracking. The ultimate goal of the service is to allow leaders to stop managing their own calendars and start running their companies with intentionality and precision. Contact is available at careers@evaworks.com, serving startup founders, corporate executives, and business leaders.",
+      "description_citation": "https://www.evaworks.com",
+      "business_email": "careers@evaworks.com",
+      "business_email_citation": "https://www.facebook.com/groups/3413365622246783/posts/4056975864552419/",
+      "location": "Not available",
+      "location_citation": "https://www.evaworks.com",
+      "team_size": "Not available",
+      "team_size_citation": "https://www.evaworks.com",
+      "technologies_used": [
+        {
+          "value": "AI enablement tools"
+        },
+        {
+          "value": "Automation software"
+        },
+        {
+          "value": "CRM platforms"
+        },
+        {
+          "value": "Paperform"
+        },
+        {
+          "value": "Calendly"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Executive Virtual Assistant services"
+        },
+        {
+          "value": "Calendar Excellence"
+        },
+        {
+          "value": "Email Management"
+        },
+        {
+          "value": "Call Handling"
+        },
+        {
+          "value": "Travel Coordination"
+        },
+        {
+          "value": "CRM Excellence"
+        },
+        {
+          "value": "Expense Administration"
+        },
+        {
+          "value": "AI enablement"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Managing executive schedules"
+        },
+        {
+          "value": "Drafting professional emails"
+        },
+        {
+          "value": "Coordinating travel"
+        },
+        {
+          "value": "Maintaining customer relationship records"
+        },
+        {
+          "value": "Organizing financial documents"
+        },
+        {
+          "value": "Automating administrative workflows"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Startup founders"
+        },
+        {
+          "value": "Corporate executives"
+        },
+        {
+          "value": "Business leaders"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "Fraunhofer EMI",
+      "company_name_citation": "https://www.emi.fraunhofer.de",
+      "description": "Fraunhofer-Institut für Kurzzeitdynamik, Ernst-Mach-Institut (EMI) is a research-oriented organization that specializes in the study of high-speed physical processes through both experimental methods and advanced simulations. The institute's primary mission is to enhance safety and resilience across various critical sectors including defense, security, automotive, aerospace, and aviation. They focus on events that occur within extremely short timeframes, often fractions of a second, such as vehicle crashes, battery explosions, or high-speed impacts in space involving meteorites and orbital debris. By understanding these high-dynamic processes, the institute develops robust security concepts and technological solutions to protect society and infrastructure.\n\nThe institute operates across several strategic business fields. In the automotive sector, they address the challenges of electromobility and automated driving, particularly focusing on the crash safety of vehicle components. In defense and security, they analyze protection concepts for high-dynamic stress and develop sensor technology for ballistic applications. Their work in the aerospace sector involves investigating high-velocity impacts to improve satellite safety. Beyond physical testing, Fraunhofer EMI is heavily involved in digitalization and software development, creating numerical models for risk analysis, such as software for the safe disposal of unexploded ordnance. They also develop algorithms to analyze critical traffic situations of the future with precision. With 395 employees and locations in Freiburg, Efringen-Kirchen, and Kandern, Germany, Fraunhofer EMI serves industries including defense, security, automotive, space, aviation, and healthcare.",
+      "description_citation": "https://www.emi.fraunhofer.de",
+      "business_email": "Not available",
+      "business_email_citation": "https://www.emi.fraunhofer.de",
+      "location": "Freiburg, Efringen-Kirchen, and Kandern, Germany",
+      "location_citation": "https://www.emi.fraunhofer.de",
+      "team_size": "395 employees",
+      "team_size_citation": "https://www.emi.fraunhofer.de",
+      "technologies_used": [
+        {
+          "value": "Numerical models"
+        },
+        {
+          "value": "High-energy lasers"
+        },
+        {
+          "value": "X-ray simulation"
+        },
+        {
+          "value": "Radar technology"
+        },
+        {
+          "value": "Ballistic sensors"
+        },
+        {
+          "value": "Optical payloads"
+        },
+        {
+          "value": "Traffic analysis algorithms"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Security concepts"
+        },
+        {
+          "value": "Resilience management"
+        },
+        {
+          "value": "Risk analysis software"
+        },
+        {
+          "value": "Ballistic sensor development"
+        },
+        {
+          "value": "Satellite-based early warning"
+        },
+        {
+          "value": "Cancer diagnostic procedures"
+        },
+        {
+          "value": "Battery safety testing"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Analyzing automobile crashes"
+        },
+        {
+          "value": "Monitoring rocket launches via satellite"
+        },
+        {
+          "value": "Evaluating resilience strategies"
+        },
+        {
+          "value": "Supporting space market entry"
+        },
+        {
+          "value": "Simulating underground pressure waves"
+        },
+        {
+          "value": "Predicting critical traffic situations"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Defense"
+        },
+        {
+          "value": "Security"
+        },
+        {
+          "value": "Automotive"
+        },
+        {
+          "value": "Space"
+        },
+        {
+          "value": "Aviation"
+        },
+        {
+          "value": "Healthcare"
+        }
+      ],
+      "category_ids": [
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    }
+  ]
+}

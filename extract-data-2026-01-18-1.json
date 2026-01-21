@@ -1,0 +1,674 @@
+{
+  "companies": [
+    {
+      "company_name": "Supermicro",
+      "company_name_citation": "https://www.supermicro.com/en/about",
+      "description": "Supermicro (Super Micro Computer, Inc.) is a global leader in high-performance, high-efficiency server technology and innovation. Founded in San Jose, California, in 1993, the company provides end-to-end green computing solutions for Enterprise, Cloud, AI, and 5G Telco/Edge IT infrastructure. Supermicro is renowned for its 'First-to-Market' strategy, consistently being among the first to integrate the latest processing and storage technologies from partners like Intel, AMD, and NVIDIA. Their product portfolio includes a vast array of rack-scale total IT solutions, incorporating servers, storage systems, switches, and software, all designed to optimize performance while minimizing environmental impact and power consumption. The company's 'Building Block Solutions' approach allows for highly customizable and modular architectures, enabling customers to scale their infrastructure efficiently. In the realm of Artificial Intelligence, Supermicro offers some of the world's most powerful AI training and inferencing systems, including liquid-cooled GPU clusters and specialized edge AI servers. Their systems support advanced workloads like Large Language Models (LLMs), generative AI superclusters, and high-performance computing (HPC) simulations. With manufacturing facilities in Silicon Valley, Taiwan, and the Netherlands, Supermicro maintains a global footprint to serve hyperscale data centers and enterprises worldwide. The company emphasizes energy efficiency, achieving record performance-per-watt and helping customers achieve low Power Usage Effectiveness (PUE) in their data centers. Recognized by Fortune and IDC as a top-tier server supplier, Supermicro continues to drive innovation in liquid cooling, disaggregated architectures, and AI-ready hardware.",
+      "description_citation": "https://www.supermicro.com/en/about",
+      "business_email": "ir@supermicro.com",
+      "business_email_citation": "https://www.crunchbase.com/organization/super-micro-computer",
+      "location": "San Jose, California, USA",
+      "location_citation": "https://www.supermicro.com/en/about",
+      "team_size": "Over 3 million sq ft of manufacturing capacity globally; thousands of employees implied by revenue and scale",
+      "team_size_citation": "https://www.supermicro.com/en/about",
+      "technologies_used": [
+        {
+          "value": "Intel Xeon Processors",
+          "value_citation": "https://www.supermicro.com/en/about"
+        },
+        {
+          "value": "AMD EPYC Processors",
+          "value_citation": "https://www.supermicro.com/en/about"
+        },
+        {
+          "value": "NVIDIA GPUs (A100, V100, Blackwell, H100/H200)",
+          "value_citation": "https://www.supermicro.com/en/about"
+        },
+        {
+          "value": "NVMe and All-Flash Storage",
+          "value_citation": "https://www.supermicro.com/en/solutions/ai-deep-learning"
+        },
+        {
+          "value": "Liquid-to-chip Direct Cooling",
+          "value_citation": "https://www.supermicro.com/en/solutions/ai-deep-learning"
+        },
+        {
+          "value": "NVIDIA Omniverse / OVX",
+          "value_citation": "https://www.supermicro.com/en/solutions/ai-deep-learning"
+        },
+        {
+          "value": "NVLink & NVSwitch Interconnects",
+          "value_citation": "https://www.supermicro.com/en/solutions/ai-deep-learning"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Rack-Scale Total IT Solutions",
+          "value_citation": "https://www.supermicro.com/en/about"
+        },
+        {
+          "value": "Generative AI SuperClusters",
+          "value_citation": "https://www.supermicro.com/en/solutions/ai-deep-learning"
+        },
+        {
+          "value": "Edge AI & Outdoor Server Platforms",
+          "value_citation": "https://www.supermicro.com/en/about"
+        },
+        {
+          "value": "AI Training and Inferencing Systems",
+          "value_citation": "https://www.supermicro.com/en/about"
+        },
+        {
+          "value": "High-Performance Computing (HPC) Solutions",
+          "value_citation": "https://www.supermicro.com/en/solutions/ai-deep-learning"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Training massive LLMs from scratch",
+          "value_citation": "https://www.supermicro.com/en/solutions/ai-deep-learning"
+        },
+        {
+          "value": "Real-time edge analytics for healthcare and retail",
+          "value_citation": "https://www.supermicro.com/en/solutions/ai-deep-learning"
+        },
+        {
+          "value": "3-D digital twin creation and virtual production",
+          "value_citation": "https://www.supermicro.com/en/solutions/ai-deep-learning"
+        },
+        {
+          "value": "High-efficiency data center deployments with low PUE",
+          "value_citation": "https://www.supermicro.com/en/about"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Cloud Service Providers",
+          "value_citation": "https://www.supermicro.com/en/about"
+        },
+        {
+          "value": "Telecommunications (5G/Edge)",
+          "value_citation": "https://www.supermicro.com/en/about"
+        },
+        {
+          "value": "Financial Services",
+          "value_citation": "https://www.supermicro.com/en/solutions/ai/finance"
+        },
+        {
+          "value": "Healthcare & Life Sciences",
+          "value_citation": "https://www.supermicro.com/en/solutions/ai-deep-learning"
+        },
+        {
+          "value": "Manufacturing & Media",
+          "value_citation": "https://www.supermicro.com/en/solutions/ai-deep-learning"
+        }
+      ],
+      "categories": [
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://www.supermicro.com/en/solutions/ai-deep-learning"
+        },
+        {
+          "value": "Edge AI & IoT",
+          "value_citation": "https://www.supermicro.com/en/solutions/ai-deep-learning"
+        },
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://www.supermicro.com/en/solutions/ai-deep-learning"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://www.supermicro.com/en/solutions/ai-deep-learning"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.supermicro.com/en/solutions/ai-deep-learning"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.supermicro.com/en/about"
+        }
+      ]
+    },
+    {
+      "company_name": "Syntiant",
+      "company_name_citation": "https://www.syntiant.com/",
+      "description": "Syntiant Corp. is a leader in delivering end-to-end deep learning solutions for always-on edge applications. Founded in 2017 and headquartered in Irvine, California, the company specializes in ultra-low-power semiconductor and software solutions that bring high-performance AI to battery-powered devices. Syntiant's flagship products are its Neural Decision Processors (NDPs), which are custom-built silicon chips designed to run deep learning models with up to 100x the efficiency and 10-30x the throughput of traditional microcontrollers. This breakthrough technology enables near-zero-latency, real-time data processing for audio, video, speech, and sensor data without the need for cloud connectivity. To complement its hardware, Syntiant provides hardware-agnostic deep learning software models and a streamlined training pipeline optimized for edge deployment. Their models can be deployed on legacy CPUs and GPUs as well as state-of-the-art neural accelerators. Syntiant's solutions are widely deployed in millions of devices, ranging from hearing aids and smartphones to automobiles and industrial sensors. Typical applications include wake-word detection, keyword spotting, acoustic event recognition, video enhancement for teleconferencing, and real-time battery health monitoring. By combining efficient silicon with optimized models, Syntiant empowers developers to embed intelligence into devices where power and space constraints previously made AI implementation impossible. The company is ISO 9001:2015 certified and has received numerous industry accolades for its innovation in edge AI and its commitment to a collaborative, high-growth culture.",
+      "description_citation": "https://www.syntiant.com/about",
+      "business_email": "join@syntiant.com",
+      "business_email_citation": "https://www.syntiant.com/about",
+      "location": "Irvine, California, USA",
+      "location_citation": "https://www.linkedin.com/company/syntiant-corp",
+      "team_size": "Approximately 158 employees",
+      "team_size_citation": "https://pitchbook.com/profiles/company/184026-16",
+      "technologies_used": [
+        {
+          "value": "Neural Decision Processors (NDPs)",
+          "value_citation": "https://www.syntiant.com/about"
+        },
+        {
+          "value": "Hardware-agnostic Deep Learning Models",
+          "value_citation": "https://www.syntiant.com/about"
+        },
+        {
+          "value": "MEMS Microphones and Vibration Sensors",
+          "value_citation": "https://www.syntiant.com/products"
+        },
+        {
+          "value": "Edge-optimized Training Pipelines",
+          "value_citation": "https://www.syntiant.com/about"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "On-device AI Hardware (NDPs)",
+          "value_citation": "https://www.syntiant.com/products"
+        },
+        {
+          "value": "Acoustic Event Detection for Security",
+          "value_citation": "https://www.syntiant.com/about"
+        },
+        {
+          "value": "Real-time Battery Health Monitoring",
+          "value_citation": "https://www.syntiant.com/about"
+        },
+        {
+          "value": "Voice-first Interfaces (Wake-word/Keyword spotting)",
+          "value_citation": "https://www.syntiant.com/products"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Hearing aid sound enhancement",
+          "value_citation": "https://www.syntiant.com/about"
+        },
+        {
+          "value": "Automotive voice control and sensing",
+          "value_citation": "https://www.syntiant.com/about"
+        },
+        {
+          "value": "Teleconferencing video processing",
+          "value_citation": "https://www.syntiant.com/about"
+        },
+        {
+          "value": "Security monitoring via audio event classification",
+          "value_citation": "https://www.syntiant.com/about"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Consumer Electronics",
+          "value_citation": "https://www.syntiant.com/products"
+        },
+        {
+          "value": "Automotive",
+          "value_citation": "https://www.syntiant.com/products"
+        },
+        {
+          "value": "Industrial IoT",
+          "value_citation": "https://www.syntiant.com/products"
+        },
+        {
+          "value": "Security & Surveillance",
+          "value_citation": "https://www.syntiant.com/about"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Voice AI",
+          "value_citation": "https://www.syntiant.com/products"
+        },
+        {
+          "value": "Edge AI & IoT",
+          "value_citation": "https://www.syntiant.com/about"
+        },
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://www.syntiant.com/about"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.syntiant.com/products"
+        },
+        {
+          "value": "MLOps & Infrastructure",
+          "value_citation": "https://www.syntiant.com/about"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://www.syntiant.com/about"
+        },
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://www.syntiant.com/products"
+        }
+      ]
+    },
+    {
+      "company_name": "Teneo AI",
+      "company_name_citation": "https://www.teneo.ai/about-us",
+      "description": "Teneo AI, a subsidiary of Artificial Solutions, is a global leader in conversational AI and contact center automation. Publicly traded on Nasdaq First North, the company specializes in leveraging Large Language Models (LLMs) and generative AI technology to transform customer service. Their mission is to replace legacy, keypad-driven Interactive Voice Response (IVR) systems with intuitive, AI-powered voice conversations that mimic natural human dialogue. The Teneo platform allows enterprises to build, deploy, and scale complex conversational interfaces across multiple languages and channels. By integrating with existing Contact Center as a Service (CCaaS) platforms and CRM systems, Teneo AI helps organizations resolve customer inquiries faster, reduce wait times, and achieve high levels of accuracy. The platform features advanced LLM orchestration, enabling Retrieval-Augmented Generation (RAG) to provide grounded and reliable responses. Teneo's technology is trusted by hundreds of enterprises, including major names like Swisscom, HelloFresh, Skoda, and Telefonica. The company emphasizes ROI through its 'AI ROI Calculator' and professional services that guide clients from proof-of-concept to global deployment. With a focus on scalability and security, Teneo AI positions itself as the future of enterprise customer service, driving efficiency through 'Agentic AI' that can reason and execute tasks autonomously. The organization also maintains a commitment to diversity and continuous innovation in the field of voice AI.",
+      "description_citation": "https://www.teneo.ai/about-us",
+      "location": "Stockholm, Sweden",
+      "location_citation": "https://pitchbook.com/profiles/company/57047-23",
+      "team_size": "Approximately 59-80 employees",
+      "team_size_citation": "https://pitchbook.com/profiles/company/57047-23",
+      "technologies_used": [
+        {
+          "value": "Generative AI & LLMs (e.g., GPT)",
+          "value_citation": "https://www.teneo.ai/about-us"
+        },
+        {
+          "value": "Retrieval-Augmented Generation (RAG)",
+          "value_citation": "https://www.teneo.ai/demo/rag"
+        },
+        {
+          "value": "LLM Orchestration",
+          "value_citation": "https://www.teneo.ai/platform/teneo-llm-orchestration"
+        },
+        {
+          "value": "Teneo Conversational AI Platform",
+          "value_citation": "https://www.teneo.ai/platform"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI-Powered IVR Replacement",
+          "value_citation": "https://www.teneo.ai/about-us"
+        },
+        {
+          "value": "Conversational AI for Contact Centers",
+          "value_citation": "https://www.teneo.ai/blog/introducing-teneo-agentic-ai-the-future-of-contact-centers"
+        },
+        {
+          "value": "Agentic AI Development",
+          "value_citation": "https://www.teneo.ai/blog/introducing-teneo-agentic-ai-the-future-of-contact-centers"
+        },
+        {
+          "value": "Voice AI and Service Automation",
+          "value_citation": "https://www.teneo.ai/blog/artificial-solutions-announces-rebrand-to-teneo-ai-signaling-a-new-era-in-voice-ai-and-customer-service-automation"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automating phone-based customer support",
+          "value_citation": "https://www.teneo.ai/about-us"
+        },
+        {
+          "value": "Scaling customer service across global brands",
+          "value_citation": "https://www.teneo.ai/blog/decagon-ai-overview-best-alternatives-in-2026"
+        },
+        {
+          "value": "Reducing contact center wait times via AI Agents",
+          "value_citation": "https://www.teneo.ai/blog/introducing-teneo-agentic-ai-the-future-of-contact-centers"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Telecommunications",
+          "value_citation": "https://www.teneo.ai/about-us"
+        },
+        {
+          "value": "Automotive",
+          "value_citation": "https://www.teneo.ai/about-us"
+        },
+        {
+          "value": "Retail & Food Services",
+          "value_citation": "https://www.teneo.ai/about-us"
+        },
+        {
+          "value": "Financial Services",
+          "value_citation": "https://www.teneo.ai/platform"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://www.teneo.ai/about-us"
+        },
+        {
+          "value": "Voice AI",
+          "value_citation": "https://www.teneo.ai/about-us"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://www.teneo.ai/demo/rag"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.teneo.ai/about-us"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.teneo.ai/about-us"
+        }
+      ]
+    },
+    {
+      "company_name": "teX.ai (by Indium Software)",
+      "company_name_citation": "https://www.tex-ai.com/about-us/",
+      "description": "teX.ai is a leading SaaS-based text analytics platform developed by Indium Software. It is designed to solve the challenge of deriving structured insights from vast amounts of unstructured text data. The platform leverages advanced Artificial Intelligence, including Deep Learning and Natural Language Processing (NLP), to extract data, summarize information, and classify content with high precision. Key features of teX.ai include automated table extraction from PDFs and images using computer vision, topic modeling to identify key phrases in reviews and complaints, and large-scale document categorization. Unlike traditional template-based capture tools, teX.ai requires no manual template design, making it highly flexible for varying document structures. Indium Software, the parent company, is a global digital engineering firm with over 20 years of experience and a team of 2,000+ associates. teX.ai integrates seamlessly into existing enterprise workflows to reduce manual data entry and accelerate time-to-insight. It has been recognized by industry bodies like Forbes and G2 for its innovative approach to text analytics. The platform serves a wide range of industries, from financial services and e-commerce to healthcare and manufacturing. By automating the extraction of entities like batch numbers, dates, and tabular data, teX.ai helps organizations improve accuracy, ensure compliance, and drive data-driven decision making. The solution is available as a cloud-based SaaS, supporting both global enterprises and digital-native startups.",
+      "description_citation": "https://www.tex-ai.com/about-us/",
+      "location": "Washington, USA (Headquarters of Texora AI/Indium)",
+      "location_citation": "https://www.linkedin.com/company/texora-ai",
+      "team_size": "Over 2,000 associates (Indium Software total size)",
+      "team_size_citation": "https://www.tex-ai.com/about-us/",
+      "technologies_used": [
+        {
+          "value": "Deep Learning",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Natural Language Processing (NLP)",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Computer Vision (Tabular Detection)",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Optical Character Recognition (OCR)",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "SaaS Text Analytics Platform",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Automated Table Extraction",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Content Classification and Summarization",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Entity Recognition and Extraction",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Extracting tables from complex PDF documents",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Analyzing customer reviews for topic and sentiment",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Categorizing millions of product descriptions for routing",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Financial document analysis and data preparation",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Financial Services & Research",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "E-commerce & Retail",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Manufacturing",
+          "value_citation": "https://www.indiumsoftware.com/success_stories/Multi-Language-Text-Extraction-using-teX.ai-in-the-Manufacturing-Industry.pdf"
+        },
+        {
+          "value": "Customer Support",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Document AI",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.tex-ai.com/about-us/"
+        }
+      ]
+    },
+    {
+      "company_name": "Zendesk",
+      "company_name_citation": "https://www.zendesk.com/service/ai/",
+      "description": "Zendesk is a global leader in customer service and engagement software, now deeply integrated with Artificial Intelligence through its 'Zendesk AI' suite. Founded in 2007 and headquartered in San Francisco, the company provides a complete service solution for both customers and employees. Zendesk AI is powered by advanced Large Language Models (LLMs) from OpenAI, enabling features like AI Agents, Agent Copilot, and automated quality assurance. These 'agentic AI' solutions are capable of reasoning, adapting, and independently resolving over 80% of customer interactions without the need for manual model training. The platform includes pre-trained intent models for over ten industries, including financial services, retail, and healthcare, allowing for rapid deployment and high accuracy. Zendesk's AI Agent Copilot supports human agents with real-time context, suggested replies, and tone adjustment, while Admin Copilot provides guidance for workflow optimization. The company emphasizes 'AI You Can Trust,' focusing on data privacy, security, and ethical AI governance (GDPR/CCPA compliance). Zendesk serves over 100,000 customers globally, helping brands like Lush, Freedom Furniture, and UrbanStems reduce operational costs and improve customer satisfaction. Their unified platform integrates messaging, voice, chat, and email, creating a seamless omnichannel experience. With a strong focus on ROI, Zendesk reports significant savings for its clients, such as hundreds of thousands of dollars in annual cost reductions and dramatic improvements in one-touch resolution rates. The organization continues to innovate in conversational AI and automation, positioning itself at the forefront of the AI-driven service transformation.",
+      "description_citation": "https://www.zendesk.com/service/ai/",
+      "location": "San Francisco, California, USA",
+      "location_citation": "https://www.zendesk.com/company/about-us/",
+      "team_size": "Thousands of employees (over 6,000 listed in recent reports)",
+      "team_size_citation": "https://www.zendesk.com/company/about-us/",
+      "technologies_used": [
+        {
+          "value": "OpenAI Large Language Models",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "Proprietary Zendesk Intent Models",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "Omnichannel Messaging Platforms",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "AI-driven Insights and Dashboards",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "AI Agents (Agentic AI)",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "Agent Copilot and Admin Copilot",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "Conversational AI tone-matching",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "AI-driven Employee Service",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Resolving 80%+ of customer queries autonomously",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "Reducing handle time by up to 92% in retail",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "Providing proactive agent assistance via Copilot",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "Ensuring compliance and privacy in AI-driven service",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Retail & E-commerce",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "Financial Services & Insurance",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "Healthcare",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "Technology & Software",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "Manufacturing & Government",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Conversational AI",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "LLM Agents & RAG",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "AI Ethics & Governance",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "Voice AI",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://www.zendesk.com/service/ai/"
+        }
+      ]
+    },
+    {
+      "company_name": "Zia Consulting",
+      "company_name_citation": "https://www.ziaconsulting.com/about-us/",
+      "description": "Zia Consulting is a premier professional services firm specializing in Enterprise Content Management (ECM) and Intelligent Document Capture. Based in Boulder, Colorado, with offices in Los Angeles, the firm helps organizations modernize their business processes by automating the capture, classification, and extraction of data from complex documents. Zia is a strategic partner of Hyland | Alfresco and Ephesoft, leveraging these platforms to deliver 'Intelligent Document Processing' solutions that reduce manual labor and human error. Their core offering, Easy RM (Records Management), provides a DoD 5015.02-certified solution that integrates compliance into daily employee workflows via Microsoft SharePoint and Office 365. Zia's approach utilizes operator-assisted machine learning, which allows for high accuracy in document classification with minimal training data. Their solutions are platform-agnostic, supporting cloud, on-premises, and hybrid deployments. Beyond technology implementation, Zia provides strategic consulting to address process inefficiencies in document-intensive industries such as insurance, finance, and the public sector. The firm's expertise extends to workflow automation, records lifecycle administration, and digital mailroom transformation. By integrating Machine Learning and Computer Vision for OCR and handwriting recognition, Zia enables companies to turn unstructured content into actionable data. With a focus on governance, security, and ROI, Zia Consulting empowers enterprises to achieve digital transformation and regulatory compliance (GDPR/HIPAA) through automated content governance and intelligent automation.",
+      "description_citation": "https://www.ziaconsulting.com/intelligent-document-capture/",
+      "business_email": "info@ziaconsulting.com",
+      "business_email_citation": "https://www.ziaconsulting.com",
+      "location": "Boulder, Colorado & Los Angeles, California, USA",
+      "location_citation": "https://www.linkedin.com/company/zia-consulting",
+      "team_size": "11-50 employees (LinkedIn profile); 51-200 (LinkedIn range)",
+      "team_size_citation": "https://www.linkedin.com/company/zia-consulting",
+      "technologies_used": [
+        {
+          "value": "Hyland | Alfresco Governance Services",
+          "value_citation": "https://www.ziaconsulting.com/zia-records-management/"
+        },
+        {
+          "value": "Ephesoft Transact (Intelligent Capture)",
+          "value_citation": "https://www.ziaconsulting.com/intelligent-document-capture/"
+        },
+        {
+          "value": "Operator-Assisted Machine Learning",
+          "value_citation": "https://www.ziaconsulting.com/intelligent-document-capture/"
+        },
+        {
+          "value": "OCR and Computer Vision",
+          "value_citation": "https://www.ziaconsulting.com/intelligent-document-capture/"
+        },
+        {
+          "value": "Microsoft SharePoint and Office 365",
+          "value_citation": "https://www.ziaconsulting.com/zia-records-management/"
+        }
+      ],
+      "solutions": [
+        {
+          "value": "Intelligent Document Capture & Classification",
+          "value_citation": "https://www.ziaconsulting.com/intelligent-document-capture/"
+        },
+        {
+          "value": "Easy Records Management (Easy RM)",
+          "value_citation": "https://www.ziaconsulting.com/zia-records-management/"
+        },
+        {
+          "value": "Enterprise Content Management (ECM) Strategy",
+          "value_citation": "https://www.ziaconsulting.com/enterprise-content-management/"
+        },
+        {
+          "value": "Automated In-process Records Management",
+          "value_citation": "https://www.ziaconsulting.com/zia-records-management/"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automating invoice and claims processing",
+          "value_citation": "https://www.ziaconsulting.com/intelligent-document-capture/"
+        },
+        {
+          "value": "Digitizing legacy paper records for audit readiness",
+          "value_citation": "https://www.ziaconsulting.com/zia-records-management/"
+        },
+        {
+          "value": "Centralizing document governance across SharePoint/Office 365",
+          "value_citation": "https://www.ziaconsulting.com/zia-records-management/"
+        },
+        {
+          "value": "Reducing manual data entry and human error in claims",
+          "value_citation": "https://www.ziaconsulting.com/intelligent-document-capture/"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Insurance & Financial Services",
+          "value_citation": "https://www.ziaconsulting.com/automation-staffing-industry/"
+        },
+        {
+          "value": "Public Sector & Government",
+          "value_citation": "https://www.ziaconsulting.com/zia-records-management/"
+        },
+        {
+          "value": "Healthcare & Life Sciences",
+          "value_citation": "https://www.ziaconsulting.com/enterprise-content-management/"
+        },
+        {
+          "value": "Legal & Corporate Compliance",
+          "value_citation": "https://www.ziaconsulting.com/zia-records-management/"
+        }
+      ],
+      "categories": [
+        {
+          "value": "Document AI",
+          "value_citation": "https://www.ziaconsulting.com/intelligent-document-capture/"
+        },
+        {
+          "value": "Automation & Workflow",
+          "value_citation": "https://www.ziaconsulting.com/intelligent-document-capture/"
+        },
+        {
+          "value": "Computer Vision",
+          "value_citation": "https://www.ziaconsulting.com/intelligent-document-capture/"
+        },
+        {
+          "value": "Natural Language Processing",
+          "value_citation": "https://www.ziaconsulting.com/intelligent-document-capture/"
+        },
+        {
+          "value": "Predictive Analytics",
+          "value_citation": "https://www.ziaconsulting.com/enterprise-content-management/"
+        }
+      ]
+    }
+  ]
+}

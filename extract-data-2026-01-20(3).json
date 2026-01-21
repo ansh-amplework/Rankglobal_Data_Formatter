@@ -1,0 +1,3449 @@
+{
+  "companies": [
+    {
+      "company_name": "Simplex Inc.",
+      "company_name_citation": "https://www.simplex.inc",
+      "description": "Simplex Inc. (シンプレクス株式会社) is a professional group well-versed in both business and technology, positioning itself as a hybrid partner essential for Digital Transformation (DX). The company distinguishes itself by taking full responsibility for the entire project lifecycle, holding responsibility for everything from strategy to design, development, and operation/maintenance, providing solutions in an end-to-end manner. This integrated approach is known as the \"Simplex Way,\" where business and technology experts work as a single team to function as active players in their clients' success.\n\nThe company's foundation is built on extensive know-how cultivated through building mission-critical systems that support the core operations of financial institutions and developing financial services that bring new user experiences. This background has allowed them to merge business strategy planning capabilities with the advanced implementation power of cutting-edge technology. Their operational philosophy focuses on thinking and creating transformation together with customers, which involves supporting DX initiatives for public institutions, financial institutions, and industry-leading companies.\n\nTheir service pillars include rapid financial service launches, UI/UX design centered on user experience, cloud introduction aligned with business strategy, and consulting for DX promotion. They are heavily invested in emerging fields, providing AI solutions that range from strategy formulation to business implementation and web3 expertise covering crypto assets, the metaverse, and NFTs. The company also offers RPA (Robotic Process Automation) solutions for business process improvement, paperless initiatives, and remote work monitoring systems. By maintaining a focus on high-added value and mission-critical reliability, Simplex serves as a strategic partner for organizations navigating complex technological shifts in sectors including banking, securities, insurance, FX, crypto assets, construction, public sector, manufacturing, and entertainment.",
+      "description_citation": "https://www.simplex.inc",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.simplex.inc",
+      "location": "Not found",
+      "location_citation": "https://www.simplex.inc",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.simplex.inc",
+      "technologies_used": [
+        {
+          "value": "Cloud"
+        },
+        {
+          "value": "AI"
+        },
+        {
+          "value": "Web3"
+        },
+        {
+          "value": "Blockchain"
+        },
+        {
+          "value": "NFT"
+        },
+        {
+          "value": "Flutter"
+        },
+        {
+          "value": "Microservices"
+        },
+        {
+          "value": "API"
+        },
+        {
+          "value": "DevOps"
+        },
+        {
+          "value": "Agile Development"
+        },
+        {
+          "value": "RPA"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Financial Services Development"
+        },
+        {
+          "value": "UI/UX Design"
+        },
+        {
+          "value": "Cloud"
+        },
+        {
+          "value": "Consulting"
+        },
+        {
+          "value": "AI and Data Utilization"
+        },
+        {
+          "value": "Web3"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Mission-critical system construction"
+        },
+        {
+          "value": "Digital transformation"
+        },
+        {
+          "value": "Paperless initiatives"
+        },
+        {
+          "value": "Remote work monitoring"
+        },
+        {
+          "value": "Earnings analysis"
+        },
+        {
+          "value": "Personal asset management"
+        },
+        {
+          "value": "Risk management"
+        },
+        {
+          "value": "Regulatory compliance"
+        },
+        {
+          "value": "Metaverse and NFT applications"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Banking"
+        },
+        {
+          "value": "Securities"
+        },
+        {
+          "value": "Insurance"
+        },
+        {
+          "value": "FX"
+        },
+        {
+          "value": "Crypto Assets"
+        },
+        {
+          "value": "Construction"
+        },
+        {
+          "value": "Public Sector"
+        },
+        {
+          "value": "Manufacturing"
+        },
+        {
+          "value": "Entertainment"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "Simular",
+      "company_name_citation": "https://www.simular.ai",
+      "description": "Simular identifies itself as The Autonomous Computer Company, operating on the fundamental belief that humans should not be bound to computers. The organization asserts that AI should instead free people from devices to enable a better, more human life. To achieve this vision, the company develops research-driven AI agents that are designed to be immediately usable for a broad audience.\n\nThe company is deeply rooted in frontier AI research, with a team that has been researching AI agents since 2017. Their technical prowess is evidenced by their performance in rigorous industry benchmarks. Simular ranked #1 in the OSWorld Computer Use Benchmark, achieving a success rate of 72.6 percent, which the company characterizes as \"super-human\" performance. Additionally, they received the Best Paper Award at the ICLR 2025 Agentic AI for Science workshop. Their agents demonstrate high success rates across different digital environments, including a 90.1 percent success rate on the WebVoyager benchmark for browser use and a 71.6 percent success rate on AndroidWorld for smartphone use.\n\nThe primary product offering is Simular Pro, which is an advanced computer use agent platform made specifically for professional users. This platform features a highly capable agent that automates nearly everything a human can do across the entire desktop computer environment. The product is built for production-grade reliability, designed to handle complex workflows ranging from thousands to over millions of steps. A key differentiator for the company is its commitment to \"Transparent Execution,\" where every action is readable, inspectable, and modifiable, ensuring there are no black boxes.\n\nBeyond its professional platform, the company offers Simular Cloud, which allows users to run their newest open-source general agent (Agent-S) directly in a web-based environment. This service includes options for a free public computer or a dedicated private computer starting at $50 per month. The company also emphasizes its \"Simular for Business\" solution, which provides a flexible automated workforce for next-generation operation teams to handle digital workflows. By open-sourcing their tools and building in public, Simular aims to bridge the gap between theoretical AI research and practical utility, making advanced AI agents accessible to anyone.",
+      "description_citation": "https://www.simular.ai",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.simular.ai",
+      "location": "Not found",
+      "location_citation": "https://www.simular.ai",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.simular.ai",
+      "technologies_used": [
+        {
+          "value": "Agent-S"
+        },
+        {
+          "value": "OSWorld"
+        },
+        {
+          "value": "WebVoyager"
+        },
+        {
+          "value": "AndroidWorld"
+        },
+        {
+          "value": "Simular Pro"
+        },
+        {
+          "value": "Simular Cloud"
+        },
+        {
+          "value": "GitHub"
+        },
+        {
+          "value": "Webhooks"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Simular Pro"
+        },
+        {
+          "value": "Simular Cloud"
+        },
+        {
+          "value": "Simular for Business"
+        },
+        {
+          "value": "Open Source AI Agents"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Influencer research and data population"
+        },
+        {
+          "value": "Content creation from research papers"
+        },
+        {
+          "value": "Market research and price comparison"
+        },
+        {
+          "value": "Lead generation and data mining"
+        },
+        {
+          "value": "Desktop automation"
+        },
+        {
+          "value": "Browser automation"
+        },
+        {
+          "value": "Smartphone automation"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Operations"
+        },
+        {
+          "value": "Science and Research"
+        },
+        {
+          "value": "Professional Services"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        }
+      ]
+    },
+    {
+      "company_name": "Innovation Point (Soren Kaplan)",
+      "company_name_citation": "https://www.sorenkaplan.com",
+      "description": "Soren Kaplan is a boutique professional services and consulting firm led by Dr. Soren Kaplan, a Wall Street Journal bestselling author and award-winning expert. The organization focuses on guiding innovative leaders through the disruptive transitions of our time by providing a bridge from inspiration to impact. The company's core mission is to help leaders in the corporate, nonprofit, and public sectors navigate complex challenges through a combination of mindset shifts, strategic frameworks, and actionable tools.\n\nThe firm's work is categorized into three primary pillars: Engage, Align, and Lead. Through the Engage pillar, the company provides keynote speaking services designed to inspire and engage teams, grounded in Dr. Kaplan's Wall Street Journal bestsellers, award-winning expertise, and decades of cross-sector experience. Under the Align pillar, the company offers strategy and innovation services to help clients achieve breakthroughs in even the most complex challenges, fostering cross-functional and cross-sector collaboration to overcome differences, drive innovation, and build lasting strategies. Finally, the Lead pillar focuses on leadership development, which seeks to empower leaders with innovative mindsets, actionable strategies, and transformative tools to drive the future of their organizations, communities, and society.\n\nA significant portion of the company's value proposition lies in its educational resources and digital offerings. This includes master classes in consulting, change management, innovation, and strategy. These programs are designed to help professionals unlock their potential and lead the AI-powered future. The firm provides specialized toolkits and templates, such as those for change to manage transformational change and innovation to lead successful innovation initiatives. The consultancy also emphasizes the concept of \"Experiential Intelligence,\" which it describes as the new imperative for unlocking the peak potential of individuals, teams, and organizations.\n\nBy leveraging research-backed methodologies, the firm helps Fortune 500 companies and leading organizations drive sustainable growth through strategic innovation. The company also addresses broader societal and business divides through its \"Middle Ground\" initiative, which encourages leaders to find the middle ground to unlock smarter solutions, strengthen relationships, and shape the future. Their clients include major organizations such as 3M, Accenture, Amazon Web Services, Colgate-Palmolive, Ascension Health, United Nations Foundation, HCA Healthcare, Cigna, NBCUniversal, PBS, and Hershey's.",
+      "description_citation": "https://www.sorenkaplan.com",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.sorenkaplan.com",
+      "location": "Not found",
+      "location_citation": "https://www.sorenkaplan.com",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.sorenkaplan.com",
+      "technologies_used": [
+        {
+          "value": "AI"
+        },
+        {
+          "value": "AI-powered culture transformation tools"
+        },
+        {
+          "value": "AI for idea generation"
+        },
+        {
+          "value": "Web-based business strategy tools"
+        },
+        {
+          "value": "Digital templates"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Keynote Speaking"
+        },
+        {
+          "value": "Strategy Consulting"
+        },
+        {
+          "value": "Innovation Consulting"
+        },
+        {
+          "value": "Leadership Development Programs"
+        },
+        {
+          "value": "Master Classes"
+        },
+        {
+          "value": "Culture Assessments"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Driving sustainable growth"
+        },
+        {
+          "value": "Fostering culture of innovation"
+        },
+        {
+          "value": "Managing transformational change"
+        },
+        {
+          "value": "Building leadership pipelines"
+        },
+        {
+          "value": "Strategic planning"
+        },
+        {
+          "value": "AI adoption navigation"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Corporate"
+        },
+        {
+          "value": "Nonprofit"
+        },
+        {
+          "value": "Public Sector"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Media"
+        },
+        {
+          "value": "FMCG"
+        },
+        {
+          "value": "Technology"
+        },
+        {
+          "value": "Finance"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "Sparkling Logic",
+      "company_name_citation": "https://www.sparklinglogic.com",
+      "description": "Sparkling Logic is a technology provider that offers a data-powered decision management platform called SMARTS. The company aims to help data-minded organizations of all sizes worldwide to intuitively automate, manage, and continuously improve key decisions in daily business operations and customer interactions. According to the company, Sparkling Logic SMARTS is designed to be a rules engine of choice that can double performance for its users.\n\nThe platform is built on several core pillars. First, it provides rules authoring, which allows businesses to leverage existing data to author and manage business rules and decision flows without heavy lifting from IT. This is supported by a low-code, no-code environment that translates complicated data, workflows, and decision logic into visualizations and user interfaces that non-technical users can configure, audit, and modify without code.\n\nAnother significant aspect of the company's offering is AI and ModelOps. This functionality allows organizations to operationalize data science through SMARTS by enabling them to import and customize predictive models, trigger machine learning tasks, and test different strategies. To ensure these decisions lead to positive outcomes, the platform includes decision analytics, which helps optimize business performance by monitoring and measuring decision outcomes through customizable dashboards, simulations, and alerts.\n\nSparkling Logic also focuses on the entire lifecycle management of decisions, providing a transparent and secure way to manage complex operational decisions and enable appropriate access for key stakeholders. Their technical architecture is designed for the most complex decisioning implementations, fitting into any enterprise architecture or governance model while remaining secure and scalable. The company emphasizes the shift from raw data to actionable intelligence, helping organizations move from interesting data insights to actual business actions. As stated on the site, automated decisions are at the heart of your business processes, and the SMARTS platform provides an end-to-end solution for managing these critical functions. The company serves major clients including Equifax and leading healthcare organizations.",
+      "description_citation": "https://www.sparklinglogic.com",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.sparklinglogic.com",
+      "location": "Not found",
+      "location_citation": "https://www.sparklinglogic.com",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.sparklinglogic.com",
+      "technologies_used": [
+        {
+          "value": "SMARTS Platform"
+        },
+        {
+          "value": "Business Rules Management Systems"
+        },
+        {
+          "value": "Low-code and No-code interfaces"
+        },
+        {
+          "value": "ModelOps"
+        },
+        {
+          "value": "Machine Learning"
+        },
+        {
+          "value": "Predictive Models"
+        },
+        {
+          "value": "Decision Analytics"
+        },
+        {
+          "value": "Web-Based Collaboration Tools"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "SMARTS Decision Management Platform"
+        },
+        {
+          "value": "Rules Authoring"
+        },
+        {
+          "value": "Low-Code/No-Code Development"
+        },
+        {
+          "value": "AI and ModelOps"
+        },
+        {
+          "value": "Decision Analytics"
+        },
+        {
+          "value": "Lifecycle Management"
+        },
+        {
+          "value": "Professional Services"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automating key business decisions"
+        },
+        {
+          "value": "Customer interaction management"
+        },
+        {
+          "value": "Credit services decision management"
+        },
+        {
+          "value": "Healthcare operations decisioning"
+        },
+        {
+          "value": "Hybrid AI decision automation"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Financial Services"
+        },
+        {
+          "value": "Credit"
+        },
+        {
+          "value": "Enterprise"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "Southern Regional Education Board",
+      "company_name_citation": "https://www.sreb.org",
+      "description": "The Southern Regional Education Board (SREB) is an organization that works side-by-side with states to improve education. Positioned at the point where policy meets practice, the organization focuses on helping states advance student achievement across a continuum that spans from pre-K to Ph.D. and the workforce. SREB provides a bridge between high-level policy and classroom reality, providing policymakers reliable data to inform sound policies, helping states collaborate to share resources, and serving educators with training that transforms teaching to prepare students for what comes next.\n\nThe organization's work is divided into several critical educational stages. In early childhood and early grades, SREB emphasizes that the path to success in school and life begins in these critical first few years and focuses on building-block skills such as reading and math. For middle grades and high school, the organization provides strategies to keep them from veering off course, specifically focusing on the often-difficult transition from 8th to 9th grade and ensuring graduation propels adolescents into adulthood with options for college and career. At the postsecondary level, SREB advocates that a credential of value after high school is an imperative and works with states to make college affordable and help more students complete degrees.\n\nBeyond direct student achievement, SREB is heavily involved in workforce development and educator support. They work on preparing students and adults for tomorrow's careers and assist states in developing teacher career pathways and advancement options. Recently, the organization has taken a leadership role in emerging trends, such as the SREB Commission on AI in Education, which provides recommendations on how artificial intelligence should be integrated into the classroom. They also manage large-scale data projects, such as the Labor Market Data Hub and Educator Compensation Dashboard, to connect education and labor markets. Through events like the Making Schools Work Conference and the Institute on Teaching and Mentoring, SREB fosters a collaborative environment where states can share resources and improve education through proven policy and practice.",
+      "description_citation": "https://www.sreb.org",
+      "business_email": "Tiffany.Harrison@sreb.org",
+      "business_email_citation": "https://www.sreb.org",
+      "location": "Arlington, Virginia",
+      "location_citation": "https://www.sreb.org",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.sreb.org",
+      "technologies_used": [
+        {
+          "value": "Interactive dashboards"
+        },
+        {
+          "value": "Labor Market Data Hub"
+        },
+        {
+          "value": "Educator Compensation Dashboard"
+        },
+        {
+          "value": "Mobile applications"
+        },
+        {
+          "value": "PayPal"
+        },
+        {
+          "value": "Social media platforms"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Strategies to improve learning"
+        },
+        {
+          "value": "Training programs"
+        },
+        {
+          "value": "Policy analysis"
+        },
+        {
+          "value": "Teacher induction frameworks"
+        },
+        {
+          "value": "Career pathways"
+        },
+        {
+          "value": "Webinars"
+        },
+        {
+          "value": "Educational partnerships"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Advancing student achievement"
+        },
+        {
+          "value": "Collaborative tech purchasing"
+        },
+        {
+          "value": "Connecting education and labor markets"
+        },
+        {
+          "value": "AI in education recommendations"
+        },
+        {
+          "value": "Doctoral scholar mentoring"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Education"
+        },
+        {
+          "value": "Government"
+        },
+        {
+          "value": "Workforce Development"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "AI Ethics & Governance"
+        }
+      ]
+    },
+    {
+      "company_name": "OpenAI",
+      "company_name_citation": "https://www.startuphub.ai",
+      "description": "OpenAI is an artificial intelligence organization focused on the development and commercialization of advanced AI technologies, particularly Large Language Models (LLMs) and video generation tools. The company is currently executing a highly strategic, three-dimensional business model centered on compute, subscriptions, and the $57 billion ad opportunity.\n\nA significant portion of the company's current operations involves managing and scaling available compute capacity, as their revenue growth is directly tracking the availability of GPUs. The company has demonstrated massive financial scaling, with annualized revenue projected to reach $20 billion by 2025, a 10x increase from 2023. To sustain this growth, OpenAI has expanded its product offerings to include a new low-cost subscription tier and is moving into the digital advertising space.\n\nBeyond commercial interests, the company is involved in deep AI research. This includes mapping the internal neural space of LLMs to identify the \"Assistant Axis,\" which is described as the key to stabilizing AI persona and preventing harmful behavior. This research aims to cap AI drift, ensuring that models remain helpful and safe during interactions. The company's work is considered a paradigm shift in the industry, where demand is limited not by anything other than availability of compute today, according to industry observers.\n\nThe company is at the forefront of the Golden Era of AI Applications, focusing on workflows and data moats that define the next billion-dollar software cycle. OpenAI's innovations extend to AI video generation and the development of autonomous AI agents that can perform complex tasks across multiple domains. While the company faces competition and public scrutiny, it remains a dominant force in the AI industry through its commitment to advancing the state of the art in artificial intelligence while addressing safety and alignment challenges.",
+      "description_citation": "https://www.startuphub.ai",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.startuphub.ai",
+      "location": "Not found",
+      "location_citation": "https://www.startuphub.ai",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.startuphub.ai",
+      "technologies_used": [
+        {
+          "value": "GPUs"
+        },
+        {
+          "value": "Large Language Models"
+        },
+        {
+          "value": "AI Video"
+        },
+        {
+          "value": "Neural space mapping"
+        },
+        {
+          "value": "Assistant Axis stabilization technology"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Low-cost subscription tiers"
+        },
+        {
+          "value": "Advertising"
+        },
+        {
+          "value": "AI Video generation"
+        },
+        {
+          "value": "Large Language Models"
+        },
+        {
+          "value": "Workflow automation tools"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Stabilizing AI persona"
+        },
+        {
+          "value": "Preventing harmful behavior"
+        },
+        {
+          "value": "Content creation via AI video"
+        },
+        {
+          "value": "Workflow automation"
+        },
+        {
+          "value": "Next billion-dollar software development"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Technology"
+        },
+        {
+          "value": "Advertising"
+        },
+        {
+          "value": "AI Research"
+        },
+        {
+          "value": "Software Development"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "AI Ethics & Governance"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "StrataScratch",
+      "company_name_citation": "https://www.stratascratch.com",
+      "description": "StrataScratch is a comprehensive educational and career development platform designed to help data professionals master data skills through practice. Trusted by over 500,000+ members worldwide, the company provides an end-to-end solution for individuals looking to land their dream data role by focusing on real-world application and interview preparedness. The platform is used by employees at major tech firms including Google, Meta, Amazon, and 200+ other companies.\n\nThe platform's primary offering is a massive repository of 1000+ real interview questions that allow users to practice SQL, Python, R, and more. For technical coding rounds, the site provides an interactive environment where users can write, run, and validate their solutions in real-time. This supports various SQL dialects like PostgreSQL, MySQL, MS SQL Server, and Oracle, as well as Python libraries such as Pandas, PySpark, and Polars. Beyond pure coding, StrataScratch helps users master non-coding interview rounds by offering conceptual practice in system design, product sense, business case, statistics, probability, modeling, technical, and behavioral questions.\n\nTo help users bridge the gap between practice and professional experience, the company offers Data Labs, which are data projects powered by their cloud hosted Python notebooks, no setup required. These labs feature real take-home assignments from top tech companies, allowing users to build and showcase their data portfolio for interviews and share their work publicly from their performance page. This portfolio-centric approach is complemented by performance insights, which enable users to track their skills, benchmark against the community, and build their public data profile.\n\nStrataScratch also integrates advanced technology through AI StrataTools, which are designed to validate and optimize Python and SQL by running it in real environments. These tools serve to fix and optimize SQL and Python code while delivering reliable results and reducing AI hallucinations. By providing learning paths for SQL, Python, and Data Science, the platform creates personalized journeys to help users at various stages of their careers. The company further supports the data community through free guides, tutorials, and resources covering topics like multiprocessing, SQL functions, and Python logic.",
+      "description_citation": "https://www.stratascratch.com",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.stratascratch.com",
+      "location": "Not found",
+      "location_citation": "https://www.stratascratch.com",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.stratascratch.com",
+      "technologies_used": [
+        {
+          "value": "SQL"
+        },
+        {
+          "value": "PostgreSQL"
+        },
+        {
+          "value": "MySQL"
+        },
+        {
+          "value": "MS SQL Server"
+        },
+        {
+          "value": "Oracle"
+        },
+        {
+          "value": "Python"
+        },
+        {
+          "value": "Pandas"
+        },
+        {
+          "value": "PySpark"
+        },
+        {
+          "value": "Polars"
+        },
+        {
+          "value": "R"
+        },
+        {
+          "value": "Cloud-hosted notebooks"
+        },
+        {
+          "value": "Git"
+        },
+        {
+          "value": "AI-native optimization tools"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Interview Coding Questions"
+        },
+        {
+          "value": "Interview Concepts"
+        },
+        {
+          "value": "Data Labs"
+        },
+        {
+          "value": "AI StrataTools"
+        },
+        {
+          "value": "Performance Insights"
+        },
+        {
+          "value": "Public Profiles"
+        },
+        {
+          "value": "Learning Paths"
+        },
+        {
+          "value": "Educational Resources"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Practice real interview questions"
+        },
+        {
+          "value": "Build portfolio projects"
+        },
+        {
+          "value": "Validate and optimize code"
+        },
+        {
+          "value": "Track performance"
+        },
+        {
+          "value": "Benchmark skills"
+        },
+        {
+          "value": "Master product sense and behavioral questions"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Data Science"
+        },
+        {
+          "value": "Data Analytics"
+        },
+        {
+          "value": "Data Engineering"
+        },
+        {
+          "value": "Technology"
+        },
+        {
+          "value": "EdTech"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "Robert Strauss Center for International Security and Law",
+      "company_name_citation": "https://www.strausscenter.org",
+      "description": "The Robert Strauss Center for International Security and Law is an interdisciplinary research organization based at The University of Texas at Austin that focuses on the intersection of law, policy, and global safety. The center's mission is to support scholars and inform policymakers through a variety of research programs designed to confront the most pressing challenges facing our society. The organization operates across three primary pillars: Security and Technology, Regional Challenges, and National Security Law and Institutions.\n\nUnder the Security and Technology umbrella, the Strauss Center manages programs in cybersecurity, space security, safety, and sustainability, and a Technology & National Security Research Partnership. These initiatives are designed to address the future of international security by analyzing how emerging tools affect global stability. For example, the center recently released a report exploring China's export of surveillance technologies and its provision of other forms of authoritarian social and political control.\n\nThe Regional Challenges programs include the Central America and Mexico Policy Initiative (CAMPI), the Asia Policy Program, and studies on Post-Soviet States. These groups produce data-driven insights, such as CAMPI's November 2025 update on migration dynamics and conditions at the U.S.-Mexico border, which helps stakeholders understand shifts in migrant populations.\n\nEducation is a central component of the center's work. It provides an array of courses and fellowships for students at The University of Texas at Austin, including the Brumley Graduate Fellows and Undergraduate Scholars programs which train the next generation of leaders. Specialized training is also offered through the Texas Cybersecurity Clinic, where students learn key cybersecurity defense concepts and skills, including how to respond to a cyberattack. Additionally, the center hosts high-level academic courses such as Artificial Intelligence and National Security: Law and Policy, which explores the implications of advances in artificial intelligence for the law and policy of U.S. national security.\n\nThe center also serves as a platform for public discourse and competition, hosting events like the Eurasia Policy Forum and the Cyber 9/12 Strategy Challenge. By combining academic rigor with practical policy application, the Strauss Center aims to provide life-changing opportunities for a select group of elite UT Austin students while influencing the national priorities of the United States and its international partners.",
+      "description_citation": "https://www.strausscenter.org",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.strausscenter.org",
+      "location": "The University of Texas at Austin",
+      "location_citation": "https://www.strausscenter.org",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.strausscenter.org",
+      "technologies_used": [
+        {
+          "value": "Surveillance technologies"
+        },
+        {
+          "value": "Artificial Intelligence"
+        },
+        {
+          "value": "Cybersecurity defense"
+        },
+        {
+          "value": "Space policy"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Research reports"
+        },
+        {
+          "value": "Policy analysis"
+        },
+        {
+          "value": "Texas Cybersecurity Clinic"
+        },
+        {
+          "value": "Brumley Fellows programs"
+        },
+        {
+          "value": "National Security Law Student Fellows"
+        },
+        {
+          "value": "Professional events"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Inform policymakers"
+        },
+        {
+          "value": "Train next generation leaders"
+        },
+        {
+          "value": "Respond to cyberattacks"
+        },
+        {
+          "value": "Migration dynamics analysis"
+        },
+        {
+          "value": "AI national security policy"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Government"
+        },
+        {
+          "value": "National Security"
+        },
+        {
+          "value": "Aerospace"
+        },
+        {
+          "value": "Legal"
+        },
+        {
+          "value": "Academia"
+        },
+        {
+          "value": "Cybersecurity"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "AI Ethics & Governance"
+        }
+      ]
+    },
+    {
+      "company_name": "Sundog Education",
+      "company_name_citation": "https://www.sundog-education.com",
+      "description": "Sundog Education is an online training provider focused on high-level technical skills in artificial intelligence, big data, and cloud engineering. The company specializes in technical skill development, offering curricula that range from the basics of data analysis to the latest GPT technology. Their primary service model revolves around hands-on, self-paced learning, aiming to help professionals stay relevant and turbocharge their career with Frank Kane, and over one million students around the world.\n\nA significant portion of their catalog is dedicated to certification preparation, particularly for Amazon Web Services. They offer courses to master the AWS Certified AI Practitioner Exam as well as the AWS Certified Machine Learning Engineer Associate and AWS Certified Data Engineer Associate. They emphasize practical application, encouraging students to learn the latest AI techniques on AWS, and get AI certification on their credentials through hands-on activities and practice exams.\n\nBeyond cloud certifications, the company provides deep-dive training into complex data infrastructure. They offer instruction on how to search, analyze, and visualize big data on a cluster with Elasticsearch, Logstash, Beats, Kibana, and more. Their Ultimate Hands-on Hadoop course covers over 25 technologies including MapReduce, HDFS, Spark, Pig, Hive, HBase, MongoDB, Cassandra, and Flume.\n\nSundog Education also addresses career growth and management for technical professionals. They offer courses such as Mastering the System Design Interview, From Engineer to Technical Manager: A Survival Guide, and Breaking Into a Technology Career with a Non-Traditional Background. Their value proposition includes priority support from Frank, exclusive community forums, lifetime video access, and no ongoing subscriptions. Student testimonials confirm the real-world application of their training, with students landing jobs as Big Data Engineers and building big data platforms as a service for their companies.",
+      "description_citation": "https://www.sundog-education.com",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.sundog-education.com",
+      "location": "Not found",
+      "location_citation": "https://www.sundog-education.com",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.sundog-education.com",
+      "technologies_used": [
+        {
+          "value": "AWS"
+        },
+        {
+          "value": "Bedrock"
+        },
+        {
+          "value": "SageMaker"
+        },
+        {
+          "value": "Redshift"
+        },
+        {
+          "value": "Glue"
+        },
+        {
+          "value": "Athena"
+        },
+        {
+          "value": "EMR"
+        },
+        {
+          "value": "Claude Code"
+        },
+        {
+          "value": "Python"
+        },
+        {
+          "value": "Elasticsearch"
+        },
+        {
+          "value": "Logstash"
+        },
+        {
+          "value": "Beats"
+        },
+        {
+          "value": "Kibana"
+        },
+        {
+          "value": "Hadoop"
+        },
+        {
+          "value": "MapReduce"
+        },
+        {
+          "value": "HDFS"
+        },
+        {
+          "value": "Spark"
+        },
+        {
+          "value": "Pig"
+        },
+        {
+          "value": "Hive"
+        },
+        {
+          "value": "HBase"
+        },
+        {
+          "value": "MongoDB"
+        },
+        {
+          "value": "Cassandra"
+        },
+        {
+          "value": "Flume"
+        },
+        {
+          "value": "GPT"
+        },
+        {
+          "value": "Redis"
+        },
+        {
+          "value": "Scala"
+        },
+        {
+          "value": "TensorFlow"
+        },
+        {
+          "value": "Keras"
+        },
+        {
+          "value": "OpenCV"
+        },
+        {
+          "value": "AgentBuilder"
+        },
+        {
+          "value": "OpenAI SDK"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Online technical courses"
+        },
+        {
+          "value": "AWS certification prep"
+        },
+        {
+          "value": "Practice exams"
+        },
+        {
+          "value": "Sundog Mega Bundle"
+        },
+        {
+          "value": "System design interview prep"
+        },
+        {
+          "value": "Career management training"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Pass AWS AI certification exams"
+        },
+        {
+          "value": "Master system design"
+        },
+        {
+          "value": "Tame big data"
+        },
+        {
+          "value": "Scale agentic AI to production"
+        },
+        {
+          "value": "Build autonomous cars"
+        },
+        {
+          "value": "Object and lane detection"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Online Education"
+        },
+        {
+          "value": "Cloud Computing"
+        },
+        {
+          "value": "Data Science"
+        },
+        {
+          "value": "Big Data"
+        },
+        {
+          "value": "Software Engineering"
+        },
+        {
+          "value": "Automotive"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Computer Vision"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Recommendation Systems"
+        }
+      ]
+    },
+    {
+      "company_name": "Teal",
+      "company_name_citation": "https://www.tealhq.com",
+      "description": "Teal is a comprehensive career growth platform designed to streamline the job search process through automation and artificial intelligence. The platform helps users build resumes and land 6X more interviews by providing an all-in-one suite of tools for job seekers. The platform is described by users as a contact manager, CRM, resume-building tool, and cover letter generator all in one place, specifically designed to handle the tedium of submitting and following up job applications.\n\nThe core of the platform is its AI Resume Builder, which allows users to create a professional ATS-friendly resume in minutes and quickly tailor their resume for each job with AI. It uses keyword optimization from job descriptions to highlight qualifications and provides recommendations to improve resume performance. This is complemented by a matching mode and resume checker that ensure candidates align with specific job requirements.\n\nIn addition to document creation, Teal provides a robust job tracker and a Chrome extension that allows users to bookmark jobs from any job board, supporting over 40 popular boards. This tool centralizes the search, saving opportunities to one location to stay organized and on top of the job search. The platform further supports the application stage with an AI interview agent for practice, a cover letter generator, and a resume summary generator.\n\nTeal also focuses on the growth and negotiation phase of employment, offering job insights and data-driven guidance to help users know their value, negotiate confidently, and maximize what matters. With over 3.2 million members, the platform targets a massive scale of users, offering both a free tier and a premium subscription (Teal+) that includes unlimited advanced resume analysis, unlimited interview practice, and premium resume templates. Ultimately, Teal positions itself as a just-in-time guidance system that replaces manual tracking and unoptimized application methods with a data-informed, automated strategy.",
+      "description_citation": "https://www.tealhq.com",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.tealhq.com",
+      "location": "Not found",
+      "location_citation": "https://www.tealhq.com",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.tealhq.com",
+      "technologies_used": [
+        {
+          "value": "AI"
+        },
+        {
+          "value": "Chrome extension"
+        },
+        {
+          "value": "ATS-friendly templates"
+        },
+        {
+          "value": "LLM-based generators"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "AI Resume Builder"
+        },
+        {
+          "value": "Job Tracker"
+        },
+        {
+          "value": "Matching Mode"
+        },
+        {
+          "value": "Job Insights"
+        },
+        {
+          "value": "Bookmark Jobs"
+        },
+        {
+          "value": "Resume Checker"
+        },
+        {
+          "value": "AI Interview Practice"
+        },
+        {
+          "value": "Resume Job Description Match"
+        },
+        {
+          "value": "Resume Summary Generator"
+        },
+        {
+          "value": "Cover Letter Generator"
+        },
+        {
+          "value": "Resume Templates"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Tailoring resumes with AI keywords"
+        },
+        {
+          "value": "Tracking applications across job boards"
+        },
+        {
+          "value": "Practicing interviews with AI"
+        },
+        {
+          "value": "Generating cover letters"
+        },
+        {
+          "value": "Automating job posting saves"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Administrative"
+        },
+        {
+          "value": "Content"
+        },
+        {
+          "value": "Data & Analytics"
+        },
+        {
+          "value": "Operations"
+        },
+        {
+          "value": "Customer Service"
+        },
+        {
+          "value": "Design & UX"
+        },
+        {
+          "value": "Dev & Engineering"
+        },
+        {
+          "value": "Legal"
+        },
+        {
+          "value": "Sales"
+        },
+        {
+          "value": "Marketing"
+        },
+        {
+          "value": "Information Technology"
+        },
+        {
+          "value": "Human Resources"
+        },
+        {
+          "value": "Product"
+        },
+        {
+          "value": "Education"
+        },
+        {
+          "value": "Finance"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "TeamLogic IT",
+      "company_name_citation": "https://www.teamlogicit.com",
+      "description": "TeamLogic IT is a technology services provider that focuses on helping businesses stay safe, productive and profitable through the smart use of technology. With more than 18 years of experience, the company provides a complete spectrum of managed IT services and solutions to address their IT challenges. They operate with a \"People First. Tech Next\" philosophy, emphasizing that their owners are business people who recognize the importance of advancing company objectives via smart IT solutions.\n\nThe company offers managed AI services designed for real business outcomes, providing secure, smart AI solutions for various business needs. Their core managed IT services deliver tailored IT solutions through proactive managed IT services that include 24/7 remote monitoring that detects, troubleshoots and resolves problems. For companies with existing internal staff, they provide co-managed IT services to expand your IT workforce and technology skills.\n\nSecurity is a major pillar of their service delivery. They offer cybersecurity & compliance services to protect your business and meet compliance governance, alongside business continuity services designed to help companies rebound and recover from service disruptions. Their data backup & recovery services are focused on protecting mission-critical data within your business.\n\nTeamLogic IT also provides cloud services that enable employees to work anytime, anywhere from multiple devices, as well as data, voice, and connectivity solutions. Their service model is built on strategic guidance involving technology expertise and business acumen, supported by a full service help desk with highly capable IT advisors available around the clock. They maintain a national presence through a national network of highly diversified and friendly technicians while providing local service. The organization is described as one of the fastest growing managed IT services organizations in the nation, frequently hiring engineers and certified technicians to business development professionals.",
+      "description_citation": "https://www.teamlogicit.com",
+      "business_email": "support@teamlogicit.com",
+      "business_email_citation": "https://www.teamlogicit.com",
+      "location": "Oklahoma City, OK and Kansas City, MO",
+      "location_citation": "https://www.teamlogicit.com",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.teamlogicit.com",
+      "technologies_used": [
+        {
+          "value": "Kaseya"
+        },
+        {
+          "value": "Bitdefender"
+        },
+        {
+          "value": "Sophos"
+        },
+        {
+          "value": "RingCentral"
+        },
+        {
+          "value": "Acronis"
+        },
+        {
+          "value": "Todyl"
+        },
+        {
+          "value": "Pax8"
+        },
+        {
+          "value": "NinjaOne"
+        },
+        {
+          "value": "SentinelOne"
+        },
+        {
+          "value": "GoTo"
+        },
+        {
+          "value": "Connect Secure"
+        },
+        {
+          "value": "Breach Secure Now"
+        },
+        {
+          "value": "Axcient"
+        },
+        {
+          "value": "Ingram"
+        },
+        {
+          "value": "Cytracom"
+        },
+        {
+          "value": "Liongard"
+        },
+        {
+          "value": "Huntress"
+        },
+        {
+          "value": "Proofpoint"
+        },
+        {
+          "value": "Blackpoint"
+        },
+        {
+          "value": "Rewst"
+        },
+        {
+          "value": "Augmentt"
+        },
+        {
+          "value": "Bvoip"
+        },
+        {
+          "value": "Inforcer"
+        },
+        {
+          "value": "Nodeware"
+        },
+        {
+          "value": "CyberQP"
+        },
+        {
+          "value": "Scalepad"
+        },
+        {
+          "value": "Dropsuite"
+        },
+        {
+          "value": "Cyrisma"
+        },
+        {
+          "value": "DNS Filter"
+        },
+        {
+          "value": "Invarasoft"
+        },
+        {
+          "value": "Keeper"
+        },
+        {
+          "value": "Seedpod"
+        },
+        {
+          "value": "Secure Data Recovery"
+        },
+        {
+          "value": "MSPBots"
+        },
+        {
+          "value": "Threatlocker"
+        },
+        {
+          "value": "Telarus"
+        },
+        {
+          "value": "Viirtue"
+        },
+        {
+          "value": "ACS Cloud Partners"
+        },
+        {
+          "value": "Gradient MSP"
+        },
+        {
+          "value": "Cisco"
+        },
+        {
+          "value": "Lenovo"
+        },
+        {
+          "value": "US Signal"
+        },
+        {
+          "value": "Nuso"
+        },
+        {
+          "value": "Bigleaf Networks"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Managed AI Services"
+        },
+        {
+          "value": "Managed IT Services"
+        },
+        {
+          "value": "Co-Managed IT Services"
+        },
+        {
+          "value": "Cybersecurity & Compliance Services"
+        },
+        {
+          "value": "Business Continuity"
+        },
+        {
+          "value": "Data Backup & Recovery Services"
+        },
+        {
+          "value": "Cloud Services"
+        },
+        {
+          "value": "Data Voice Connectivity"
+        },
+        {
+          "value": "Strategic Guidance"
+        },
+        {
+          "value": "Full Service Help Desk"
+        },
+        {
+          "value": "24/7 Remote Monitoring"
+        },
+        {
+          "value": "Cloud Readiness Assessment"
+        },
+        {
+          "value": "Cybersecurity Assessment"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Protecting mission-critical data"
+        },
+        {
+          "value": "Recovering from service disruptions"
+        },
+        {
+          "value": "Meeting compliance governance"
+        },
+        {
+          "value": "Enabling remote work"
+        },
+        {
+          "value": "Expanding IT workforce capacity"
+        },
+        {
+          "value": "Detecting and resolving IT problems"
+        },
+        {
+          "value": "Reducing IT overhead"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "All Business Sizes"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "Technical Leaders",
+      "company_name_citation": "https://www.technical-leaders.com",
+      "description": "Technical Leaders is an educational and coaching platform designed to help technology professionals and business consultants integrate artificial intelligence into their operations and career paths. The organization focuses on providing real world, hands-on training and support in the use of AI for anything you can imagine. Rather than focusing on academic theory, the company emphasizes tangible and pragmatic AI hacks that allow participants to move beyond basic tools like ChatGPT to build advanced systems.\n\nThe core of their offering is the Tech Leaders program, which is designed for both technical and non-technical professionals. The program is structured into three distinct tracks: Launch, which provides tactical and strategic support for starting or growing a business; Mental Fitness, which addresses self-doubt and imposter syndrome; and Leadership & Scale, which focuses on strategic thinking and scaling a business. The company utilizes a framework known as the AI Maturity Level (L1-L5) to help members identify their current adoption state and create a personalized roadmap for ROI and systemization.\n\nThe platform provides a variety of resources, including done-for-you systems to help grow your LinkedIn presence, practical tools and templates, and focused playbooks, such as specific guides for building a Fractional CTO offer. They host a weekly free workshop where they demonstrate AI workflows we use with venture-backed teams to build MVPs in days, not months. The community consists of over 6,500 tech leaders from major companies like Netflix, Amazon, and Salesforce, as well as startups and non-profits.\n\nThe program addresses the challenge of YouTube learning paralysis and provides structured pathways for professionals to transition from full-time employment to fractional CTO or consultant roles. By focusing on AI agents, RAG (Retrieval-Augmented Generation), and MCPs (Model Context Protocols), Technical Leaders enables members to systematize business workflows for maximum leverage and ROI while overcoming imposter syndrome.",
+      "description_citation": "https://www.technical-leaders.com",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.technical-leaders.com",
+      "location": "Not found",
+      "location_citation": "https://www.technical-leaders.com",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.technical-leaders.com",
+      "technologies_used": [
+        {
+          "value": "AI Agents"
+        },
+        {
+          "value": "RAG"
+        },
+        {
+          "value": "MCPs"
+        },
+        {
+          "value": "ChatGPT"
+        },
+        {
+          "value": "AI Workflows"
+        },
+        {
+          "value": "LinkedIn"
+        },
+        {
+          "value": "MVP tools"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "AI Maturity Assessment"
+        },
+        {
+          "value": "Tech Leaders Coaching Program"
+        },
+        {
+          "value": "AI Skills Operating System Guide"
+        },
+        {
+          "value": "Weekly Live Workshops"
+        },
+        {
+          "value": "Fractional CTO Playbooks"
+        },
+        {
+          "value": "Mastermind Groups"
+        },
+        {
+          "value": "Mental Fitness Coaching"
+        },
+        {
+          "value": "Leadership Coaching"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Building MVPs for venture-backed teams"
+        },
+        {
+          "value": "Transitioning to Fractional CTO role"
+        },
+        {
+          "value": "Systematizing business workflows"
+        },
+        {
+          "value": "Automating repetitive tasks"
+        },
+        {
+          "value": "Overcoming imposter syndrome"
+        },
+        {
+          "value": "YouTube learning paralysis"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Technology"
+        },
+        {
+          "value": "Software Engineering"
+        },
+        {
+          "value": "IT Consulting"
+        },
+        {
+          "value": "Business Strategy"
+        },
+        {
+          "value": "Startups"
+        },
+        {
+          "value": "SMBs"
+        },
+        {
+          "value": "Non-profits"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "Teneo",
+      "company_name_citation": "https://www.teneo.ai",
+      "description": "Teneo is an enterprise-grade agentic AI platform specialized in high-scale voice AI and contact center automation. The company provides a solution designed to automate Tier 1 customer support, aiming to transform traditional contact centers into growth engines by replacing or augmenting human agents with intelligent AI agents. Their platform is built for speed and efficiency, offering a development lifecycle that promises a proof of concept in 10 days, a pilot program in 30 days, and full production deployment within 60 days.\n\nThe platform distinguishes itself through high precision and scalability, boasting a 99% resolution accuracy and the ability to handle millions of monthly interactions. It is designed to supercharge Genesys Cloud and Amazon Connect platforms by providing enhanced accuracy and seamless integration. Teneo's technology focuses on agentless automation, where enterprise-grade AI can entirely replace Tier 1 agents to drive transformational savings, such as the $32.4M monthly cost savings cited in their performance metrics.\n\nTeneo's platform capabilities include a native low-code AI agent builder and a public API, allowing enterprises to build, test, deploy, and optimize AI agents in a single environment. The solution is built with enterprise needs in mind, offering built-in governance, monitoring, and compliance to ensure security and trust. It supports omnichannel consistency, managing interactions across voice, chat, mobile apps, and email from a unified platform.\n\nA core component of their value proposition is the ability to orchestrate any LLM (Large Language Model) while maintaining full control over the conversational flow and integration with existing business systems like CRMs and ERPs. By providing actionable insights through advanced analytics, Teneo enables companies to continuously optimize customer interactions, improve first-contact resolution rates, and boost customer satisfaction scores. Their results are evidenced by large-scale deployments, such as automating 70% of inquiries for major telecommunications providers and managing over 10 million monthly interactions for global brands including Telefonica, Swisscom, HelloFresh, Circle K, Skoda, CSG, and CGI.",
+      "description_citation": "https://www.teneo.ai",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.teneo.ai",
+      "location": "Not found",
+      "location_citation": "https://www.teneo.ai",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.teneo.ai",
+      "technologies_used": [
+        {
+          "value": "Genesys Cloud"
+        },
+        {
+          "value": "Amazon Connect"
+        },
+        {
+          "value": "LLMs"
+        },
+        {
+          "value": "CRMs"
+        },
+        {
+          "value": "ERPs"
+        },
+        {
+          "value": "Low-code AI Agent Builder"
+        },
+        {
+          "value": "Public API"
+        },
+        {
+          "value": "Open Architecture"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "Contact Center Automation"
+        },
+        {
+          "value": "Agentless Contact Center"
+        },
+        {
+          "value": "Omnichannel Consistency"
+        },
+        {
+          "value": "AI Agent Builder"
+        },
+        {
+          "value": "Advanced Analytics"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Automating Tier 1 support"
+        },
+        {
+          "value": "Conversational IVR"
+        },
+        {
+          "value": "Increasing upsell revenue"
+        },
+        {
+          "value": "Reducing average handling time"
+        },
+        {
+          "value": "Managing high-volume interactions"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Telecommunications"
+        },
+        {
+          "value": "Food and Logistics"
+        },
+        {
+          "value": "Retail"
+        },
+        {
+          "value": "Automotive"
+        },
+        {
+          "value": "IT Consulting"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Voice AI"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "Text Analytics Forum (KMWorld)",
+      "company_name_citation": "https://www.text-analytics-forum.com",
+      "description": "The Text Analytics Forum is a premier professional conference described as The Leading Text Analytics Conference. It is specifically designed for driving text analytics to the next level in your enterprise. The event provides a unique, one-of-a-kind opportunity to explore the world of text analytics and is built on the premise that text analytics has the ability to add depth, meaning, and intelligence to any organization's most under-utilized resource—text. The organizers state that through text analytics, enterprises can unlock a wealth of information that would not otherwise be available.\n\nThe Forum invites all who deal with text to take a deep dive into this powerful set of techniques. The program is structured to be inclusive of all skill levels, offering something for all: whether you are new to the field and want to understand how it can add new capabilities or you are an experienced text analyst and want to see what the latest techniques and tools can add to your repertoire. The event emphasizes practical application, encouraging attendees to explore the power of text analytics to provide relevant, valuable, and actionable data for enterprises of all kinds.\n\nThe conference does not operate in isolation; it is part of KMWorld 2025 which is comprised of five closely integrated events: KMWorld, Enterprise Search & Discovery, Text Analytics Forum, Enterprise AI World and Taxonomy Boot Camp. This co-location allows for a comprehensive enterprise strategy that incorporates search as part of a larger knowledge management, content management, or collaborative strategy. Attendees are encouraged to better leverage taxonomies, text analytics and AI through shared programming and a Platinum Pass that grants access to all five events.\n\nParticipants have the opportunity to connect with colleagues, peers, and experts to learn how successful text analytics can transform your organization—and your career. The event features a diverse range of activities including an Enterprise Solutions Showcase, daily agendas, a full program of speakers, and networking sessions. It also highlights the rapid adoption of AI and machine learning technologies which are now becoming mainstream in businesses hungry for greater automation and intelligence. Ultimately, the Forum serves as a hub for those involved in organizing information or extracting valuable data from text to gain practical advice, hear inspiring thought leadership, and attend in-depth training and workshops.",
+      "description_citation": "https://www.text-analytics-forum.com",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.text-analytics-forum.com",
+      "location": "Washington, DC",
+      "location_citation": "https://www.text-analytics-forum.com",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.text-analytics-forum.com",
+      "technologies_used": [
+        {
+          "value": "Text analytics"
+        },
+        {
+          "value": "Enterprise search"
+        },
+        {
+          "value": "Taxonomies"
+        },
+        {
+          "value": "AI"
+        },
+        {
+          "value": "Machine learning"
+        },
+        {
+          "value": "Knowledge management systems"
+        },
+        {
+          "value": "Content management systems"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "In-depth training and workshops"
+        },
+        {
+          "value": "Enterprise Solutions Showcase"
+        },
+        {
+          "value": "Networking opportunities"
+        },
+        {
+          "value": "Thought leadership sessions"
+        },
+        {
+          "value": "Specialized tracks on Taxonomy, Enterprise Search, and AI"
+        },
+        {
+          "value": "Knowledge management strategy development"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Extracting valuable data from text"
+        },
+        {
+          "value": "Designing and building better search and discovery"
+        },
+        {
+          "value": "Creating taxonomy structures"
+        },
+        {
+          "value": "Automation and intelligence via AI"
+        },
+        {
+          "value": "Business and competitive intelligence"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "IT and Software"
+        },
+        {
+          "value": "Pharmaceuticals and Healthcare"
+        },
+        {
+          "value": "Finance and Insurance"
+        },
+        {
+          "value": "Government and Defense"
+        },
+        {
+          "value": "Consumer Goods and Retail"
+        },
+        {
+          "value": "Aerospace and Manufacturing"
+        },
+        {
+          "value": "Media and Entertainment"
+        },
+        {
+          "value": "Education"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Conversational AI"
+        }
+      ]
+    },
+    {
+      "company_name": "The Cloud Girl (Priyanka Vergadia)",
+      "company_name_citation": "https://www.thecloudgirl.dev",
+      "description": "The Cloud Girl is a professional brand and consultancy led by Priyanka Vergadia, a prominent leader in the technology sector who specializes in the intersection of cloud computing, artificial intelligence, and visual communication. She helps businesses and individuals blend technical expertise with visual storytelling. Her primary mission is to simplify complex technological concepts through a visual-first approach, turning abstract tech concepts into compelling visual narratives that drive understanding and action. Her visual storytelling doesn't just explain technology—it makes developers excited to build with it. When complex becomes clear, adoption follows.\n\nWith over 15 years of experience in Big Tech, including roles at Google and Microsoft, Vergadia operates as a multi-disciplinary professional: an author, educator, advisor, and technical storyteller. Her work is designed to bridge the gap between high-level engineering and practical application, transforming complex AI and cloud concepts into clear, actionable content that bridges what you're building with what developers need, empowering them to confidently implement your technology.\n\nThe business functions through several key pillars: advising, content creation, brand partnerships, and education. For startups, she provides mentorship to accelerate growth using enterprise experience from big tech giants. As a tech influencer with over 200,000 followers, she partners with brands to create visual content that engages the developer community and drives product adoption. Furthermore, she is an educator who creates specialized courses, such as Generative AI from Zero to Smart, which aim to transform Big Tech enterprise knowledge into job-ready skills through visual teaching methods.\n\nHer presence also extends to public speaking, where she delivers keynotes on leadership and technology for global conferences and corporate events. By combining her background as a Cloud and AI Tech Executive with her skills as a YouTuber and author, she provides a comprehensive resource for technical training, career branding, and strategic tech adoption. She covers technologies including GitHub Spark, GitHub Copilot, VS Code, LLMs, RAG, MCP, and Synthetic Data.",
+      "description_citation": "https://www.thecloudgirl.dev",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.thecloudgirl.dev",
+      "location": "Not found",
+      "location_citation": "https://www.thecloudgirl.dev",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.thecloudgirl.dev",
+      "technologies_used": [
+        {
+          "value": "Cloud computing"
+        },
+        {
+          "value": "AI"
+        },
+        {
+          "value": "Generative AI"
+        },
+        {
+          "value": "GitHub Spark"
+        },
+        {
+          "value": "GitHub Copilot"
+        },
+        {
+          "value": "VS Code"
+        },
+        {
+          "value": "LLMs"
+        },
+        {
+          "value": "RAG"
+        },
+        {
+          "value": "MCP"
+        },
+        {
+          "value": "Synthetic Data"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Advising & Mentoring"
+        },
+        {
+          "value": "Brand Partnerships"
+        },
+        {
+          "value": "Speaking (Keynotes)"
+        },
+        {
+          "value": "Courses (AI and Cloud)"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Technical storytelling for developer adoption"
+        },
+        {
+          "value": "Career narrative building"
+        },
+        {
+          "value": "Strategic growth advising for startups"
+        },
+        {
+          "value": "Technical training for cloud and AI practitioners"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Cloud Computing"
+        },
+        {
+          "value": "Artificial Intelligence"
+        },
+        {
+          "value": "Software Development"
+        },
+        {
+          "value": "Technology Education"
+        },
+        {
+          "value": "Big Tech"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        }
+      ]
+    },
+    {
+      "company_name": "SiliconANGLE theCUBE",
+      "company_name_citation": "https://www.thecube.net",
+      "description": "SiliconANGLE theCUBE is a multimedia and research organization that specializes in providing live coverage and deep analysis of the enterprise technology industry. The company is characterized by its analyst-led conversations on how AI is being deployed across mobility, digital health and robotics and its extensive coverage of major industry events such as CES, AWS re:Invent, and the Future of Data Platforms Summit. The organization operates through several specialized arms, including SiliconANGLE Media, theCUBE Research, and Cube AI, creating a comprehensive ecosystem for tech news, market research, and strategic analysis.\n\nThe platform is renowned for its Breaking Analysis series, which features industry experts like Dave Vellante and guests from firms such as Sanjmo, DB Insight, and ISG Research. These sessions provide forward-looking insights, such as 2026 data predictions: Scaling AI agents via contextual intelligence, and explore critical themes like AI Spending Trends, Rising Momentum in AI Adoption, and the Transition of SaaS and the Rise of Services. By evaluating OpenAI's Position and Future Risks and discussing Governance as a Barrier to AI Deployment, theCUBE provides a bridge between technical innovation and executive decision-making.\n\nIn addition to deep-dive analysis, theCUBE offers various programming formats including the CUBE Pod, which covers breaking news such as OpenAI's Strategic Big Changes and legislative developments like The GENIUS Act. Their event coverage is robust, featuring theCUBE + NYSE Wired for financial insights like the BitGo IPO and technical sessions like Google Cloud: Passport to Containers and Unpacking Dell's AI Scaling Playbook. The company leverages its significant digital presence, including a YouTube channel with 76K subscribers, to distribute content on AI Factories, Crypto Trailblazers, and Mixture of Experts series. Ultimately, theCUBE serves as a central hub for tech professionals to access on-demand and live information regarding the Transformative Journeys: The Rise and Integration of AI across the global enterprise landscape.",
+      "description_citation": "https://www.thecube.net",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.thecube.net",
+      "location": "Not found",
+      "location_citation": "https://www.thecube.net",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.thecube.net",
+      "technologies_used": [
+        {
+          "value": "Google Cloud"
+        },
+        {
+          "value": "Containers"
+        },
+        {
+          "value": "GKE"
+        },
+        {
+          "value": "AI Factories"
+        },
+        {
+          "value": "Semantic Layers"
+        },
+        {
+          "value": "Mixture of Experts"
+        },
+        {
+          "value": "YouTube"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Analyst-led conversations"
+        },
+        {
+          "value": "Live and on-demand event coverage"
+        },
+        {
+          "value": "Breaking Analysis video series"
+        },
+        {
+          "value": "Research services"
+        },
+        {
+          "value": "Podcasts (CUBE Pod)"
+        },
+        {
+          "value": "News reporting"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Scaling AI agents via contextual intelligence"
+        },
+        {
+          "value": "Analyzing AI spending trends"
+        },
+        {
+          "value": "Evaluating tech giant positioning"
+        },
+        {
+          "value": "Tracking semiconductor developments"
+        },
+        {
+          "value": "AI deployment coverage"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Mobility"
+        },
+        {
+          "value": "Digital Health"
+        },
+        {
+          "value": "Robotics"
+        },
+        {
+          "value": "Enterprise Data/Software"
+        },
+        {
+          "value": "FinTech/Crypto"
+        },
+        {
+          "value": "Cloud Computing"
+        },
+        {
+          "value": "Semiconductor/Hardware"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "AI Ethics & Governance"
+        },
+        {
+          "value": "Edge AI & IoT"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "The Dot Collective",
+      "company_name_citation": "https://www.thedotcollective.co.uk",
+      "description": "The Dot Collective defines itself as a specialist group of data and cloud practitioners dedicated to creating the springboard for momentous organisational leaps, which they term leapfrogmoments. The firm enables and accelerates innovation and AI adoption through cloud-native infrastructure, building the data platforms needed for organisations to capitalise on opportunities and make meaningful change. The firm operates as a boutique data consultancy that prioritizes engineering craft and human ingenuity to help enterprises navigate the complexities of modern data landscapes.\n\nThe company's core mission is to provide the technical and organizational levers necessary to harness the full potential of data. They work with large-scale enterprises to build world-class, cloud-native data platforms that typically generate an ROI of £1.5 - £2.5 million in the first year alone. Their approach is highly strategic, beginning with an Advisory phase where they tailor strategies to align with your goals, ensuring every initiative drives measurable success while positioning your organisation for long-term growth.\n\nBeyond strategy, The Dot Collective focuses on the actual construction and maintenance of high-performance ecosystems. They design and implement scalable, secure, high-performance and future-proof data and AI platforms and end-to-end ecosystems tailored specifically to enterprise needs. These solutions are built to enable seamless data management, real-time analytics, and advanced GenAI and ML capabilities. Their expertise covers the entire Machine Learning lifecycle, from building lakehouse architectures to deploying end-to-end machine learning ecosystems.\n\nInnovation is a central pillar of their service offering, particularly regarding Generative AI. The firm describes LLMs as the biggest industry disruptor and specializes in cutting-edge generative AI solutions that drive efficiency, innovation, and growth. This includes integrating GenAI into workflows for intelligent automation and personalized customer experiences. Additionally, they provide a Run & Support service, which is a comprehensive support solution covering incident resolution, release management, post-mortems, code and cost optimisation, and the maintenance of core artifacts. The company is the only professional services consultancy in the UK to report no gender pay gap and has been named one of the fifty fastest growing firms in London.",
+      "description_citation": "https://www.thedotcollective.co.uk",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.thedotcollective.co.uk",
+      "location": "London, United Kingdom",
+      "location_citation": "https://www.thedotcollective.co.uk",
+      "team_size": "100+ people",
+      "team_size_citation": "https://www.thedotcollective.co.uk",
+      "technologies_used": [
+        {
+          "value": "AWS"
+        },
+        {
+          "value": "GCP"
+        },
+        {
+          "value": "Azure"
+        },
+        {
+          "value": "Snowflake"
+        },
+        {
+          "value": "Domino Data Lab"
+        },
+        {
+          "value": "Databricks"
+        },
+        {
+          "value": "LLMs"
+        },
+        {
+          "value": "GenAI"
+        },
+        {
+          "value": "MLOps"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Advisory"
+        },
+        {
+          "value": "Enterprise Data & AI Platforms"
+        },
+        {
+          "value": "ML Solutions"
+        },
+        {
+          "value": "Generative AI Solutions"
+        },
+        {
+          "value": "Data Migrations"
+        },
+        {
+          "value": "Run & Support"
+        },
+        {
+          "value": "The Data Refinery"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Intelligent automation"
+        },
+        {
+          "value": "AI-powered content generation"
+        },
+        {
+          "value": "Personalised customer experiences"
+        },
+        {
+          "value": "Data insights"
+        },
+        {
+          "value": "Data pipeline construction"
+        },
+        {
+          "value": "System migrations"
+        },
+        {
+          "value": "Real-time analytics"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Insurance"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Finance/Banking"
+        },
+        {
+          "value": "Real Estate/Social Housing"
+        },
+        {
+          "value": "Energy/Utilities"
+        },
+        {
+          "value": "Non-profits"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Recommendation Systems"
+        },
+        {
+          "value": "Conversational AI"
+        }
+      ]
+    },
+    {
+      "company_name": "The Generative AI Company, LLC",
+      "company_name_citation": "https://www.thegenerativeaicompany.com",
+      "description": "The Generative AI Company is a specialized enterprise technology firm dedicated to helping organizations adopt AI with confidence. The company focuses on augmenting business operations through the deployment of resilient Gen AI agents supported by a passionate global delivery team. Their primary goal is to facilitate enterprise transformation with confidence and compliance, moving beyond simple wrappers to build real enterprise-grade software, where AI is the engine — not the gimmick.\n\nThe company's approach is centered on their proprietary Meta Cognitive Cloud architecture. This framework allows organizations to optimize cognitive elements in their operations workflow and transition to next gen resilient agents. This architecture is highly versatile, capable of being deployed in our cloud (AWS) or your Cloud (AWS, Google Cloud, Azure) and connecting to a wide variety and combination of public and private AI models. To ensure reliability, they implement a complex set of cognitive and rule-based orchestrations managed via a dedicated observability stack and a specialized technical operations team.\n\nA significant portion of their value proposition lies in the safety and reliability of AI deployments. They provide AI Testing & Model Evaluation services, utilizing domain-specific test datasets and automated evaluation scripts to ensure models are accurate, safe, and compliant before deployment. They argue that without automated evaluation, every new release risks breaking trust, but with their framework, AI can scale as reliably as software. This is paired with CI/CD & Pipeline Integration to ensure DevOps-grade AI deployments that are predictable, compliant, and safe.\n\nFurthermore, the company emphasizes Compliance & Governance as a core pillar. They build HIPAA, GDPR, SOC2 compliance into their applications from day one, providing audit-ready logging and transparent governance controls. By doing so, they aim to turn AI compliance into a competitive advantage. Their development methodology follows an MVP-first development approach using AI engine agnostic architecture to create scalable, maintainable solutions that meet the rigorous demands of the modern enterprise ecosystem.",
+      "description_citation": "https://www.thegenerativeaicompany.com",
+      "business_email": "info@thegenerativeaicompany.com",
+      "business_email_citation": "https://www.thegenerativeaicompany.com",
+      "location": "107, Technology Drive, Suite 914, Peachtree Corners, GA 30092",
+      "location_citation": "https://www.thegenerativeaicompany.com",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.thegenerativeaicompany.com",
+      "technologies_used": [
+        {
+          "value": "Gen AI agents"
+        },
+        {
+          "value": "AWS"
+        },
+        {
+          "value": "Google Cloud"
+        },
+        {
+          "value": "Azure"
+        },
+        {
+          "value": "Public and private AI models"
+        },
+        {
+          "value": "CI/CD tools"
+        },
+        {
+          "value": "DevOps frameworks"
+        },
+        {
+          "value": "Observability stacks"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "AI Testing & Model Evaluation"
+        },
+        {
+          "value": "CI/CD & Pipeline Integration"
+        },
+        {
+          "value": "Full AI Application Development"
+        },
+        {
+          "value": "Compliance & Governance"
+        },
+        {
+          "value": "Meta Cognitive Cloud"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Augmenting business operations"
+        },
+        {
+          "value": "Automating AI model evaluation"
+        },
+        {
+          "value": "Integrating AI into enterprise data ecosystems"
+        },
+        {
+          "value": "Developing MVP-first enterprise software"
+        },
+        {
+          "value": "Managing cognitive orchestrations"
+        },
+        {
+          "value": "Ensuring continuous compliance monitoring"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "IT services"
+        },
+        {
+          "value": "Professional services"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Finance"
+        },
+        {
+          "value": "Enterprise"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "AI Ethics & Governance"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Conversational AI"
+        }
+      ]
+    },
+    {
+      "company_name": "The General Partnership",
+      "company_name_citation": "https://www.thegp.com",
+      "description": "The General Partnership is a venture capital firm that differentiates itself through a model that combines financial investment with intensive operational support. The firm is a VC firm of engineers, recruiters, designers, sales leaders, writers and product thinkers that deploy into the companies we partner with. The firm invests both capital and sweat, utilizing a sweat equity model that embeds tenured builders into your company for months (or years) at a time. This approach is built on the philosophy that in the best partnerships, both sides do the work.\n\nThe firm provides hands-on support from a deep bench of leaders who led talent, go-to-market, and product at companies like Stripe, YouTube, Square and more. These team members deliver work in exchange for equity grants, which the firm calls sweat equity. The partnerships are highly customized; while over 70% of founders engage with their services, founders can choose to receive only capital or add specific service agreements for Talent, Go-to-Market (GTM), or Product, Design, and Engineering (PDE). These agreements are governed by a written statement of work that clearly defines deliverables over a specific time frame. On average, members of TheGP team spend nine months dedicated to the companies they partner with.\n\nTheGP focuses on two main stages of business growth: formation and breakout companies. Formation companies are defined as pre-seed and seed stage, from pre-product market fit ideas to businesses that have an early indication of traction in the market. For these companies, the firm typically invests between $1-$5 million while providing support across recruiting, product, engineering, and go-to-market strategies. Breakout businesses are those that have achieved product-market fit and are poised for substantial growth. For these later-stage companies, TheGP provides senior talent and technical expertise to help them win their market, with potential capital investments ranging from $5-$15 million or more as the company scales.\n\nThe firm's portfolio includes several AI-focused companies, including Runloop/Vector (AI-powered software engineering products), Defakto (IAM platform to secure every automated interaction), and Inflection (AI-first company redefining human-computer interaction).",
+      "description_citation": "https://www.thegp.com",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.thegp.com",
+      "location": "Not found",
+      "location_citation": "https://www.thegp.com",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.thegp.com",
+      "technologies_used": [
+        {
+          "value": "Stablecoins"
+        },
+        {
+          "value": "Digital dentistry"
+        },
+        {
+          "value": "Non-human IAM platform"
+        },
+        {
+          "value": "Payments infrastructure"
+        },
+        {
+          "value": "Backend infrastructure"
+        },
+        {
+          "value": "High-scale system design"
+        },
+        {
+          "value": "AI-powered software engineering"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Capital investment"
+        },
+        {
+          "value": "Sweat equity services"
+        },
+        {
+          "value": "Talent & Growth"
+        },
+        {
+          "value": "Product & Engineering"
+        },
+        {
+          "value": "Go to Market"
+        },
+        {
+          "value": "Written statement of work agreements"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Take companies from 0-1"
+        },
+        {
+          "value": "Build engineering leadership teams"
+        },
+        {
+          "value": "Design backend infrastructure"
+        },
+        {
+          "value": "Optimize go-to-market strategies"
+        },
+        {
+          "value": "Credit card for home equity spending"
+        },
+        {
+          "value": "Simplifying global money movement"
+        },
+        {
+          "value": "Securing automated interactions"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Fintech"
+        },
+        {
+          "value": "Security"
+        },
+        {
+          "value": "Digital Health"
+        },
+        {
+          "value": "Developer Tools"
+        },
+        {
+          "value": "Artificial Intelligence"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "Conversational AI"
+        }
+      ]
+    },
+    {
+      "company_name": "The Hyve",
+      "company_name_citation": "https://www.thehyve.nl",
+      "description": "The Hyve is a specialized technology IT services provider dedicated to helping life science organizations maximize the value of their data through open-source technologies and expert consulting. The company's primary mission is helping life science organizations unlock the full potential of their data. They achieve this by leveraging their data and domain expertise, combined with our active involvement in global open science communities. This approach allows them to advise on and implement customized open source solutions while our clients remain in full control of their data and vendor choices.\n\nThe company's expertise is structured around several core focus areas. First, they specialize in FAIR (Findable, Accessible, Interoperable, and Reusable) Biomedical Data, which involves creating more value from biomedical data by semantic alignment of private and public datasets using open standards. This is supported by their services in FAIR Data Management, Data Modeling, and FAIR by Design methodologies.\n\nIn the realm of Digital Measures and remote clinical research, The Hyve utilizes the RADAR-base platform. This allows for citizen-generated data remotely collected through sensors and surveys, which in turn enables remote and pragmatic trials. This service is designed to provide added value to customers by monitoring pharmacodynamics in a real-world setting.\n\nFor Target Discovery, they assist researchers in finding the best targets for any disease by integrating public and proprietary data from a variety of sources, frequently utilizing the Open Targets platform. Their work in Cancer Genomics focuses on visualizing and analyzing the ever-increasing wealth of cancer genomics data, making these complex datasets easy for bioinformaticians and bench scientists alike through tools like cBioPortal.\n\nFurthermore, they are heavily involved in Real World Evidence (RWE), providing harmonized observational data for large scale analytics resulting in patient and population level predictions. This involves transforming cohort data into the common data model (OMOP) and use the cutting-edge OHDSI tools for analyzing observational studies. The Hyve's professional team is multidisciplinary, employing data engineers, software engineers, solutions architects and business analysts who all possess a strong background in biology and/or (bio)informatics. They have a proven track record, having delivered over 170 projects and being contracted by 14 of the top 20 global pharmaceutical companies.",
+      "description_citation": "https://www.thehyve.nl",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.thehyve.nl",
+      "location": "Not found",
+      "location_citation": "https://www.thehyve.nl",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.thehyve.nl",
+      "technologies_used": [
+        {
+          "value": "cBioPortal"
+        },
+        {
+          "value": "OHDSI"
+        },
+        {
+          "value": "Open Targets"
+        },
+        {
+          "value": "RADAR-base"
+        },
+        {
+          "value": "BMDS"
+        },
+        {
+          "value": "Fairspace"
+        },
+        {
+          "value": "BioChatter"
+        },
+        {
+          "value": "OMOP"
+        },
+        {
+          "value": "Knowledge Graphs"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Customized open source software"
+        },
+        {
+          "value": "FAIRification of biomedical data"
+        },
+        {
+          "value": "Tailored data analytics"
+        },
+        {
+          "value": "Expert consulting"
+        },
+        {
+          "value": "FAIR Data Management"
+        },
+        {
+          "value": "Data Engineering"
+        },
+        {
+          "value": "Knowledge Graphs"
+        },
+        {
+          "value": "Data Modeling"
+        },
+        {
+          "value": "FAIR by Design"
+        },
+        {
+          "value": "Conversational AI"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Trial@Home data collection"
+        },
+        {
+          "value": "Target discovery"
+        },
+        {
+          "value": "Cancer genomics visualization"
+        },
+        {
+          "value": "Real World Evidence"
+        },
+        {
+          "value": "Patient Registries"
+        },
+        {
+          "value": "Observational studies"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Life Sciences"
+        },
+        {
+          "value": "Pharmaceutical"
+        },
+        {
+          "value": "Public research universities"
+        },
+        {
+          "value": "Biomedical informatics"
+        },
+        {
+          "value": "Clinical research"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Conversational AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Edge AI & IoT"
+        }
+      ]
+    },
+    {
+      "company_name": "Thinktiv",
+      "company_name_citation": "https://www.thinktiv.com",
+      "description": "Thinktiv is a specialized strategy consulting firm dedicated to software and technology-enabled businesses, operating since 2005. The firm has collaborated with over 300 companies and 50 investors, ranging from venture capital to growth equity and private equity, with a specialized focus on mid-market private equity. Their mission is to architect your path to transformative value creation using a methodology described as the fastest and most effective way to accelerate businesses to their fullest potential. This approach is characterized as being thesis aligned, customer driven, and C-Suite approved.\n\nThinktiv offers a comprehensive suite of services designed to de-risk your investments and accelerate your trajectory. Their methodology involves integrating real-world operational wisdom into investment cycles via product-centric commercial and vendor diligence solutions specifically built for the AI era. They provide modular strategies that deliver direct pathways to boost revenue, enhance team performance, and elevate valuation multiples. By partnering across the entire transaction lifecycle, they ensure that teams are equipped for success from day one, rapidly aligning and guiding them toward the most valuable outcomes.\n\nTheir service framework includes three primary pillars: Growth, Risk & Opportunity (GRO), Business Value Architecture (BVA), and Value Creation Accelerators. GRO focuses on identifying key value creation levers and growth risks through expert buy-side due diligence. BVA builds integrated strategies to maximize growth and valuation post-close and pre-exit. Value Creation Accelerators use high-impact design and positioning to speed up product, brand, and go-to-market strategies.\n\nFurthermore, Thinktiv provides AI-powered Decision Intelligence SaaS solutions through their Product Confidence Index, which puts the power of their practice into the hands of private equity stakeholders and portfolio company management teams. They emphasize helping businesses navigate an AI-native future, helping them understand how to respond and capitalize on the landscape changes brought about by artificial intelligence. Testimonials from client CEOs describe their work as turnkey business transformation and a relentless focus on value generation that provides orders of magnitude ROI.",
+      "description_citation": "https://www.thinktiv.com",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.thinktiv.com",
+      "location": "Not found",
+      "location_citation": "https://www.thinktiv.com",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.thinktiv.com",
+      "technologies_used": [
+        {
+          "value": "AI-powered Decision Intelligence SaaS"
+        },
+        {
+          "value": "AI-driven sell-side diligence tools"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Growth, Risk & Opportunity (GRO)"
+        },
+        {
+          "value": "Business Value Architecture (BVA)"
+        },
+        {
+          "value": "Value Creation Accelerators"
+        },
+        {
+          "value": "Product Confidence Index"
+        },
+        {
+          "value": "Transaction Diligence"
+        },
+        {
+          "value": "Commercial Strategy"
+        },
+        {
+          "value": "Product Strategy"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Buy-side and sell-side due diligence"
+        },
+        {
+          "value": "Post-close strategy alignment"
+        },
+        {
+          "value": "Product roadmap and market expansion"
+        },
+        {
+          "value": "Shortening time to insights"
+        },
+        {
+          "value": "Maximizing commercial growth during exits"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Software"
+        },
+        {
+          "value": "Technology-enabled businesses"
+        },
+        {
+          "value": "Private Equity"
+        },
+        {
+          "value": "Venture Capital"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Real Estate"
+        },
+        {
+          "value": "Education"
+        },
+        {
+          "value": "Industrial/Tech"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "Third Bridge",
+      "company_name_citation": "https://www.thirdbridge.com",
+      "description": "Third Bridge is an industry pioneer that has been operating for nearly 20 years, focusing on fueling decisions with expert insights for investors and business leaders. The company accelerates and enhances decision-making by unearthing the specific expert insights they need across every sector, geography, and topic. They have a significant global footprint spanning four continents and 12 offices, powered by a global team of 1,500 colleagues who provide global knowledge localized to client needs.\n\nNo industry or topic is too niche – their global team will custom source experts and qualify them to precisely match project requirements. Their research teams build deep relationships with the most sought after experts to provide impactful, and well-founded points of view on any industry, market, geography, or topic. A core part of their value proposition is the application of rigorous governance and industry-leading compliance measures to ensure that every interaction is secure and all content is fully vetted to mitigate risk.\n\nThe company positions itself as an extended team for its clients, collaborating closely to understand specific needs, business model, and workflows to deliver fast, personalized service. They are continuously developing new services and digital tools to streamline your search and discovery of information – and to deliver those insights directly into your existing workflows and systems.\n\nOne of their primary assets is the world's largest collection of on-demand expert insights and company intelligence covering over 65,000 public and private companies. This includes a vast database of private companies including maps of their value chains. They utilize bespoke AI search and summarization capabilities to give clients access to an abundance of investor and analyst led interviews. The company has been serving the world's top consultancies and investors across every stage of the deal cycle for almost 20 years. They use their collective geographic, industry, and company experience to custom source the best experts while providing access to 1:1 Expert calls, and Surveys to confirm expert insights at scale.",
+      "description_citation": "https://www.thirdbridge.com",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.thirdbridge.com",
+      "location": "12 offices across four continents",
+      "location_citation": "https://www.thirdbridge.com",
+      "team_size": "1,500 colleagues",
+      "team_size_citation": "https://www.thirdbridge.com",
+      "technologies_used": [
+        {
+          "value": "Library covering over 65,000 companies"
+        },
+        {
+          "value": "Digital tools"
+        },
+        {
+          "value": "Bespoke AI search and summarization capabilities"
+        },
+        {
+          "value": "Database of private companies"
+        },
+        {
+          "value": "Data feeds"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Expert calls"
+        },
+        {
+          "value": "Library"
+        },
+        {
+          "value": "Surveys"
+        },
+        {
+          "value": "Advisors"
+        },
+        {
+          "value": "Data feeds"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Diligence"
+        },
+        {
+          "value": "Risk mitigation"
+        },
+        {
+          "value": "Market intelligence"
+        },
+        {
+          "value": "Meeting preparation"
+        },
+        {
+          "value": "Workflow integration"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Consulting firms"
+        },
+        {
+          "value": "Private equity"
+        },
+        {
+          "value": "Public equity"
+        },
+        {
+          "value": "Credit"
+        },
+        {
+          "value": "Investment banking"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Document AI"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "Thru",
+      "company_name_citation": "https://www.thru.co",
+      "description": "Thru is a specialized management consulting firm focused on PK-12 education. Partnering with passionate leaders and visionary entrepreneurs, they apply creativity, strategy, and data to re-invent processes, plan strategically and support student-centered transformations. The organization operates through several core pillars of service designed to improve school district operations and outcomes.\n\nOne primary focus is District Strategic Planning, where they assist in supporting school districts in their community-wide planning efforts to envision the future for their community. This involves a high level of community engagement and long-term visioning. Additionally, they handle District Boundary Reviews by engaging the community, gathering data, and develop boundary scenarios for communities to consider, which is a critical logistical and political challenge for many growing or shifting districts.\n\nThru also plays a significant role in legal and regulatory compliance through Independent Monitoring. In this capacity, they work with district leaders in analyzing data to assess districts' progress and compliance with lawsuit settlements. Their work in this area has been highlighted in various news outlets regarding special education crises and federal rulings. Beyond compliance, they focus on operational efficiency through District Process Improvement, which involves assessing existing business processes of the district and recommending enhancements (e.g., due process).\n\nSafety and modern technology integration are also central to their mission. They conduct School Safety Assessments by gathering data to assess the district's alignment with our school safety continuum, helping districts move from a reactive stance to one of prevention. Finally, they have established a practice around emerging technology, offering AI Assessments and Roadmaps where they review and report on key aspects of the district's approach to artificial intelligence (AI) using our framework. This ensures that school districts can move from mere experimentation to a district strategy.",
+      "description_citation": "https://www.thru.co",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.thru.co",
+      "location": "Not found",
+      "location_citation": "https://www.thru.co",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.thru.co",
+      "technologies_used": [
+        {
+          "value": "AI framework"
+        },
+        {
+          "value": "Neural network"
+        },
+        {
+          "value": "Data analytics"
+        },
+        {
+          "value": "Strategy tools"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "District Strategic Planning"
+        },
+        {
+          "value": "Independent Monitoring"
+        },
+        {
+          "value": "District Boundary Reviews"
+        },
+        {
+          "value": "District Process Improvement"
+        },
+        {
+          "value": "School Safety Assessments"
+        },
+        {
+          "value": "AI Assessments and Roadmaps"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Supporting district planning"
+        },
+        {
+          "value": "Analyzing compliance data"
+        },
+        {
+          "value": "Developing boundary scenarios"
+        },
+        {
+          "value": "Assessing business processes"
+        },
+        {
+          "value": "Gathering safety data"
+        },
+        {
+          "value": "Reviewing AI approach"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "PK-12 Education"
+        },
+        {
+          "value": "School Districts"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "AI Ethics & Governance"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "TMC",
+      "company_name_citation": "https://www.tmc-1.com",
+      "description": "TMC is a strategic technology consulting firm that has been in operation since 1987. The company characterizes itself as Independent. Strategic. Experienced, and specializes in providing vendor-neutral consulting to help organizations plan, govern, and modernize secure, scalable infrastructure. Their expertise spans IT, cybersecurity, and AI transformation. Unlike firms that lead with product offerings or push vendor-aligned solutions, TMC emphasizes a people and process first methodology, aligning technology investments with specific business outcomes while reducing risk and improving performance.\n\nA significant portion of their work involves the technology lifecycle, where they provide structured, strategic support for modernizing networks, evaluating cybersecurity risk, and scaling AI responsibly. They offer specialized technology design for architectural projects, partnering with architects to integrate future-ready IT, AV, and security systems into designs from the outset. This early engagement is intended to avoid costly rework and ensure compliance with evolving codes and security standards.\n\nTMC is particularly active in high-stakes, complex, and regulated environments. They describe their approach as a Proven Process consisting of five distinct stages: a discovery call to identify challenges, a tailored proposal submission, a proposal review to refine scope, final sign-off on contracts, and a kickoff call to align stakeholders. Their mission is to solve challenges that stall transformation, such as fragmented systems, unpredictable costs, and risk without a roadmap. By maintaining vendor neutrality—meaning they have no resale incentives—they provide objective guidance on infrastructure, security, and AI frameworks.\n\nThe firm highlights its long-standing success in the public sector and enterprise environments. They provide vendor-neutral consulting to help organizations plan, govern, and modernize secure, scalable infrastructure – spanning IT, cybersecurity, and AI transformation. At TMC, we focus on people and process first – then align infrastructure, security, and AI with your long-term goals, and they bring 35+ years of success across government and enterprise sectors.",
+      "description_citation": "https://www.tmc-1.com",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.tmc-1.com",
+      "location": "Not found",
+      "location_citation": "https://www.tmc-1.com",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.tmc-1.com",
+      "technologies_used": [
+        {
+          "value": "IT"
+        },
+        {
+          "value": "Cybersecurity"
+        },
+        {
+          "value": "AI Transformation"
+        },
+        {
+          "value": "Network Infrastructure"
+        },
+        {
+          "value": "VoIP"
+        },
+        {
+          "value": "Cloud Migration"
+        },
+        {
+          "value": "AV systems"
+        },
+        {
+          "value": "WAN"
+        },
+        {
+          "value": "NIST"
+        },
+        {
+          "value": "HIPAA"
+        },
+        {
+          "value": "SOC 2"
+        },
+        {
+          "value": "FAA"
+        },
+        {
+          "value": "TSA"
+        },
+        {
+          "value": "DHS standards"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Technology Consulting"
+        },
+        {
+          "value": "Core Infrastructure"
+        },
+        {
+          "value": "Network Infrastructure"
+        },
+        {
+          "value": "Voice Services"
+        },
+        {
+          "value": "Cloud Migration"
+        },
+        {
+          "value": "GRC, Security, & Privacy"
+        },
+        {
+          "value": "AI Governance & Transformation"
+        },
+        {
+          "value": "Technology Design for Architectural Projects"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Reducing network expenditures"
+        },
+        {
+          "value": "Modernizing infrastructure for airports"
+        },
+        {
+          "value": "Embedding IT and AV into building designs"
+        },
+        {
+          "value": "Transitioning healthcare organizations"
+        },
+        {
+          "value": "Providing scalable connectivity"
+        },
+        {
+          "value": "WAN audits"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Architects"
+        },
+        {
+          "value": "Government"
+        },
+        {
+          "value": "Stadiums and Venues"
+        },
+        {
+          "value": "Airports and Aviation"
+        },
+        {
+          "value": "Education"
+        },
+        {
+          "value": "Healthcare"
+        },
+        {
+          "value": "Enterprises"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "AI Ethics & Governance"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        }
+      ]
+    },
+    {
+      "company_name": "The Institute for Trustworthy AI in Law & Society",
+      "company_name_citation": "https://www.trails.umd.edu",
+      "description": "The Institute for Trustworthy AI in Law & Society (TRAILS) is the first organization to integrate artificial intelligence participation, technology and governance during the design, development, deployment and oversight of AI systems. The organization operates as a multi-institutional powerhouse, functioning as a partnership between the University of Maryland, George Washington University, Morgan State University and Cornell University. Its primary objective is to investigate what trust in AI looks like, how to create technical AI solutions that build trust, and which policy models are effective in sustaining trust.\n\nFunded by a $20 million award from the National Science Foundation and the National Institute of Standards and Technology, the institute is dedicated to transforming the practice of AI from one driven primarily by technological innovation to one that is driven by ethics, human rights, and input and feedback from communities. This philosophy is central to their vision: to transform the field of AI from 'tech first' to 'people first,' where AI systems are developed and governed in a way that promotes human rights and serves the interests of the people who use them.\n\nTRAILS pursues its goals through a multifaceted mission where it designs, develops, deploys and models a new, more accountable and more broadly participatory approach to AI. To achieve this, the institute utilizes convenings, training, and interdisciplinary research to empower users to make sense of and participate in the development and governance of AI systems. Their strategic approach involves five specific goals: they design, develop, deploy, and model new AI theories and algorithms that promote AI trustworthiness; they work to understand the factors that empower users to make sense of AI systems; they investigate mechanisms for developing participatory and accountable governance strategies; they bridge disciplinary methods in research as we train the next generation of talent; and they listen to, learn from, educate, recruit, retain, and support communities to create equal opportunities for all Americans to shape and benefit from AI.\n\nThe institute also collaborates with various private sector organizations to broaden its impact, including the DataedX Group, Planet Word, Arthur AI, Checkstep, FinRegLab and Techstars.",
+      "description_citation": "https://www.trails.umd.edu",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.trails.umd.edu",
+      "location": "University of Maryland, George Washington University, Morgan State University, Cornell University",
+      "location_citation": "https://www.trails.umd.edu",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.trails.umd.edu",
+      "technologies_used": [
+        {
+          "value": "AI theories and algorithms"
+        },
+        {
+          "value": "Technical AI solutions"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Convenings"
+        },
+        {
+          "value": "Training"
+        },
+        {
+          "value": "Interdisciplinary research"
+        },
+        {
+          "value": "Participatory governance strategies"
+        },
+        {
+          "value": "AI theories and algorithms development"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Design, development, deployment and oversight of AI systems"
+        },
+        {
+          "value": "Empowering users to make sense of AI systems"
+        },
+        {
+          "value": "Creating equal opportunities for all Americans to shape AI"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Academic/Education"
+        },
+        {
+          "value": "Government"
+        },
+        {
+          "value": "Legal/Law"
+        },
+        {
+          "value": "Finance"
+        },
+        {
+          "value": "Tech/Private Sector"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "AI Ethics & Governance"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        },
+        {
+          "value": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "company_name": "UMBC Training Centers",
+      "company_name_citation": "https://www.umbctraining.com",
+      "description": "UMBC Training Centers is a professional education provider that specializes in workforce development and technical instruction. The organization is trusted by professionals among the federal government, DoD, large government contractors, and major corporations worldwide. Their primary educational philosophy focuses on preparing students to succeed on the job by blending instruction of essential industry knowledge with practical, hands-on training exercises.\n\nThe center offers a wide array of programs designed for different career stages, including entry-level course bundles in cybersecurity, python & data science, administrative skills, and project management. For established professionals and organizations, they provide specialized training across topics to meet organizational challenges. A recent example of their work includes a specialized training program for the Department of Homeland Security (DHS) that spans course offerings in AI, Data Science, and Communications.\n\nTheir instructional offerings are divided into specialized hubs such as the Center for Applied AI, the Center for Leadership & Innovation, and dedicated centers for Cybersecurity and Cloud & DevOps. The organization maintains high-level industry partnerships to provide certification-aligned training, collaborating with entities like PMI, EC Council, Red Hat, SHRM, Oracle, CompTIA, Cisco, and (ISC)2.\n\nThe center serves multiple audiences: individuals looking to begin a new career, professionals looking for professional development, organizations looking to train our employees, and employers looking to hire talent from your programs. They offer flexible learning environments, including Live Online classes and Career Overview sessions. Their curriculum covers technical domains such as SQL Databases, Computer Network Administration, Human Resources, Red Hat Linux Certification, Project Management & Agile, Data Science, and Systems Analysis & Systems Engineering.",
+      "description_citation": "https://www.umbctraining.com",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.umbctraining.com",
+      "location": "Not found",
+      "location_citation": "https://www.umbctraining.com",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.umbctraining.com",
+      "technologies_used": [
+        {
+          "value": "Python"
+        },
+        {
+          "value": "SQL"
+        },
+        {
+          "value": "Red Hat Linux"
+        },
+        {
+          "value": "Cloud Computing"
+        },
+        {
+          "value": "Virtualization"
+        },
+        {
+          "value": "DevOps"
+        },
+        {
+          "value": "Cisco"
+        },
+        {
+          "value": "Oracle"
+        },
+        {
+          "value": "Data Science tools"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Live Online classes"
+        },
+        {
+          "value": "Career Overview sessions"
+        },
+        {
+          "value": "Specialized organizational training"
+        },
+        {
+          "value": "Professional development courses"
+        },
+        {
+          "value": "Certification preparation"
+        },
+        {
+          "value": "Center for Applied AI"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Government workforce upskilling"
+        },
+        {
+          "value": "Career transitions"
+        },
+        {
+          "value": "Organizational development"
+        },
+        {
+          "value": "Elevating government workforce skills"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Federal government"
+        },
+        {
+          "value": "Department of Defense"
+        },
+        {
+          "value": "Government contractors"
+        },
+        {
+          "value": "Major corporations"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "Wanted Lab",
+      "company_name_citation": "https://www.venturesquare.net",
+      "description": "Wanted Lab is a company that is strategically transitioning from its origins as a recruitment platform into a comprehensive AI Partner for businesses. The company has declared a major shift toward AX (AI Transformation), with a goal to have this business segment account for 50% of its total revenue by 2026. Their approach is defined as people-centered rather than purely technology-centered, focusing on supporting the entire lifecycle of talent within an organization.\n\nA central component of their current strategy is the Wanted LaaS platform, which is designed to democratize AI development. This platform allows non-developers within a company to create and implement AI solutions, effectively lowering the barrier to entry for AI integration in daily business operations. By providing these tools, Wanted Lab aims to help companies manage the talent lifecycle, which likely includes everything from sourcing and hiring to employee retention and professional development, all enhanced by AI capabilities. This evolution reflects the company's ambition to move beyond being a simple job board or headhunting service to becoming an essential infrastructure provider for the modern, AI-driven workplace.\n\nThe company's transformation represents a significant pivot in the HR technology space, where they are positioning themselves not just as a recruitment tool but as a strategic partner for AI-driven workforce management. Their LaaS (LLM as a Service) platform enables business users without technical backgrounds to leverage large language models for various organizational needs, from automated candidate screening to workforce analytics and talent development planning.",
+      "description_citation": "https://www.venturesquare.net",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.venturesquare.net",
+      "location": "Not found",
+      "location_citation": "https://www.venturesquare.net",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.venturesquare.net",
+      "technologies_used": [
+        {
+          "value": "AI"
+        },
+        {
+          "value": "AX (AI Transformation)"
+        },
+        {
+          "value": "Wanted LaaS"
+        },
+        {
+          "value": "LLM as a Service"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Recruitment platform"
+        },
+        {
+          "value": "AX business services"
+        },
+        {
+          "value": "Wanted LaaS platform"
+        },
+        {
+          "value": "Talent lifecycle support services"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Enabling non-technical staff to build AI tools"
+        },
+        {
+          "value": "Supporting human resource management lifecycle"
+        },
+        {
+          "value": "AI-driven workforce management"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Human Resources"
+        },
+        {
+          "value": "Recruitment"
+        },
+        {
+          "value": "Corporate B2B"
+        },
+        {
+          "value": "AI Technology"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "company_name": "Cohesity (integrating Veritas)",
+      "company_name_citation": "https://www.veritas.com",
+      "description": "Cohesity is a technology provider focused on data management and cyber resilience. According to the page, the company's mission is centered on the concept that resilience isn't just about bouncing back. It's about being ready. They position themselves as being READY FOR THE BREACH and TRUSTED IN THE BOARDROOM, indicating a focus on high-level enterprise security and data protection. The provided text outlines a transition where content and products from Veritas are being moved to the Cohesity platform.\n\nThe company provides a unified platform for managing data, which includes the Cohesity platform and the integrated NetBackup suite. Their approach to resilience, termed Resilience Everywhere, involves a combination of hardware and software solutions such as NetBackup appliances and Arctera products and solutions. Beyond software, the company provides a comprehensive ecosystem of support and professional services. This includes Education Services for training, Business Critical Services for high-stakes support, and Consulting Services to help organizations design their data strategies. They also offer Managed Services and Appliance Services to handle the operational aspects of data infrastructure.\n\nThe company maintains a Trust Center to address security and compliance and offers a Resource library containing technical and strategic content. Their business model is supported by a robust partner network, featuring a Partner Overview, PartnerNet portal, and a Partner locator. The integration of Arctera and NetBackup into the Cohesity ecosystem suggests a broad scope of data protection, from traditional backup to modern cloud-integrated resilience.",
+      "description_citation": "https://www.veritas.com",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.veritas.com",
+      "location": "Not found",
+      "location_citation": "https://www.veritas.com",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.veritas.com",
+      "technologies_used": [
+        {
+          "value": "Cohesity platform"
+        },
+        {
+          "value": "NetBackup"
+        },
+        {
+          "value": "NetBackup appliances"
+        },
+        {
+          "value": "Arctera products"
+        },
+        {
+          "value": "Drift"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Cohesity platform"
+        },
+        {
+          "value": "NetBackup"
+        },
+        {
+          "value": "NetBackup appliances"
+        },
+        {
+          "value": "Arctera products and solutions"
+        },
+        {
+          "value": "Education Services"
+        },
+        {
+          "value": "Business Critical Services"
+        },
+        {
+          "value": "Managed Services"
+        },
+        {
+          "value": "Appliance Services"
+        },
+        {
+          "value": "Consulting Services"
+        },
+        {
+          "value": "Licensing Programs"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Cyber resilience and breach readiness"
+        },
+        {
+          "value": "Data backup and recovery"
+        },
+        {
+          "value": "Enterprise data management"
+        },
+        {
+          "value": "Technical training"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Enterprise"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Automation & Workflow"
+        }
+      ]
+    },
+    {
+      "company_name": "Visionary 360",
+      "company_name_citation": "https://www.visionary360.com",
+      "description": "Visionary 360 is a specialized consulting and software firm dedicated to helping Technology Solution Providers (TSPs) optimize their business operations and financial performance. They help Technology Solution Providers simplify operations, improve financial clarity, and get real ROI from their PSA and Accounting systems. The company defines its mission through the concept of a Visionary hero, which is a person, using the Visionary 360 methodologies, who has taken their company to new boundaries and achievements.\n\nThe firm addresses common pain points in the IT service industry, specifically Disconnected Systems where PSA, RMM, and accounting tools do not communicate, Unclear Financials where reports do not reflect reality, and Overwhelmed Teams where staff spend too much time managing tools rather than serving clients. To solve these issues, Visionary 360 employs a consulting process that blends deep operational experience with financial precision. Their methodology follows a three-step path: Discovery and Analysis, where they learn your operations and identify your biggest opportunities for improvement; Plan, Approve and Document, where they design a clear, documented roadmap; and Implement, Train and Launch, where they execute the plan, train your team, and make sure every system works as intended.\n\nBeyond consulting, the company operates as a software developer, creating proprietary tools to bridge gaps in existing platforms. They state: We don't just consult, we build the tools that make your systems even better. These include products like the Mass Maintenance Booster for bulk updates and QuickTix for automated ticket creation. Their expertise is deeply rooted in industry-standard platforms like ConnectWise and HaloPSA. They emphasize a people-first leadership approach and aim for operational maturity, which they describe as a relief valve for business owners. With a high customer satisfaction rating (CSAT 100), the team provides ongoing technical and operations support from the same experts who helped build your systems.",
+      "description_citation": "https://www.visionary360.com",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.visionary360.com",
+      "location": "9018 Balboa Blvd. #563, Northridge, CA 91325",
+      "location_citation": "https://www.visionary360.com",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.visionary360.com",
+      "technologies_used": [
+        {
+          "value": "ConnectWise PSA"
+        },
+        {
+          "value": "HaloPSA"
+        },
+        {
+          "value": "QuickBooks Online"
+        },
+        {
+          "value": "QuickBooks Desktop"
+        },
+        {
+          "value": "RMM tools"
+        },
+        {
+          "value": "ConnectWise Control"
+        },
+        {
+          "value": "ConnectWise Automate"
+        },
+        {
+          "value": "CPQ"
+        },
+        {
+          "value": "TimeZest"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "ConnectWise PSA Consulting"
+        },
+        {
+          "value": "HaloPSA Consulting"
+        },
+        {
+          "value": "Premier Support"
+        },
+        {
+          "value": "Accounting Consulting"
+        },
+        {
+          "value": "Productivity Tools (MMB, QuickTix, LaborCast)"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "System integration"
+        },
+        {
+          "value": "Financial migration"
+        },
+        {
+          "value": "Ticket automation"
+        },
+        {
+          "value": "Labor analysis"
+        },
+        {
+          "value": "Bulk data management"
+        },
+        {
+          "value": "Operational maturity"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Technology Solution Providers"
+        },
+        {
+          "value": "IT service businesses"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "AI Ethics & Governance"
+        }
+      ]
+    },
+    {
+      "company_name": "Stripe (Will Bunting - Staff Engineer)",
+      "company_name_citation": "https://www.wbunting.com",
+      "description": "Will Bunting is a Staff Engineer at Stripe where he leads the technical effort of the Data Platform Workbench team. The team creates best-in-class tooling for working with data. Bunting describes himself as a failed physicist turned tool maker who started out trying to understand the world at the deepest levels, but discouraged by the speed of progress in fundamental physics turned his attention to building amazing products at rapid speed.\n\nHis work encompasses data infrastructure, edge development, and modern web frameworks. The Data Platform Workbench at Stripe focuses on creating comprehensive tools that enable data professionals to work more efficiently with large-scale data systems. His professional philosophy involves building amazing products at rapid speed, which contrasts with his earlier career in fundamental physics.\n\nHis background is heavily rooted in academic physics, having pursued a PhD at the University of Maryland and completed a B.S. in Physics and Economics at Caltech. This academic rigor informs his current approach to technical problem-solving and tool creation. His public projects range from epidemiological modeling, such as Modeling Covid (2020), to theoretical physics publications including A coarse-grained generalized second law for holographic conformal field theories.\n\nCurrently, his focus remains on the intersection of data tooling, software performance, and the evolving landscape of AI development habits. He writes about topics such as Developing at the Edge, Streaming UX Updates in Next.js, and Problem Solving your way to Fluency. His work represents the convergence of fintech infrastructure, data platform engineering, and emerging AI technologies at one of the world's leading payment processing companies.",
+      "description_citation": "https://www.wbunting.com",
+      "business_email": "contact@wbunting.com",
+      "business_email_citation": "https://www.wbunting.com",
+      "location": "Japan",
+      "location_citation": "https://www.wbunting.com",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.wbunting.com",
+      "technologies_used": [
+        {
+          "value": "Next.js"
+        },
+        {
+          "value": "AI"
+        },
+        {
+          "value": "Edge"
+        },
+        {
+          "value": "Data Platform tooling"
+        },
+        {
+          "value": "GitHub"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Data Platform Workbench"
+        },
+        {
+          "value": "Development of data tooling"
+        },
+        {
+          "value": "Technical leadership in software engineering"
+        },
+        {
+          "value": "Edge development research"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Working with data at scale"
+        },
+        {
+          "value": "Epidemiological modeling"
+        },
+        {
+          "value": "Theoretical physics research"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Fintech"
+        },
+        {
+          "value": "Data Infrastructure"
+        },
+        {
+          "value": "Software Development"
+        },
+        {
+          "value": "Academic Research"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Edge AI & IoT"
+        }
+      ]
+    },
+    {
+      "company_name": "Waukesha County Technical College",
+      "company_name_citation": "https://www.wctc.edu",
+      "description": "Waukesha County Technical College (WCTC) is a technical education institution that provides hands-on training designed to prepare students for the modern workplace. According to the page, Technology is changing fast, and so is the workplace. If you want to succeed, you need to keep up! A technical education is focused and relevant, preparing you for today's emerging careers while saving you both time and money. The institution emphasizes a practical approach to learning, stating that Experienced instructors deliver hands-on learning to provide you with the skills you need to land the job you want.\n\nThe college offers a diverse range of academic paths, including career-focused certificate programs and an expansive associate degree program. WCTC has positioned itself as a leader in emerging technology education, specifically through Wisconsin's First Comprehensive AI Training. This initiative includes a comprehensive suite of educational opportunities in artificial intelligence where students can take part in interactive workshops and utilize a new world-class Applied AI Lab.\n\nWCTC serves a broad demographic, including traditional students and professionals seeking career changes. For example, the college highlights student profiles like Caleb Bryant, who sought a career change after 20 years in finance to become an AI Data Specialist, Data and Analytics Specialist. The college appears to be highly successful in its mission, citing 99% Satisfied Graduates and a Median Salary for WCTC Grads of $54,298. Education is made accessible through a relatively low cost of $153 Cost Per Credit for WI Resident.\n\nIn addition to academic programs, the college fosters a campus community through events such as the Welcome Back Winter Bash, graduation ceremonies like the fall commencement, and various interactive workshops. The campus infrastructure includes specialized facilities like The Hub and the Applied AI Lab at their Pewaukee Campus. WCTC provides comprehensive support services for students, offering resources for Paying for College, Tuition and Aid, and Continuing Education to ensure students are well-prepared for the evolving demands of various industries.",
+      "description_citation": "https://www.wctc.edu",
+      "business_email": "Not found",
+      "business_email_citation": "https://www.wctc.edu",
+      "location": "Pewaukee Campus, Wisconsin",
+      "location_citation": "https://www.wctc.edu",
+      "team_size": "Not found",
+      "team_size_citation": "https://www.wctc.edu",
+      "technologies_used": [
+        {
+          "value": "Artificial Intelligence"
+        },
+        {
+          "value": "Data and Analytics"
+        },
+        {
+          "value": "Applied AI Lab"
+        }
+      ],
+      "solutions_offered": [
+        {
+          "value": "Career-focused certificate programs"
+        },
+        {
+          "value": "Associate degree programs"
+        },
+        {
+          "value": "Interactive workshops"
+        },
+        {
+          "value": "Applied AI Lab"
+        },
+        {
+          "value": "Continuing Education courses"
+        },
+        {
+          "value": "Comprehensive AI Training"
+        }
+      ],
+      "use_cases": [
+        {
+          "value": "Career transformation"
+        },
+        {
+          "value": "Workplace preparation"
+        },
+        {
+          "value": "Technical skill acquisition"
+        }
+      ],
+      "targeted_industries": [
+        {
+          "value": "Education and Training"
+        },
+        {
+          "value": "Technology and AI"
+        },
+        {
+          "value": "Data and Analytics"
+        },
+        {
+          "value": "Finance"
+        }
+      ],
+      "ai_categories": [
+        {
+          "value": "LLM Agents & RAG"
+        },
+        {
+          "value": "Automation & Workflow"
+        },
+        {
+          "value": "Natural Language Processing"
+        },
+        {
+          "value": "Predictive Analytics"
+        },
+        {
+          "value": "MLOps & Infrastructure"
+        }
+      ]
+    }
+  ]
+}
